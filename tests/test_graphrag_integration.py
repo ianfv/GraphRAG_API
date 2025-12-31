@@ -77,9 +77,7 @@ def test_build_graph_endpoint(client: TestClient):
     assert isinstance(data["edges"], int)
 
 
-def test_query_endpoint_with_graphrag_service(
-    client: TestClient, sample_local_query: dict
-):
+def test_query_endpoint_with_graphrag_service(client: TestClient, sample_local_query: dict):
     """Test /query endpoint integrates with GraphRAG service."""
     response = client.post("/query", json=sample_local_query)
     assert response.status_code == 200
@@ -110,10 +108,7 @@ def test_graphrag_service_build_graph(graphrag_service: GraphRAGService):
 
 def test_graphrag_service_query_graph(graphrag_service: GraphRAGService):
     """Test GraphRAG service query_graph method."""
-    result = graphrag_service.query_graph(
-        question="What is the main theme?",
-        method="local"
-    )
+    result = graphrag_service.query_graph(question="What is the main theme?", method="local")
     assert "answer" in result
     assert "citations" in result
     assert "method" in result
@@ -121,9 +116,7 @@ def test_graphrag_service_query_graph(graphrag_service: GraphRAGService):
 
 
 @pytest.mark.parametrize("method", ["local", "global", "drift", "basic"])
-def test_query_all_methods_with_service(
-    client: TestClient, method: str
-):
+def test_query_all_methods_with_service(client: TestClient, method: str):
     """Test query endpoint works with all GraphRAG methods."""
     query = {
         "question": "Test question for GraphRAG",

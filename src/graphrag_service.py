@@ -90,9 +90,7 @@ class GraphRAGService:
             "message": "Graph building not yet implemented",
         }
 
-    def query_graph(
-        self, question: str, method: str = "local"
-    ) -> dict[str, Any]:
+    def query_graph(self, question: str, method: str = "local") -> dict[str, Any]:
         """
         Query the knowledge graph.
 
