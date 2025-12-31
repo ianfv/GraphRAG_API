@@ -8,6 +8,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 
 from src import __version__
+from src.graphrag_service import GraphRAGService
 
 # Create FastAPI app
 app = FastAPI(
@@ -17,6 +18,9 @@ app = FastAPI(
     docs_url="/docs",
     redoc_url="/redoc",
 )
+
+# Initialize GraphRAG service
+graphrag_service = GraphRAGService(root_dir="./test_data")
 
 
 class HealthResponse(BaseModel):
@@ -40,6 +44,25 @@ class QueryResponse(BaseModel):
     answer: str
     citations: list[str] = []
     method: str
+
+
+class IndexResponse(BaseModel):
+    """Index response model."""
+
+    status: str
+    message: str
+    indexed_files: list[str] = []
+    entities_extracted: int = 0
+
+
+class BuildResponse(BaseModel):
+    """Build response model."""
+
+    status: str
+    message: str
+    nodes: int = 0
+    edges: int = 0
+    communities: int = 0
 
 
 @app.get("/", response_model=HealthResponse)
@@ -67,8 +90,7 @@ async def query(request: QueryRequest) -> QueryResponse:
     """
     Query the knowledge graph.
 
-    This is a placeholder endpoint that will be implemented with actual
-    GraphRAG functionality in future milestones.
+    Executes synchronous query against Neo4j + LanceDB using specified method.
 
     Args:
         request: Query request containing question and search method
@@ -76,48 +98,56 @@ async def query(request: QueryRequest) -> QueryResponse:
     Returns:
         QueryResponse with answer and citations
     """
-    # TODO: Implement actual GraphRAG query logic
+    result = graphrag_service.query_graph(question=request.question, method=request.method)
+
     return QueryResponse(
-        answer=f"Placeholder response for question: {request.question}",
-        citations=["Source 1", "Source 2"],
-        method=request.method,
+        answer=result["answer"],
+        citations=result.get("citations", []),
+        method=result["method"],
     )
 
 
-@app.post("/index")
-async def index_documents() -> dict[str, str]:
+@app.post("/index", response_model=IndexResponse)
+async def index_documents() -> IndexResponse:
     """
     Trigger document indexing.
 
-    This endpoint will process documents and build the knowledge graph.
-    Currently a placeholder for future implementation.
+    Processes documents through GraphRAG pipeline synchronously.
+    Extracts entities and prepares for graph construction.
 
     Returns:
-        Status message
+        Status message with indexing results
     """
-    # TODO: Implement document indexing pipeline
-    return {
-        "status": "success",
-        "message": "Document indexing triggered (placeholder)",
-    }
+    result = graphrag_service.index_documents()
+
+    return IndexResponse(
+        status=result["status"],
+        message=result["message"],
+        indexed_files=result.get("indexed_files", []),
+        entities_extracted=result["entities_extracted"],
+    )
 
 
-@app.post("/build")
-async def build_graph() -> dict[str, str]:
+@app.post("/build", response_model=BuildResponse)
+async def build_graph() -> BuildResponse:
     """
     Build or rebuild the knowledge graph.
 
-    This endpoint triggers the graph construction process from indexed documents.
-    Currently a placeholder for future implementation.
+    Constructs Neo4j graph from indexed documents synchronously.
+    Creates entities, relationships, communities, and LanceDB embeddings.
 
     Returns:
-        Status message
+        Status message with graph statistics
     """
-    # TODO: Implement graph building logic
-    return {
-        "status": "success",
-        "message": "Graph building triggered (placeholder)",
-    }
+    result = graphrag_service.build_graph()
+
+    return BuildResponse(
+        status=result["status"],
+        message=result["message"],
+        nodes=result["nodes"],
+        edges=result["edges"],
+        communities=result["communities"],
+    )
 
 
 if __name__ == "__main__":
