@@ -11,21 +11,22 @@ from src.loader import DocumentLoader
 
 TEST_DATA_DIR = Path("test_data_temp")
 
+
 @pytest.fixture(scope="module")
 def setup_test_files():
     """Creates temporary test files (txt, csv, json) before tests run."""
     TEST_DATA_DIR.mkdir(exist_ok=True)
 
     # 1. Plain Text
-    (TEST_DATA_DIR / "doc.txt").write_text(
-        "GraphRAG improves retrieval. " * 50, encoding="utf-8"
-    )
+    (TEST_DATA_DIR / "doc.txt").write_text("GraphRAG improves retrieval. " * 50, encoding="utf-8")
 
     # 2. CSV (Structured)
-    df = pd.DataFrame([
-        {"product": "Widget A", "desc": "A useful tool."},
-        {"product": "Widget B", "desc": "Another tool."}
-    ])
+    df = pd.DataFrame(
+        [
+            {"product": "Widget A", "desc": "A useful tool."},
+            {"product": "Widget B", "desc": "Another tool."},
+        ]
+    )
     df.to_csv(TEST_DATA_DIR / "data.csv", index=False)
 
     # 3. JSON (List of records)
@@ -37,8 +38,10 @@ def setup_test_files():
 
     # Cleanup
     import shutil
+
     if TEST_DATA_DIR.exists():
         shutil.rmtree(TEST_DATA_DIR)
+
 
 @pytest.fixture
 def loader():
@@ -46,7 +49,9 @@ def loader():
     chunker = TextChunker(chunk_size=50, chunk_overlap=10)
     return DocumentLoader(chunker=chunker)
 
+
 # --- Integration Tests ---
+
 
 def test_txt_loading_strategy(loader, setup_test_files):
     """Verify .txt files use sentence-aware chunking."""
@@ -57,6 +62,7 @@ def test_txt_loading_strategy(loader, setup_test_files):
     assert chunks[0].metadata["file_type"] == ".txt"
     # Check strategy metadata (set by chunker)
     assert chunks[0].metadata.get("strategy") == "sentence_aware"
+
 
 def test_csv_row_preservation(loader, setup_test_files):
     """Verify CSV rows are treated as atomic units (group chunking)."""
@@ -71,6 +77,7 @@ def test_csv_row_preservation(loader, setup_test_files):
     # But we can verify no sentence splitting happened by checking content.
     assert "product: Widget B" in chunks[0].text or "product: Widget B" in chunks[1].text
 
+
 def test_json_list_handling(loader, setup_test_files):
     """Verify JSON lists are chunked by item."""
     chunks = loader.load_file(str(setup_test_files / "data.json"))
@@ -79,7 +86,9 @@ def test_json_list_handling(loader, setup_test_files):
     # Should contain the JSON structure
     assert '"id": 1' in chunks[0].text
 
+
 # --- Mocked Tests for PDF/DOCX (Optional dependencies) ---
+
 
 def test_pdf_extraction_call(loader):
     """Mock pypdf to ensure loader logic works without needing a real PDF."""
@@ -112,7 +121,9 @@ def test_docx_extraction_call(loader):
         assert "Paragraph content." in chunks[0].text
         assert chunks[0].metadata.get("strategy") == "sentence_aware"
 
+
 # --- Chunker Unit Test Update (New Method) ---
+
 
 def test_chunk_group_strings_logic():
     """Direct unit test for the new `chunk_group_strings` method."""

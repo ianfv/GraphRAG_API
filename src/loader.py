@@ -22,11 +22,11 @@ class DocumentLoader:
     def __init__(self, chunker: TextChunker = None):
         self.chunker = chunker or TextChunker()
         # Only advertise support for libraries that are actually installed
-        self.supported_formats = {'.txt', '.csv', '.json'}
+        self.supported_formats = {".txt", ".csv", ".json"}
         if PdfReader:
-            self.supported_formats.add('.pdf')
+            self.supported_formats.add(".pdf")
         if DocxDocument:
-            self.supported_formats.add('.docx')
+            self.supported_formats.add(".docx")
 
     def load_directory(self, directory: str) -> list[Chunk]:
         """Scans directory recursively and loads all supported files."""
@@ -36,7 +36,7 @@ class DocumentLoader:
             return []
 
         all_chunks = []
-        for file_path in path.rglob('*'):
+        for file_path in path.rglob("*"):
             if file_path.suffix.lower() in self.supported_formats:
                 print(f"Loading: {file_path.name}")
                 try:
@@ -56,20 +56,20 @@ class DocumentLoader:
             "source": path.name,
             "file_path": str(path),
             "date_added": datetime.datetime.now().isoformat(),
-            "file_type": path.suffix.lower()
+            "file_type": path.suffix.lower(),
         }
 
         ext = path.suffix.lower()
 
-        if ext == '.txt':
+        if ext == ".txt":
             return self._load_txt(file_path, doc_id, metadata)
-        elif ext == '.pdf':
+        elif ext == ".pdf":
             return self._load_pdf(file_path, doc_id, metadata)
-        elif ext == '.docx':
+        elif ext == ".docx":
             return self._load_docx(file_path, doc_id, metadata)
-        elif ext == '.csv':
+        elif ext == ".csv":
             return self._load_csv(file_path, doc_id, metadata)
-        elif ext == '.json':
+        elif ext == ".json":
             return self._load_json(file_path, doc_id, metadata)
         else:
             print(f"Unsupported file type: {ext}")
@@ -79,14 +79,14 @@ class DocumentLoader:
         """Merges file-level metadata with chunk-level metadata."""
         for chunk in chunks:
             combined = metadata.copy()
-            combined.update(chunk.metadata) # Keep chunk-specific meta (like strategy)
+            combined.update(chunk.metadata)  # Keep chunk-specific meta (like strategy)
             chunk.metadata = combined
         return chunks
 
     # --- Unstructured Text Handlers (Use Sentence Chunking) ---
 
     def _load_txt(self, file_path: str, doc_id: str, metadata: dict) -> list[Chunk]:
-        with open(file_path,  encoding='utf-8', errors='replace') as f:
+        with open(file_path, encoding="utf-8", errors="replace") as f:
             text = f.read()
         return self._apply_metadata(self.chunker.chunk_by_sentences(text, doc_id), metadata)
 
@@ -133,7 +133,7 @@ class DocumentLoader:
         return self.chunker.chunk_group_strings(row_strings, doc_id, metadata)
 
     def _load_json(self, file_path: str, doc_id: str, metadata: dict) -> list[Chunk]:
-        with open(file_path, encoding='utf-8') as f:
+        with open(file_path, encoding="utf-8") as f:
             data = json.load(f)
 
         # If it's a list of records, treat them as rows
@@ -149,6 +149,6 @@ class DocumentLoader:
         return []
 
     def save_chunks(self, chunks: list[Chunk], output_path: str):
-        data = [{'text': c.text, 'doc_id': c.doc_id, 'metadata': c.metadata} for c in chunks]
-        with open(output_path, 'w', encoding='utf-8') as f:
+        data = [{"text": c.text, "doc_id": c.doc_id, "metadata": c.metadata} for c in chunks]
+        with open(output_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
