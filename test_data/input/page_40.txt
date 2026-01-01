@@ -1,0 +1,219 @@
+Chapter Headings
+
+Introduction
+Screening for Peripheral Neuropathy
+Management of Diabetic Neuropathy
+Other Relevant Guidelines
+Relevant Appendices
+Author Disclosures
+Key Messages
+Elevated blood glucose levels, elevated triglycerides, high body mass index, smoking and hypertension are risk factors for neuropathy.
+Intensive glycemic control is effective for the primary prevention or secondary intervention of neuropathy in people with type 1 diabetes.
+In people with type 2 diabetes, lower blood glucose levels are associated with a reduced frequency of neuropathy.
+Simple physical examination screening tests, such as the 10 g monofilament (on the dorsal aspect of the great toe bilaterally) and vibration perception (with 128 Hz tuning fork), perform reasonably well for the identification of neuropathy and prediction of its future onset.
+Key Messages for People with Diabetes
+Exposure to high blood glucose levels over an extended period of time can cause diabetic peripheral neuropathy or damage to the nerves that go to the feet, legs and, when markedly advanced, to the hands and arms.
+The most common symptoms of diabetic peripheral neuropathy are loss of sensations in the toes and feet, and presence of symptoms, such as sharp shooting pains, burning, tingling, a feeling of being pricked with pins, throbbing and numbness.
+Diabetic peripheral neuropathy increases the risk for foot ulcers and amputation.
+Your health-care provider or foot care specialist can test for diabetic peripheral neuropathy by lightly pressing a thin nylon rod (10 g monofilament) and by using the 128 Hz tuning fork on the top surface of your big toe.
+Although there is no cure, there are many ways you can effectively manage diabetic peripheral neuropathy, including:
+Proper foot care, including daily foot inspection
+Effective blood glucose control
+Medications that may help with nerve pain
+Diabetic autonomic neuropathies affect the part of the nervous system responsible for control of internal body functions and may target the heart (cardiac autonomic neuropathy), gastrointestinal tract, and genitourinary system, and can cause sexual dysfunction.
+Introduction
+
+Diabetes is the leading cause of neuropathy in North America (1). Estimates of the prevalence vary depending on the diagnostic criteria and population studied. A reasonable figure based on several large studies is that detectable sensorimotor polyneuropathy (diffuse and symmetric neuropathy) will develop within 10 years of the onset of diabetes in 40% to 50% of people with type 1 (1–3) and type 2 diabetes (4–6). While clinical neuropathy is uncommon in people with type 1 diabetes within the first 5 years after the onset of diabetes, people with type 2 diabetes may have neuropathy at the time of diagnosis or even in the prediabetes stage (4–7). Risk factors for neuropathy include elevated blood glucose (BG) levels, elevated triglycerides (TG), high body mass index (BMI), smoking and hypertension (8). There appear to be multifactorial mechanisms behind the pathogenesis of diabetic neuropathy (9) and it may represent a unique form of neurodegeneration (9,10).
+
+The most common form of diabetic neuropathy is distal symmetric polyneuropathy (DSPN). Symptoms vary according to the class of sensory fibres involved. The most common early symptoms are from small fibre involvement and include pain (e.g. sharp, shooting) and dysesthesias (e.g. burning). Pain may be present in the presence of a normal clinical examination and normal nerve conduction studies, which are a measure of large fibre function (11). The involvement of large fibres may cause numbness, tingling and loss of protective sensation.
+
+Neuropathic pain is frequently bothersome and often limits physical activity, quality of life and work productivity (3,11–13). Additionally, people with neuropathy utilize more health resources than those without (14). Foot ulceration, which depends on the degree of foot insensitivity (15), and amputation are important and costly sequelae of diabetic neuropathy (16).
+
+Diabetic autonomic neuropathies (DAN) affect the autonomic neurons and may target the innervation of the heart (cardiac autonomic neuropathy [CAN]), gastrointestinal tract, genitourinary system, sexual function, pupillary responses and sweating. Specialized laboratories that study clinical autonomic disorders, including DAN, are available at some centres (17).
+
+The prevalence of CAN increases with diabetes duration in people with type 1 and type 2 diabetes. In the Diabetes Control and Complications Trial/Epidemiology of Diabetes Intervention and Complications (DCCT/EDIC) study, prevalence rates of at least 30% were observed after 20 years of type 1 diabetes (2,18). CAN may be present in up to 60% of people with type 2 diabetes after 15 years (19). CAN may be identified by heart rate variability and has been shown to be a risk factor for mortality in diabetes (20–22); however, further study is required to determine if interventions are helpful in reducing the risk of subsequent cardiac events and mortality.
+
+Other features of CAN are postural hypotension, and resting tachycardia (i.e. 100 beats/min). For postural hypotension, the diagnosis is made by measuring supine, followed by a 1-minute standing blood pressure (BP) and pulse. A fall of greater than 20 mmHg systolic without an appropriate increase in heart rate is significant. Treatment includes conservative measures to increase fluid and salt intake, caution with exacerbating medications, compression stockings and sleeping with the head of the bed elevated. Specific therapies include fludrocortisone, midodrine and droxidopa (approved in the United States but not Canada), with care taken to monitor for supine hypertension (10,23,24).
+
+Gastrointestinal neuropathies may be associated with gastroparesis, constipation, diarrhea (especially nocturnal), and incontinence. A gastric emptying study may be helpful in diagnosis. Treatment approaches include dietary measures, withdrawal of exacerbating medications (e.g. glucagon-like peptide-1 [GLP-1] receptor agonists, opioids) and, in severe instances, temporary use of the prokinetic agent, metoclopramide, but its use is limited by risk of extrapyramidal side effects.
+
+Bladder dysfunction in DAN includes loss of bladder sensation and later detrusor dysfunction with overflow incontinence, predisposition to infection and inability to empty. Bladder function should be evaluated in people with diabetes with recurrent urinary tract infections, pyelonephritis or incontinence. The use of amitriptyline is contraindicated in people with diabetic bladder involvement owing to potential anticholinergic side effects.
+
+Erectile dysfunction in men is the most common symptom of DAN with a prevalence of up to 40% (25), although it may be associated with the presence or the absence of DSPN. Treatment includes phosphodiesterase-5 inhibitors for mild erectile dysfunction, local prostaglandin injections, vacuum devices or prostheses (see Sexual Dysfunction and Hypogonadism in Men with Diabetes chapter, p. S228).
+
+Sudomotor abnormalities are loss of sweating in the extremities with inappropriate truncal sweating, dry skin or heat intolerance. Gustatory sweating may occur and consists of excessive sweating in the head and neck triggered by food consumption or the smell of food.
+
+Mononeuropathies, or focal neuropathies, can occur with involvement of the median, ulnar, radial and common peroneal nerves. Carpal tunnel syndrome and ulnar neuropathy at the elbow is also common in diabetes and can be distinguished from polyneuropathy by electrophysiological studies (26).
+
+There are other forms of diabetic-related neuropathy that are less common, such as diabetic radiculoplexus neuropathy (also known as diabetic amyotrophy or diabetic polyradiculoneuropathy), cranial neuropathies (primarily involving cranial nerves III, IV, VI, and VII), thoracic radiculopathy and others (27). Diabetes may also target other parts of the nervous system, including the brain (28).
+
+The underdiagnosis of neuropathy is a fundamental problem in the primary care of people with diabetes and impedes the benefits of early identification, the management necessary to achieve improved glycemic control and the prevention of neuropathy-related sequelae (29). However, it is important to exclude other causes of neuropathy besides diabetes by way of obtaining a family and medication (including alcohol) history. Relevant investigations may include: serum B12 (particularly with use of metformin), folic acid, thyroid function, complete blood count, serum creatinine and protein electrophoresis.
+
+Screening for Peripheral Neuropathy
+
+Asymptomatic screening for neuropathy can be performed rapidly and reliably using the 10 g Semmes-Weinstein monofilament or the 128 Hz tuning fork over the dorsal aspect of the great toe bilaterally (30–34). Other screening tests can include pinprick or temperature (starting distally bilaterally and moving proximally until a sensory threshold is identified) and ankle reflexes. Methods for using the monofilament or tuning fork to detect diabetic neuropathy are outlined in Appendix 11A. Rapid Screening for Diabetic Neuropathy Using the 10 g Semmes-Weinstein Monofilament, and Appendix 11B. Rapid Screening for Diabetic Neuropathy Using the 128 Hz Vibration Tuning Fork (30,31,34). Additionally, several clinical scoring systems based on composite measures of symptoms and signs have been developed and evaluated for identification of neuropathy, but it is not clear if these more complex procedures have benefit over simplified screening tests for neuropathy identification. Evaluation for neuropathy in the lower limbs should also accompany the evaluation of vascular supply and skin integrity as outlined in the Foot Care chapter, p. S222. In addition, it is important to recognize that the 10 g monofilament test for annual DSPN screening is different than the testing used to identify a foot at high risk for ulceration in the context of recognized neuropathy. Testing to assess risk for foot ulceration generally requires testing of 3 sites on each foot (see Appendix 12: Monofilament Testing in the Diabetic Foot, p. S322).
+
+Individuals with asymmetrical manifestations of neuropathy, greater motor than sensory impairments, or rapidly progressive symptoms or signs of neuropathy may have nondiabetic causes of neuropathy that may require more careful evaluation, and referral for additional neurological evaluation should be considered.
+
+Table 1
+Treatment options for the management of painful diabetic peripheral neuropathy
+BID, 2 times a day; OD, once daily; QHS, every bedtime; QID, 4 times a day.
+Dose ranges are for adults and are taken from published trials—smaller starting doses and slower titration schedules may be indicated. Optimal doses are the lowest doses required for maximum efficacy without significant side effects. Although required for some agents, dose adjustments for renal and liver dysfunction are not shown here. Physicians should refer to the most current edition of the Compendium of Pharmaceuticals and Specialties (Canadian Pharmacists Association, Ottawa, Ontario, Canada) for product monographs and complete prescribing information.
+*Use with caution due to risks of dependency and tolerance; not advised as first-line therapy, and generally considered a treatment of last resort for painful neuropathy.
+†Denotes that this drug is not currently approved by Health Canada for the management of neuropathic pain associated with diabetic peripheral neuropathy.
+ 	Suggested starting dose	Suggested titration if tolerated	Suggested maximal tolerated dose	Estimated monthly cost for starting dose
+Antidepressants
+Amitriptyline †(56,57,61,72)	10 mg QHS	May titrate slowly up to 100 mg po qhs	150 mg/day	$14.49 (30)
+Duloxetine (60,64)	30 mg OD	May titrate to 60 mg po od	120 mg/day	$28.22 (30)
+Venlafaxine† (62,63,75–79)	37.5 mg BID	May titrate slowly up to 150 mg po bid	300 mg/day	$23.16 (60)
+Opioids*
+Note: Although the following agents have demonstrated efficacy for neuropathic pain, their use should be selective, after other options have failed to be effective, and clinicians must be aware of the risks of tolerance, abuse, dependency and addiction (45). The limited use of these agents should follow the principles of the 2017 Canadian Guideline for Opioids for Chronic Non-Cancer Pain (54).
+Tramadol (44)*	50 mg QID	May titrate slowly up to 50 mg po qid	400 mg/day	$100.45 (120)
+Tapentadol ER (40)*	100 mg BID	May titrate slowly up to 250 mg po bid	250 mg po bid	$118.49 (60)
+Dextromethorphan (42)*	100 mg QID	May titrate slowly up to 200 mg po qid	960 mg/day	requires compounding of the capsules
+Morphine sustained release (74)*	15 mg BID	May titrate slowly up to 60 mg po bid	180 mg/day	$27.61 (60)
+Oxycodone ER (43)*	10 mg BID	May titrate slowly up to 40 mg po bid	160 mg/day	$42.60 (60)
+Others
+Topical nitrate sprays (65,66,70)	30 mg spray to legs QHS	May titrate slowly up to 30 mg spray to legs bid	60 mg/day	 
+Capsaicin cream (68,69)**	0.075% cream applied 3–4 times per day	May titrate to 5–6 times per day	5–6 applications per day	$17.99
+Transcutaneous electrical nerve stimulation	-	-	-	-
+Management of Diabetic Neuropathy
+
+Intensive glycemic control is effective for the primary prevention and secondary intervention of neuropathy in people with type 1 diabetes (3,6,35,36). In fact, the benefits of intensive insulin treatment persist for over a decade for the primary prevention of neuropathy (37). In those with type 2 diabetes, target BG levels are associated with a reduced frequency of neuropathy (5,12,38). No other clearly efficacious disease-modifying treatments are currently available. Multiple treatments are available for the management of neuropathic pain, and detailed evidence-based guidelines on the treatment of painful diabetic neuropathy (PDN) have been published (39). An important observation is that few people have complete relief of painful symptoms with any treatment, and that a 30% to 50% reduction in baseline pain, usually measured by a visual analogue scale of 0 to 10 out of 10 maximal pain intensity, is considered to be a clinically meaningful response.
+
+There are insufficient comparative studies to recommend which oral medication should be used first line, although the primary use of opioids for PDN, despite clinical trial evidence for pain efficacy (40–44), is not recommended due to the potential for dependency, tolerance, dose escalation and diversion (39,45). Anticonvulsants (46–54) and antidepressants (55–64) are most commonly used as first-line therapy. Details are listed in Table 1. Pregabalin and duloxetine have received approval for the treatment of neuropathic pain in diabetes by Health Canada.
+
+Other effective therapeutic options include topical nitrate sprays (65,66), topical capsaicin (67–70) and transcutaneous electrical nerve stimulation (71,72). However, effective treatment with capsaicin involves short-term pain that limits its acceptability and generalizability in clinical practice. The surgical release of distal lower limb nerves is not recommended due to lack of evidence supporting efficacy (73) and the possible complications of foot and ankle surgery in people with diabetes.
+
+Dose ranges for painful neuropathic symptoms described in Table 1 are for adults and are taken from published trials; smaller starting doses and slower titration schedules may be indicated. Optimal doses are the lowest doses required for maximum efficacy without significant side effects. Although required for some agents, dose adjustments for renal and hepatic dysfunction are not shown here. Physicians should refer to the most current edition of the Compendium of Pharmaceuticals and Specialties (Canadian Pharmacists Association, Ottawa, Ontario, Canada) for product monographs and complete prescribing information.
+
+Recommendations
+In people with type 2 diabetes, screening for peripheral neuropathy should begin at diagnosis of diabetes and occur annually thereafter [Grade D, Consensus]. In people with type 1 diabetes, annual screening should commence after 5 years' post-pubertal duration of diabetes [Grade D, Consensus].
+Screening for peripheral neuropathy should be conducted by assessing loss of sensitivity to the 10 g monofilament or loss of sensitivity to vibration at the dorsum of the great toe [Grade A, Level 1 (31,34)] (see Appendices 11A and 11B. Rapid Screening for Diabetic Neuropathy).
+People with diabetes should be treated with intensified glycemic control to prevent the onset and progression of neuropathy [Grade A, Level 1A (3,35) for type 1 diabetes; Grade B, Level 2 (38) for type 2 diabetes].
+The following agents may be used alone or in combination for relief of painful peripheral neuropathy:
+Anticonvulsants (pregabalin [Grade A, Level 1 (47,52)], gabapentin† [Grade B, Level 2 (46,74)], valproate† [Grade B, Level 2 (50,51)]
+
+Antidepressants (amitriptyline†, duloxetine, venlafaxine†) [Grade B, Level 2 (56,57,60,61,63,75)]
+
+Topical nitrate spray† [Grade B, Level 2 (65,66,70)]
+
+In people not responsive to the above agents, opioid analgesics (tramadol, tapentadol ER, oxycodone ER) may be used [Grade B, Level 2 (41,43,44)]. Prescribers should be cautious due to risks of abuse, dependency and tolerance, and follow the recommendations of the 2017 Canadian Guidelines for Opioids for Chronic Non-Cancer Pain (54) [Grade D, Consensus].
+
+Footnote:
+
+†Denotes that this drug is not currently approved by Health Canada for the management of neuropathic pain associated specifically with diabetic peripheral neuropathy.
+
+Most studies failed to achieve Grade A, Level 1 due to a <80% completion rate (39).
+
+Abbreviations:
+
+A1C, glycated hemoglobin; BG, blood glucose; BMI, body mass index; CAD, cardiac autonomic neuropathy; DAN, diabetic autonomic neuropathy; DPN, diabetic peripheral neuropathy; PDN, painful diabetic neuropathy.
+
+Other Relevant Guidelines
+
+ 
+
+Targets for Glycemic Control, p. S42
+
+Foot Care, p. S222
+Type 1 Diabetes in Children and Adolescents, p. S234
+Type 2 Diabetes in Children and Adolescents, p. S247
+Relevant Appendices
+Appendix 11A. Rapid Screening for Diabetic Neuropathy Using the 10 g Semmes-Weinstein Monofilament
+Appendix 11B. Rapid Screening for Diabetic Neuropathy Using the 128 Hz Vibration Tuning Fork
+Appendix 12. Monofilament Testing in the Diabetic Foot
+
+Literature Review Flow Diagram for Chapter 31: Neuropathy
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design
+
+From reference 80.
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Bril reports grants from Pfizer and Lilly, during the conduct of the study; and other support from Pfizer, outside the submitted work. Dr. Breiner reports grants from GBS-CIDP Foundation International, Grifols, Inc, and other support from Pfizer, outside the submitted work. No other authors have anything to disclose.
+
+References
+Dyck PJ, Kratz KM, Karnes JL, et al. The prevalence by staged severity of various types of diabetic neuropathy, retinopathy, and nephropathy in a population-based cohort: The Rochester diabetic neuropathy study. Neurology 1993;43:817–24.
+Martin CL, Albers JW, Pop-Busui R, et al. Neuropathy and related findings in the diabetes control and complications trial/epidemiology of diabetes interventions and complications study. Diabetes Care 2014;37:31–8.
+Diabetes Control and Complications Trial Research Group, Nathan DM, Genuth S, et al. The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. The diabetes control and complications trial research group. N Engl J Med 1993;329:977–86.
+Pop-Busui R, Lu J, Brooks MM, et al. Impact of glycemic control strategies ontheprogressionofdiabeticperipheral neuropathy in the bypass angioplasty revascularization investigation 2 diabetes (BARI 2D) cohort. Diabetes Care 2013;36:3208–15.
+Ismail-Beigi F, Craven T, Banerji MA, et al. Effect of intensive treatment of hyperglycaemia on microvascular outcomes in type 2 diabetes: An analysis of the ACCORD randomised trial. Lancet 2010;376:419–30.
+Ang L, Jaiswal M, Martin C, et al. Glucose control and diabetic neuropathy: Lessons from recent large clinical trials. Curr Diab Rep 2014;14:1–15.
+Singleton JR, Smith AG, Bromberg MB. Increased prevalence of impaired glucose tolerance in patients with painful sensory neuropathy. Diabetes Care 2001;24:1448–53.
+Tesfaye S, Chaturvedi N, Eaton SE, et al. Vascular risk factors and diabetic neuropathy. N Engl J Med 2005;352:341–50.
+Callaghan BC, Cheng HT, Stables CL, et al. Diabetic neuropathy: Clinical manifestations and current treatments. Lancet Neurol 2012;11:521–34.
+American Diabetes Association. ADA: Standards of medical care in diabetes 2017. Diabetes Care 2017;40:S51–135.
+Vinik AI. Clinical Practice. Diabetic sensory and motor neuropathy. N Engl J Med 2016;374:1455–64.
+Partanen J, Niskanen L, Lehtinen J, et al. Natural history of peripheral neuropathy in patients with non-insulin-dependent diabetes mellitus. N Engl J Med 1995;333:89–94.
+American Diabetes Association (ADA). 8. Pharmacologic approaches to glycemic treatment in the ADA: Standards of medical care in diabetes 2017. Diabetes Care 2017;40.
+daCosta DiBonaventura M, Cappelleri JC, Joshi AV. A longitudinal assessment of painful diabetic peripheral neuropathy on health status, productivity, and health care utilization and cost. Pain Med 2011;12:118–26.
+Young MJ, Breddy JL, Veves A, et al. The prediction of diabetic neuropathic foot ulceration using vibration perception thresholds. A prospective study. Diabetes Care 1994;17:557–60.
+Reiber GE, Boyko EJ, Smith DG. Lower extremity foot ulcers and amputations in diabetes. Diabetes in America. 2nd edn. Bethesda: National Diabetes Data Group, National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases, 1985, pg. 409–28.
+Dabelea D, Stafford JM, Mayer-Davis EJ, et al. Association of type 1 diabetes vs type 2 diabetes diagnosed during childhood and adolescence with complications during teenage years and young adulthood. JAMA 2017;317:825–35.
+Pop-Busui R, Low PA,Waberski BH, et al. Effects of prior intensive insulin therapy on cardiac autonomic nervous system function in type 1 diabetes mellitus: The Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications study (DCCT/EDIC). Circulation 2009;119:2886–93.
+Low PA, Benrud-Larson LM, Sletten DM, et al. Autonomic symptoms and diabetic neuropathy: A population-based study. Diabetes Care 2004;27:2942–7.
+Pop-Busui R, Evans GW, Gerstein HC, et al. Effects of cardiac autonomic dysfunction on mortality risk in the Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial. Diabetes Care 2010;33:1578–84.
+Pop-Busui R, Braffett BH, Zinman B, et al. Cardiovascular autonomic neuropathy and cardiovascular outcomes in the Diabetes Control and Complications Trial/ Epidemiology of Diabetes Interventions and Complications (DCCT/EDIC) Study. Diabetes Care 2017;40:94–100.
+Soedamah-Muthu SS, Chaturvedi N, Witte DR, et al. Relationship between risk factors and mortality in type 1 diabetic patients in Europe: The EURODIAB Prospective Complications Study (PCS). Diabetes Care 2008;31:1360–6.
+Freeman R. Clinical practice. Neurogenic orthostatic hypotension. N Engl J Med 2008;358:615–24.
+Low PA, Gilden JL, Freeman R, et al. Efficacy of midodrine vs placebo in neurogenic orthostatic hypotension. A randomized, double-blind multicenter study. Midodrine Study Group. JAMA 1997;277:1046–51.
+Bacon CG, Hu FB, Giovannucci E, et al. Association of type and duration of diabetes with erectile dysfunction in a large cohort of men. Diabetes Care 2002;25:1458–63.
+Perkins BA, Olaleye D, Bril V. Carpal tunnel syndrome in patients with diabetic polyneuropathy. Diabetes Care 2002;25:565–9.
+Pop-Busui R, Boulton AJ, Feldman EL, et al. Diabetic neuropathy: A position statement by the American Diabetes Association. Diabetes Care 2017;40:136–54.
+Zochodne DW, Malik RA. Diabetes and the nervous system. In: Zochodne D, Malik R, eds. Handbook of Clinical Neuroloty. Elsevier B.V., 2014, pg. 2–615.
+Herman WH, Kennedy L. Underdiagnosis of peripheral neuropathy in type 2 diabetes. Diabetes Care 2005;28:1480–1.
+Kanji JN, Anglin RE, Hunt DL, et al. Does this patient with diabetes have largefiber peripheral neuropathy? JAMA 2010;303:1526–32.
+Perkins BA, Olaleye D, Zinman B, et al. Simple screening tests for peripheral neuropathy in the diabetes clinic. Diabetes Care 2001;24:250–6.
+Rith-Najarian SJ, Stolusky T, Gohdes DM. Identifying diabetic patients at high risk for lower-extremity amputation in a primary health care setting. A prospective evaluation of simple screening criteria. Diabetes Care 1992;15:1386–9.
+Rahman M, Griffin SJ, Rathmann W, et al. How should peripheral neuropathy be assessed in people with diabetes in primary care? A population-based comparison of four measures. Diabet Med 2003;20:368–74.
+Perkins BA, Orszag A, Ngo M, et al. Prediction of incident diabetic neuropathy using the monofilament examination: A 4-year prospective study. Diabetes Care 2010;33:1549–54.
+Reichard P, Berglund B, Britz A, et al. Intensified conventional insulin treatment retards the microvascular complications of Insulin-Dependent Diabetes Mellitus (IDDM): The Stockholm Diabetes Intervention Study (SDIS) after 5 years. J Intern Med 1991;230:101–8.
+The Diabetes Control and Complications Trial Research Group. The effect of intensive diabetes therapy on the development and progression of neuropathy. Ann Intern Med 1995;122:561–8.
+Albers JW, Herman WH, Pop-Busui R, et al. Effect of prior intensive insulin treatment during the Diabetes Control and Complications Trial (DCCT) on peripheral neuropathy in type 1 diabetes during the Epidemiology of Diabetes Interventions and Complications (EDIC) Study. Diabetes Care 2010;33:1090–6.
+UK Prospective Diabetes Study (UKPDS) Group. Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). Lancet 1998;352:837–53.
+Bril V, England J, Franklin GM, et al. Evidence-based guideline: Treatment of painful diabetic neuropathy: Report of the American Academy of Neurology, the American Association of Neuromuscular and Electrodiagnostic Medicine, and the American Academy of Physical Medicine and Rehabilitation. Neurology 2011;76:1758–65.
+Schwartz S, Etropolski M, Shapiro DY, et al. Safety and efficacy of tapentadol ER in patients with painful diabetic peripheral neuropathy: Results of a randomized-withdrawal, placebo-controlled trial. Curr Med Res Opin 2011;27:151–62.
+Sang CN, Booher S, Gilron I, et al. Dextromethorphan and memantine in painful diabetic neuropathy and postherpetic neuralgia: Efficacy and dose-response trials. Anesthesiology 2002;96:1053–61.
+Nelson KA, Park KM, Robinovitz E, et al. High-dose oral dextromethorphan versus placebo in painful diabetic neuropathy and postherpetic neuralgia. Neurology 1997;48:1212–18.
+Gimbel JS, Richards P, Portenoy RK. Controlled-release oxycodone for pain indiabetic neuropathy: A randomized controlled trial. Neurology 2003;60:927–34.
+Harati Y, Gooch C, Swenson M, et al. Double-blind randomized trial of tramadol for the treatment of the pain of diabetic neuropathy. Neurology 1998;50:1842–6.
+Manchikanti L, Singh A. Therapeutic opioids: A ten-year perspective on the complexities and complications of the escalating use, abuse, and nonmedical use of opioids. Pain Physician 2008;11:S63–88.
+Backonja M, Beydoun A, Edwards KR, et al. Gabapentin for the symptomatic treatment of painful neuropathy in patients with diabetes mellitus: A randomized controlled trial. JAMA 1998;280:1831–6.
+Richter RW, Portenoy R, Sharma U, et al. Relief of painful diabetic peripheral neuropathy with pregabalin: A randomized, placebo-controlled trial. J Pain 2005;6:253–60.
+Lesser H, Sharma U, LaMoreaux L, et al. Pregabalin relieves symptoms of painful diabetic neuropathy: A randomized controlled trial. Neurology 2004;63:2104–10.
+Rosenstock J, Tuchman M, LaMoreaux L, et al. Pregabalin for the treatment of painful diabetic peripheral neuropathy: A double-blind, placebo-controlled trial. Pain 2004;110:628–38.
+Kochar DK, Jain N, Agarwal RP, et al. Sodium valproate in the management of painful neuropathy in type 2 diabetes—a randomized placebo controlled study. Acta Neurol Scand 2002;106:248–52.
+Kochar DK, Rawat N, Agrawal RP, et al. Sodium valproate for painful diabetic neuropathy: A randomized double-blind placebo-controlled study. QJM 2004;97:33–8.
+Guan Y, Ding X, Cheng Y, et al. Efficacy of pregabalin for peripheral neuropathic pain: Results of an 8-week, flexible-dose, double-blind, placebocontrolled study conducted in China. Clin Ther 2011;33:159–66.
+Satoh J, Yagihashi S, Baba M, et al. Efficacy and safety of pregabalin for treatingneuropathic pain associated with diabetic peripheral neuropathy: A 14 week, randomized, double-blind, placebo-controlled trial. Diabet Med 2011;28:109–16.
+The 2017 Canadian guideline for opioids for chronic non-cancer pain. Hamilton: McMaster University: National Pain Centre, 2017. http://nationalpaincentre.mcmaster.ca/documents/Opioid%20GL%20for%20CMAJ_01may2017.pdf
+Yasuda H, Hotta N, Nakao K, et al. Superiority of duloxetine to placebo in improving diabetic neuropathic pain: Results of a randomized controlled trial in Japan. J Diabetes Investig 2011;2:132–9.
+Max MB, Culnane M, Schafer SC, et al. Amitriptyline relieves diabetic neuropathy pain in patients with normal or depressed mood. Neurology 1987;37:589–96.
+Max MB, Lynch SA, Muir J, et al. Effects of desipramine, amitriptyline, and fluoxetine on pain in diabetic neuropathy. N Engl J Med 1992;326:1250–6.
+Goldstein DJ, Lu Y, Detke MJ, et al. Duloxetine vs. placebo in patients with painful diabetic neuropathy. Pain 2005;116:109–18.
+Raskin J, Smith TR, Wong K, et al. Duloxetine versus routine care in the longterm management of diabetic peripheral neuropathic pain. J Palliat Med 2006;9:29–40.
+Raskin J, Pritchett YL, Wang F, et al. A double-blind, randomized multicenter trial comparing duloxetine with placebo in the management of diabetic peripheral neuropathic pain. Pain Med 2005;6:346–56.
+Wernicke JF, Pritchett YL, D’Souza DN, et al. A randomized controlled trial of duloxetine in diabetic peripheral neuropathic pain. Neurology 2006;67:1411–20.
+Rowbotham MC, Goli V, Kunz NR, et al. Venlafaxine extended release in the treatment of painful diabetic neuropathy: A double-blind, placebo-controlled study. Pain 2004;110:697–706.
+Kadiroglu AK, Sit D, Kayabasi H, et al. The effect of venlafaxine HCl on painful peripheral diabetic neuropathy in patients with type 2 diabetes mellitus. J Diabetes Complications 2008;22:241–5.
+Kaur H, Hota D, Bhansali A, et al. A comparative evaluation of amitriptyline and duloxetine in painful diabetic neuropathy: A randomized, double-blind, crossover clinical trial. Diabetes Care 2011;34:818–22.
+Agrawal RP, Choudhary R, Sharma P, et al. Glyceryl trinitrate spray in the management of painful diabetic neuropathy: A randomized double blind placebo controlled cross-over study. Diabetes Res Clin Pract 2007;77:161–7.
+Yuen KC, Baker NR, Rayman G. Treatment of chronic painful diabetic neuropathy with isosorbide dinitrate spray: A double-blind placebo-controlled crossover study. Diabetes Care 2002;25:1699–703.
+Low PA, Opfer-Gehrking TL, Dyck PJ, et al. Double-blind, placebo-controlled study of the application of capsaicin cream in chronic distal painful polyneuropathy. Pain 1995;62:163–8.
+The Capsaicin Study Group. Treatment of painful diabetic neuropathy with topical capsaicin. A multicenter, double-blind, vehicle-controlled study. Arch Intern Med 1991;151:2225–9.
+Tandan R, Lewis GA, Krusinski PB, et al. Topical capsaicin in painful diabetic neuropathy. Controlled study with long-term follow-up. Diabetes Care 1992;15:8–14.
+Agrawal RP, Goswami J, Jain S, et al. Management of diabetic neuropathy by sodium valproate and glyceryl trinitrate spray: A prospective double-blind randomized placebo-controlled study. Diabetes Res Clin Pract 2009;83:371–8.
+Bosi E, Conti M, Vermigli C, et al. Effectiveness of frequency-modulated electromagnetic neural stimulation in the treatment of painful diabetic neuropathy. Diabetologia 2005;48:817–23.
+Kumar D, Alvaro MS, Julka IS, et al. Diabetic peripheral neuropathy. Effectiveness of electrotherapy and amitriptyline for symptomatic relief. Diabetes Care 1998;21:1322–5.
+Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology, Chaudhry V, Stevens JC, et al. Practice Advisory: Utility of surgical decompression for treatment of diabetic neuropathy: Report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. Neurology 2006;66:1805–8.
+Gilron I, Bailey JM, Tu D, et al. Morphine, gabapentin, or their combination for neuropathic pain. N Engl J Med 2005;352:1324–34.
+Tesfaye S, Wilhelm S, Lledo A, et al. Duloxetine and pregabalin: High-dose monotherapy or their combination? The “COMBO-DN study”–a multinational, randomized, double-blind, parallel-group study in patients with diabetic peripheral neuropathic pain. Pain 2013;154:2616–25.
+Udo EO, van Hemel NM, Zuithoff NP, et al. Risk of heart failure- and cardiac death gradually increases with more right ventricular pacing. Int J Cardiol 2015;185:95–100.
+Elliott WJ, Whitmore J, Feldstein JD, et al. Efficacy and safety of perindopril arginine + amlodipine in hypertension. J Am Soc Hypertens 2015;9:266–74.
+Nishimura R, Tanaka Y, Koiwai K, et al. Effect of empagliflozin monotherapy on postprandial glucose and 24-hour glucose variability in Japanese patients with type 2 diabetes mellitus: A randomized, double-blind, placebo-controlled, 4-week study. Cardiovasc Diabetol 2015;14:11.
+Chen DY, Wang SH, Mao CT, et al. Sitagliptin and cardiovascular outcomes in diabetic patients with chronic kidney disease and acute myocardial infarction: A nationwide cohort study. Int J Cardiol 2015;181:200–6.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

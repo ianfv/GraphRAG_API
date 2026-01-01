@@ -1,0 +1,219 @@
+Chapter Headings
+
+Introduction
+Conclusions
+Other Relevant Guidelines
+Author Disclosures
+Key Messages
+Offer collaborative and interactive self-management education and support.
+Incorporate problem solving, goal setting and self-monitoring of health parameters for ongoing self-management of clinical and psychosocial aspects of care.
+Design and implement person-centred learning to facilitate informed decision-making and achievement of individual goals.
+Individualize self-management education interventions according to the type of diabetes and recommended therapy within the context of the individual's ability for learning and change, culture, health beliefs and preferences, literacy level, socioeconomic status and other health challenges.
+Create and offer self-management support that reflects person-centred goals and needs.
+Key Messages for People with Diabetes
+A variety of diabetes education and support programs are available to you. These may include group classes and individual counselling sessions, as well as strategies that use technology (e.g. Internet-based computer programs, mobile phone apps).
+You are strongly encouraged to access diabetes self-management education and support when you are first diagnosed, as well as during times when there are changes in your diabetes treatment, general health or life circumstances.
+Work with your diabetes team to:
+Establish a trusting and collaborative relationship
+Set goals for caring for your diabetes and health, and
+Identify strategies to help you manage your diabetes.
+Introduction
+
+The dynamic nature of diabetes and its impact on multiple aspects of one's life requires individuals to make frequent and ongoing self-management decisions. Therefore, the title of this chapter has been modified to include self-management education (SME) and self-management support (SMS), in recognition of the growing evidence and benefit of SMS for individuals living with diabetes, particularly when combined with SME (1).
+
+SME is a process to facilitate individuals in decision-making, resulting in improvements in variables, such as knowledge, attitudes and self-efficacy, as well as improvements in healthy behaviours and clinical outcomes (2). SME is defined as a systematic intervention that involves active participation by the individual in self–monitoring of health parameters and/or decision-making with the application of knowledge and skills (3). It also recognizes that patient-provider collaboration, approaches and the development of problem-solving skills are crucial for sustained self-care (4). SMS includes activities that support the implementation and maintenance of behaviours for ongoing diabetes self-management, including education, behaviour modification, psychosocial and/or clinical support (5,6). The goal of SME and SMS is to foster opportunities for people with diabetes to become informed and motivated to continually engage in effective diabetes self-management practices and behaviours. To date, a growing body of research evidence indicates that the combination of both SME and SMS is most advantageous for improving glycemic control, self-efficacy, self-care behaviours (i.e. monitoring of blood glucose and healthy eating) and reducing diabetes distress and foot complications (1,6).
+
+Self-Management Education
+
+Several meta-analyses have demonstrated that SME is associated with clinically important benefits in people with diabetes, such as reductions in glycated hemoglobin (A1C) (1) and improvements in cardiovascular (CV) risk factors and reductions in foot ulcerations, infections and amputations (1). A large population-based cohort study of 27,278 people with type 2 diabetes and no known previous cardiovascular disease (CVD) found that attending structured diabetes education was associated with a reduction in: all-cause mortality of 44%, first CVD episode of 20% and stroke of 30% (12). A large retrospective cohort study of 26,790 individuals who had had at least 1 diabetes education session demonstrated lower diabetes-related health-care expenditures after 12 months compared to individuals who did not receive diabetes education (13). Improved quality of life has also been demonstrated (14), in addition to sustained weight loss and CV fitness for up to 4 years following education (15). SME also improved short- and long-term (1 year) self-efficacy and reduced diabetes-related stress (16).
+
+Defining SME
+
+Diabetes SME has evolved from traditional didactic teaching to a variety of educational, psychological and behavioural interventions, and collaborative teaching methods, tailored to the individual's specific needs (17). SME comprises any educational processes that provide individuals with the knowledge and skills to inform decisions and increase their capacity and confidence to apply these skills in daily life situations (4). Interventions and strategies for ongoing self-management of medical, behavioural and emotional aspects of care may be integrated into knowledge and technical skills training (1).
+
+A review of 18 systematic reviews found that educational interventions that emphasize knowledge, emotional and behaviour support, coping strategies and self-management training were associated with improved glycemic control at all ages (1). Additionally, SME strategies that incorporate individual goal setting (16), collaboration, problem solving (18), patient empowerment strategies (12) and tailored education (1) were effective in improving glycemic control and self-care outcomes for individuals with diabetes. Furthermore, SME results in positive changes in diabetes-related knowledge (19), as well as psychological (20–23) and behavioural (20,24) domains. Basic knowledge and skills for SME include monitoring of relevant health parameters, healthy eating, physical activity, pharmacotherapy, prevention and management of hypo- and hyperglycemia, and prevention and surveillance of complications. Skill training includes self-monitoring of blood glucose (SMBG); making healthy dietary choices; incorporating physical activity; stress management; and medication adherence and adjustment (25,26).
+
+Finally, research demonstrates that combining complex cognitive and affective (emotional) interventions to support the detection of problems, identify possible causes and generate corrective actions, were most effective in improving glycemic control (27). The acquisition of knowledge may be augmented with cognitive behavioural interventions to achieve longer-term change in self-care behaviours (7,20,22,28). These include cognitive restructuring, problem solving, cognitive behavioural therapy (CBT), stress management, goal setting and relaxation techniques. All of these recognize that personal awareness and alteration of causative (possibly unconscious) thoughts and emotions are essential for effective behaviour change (29).
+
+Cognitive behavioural interventions share common elements, including a patient-centred approach, shared decision-making, the development of problem-solving skills, and the use of action plans directed toward patient-chosen goals, (20,22,30) and may be used in both individual and group settings (17,20). In general, group settings are more effective for short-term glycemic control, whereas group interventions combined with individual follow-up sessions result in lower glycated hemoglobin (A1C) levels than either setting alone (31). Cognitive-behavioural interventions are effective in lowering A1C (8,32,33), improving quality of life (34,35) and increasing self-care behaviours (20,32), although other studies show mixed results (7,28). A meta-analysis of behavioural interventions for type 1 diabetes found a reduction in A1C of −0.29% after 6 months (9). A network meta-analysis found that 11 or more hours of behavioural interventions for type 2 diabetes were associated with a reduction of A1C of at least 0.4%. The reduction in A1C was even greater in those with baseline A1C levels greater than 7.0%, in adults less than 65 years of age, and in visible minority populations (10). Interventions that combine strategies for knowledge acquisition and self-care management (22,28) appear to be more effective in increasing knowledge, self-efficacy and self-care behaviours and in achieving metabolic control than didactic and knowledge-oriented programs alone (8,17,32,36).
+
+Delivering diabetes SME
+
+Diabetes SME is based on a trusting and collaborative patient-health-care professional relationship (6,8). A growing number of studies demonstrate that early diabetes SME is effective in improving glycemic control (1). However, statistically and clinically significant improvements in A1C were seldom maintained after 3 months without additional SMS (1). Frequent communication is key for successful interventions, whether by an interprofessional, in-hospital diabetes team or a community setting (37,38). Effective individual health-care provider communication may improve adherence by decreasing barriers to overall diabetes management (39).
+
+Many systematic reviews demonstrate that access to an interprofessional team for diabetes education is associated with improvements in glycemic control, lipids and blood pressure (BP) (1). Diabetes education interventions that used a combination of health-care professionals (diabetes educators) were more successful in improving glycemic control for individuals with type 2 diabetes (−1.84%) than interventions that used nurse only (−0.80) or non-nursing personnel (−0.77%) (40). However, nurses working in combination with other health-care professionals are most effective in decreasing A1C levels (−1.84%) (40). Furthermore, expanding the role of educators, to include medication management, support and monitoring of individuals with diabetes, is associated with improvements in glycemic control, cholesterol and BP (1).
+
+Evidence on the use of new technology to support SME in diabetes is still emerging. The current literature suggests that virtual environments provide a feasible and useful platform for diabetes education and support for people with diabetes as well as educators (41,42). SME delivered via the Internet is effective at improving measures of glycemic control and diabetes knowledge in adults with type 2 diabetes compared with usual care (1,41). Internet-delivered diabetes education may increase access for many individuals and they can engage in self-paced learning. The ability to interact with or message an educator/health-care provider is an attractive option to individuals (41); however, most studies report that Internet/web usage declines over time (2,41). New online materials may need to be added for ongoing engagement (41). The use of interactive modules that allow for tracking and tailored feedback, the addition of personalized components from counselors or peer supporters, and/or emails and telephone contacts allow for, and contribute to, the development of online communities (42).
+
+A meta-analysis of computer-based diabetes self-management interventions (via clinics, the Internet and mobile phone apps) to manage type 2 diabetes appears to have a small beneficial effect on A1C (−0.2%), and this effect was larger in the mobile phone subgroup (−0.5%) (43). However, there was no evidence of benefit for other biological, cognitive, behavioural or emotional outcomes (43). Mobile applications, especially text messaging, may also be used as educational tools for improving outcome among people with type 2 diabetes (2,44). In a meta-analysis of 13 trials, a difference in A1C of 0.53% was reported in the intervention compared to usual care. The acceptability of such approaches are mixed as some report high satisfaction, while others report participants requesting to stop the messages before the end of the intervention, and low acceptability for challenging interfaces or inexperienced participants with mobile web use (2). Age, diabetes duration, A1C, and type and length of the intervention may also have implications on the effectiveness of such approaches (44).
+
+Tailoring SME
+
+The content and skill-training components of SME are most effective when individualized according to: the type of diabetes and recommended therapy; the individual's ability for learning and readiness for change; the context of one's cultural beliefs, health beliefs and preferences; literacy level; socioeconomic barriers and other health challenges (8,31,45). Tailoring SME to the individual is paramount. All trials evaluating a culturally appropriate education module (incorporating cultural or faith traditions, values and beliefs, delivery in the person's preferred language, adapted cultural dietary advice, the person's needs and/or involving family members) note improvements in diabetes-related knowledge, self-management behaviours and clinical outcomes (46,47). Family and culturally tailored interventions are particularly relevant in minority communities. Several randomized controlled trials and systematic reviews demonstrate that culturally competent health-care interventions result in lower A1C levels and improvements in diabetes-related knowledge and quality of life (34,37,48). Family and social support positively impact metabolic control and self-care behaviours (37,48,49). In both type 1 and type 2 diabetes, interventions that target the family's ability to cope with stress result in fewer conflicts, and having partners involved in care positively impacts glycemic control (49).
+
+Reviews and meta-analyses conclude that culturally appropriate health education for type 2 diabetes has short-to-medium term effects on glycemic control (mean reduction of A1C ranging from −0.2% to −0.5%) up to 24 months and improved scores on knowledge of diabetes and healthy behaviours for up to 6 months (47,50). Studies identifying program characteristics associated with greater success for minority populations show larger reductions in A1C with individual and face-to-face delivered educational programs and peer educators, than with group-based diabetes education programming (46,51). Additionally, content and materials geared toward people with low literacy and numeracy can be successful in improving outcomes, such as A1C, self-efficacy and BP (52). Training healthcare professionals about health literacy, numeracy and clear communication principles to address low literacy can also be effective (53,54).
+
+Finally, self-identification of problems or need for self-care improvement by the individual is critical to all cognitive-behavioural interventions (32,55). The health-care provider's role is to collaboratively facilitate this awareness or identification of issues (4). Standardized instruments, such as knowledge questionnaires, the Problem Areas in Diabetes (PAID) (56), Diabetes Self-Efficacy (DSE) (16), Self-care Inventory-Revised (SCI-R 2005) (57), or Summary of Diabetes Self-Care Activities (58) may have value in this process (59), although they have been used mainly for research purposes.
+
+Self-Management Support
+
+SMS (also addressed in the Organization of Care chapter, p. S27) refers to policies and people that support self-management behaviours across the lifespan, and are not necessarily specific to educational processes. There is growing evidence that short-term benefits of SME can be further sustained with SMS (1,6). Although historically, diabetes educators have provided SMS, educators are increasingly challenged to offer and maintain SMS, such as frequent and ongoing supportive follow up and case management due to expanding caseloads, complexity of individual diabetes care and limited time and resources (6).
+
+Defining SMS
+
+Diabetes SMS is defined as strategies that augment an individual's ability to self-manage their diabetes (6). Such support may include frequent follow up by a health-care provider, diabetes coaching, peer support or community health workers, linkages with community support groups or interest groups. To date, a growing body of research evidence indicates that combining SME and SMS is most advantageous for improving glycemic control, self-efficacy and self-care behaviours, and reducing diabetes distress and foot complications (1,6,16).
+
+Delivering SMS
+
+The availability of several different technologies, including the Internet, web-based education and communities, text messaging (60–64), email, automatic telephone reminders (65) and telehealth/telephone education (66–69) provide an effective and time-efficient means of providing SMS. Although the delivery strategy for SMS appears to be dependent on the population and context, evidence suggests that frequent interactions with text message systems on mobile phones when combined with the Internet to relay blood glucose records are associated with improved glycemic control (1,43,44,70). Additional systematic reviews of healthy behaviour programs for those living with type 2 diabetes found that web-based programs are effective in increasing physical activity (43,71), decreasing dietary fat intake (43) and improving overall dietary intake (42). Finally, several small trials demonstrate improved outcomes when utilizing reminder systems and scheduled follow ups compared to controls. Outcomes include improving SMBG (60,65,71,72), improved adherence to treatment algorithms (73), improved self-efficacy (6,66–68) and quality of life (74), as well as improved clinical outcomes, including reductions in A1C (61–64,67,70,75,76) and weight (69,77).
+
+Peer facilitators may augment multidisciplinary team practices and SME in providing SMS. Studies of peer support show a significant reduction in A1C by −0.57% with individual-based interventions providing the greatest A1C reduction (−0.91%) compared to group or individual and group combined (78). The superiority of peer-delivered programs over similar programs delivered by health professionals is yet to be demonstrated in general populations with type 2 diabetes (79,80). Studies of the incremental effect of peer educators show variability in terms of behaviour change and clinical outcomes (81,82). Although training and scope of practice of peer leaders or community support workers is not clearly articulated in the literature, some examples exist for which the role has been successfully created, implemented and evaluated in clinical and community settings (78,83).
+
+Tailoring SMS
+
+An SMS intervention that is most readily available for tailoring includes frequent follow up with a diabetes educator (84). A telephone-based support intervention (4 phone calls in one year), following education, to reach a lower-income minority population living with diabetes, found that participants who receive telephone contact have an A1C 0.9% lower than those who did not, suggesting that a telephone intervention by diabetes nurse educators is a clinically effective strategy to support diverse populations living with diabetes (84).
+
+Community health workers may also play an important role in tailoring SMS interventions to ethnically diverse populations. A systematic review found that access to a community health worker in a minority population results in a decrease in A1C of −0.37% to −0.75%, with the greatest improvement in A1C at 3 months (83). Peer support and community health workers may offer SMS and engage with individuals with diabetes in the community setting, primarily in faith-based settings, community health centres and at community events (83).
+
+Finally, diabetes coaching is emerging as a promising SMS intervention that offers opportunities for personalized support, depending on an individual's self-management needs and preferences. A recent systematic review identified the coaching role as comprised of goal setting, knowledge acquisition, individualized care and frequent/ongoing follow up (85). The review found that access to diabetes coaching led to a reduction in A1C of −0.32% when offered with usual care over a period of 3 months to 1 year (85); however, the training and regulatory requirements for diabetes coaches have not been clarified, and significant variations in scope of practice remain in the Canadian health-care setting.
+
+Figure 1
+A model for self-management education (SME) and self-management support (SMS).
+
+Conclusions
+
+Evidence supports the beneficial effect of SME on diabetes clinical, emotional and behavioural outcomes. Increasingly, multifaceted programs that incorporate behavioural/psychosocial interventions, as well as knowledge and skills training are more effective than didactic educational programs or programs which focus on single strategies (1,7,9,10,17,45). Furthermore, SMS, when coupled with SME, is complementary and sustains the short-term benefits seen with SME (1,6). Interventions that include face-to-face delivery, a cognitive-behavioural method and the practical application of content are more likely to improve glycemic control (33,45,86). The most effective behavioural interventions involve a patient-centred approach, shared decision-making, the development of problem solving skills and the use of action plans directed toward patient-chosen goals (Figure 1).
+
+Recommendations
+People with diabetes should be offered timely SME that is tailored to enhance self-care practices and behaviours [Grade A, Level 1A (1,7,9,10,38,45)].
+All people with diabetes who are able should be taught how to self-manage their diabetes [Grade B, Level 2 (16,38,40)].
+SME that incorporates cognitive-behavioural educational interventions, such as problem solving, goal setting, self-monitoring of health parameters and dietary modifications and physical activity, should be implemented for all able individuals with diabetes [Grade B, Level 2 (18,20,33,42,45,71,86,87)].
+SME interventions may be offered in small group and/or one-on-one settings [Grade A, Level 1A (88,89) for type 2 diabetes; Grade D, Consensus for type 1 diabetes].
+Interventions that increase participation and collaboration of the person with diabetes in health-care decision-making should be used by health-care providers [Grade B, Level 2 (38)].
+Support for self-management should be offered to assist individuals in implementing and maintaining diabetes self-management [Grade B, Level 2 (1)] by offering any of the following:
+Peer-led support or community support workers [Grade B, Level 2 (6,78,83)]
+Diabetes coaching [Grade B, Level 2 (85)]
+Telephone follow up [Grade B, Level 2 (84)].
+In both type 1 and type 2 diabetes, interventions that target the family's ability to cope with stress or diabetes-related conflict should be included in educational interventions when indicated [Grade B, Level 2 (49)].
+Technologies, such as Internet-based computer programs and glucose monitoring systems, brief text messages and mobile apps, may be used to support self-management in order to improve glycemic control [Grade A, Level 1A (44,70) for type 2 diabetes; Grade B, Level 2 (1) for type 1 diabetes].
+9.
+
+Culturally appropriate SME and SMS, which may include peer or lay educators, may be used to increase diabetes-related knowledge and self-care behaviours and to improve glycemic control [Grade A, Level 1A (46,47,50)].
+
+10.
+
+Adding literacy- and numeracy-sensitive materials to comprehensive diabetes management education and support programs may improve knowledge, self-efficacy and A1C outcomes for people with low literacy [Grade C, Level 3 (52)].
+
+Abbreviations:
+
+AIC, glycated hemoglobin; SME, self-management education; SMS, self-management support.
+
+Other Relevant Guidelines
+Organization of Diabetes Care, p. S27
+Monitoring Glycemic Control, p. S47
+Diabetes and Mental Health, p. S130
+Type 1 Diabetes in Children and Adolescents, p. S234
+
+Literature Review Flow Diagram for Chapter 7: Self-Management Education and Support
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (90).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Sherifali reports investigator-initiated funding from AstraZeneca. Lori Berard has received consulting and/or speaker fees from Bayer, Boehringer Ingelheim, Sanofi, Eli Lilly, Novo Nordisk, Janssen, AstraZeneca, and Merck. No other authors have anything to disclose.
+
+References
+Worswick J, Wayne SC, Bennett R, et al. Improving quality of care for persons with diabetes: An overview of systematic reviews—what does the evidence tell us? Syst Rev 2013;2:26.
+Arambepola C, Ricci-Cabello I, Manikavasagam P, et al. The impact of automated brief messages promoting lifestyle changes delivered via mobile devices to people with type 2 diabetes: A systematic literature review and meta-analysis of controlled trials. J Med Internet Res 2016;18:e86.
+Chodosh J, Morton SC, Mojica W, et al. Meta-analysis: Chronic disease selfmanagement programs for older adults. Ann Intern Med 2005;143:427-38.
+Bodenheimer T, Lorig K, Holman H, et al. Patient self-management of chronic disease in primary care. JAMA 2002;288:2469–75.
+Powers MA, Bardsley J, Cypress M, et al. Diabetes self-management education and support in type 2 diabetes: A joint position statement of the American Diabetes Association, the American Association of Diabetes Educators, and the Academy of Nutrition and Dietetics. Diabetes Care 2015;34:70–80.
+Siminerio L, Ruppert KM, Gabbay RA. Who can provide diabetes self-management support in primary care? Findings from a randomized controlled trial. Diabetes Educ 2013;39:705-13.
+Minet L, Møller S, Vach W, et al. Mediating the effect of self-care management intervention in type 2 diabetes: A meta-analysis of 47 randomised controlled trials. Patient Educ Couns 2010;80:29–41.
+Gary TL, Genkinger JM, Guallar E, et al. Meta-analysis of randomized educational and behavioral interventions in type 2 diabetes. Diabetes Educ 2003;29:488-501.
+Pillay J, Armstrong MJ, Butalia S, et al. Behavioral programs for type 1 diabetes mellitus: A systematic review and meta-analysis. Ann Intern Med 2015;163:836-47.
+Pillay J, Armstrong MJ, Butalia S, et al. Behavioral programs for type 2 diabetes mellitus: A systematic review and network meta-analysis. Ann Intern Med 2015;163:848-60.
+Chrvala CA, Sherr D, Lipman RD. Diabetes self-management education for adults with type 2 diabetes mellitus: A systematic review of the effect on glycemic control. Patient Educ Couns 2016;99:926-43.
+Wong CK,Wong WC,Wan YF, et al. Patient Empowerment Programme in primary care reduced all-cause mortality and cardiovascular diseases in patients with type 2 diabetes mellitus: A population-based propensity-matched cohort study. Diabetes Obes Metab 2015;17:128-35.
+Dalal MR, Robinson SB, Sullivan SD. Real-world evaluation of the effects of counseling and education in diabetes management. Diabetes Spectr 2014;27:235-43.
+Cochran J, Conn VS. Meta-analysis of quality of life outcomes following diabetes self-management training. Diabetes Educ 2008;34:815–23.
+The Look Ahead Research Group. Long term effects of a lifestyle intervention on weight and cardiovascular risk factors in individuals with type 2 diabetes: Four year results of the Look AHEAD Trial. Arch Intern Med 2010;170:1566-75.
+Sperl-Hillen J, Beaton S, Fernandes O, et al. Are benefits from diabetes selfmanagement education sustained? Am J Manag Care 2013;19:104-12.
+Fan L, Sidani S. Effectiveness of diabetes self-management education intervention elements: A meta-analysis. Can J Diabetes 2009;33:18-26. http://www.canadianjournalofdiabetes.com/article/S1499-2671(09)31005-9/pdf.
+Fitzpatrick SL, Schumann KP, Hill-Briggs F. Problem solving interventions for diabetes self-management and control: A systematic review of the literature. Diabetes Res Clin Pract 2013;100:145-61.
+Scain SF, Friedman R, Gross JL. A structured educational program improves metabolic control in patients with type 2 diabetes: A randomized controlled trial. Diabetes Educ 2009;35:603-11.
+Kulzer B, Hermanns N, Reinecker H, et al. Effects of self-management training in Type 2 diabetes: A randomized, prospective trial. Diabet Med 2007;24:415-23.
+Sturt JA, Whitlock S, Fox C, et al. Effects of the diabetes manual 1:1 structured education in primary care. Diabet Med 2008;25:722-31.
+Davies MJ, Heller S, Skinner TC, et al. Effectiveness of the diabetes education and self management for ongoing and newly diagnosed (DESMOND) programme for people with newly diagnosed type 2 diabetes: Cluster randomised controlled trial. BMJ 2008;336:491-5.
+Wattana C, Srisuphan W, Pothiban L, et al. Effects of a diabetes self-management program on glycemic control, coronary heart disease risk, and quality of life among Thai patients with type 2 diabetes. Nurs Health Sci 2007;9:135-41.
+Christian JG, Bessesen DH, Byers TE, et al. Clinic-based support to help overweight patients with type 2 diabetes increase physical activity and lose weight. Arch Intern Med 2008;168:141-6.
+Canadian Diabetes Association. Diabetes Educator Section. Building competency in diabetes education: The essentials. Toronto: Diabetes Educator Section, Canadian Diabetes Association, 2008.
+American Association of Diabetes Educators. Position statement. Standards for outcome measures of diabetes self-management. Diabetes Educ 2003;29:804-16.
+Pownall HJ, Bray GA,Wagenknecht LE, et al. Changes in body composition over 8 years in a randomized trial of a lifestyle intervention: The look AHEAD study. Obesity (Silver Spring) 2015;23:565-72.
+Magwood GS, Zapka J, Jenkins C. A review of systematic reviews evaluating diabetes interventions: Focus on quality of life and disparities. Diabetes Educ 2008;34:242-65.
+Ismail K, Winkley K, Rabe-Hesketh S. Systematic review and meta-analysis of randomised controlled trials of psychological interventions to improve glycaemic control in patients with type 2 diabetes. Lancet 2004;363:1589-97.
+Gambling T, Long AF. The realisation of patient-centred care during a 3-year proactive telephone counselling self-care intervention for diabetes. Patient Educ Couns 2010;80:219-26.
+Norris SL, Lau J, Smith SJ, et al. Self-management education for adults with type 2 diabetes: A meta-analysis of the effect on glycemic control. Diabetes Care 2002;25:1159-71.
+Ismail K, Maissi E, Thomas S, et al. A randomised controlled trial of cognitive behaviour therapy and motivational interviewing for people with type 1 diabetes mellitus with persistent sub-optimal glycaemic control: A Diabetes andPsychological Therapies (ADaPT) study. Health Technol Assess 2010;14:1-101, iii-iv.
+Weinger K, Beverly EA, Lee Y, et al. The effect of a structured behavioral intervention on poorly controlled diabetes: A randomized controlled trial. Arch Intern Med 2011;171:1990-9.
+Kim MT, Han HR, Song HJ, et al. A community-based, culturally tailored behavioral intervention for Korean Americans with type 2 diabetes. Diabetes Educ 2009;35:986-94.
+Toobert DJ, Glasgow RE, Strycker LA, et al. Long-term effects of the Mediterranean lifestyle program: A randomized clinical trial for postmenopausal women with type 2 diabetes. Int J Behav Nutr Phys Act 2007;4:1.
+Mulcahy K, Maryniuk M, Peeples M, et al. Diabetes self-management education core outcomes measures. Diabetes Educ 2003;29:768–70, 73-84, 87-8.
+Samuel-Hodge CD, Keyserling TC, Park S, et al. A randomized trial of a churchbased diabetes self-management program for African Americans with type 2 diabetes. Diabetes Educ 2009;35:439-54.
+Norris SL, Engelgau MM, Narayan KM. Effectiveness of self-management training in type 2 diabetes: A systematic review of randomized controlled trials. Diabetes Care 2001;24:561-87.
+Nam S, Chesla C, Stotts NA, et al. Barriers to diabetes management: Patient and provider factors. Diabetes Res Clin Pract 2011;93:1-9.
+Klein HA, Jackson SM, Street K, et al. Diabetes self-management education: Miles to go. Nurs Res Pract 2013;2013:581012.
+Pereira K, Phillips B, Johnson C, et al. Internet delivered diabetes self-management education: A review. Diabetes Technol Ther 2015;17:55-63.
+Cotter AP, Durant N, Agne AA, et al. Internet interventions to support lifestyle modification for diabetes management: A systematic review of the evidence. J Diabetes Complications 2014;28:243-51.
+Pal K, Eastwood SV, Michie S, et al. Computer-based interventions to improve self-management in adults with type 2 diabetes: A systematic review and metaanalysis. Diabetes Care 2014;37:1759-66.
+Saffari M, Ghanizadeh G, Koenig HG. Health education via mobile text messaging for glycemic control in adults with type 2 diabetes: A systematic review and meta-analysis. Prim Care Diabetes 2014;8:275-85.
+Ellis SE, Speroff T, Dittus RS, et al. Diabetes patient education: A meta-analysis and meta-regression. Patient Educ Couns 2004;52:97-105.
+Ricci-Cabello I, Ruiz-Pérez I, Rojas-García A, et al. Characteristics and effectiveness of diabetes self-management educational programs targeted to racial/ ethnic minority groups: A systematic review, meta-analysis and meta-regression. BMC Endocr Disord 2014;14:60.
+Attridge M, Creamer J, Ramsden M, et al. Culturally appropriate health education for people in ethnicminority groups with type 2 diabetes mellitus. Cochrane Database Syst Rev 2014;(9):CD006424.
+Whittemore R. Culturally competent interventions for Hispanic adults with type 2 diabetes: A systematic review. J Transcult Nurs 2007;18:157-66.
+Armour TA, Norris SL, Jack L Jr, et al. The effectiveness of family interventions in people with diabetes mellitus: A systematic review. Diabet Med 2005;22:1295-305.
+Creamer J, Attridge M, Ramsden M, et al. Culturally appropriate health education for Type 2 diabetes in ethnic minority groups: An updated Cochrane Review of randomized controlled trials. Diabet Med 2016;33:169-83.
+Gucciardi E, Chan VW, Manuel L, et al. A systematic literature review of diabetes self-management education features to improve diabetes education in women of Black African/Caribbean and Hispanic/Latin American ethnicity. Patient Educ Couns 2013;92:235-45.
+Van Scoyoc EE, DeWalt DA. Interventions to improve diabetes outcomes for people with low literacy and numeracy: A systematic literature review. Diabetes Spectr 2010;23:228-37. http://spectrum.diabetesjournals.org/content/23/4/228.short.
+Cavanaugh K,Wallston KA, Gebretsadik T, et al. Addressing literacy and numeracy to improve diabetes care: Two randomized controlled trials. Diabetes Care 2009;32:2149-55.
+Osborn CY, Cavanaugh K, Wallston KA, et al. Diabetes numeracy: An overlooked factor in understanding racial disparities in glycemic control. Diabetes Care 2009;32:1614-19.
+Funnell MM, Nwankwo R, Gillard ML, et al. Implementing an empowermentbased diabetes self-management education program. Diabetes Educ 2005;31:53-61.
+Polonsky WH, Fisher L, Earles J, et al. Assessing psychosocial distress in diabetes: Development of the diabetes distress scale. Diabetes Care 2005;28:626-31.
+Weinger K, Butler HA, Welch GW, et al. Measuring diabetes self-care: A psychometric analysis of the Self-Care Inventory-Revised with adults. Diabetes Care 2005;28:1346-52.
+Toobert DJ, Hampson SE, Glasgow RE. The summary of diabetes self-care activities measure: Results from 7 studies and a revised scale. Diabetes Care 2000;23:943-50.
+Sigurdardottir AK, Benediktsson R, Jonsdottir H. Instruments to tailor care of people with type 2 diabetes. J Adv Nurs 2009;65:2118-30.
+Hanauer DA,Wentzell K, Laffel N, et al. Computerized Automated Reminder Diabetes System (CARDS): E-mail and SMS cell phone text messaging reminders to support diabetes management. Diabetes Technol Ther 2009;11:99-106.
+Yoon KH, Kim HS. A short message service by cellular phone in type 2 diabetic patients for 12 months. Diabetes Res Clin Pract 2008;79:256–61.
+Kim HS. A randomized controlled trial of a nurse short-message service by cellular phone for people with diabetes. Int J Nurs Stud 2007;44:687-92.
+Kim HS, Jeong HS. A nurse short message service by cellular phone in type-2 diabetic patients for six months. J Clin Nurs 2007;16:1082-7.
+Kim HS, Song MS. Technological intervention for obese patients with type 2 diabetes. Appl Nurs Res 2008;21:84-9.
+Graziano JA, Gross CR. A randomized controlled trial of an automated telephone intervention to improve glycemic control in type 2 diabetes. ANS Adv Nurs Sci 2009;32:E42-57.
+Weinstock RS, Brooks G, Palmas W, et al. Lessened decline in physical activity and impairment of older adults with diabetes with telemedicine and pedometer use: Results from the IDEATel study. Age Ageing 2011;40:98-105.
+Trief PM, Teresi JA, Eimicke JP, et al. Improvement in diabetes self-efficacy and glycaemic control using telemedicine in a sample of older, ethnically diverse individuals who have diabetes: The IDEATel project. Age Ageing 2009;38:219-25.
+Trief PM, Teresi JA, Izquierdo R, et al. Psychosocial outcomes of telemedicine case management for elderly patients with diabetes: The randomized IDEATel trial. Diabetes Care 2007;30:1266-8.
+Franciosi M, Lucisano G, Pellegrini F, et al. ROSES: Role of self-monitoring of blood glucose and intensive education in patients with Type 2 diabetes not receiving insulin. A pilot randomized clinical trial. Diabet Med 2011;28:789-96.
+Hou C, Carter B, Hewitt J, et al. Do mobile phone applications improve glycemic control (HbA1c) in the self-management of diabetes? A systematic review, meta-analysis, and GRADE of 14 randomized trials. Diabetes Care 2016;39:2089-95.
+Cox DJ, Gill Taylor A, Dunning ES, et al. Impact of behavioral interventions in the management of adults with type 2 diabetes mellitus. Curr Diab Rep 2013;13:860-8.
+Lorig K, Ritter PL, Villa F, et al. Spanish diabetes self-management with and without automated telephone reinforcement: Two randomized trials. Diabetes Care 2008;31:408-14.
+Dyson PA, Beatty S, Matthews DR. An assessment of lifestyle video education for people newly diagnosed with type 2 diabetes. J Hum Nutr Diet 2010;23:353-9.
+Jansa M, Vidal M, Viaplana J, et al. Telecare in a structured therapeutic education programme addressed to patients with type 1 diabetes and poor metabolic control. Diabetes Res Clin Pract 2006;74:26-32.
+Stone RA, Rao RH, Sevick MA, et al. Active care management supported by home telemonitoring in veterans with type 2 diabetes: The DiaTel randomized controlled trial. Diabetes Care 2010;33:478-84.
+Pare G, Moqadem K, Pineau G, et al. Clinical effects of home telemonitoring in the context of diabetes, asthma, heart failure and hypertension: A systematic review. J Med Internet Res 2010;12:e21.
+Wu L, Forbes A, While A. Patients’ experience of a telephone booster intervention to support weight management in type 2 diabetes and its acceptability. J Telemed Telecare 2010;16:221–3.
+Qi L, Liu Q, Qi X, et al. Effectiveness of peer support for improving glycaemic control in patients with type 2 diabetes: A meta-analysis of randomized controlled trials. BMC Public Health 2015;15:471.
+Smith SM, Paul G, Kelly A, et al. Peer support for patients with type 2 diabetes: Cluster randomised controlled trial. BMJ 2011;342:d715.
+Baksi AK, Al-Mrayat M, Hogan D, et al. Peer advisers compared with specialist health professionals in delivering a training programme on self-management to people with diabetes: A randomized controlled trial. Diabet Med 2008;25:1076-82.
+Norris SL, Chowdhury FM, Van Le K, et al. Effectiveness of community health workers in the care of persons with diabetes. Diabet Med 2006;23:544-56.
+Pérez-Escamilla R, Hromi-Fiedler A, Vega-López S, et al. Impact of peer nutrition education on dietary behaviors and health outcomes among Latinos: A systematic literature review. J Nutr Educ Behav 2008;40:208-25.
+Little TV, Wang ML, Castro EM, et al. Community health worker interventions for Latinos with type 2 diabetes: A systematic review of randomized controlled trials. Curr Diab Rep 2014;14:558.
+Chamany S, Walker EA, Schechter CB, et al. Telephone intervention to improve diabetes control: A randomized trial in the New York City A1c Registry. Am J Prev Med 2015;49:832-41.
+Sherifali D, Viscardi V, Bai JW, et al. Evaluating the effect of a diabetes health coach in ondividuals with type 2 diabetes. Can J Diabetes 2016;40:84-94.
+Steed L, Cooke D, Newman S. A systematic review of psychosocial outcomes following education, self-management and psychological interventions in diabetes mellitus. Patient Educ Couns 2003;51:5-15.
+Huang XL, Pan JH, Chen D, et al. Efficacy of lifestyle interventions in patients with type 2 diabetes: A systematic review and meta-analysis. Eur J Intern Med 2016;27:37-47.
+Deakin T, McShane CE, Cade JE, et al. Group based training for self-management strategies in people with type 2 diabetes mellitus. Cochrane Database Syst Rev 2005;(2):CD003417.
+Tildesley HD, Mazanderani AB, Ross SA. Effect of Internet therapeutic intervention on A1C levels in patients with type 2 diabetes treated with insulin. Diabetes Care 2010;33:1738-40.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

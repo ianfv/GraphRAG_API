@@ -1,0 +1,253 @@
+Chapter Headings
+
+Introduction
+Methods
+Change in Terminology
+Strength of Wording
+Real-Time Continuous Glucose Monitoring (rtCGM)
+Intermittently-Scanned Continuous Glucose Monitoring (isCGM)
+Comparison of rtCGM and isCGM in People With Type 1 Diabetes
+Masked Continuous Glucose Monitoring
+Glucose Monitoring in Women With Diabetes During Pregnancy
+Glucose Monitoring in Children and Adolescents With Diabetes
+Glucose Metrics
+Importance of Diabetes Self-Management Education
+Author Disclosures
+Introduction
+
+The Diabetes Canada Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada (CPG) were last published in 2018 (1). Rapid uptake of new monitoring technologies by persons living with diabetes and uncertainty among health-care professionals prompted a review of evidence emerging since our previous recommendations for “Monitoring Glycemic Control” (2). We have updated the title for this topic to align with Diabetes Canada’s position statement on “Language Matters” (3).
+
+Methods
+
+A consolidated search strategy (for adults, children and pregnant women) was developed by modifying and updating PICO (population, intervention, comparison and outcome) questions used for the 2018 CPG (chapters 9, 34, 35, 36). A systematic search of the literature for relevant articles published from November 1, 2017 to October 28, 2020 was performed by the health science librarians at the McMaster Evidence Review and Synthesis Team (MERST). The MERST team reviewed all relevant citations at title, abstract and full-text levels. Relevant citations were abstracted and critically reviewed by a methodologist from MERST. All MERST staff (librarians and methodologists) were without financial or intellectual conflict. The full-text citations and critical appraisal reports were provided to the expert working group. Members of the expert working group were selected by the CPG Steering Committee with the goal of ensuring representation of diverse perspectives (across disciplines, and academic and community settings), appropriate content and methodologic expertise, while limiting the potential of financial conflict, as much as possible. Diabetes Canada has a formal policy to manage conflict of interest for the CPG Steering Committee.
+
+The expert working group reviewed the citations, graded the evidence, drafted the revised recommendations and created the initial draft of the preamble document to accompany the revised recommendations. For this update, the CPG Steering Committee reviewed the cited evidence independently and suggested revisions to the draft recommendations and the text. The grading of recommendations was reviewed independently by the Independent Methods Review Co-Chair (D.R.). The finalized recommendations were unanimously approved by the CPG Steering Committee.
+
+Change in Terminology
+
+Glucose monitoring remains a cornerstone of diabetes management. It allows people living with diabetes and their health-care providers to assess glycemic status and adverse effects, and to determine the effectiveness of glucose lowering therapies. Testing of glycated hemoglobin (A1C) continues to be the primary modality to ensure that glycemic goals are being met and the recommended frequency of testing remains unchanged. However, A1C is a measure of chronic glycemic levels over months and does not provide information that can inform immediate/short-term decisions. To measure glucose levels in real time, different modalities exist currently and new technologies are being studied. To address this expanding field, the terminology used to describe the different modalities needs to adapt to allow for future growth and has been updated in Table 1.
+
+Table 1
+Terminology for different glucose monitoring modalities
+∗mCGM is a diagnostic tool for use by diabetes care providers, not for diabetes self-management.
+New term	Previous term	Definition
+Capillary blood glucose (CBG)	Self-monitored blood glucose (SMBG)	Determination of glucose in the capillary blood using finger sticks
+Intermittently scanned continuous glucose monitoring (isCGM)	Flash glucose monitoring (FGM)	Measurement of interstitial fluid glucose via intermittent scanning of sensing device
+Real-time continuous glucose monitoring (rtCGM)	Continuous glucose monitoring	Measurement of interstitial fluid glucose via a sensing device that is continuously transmitting the data to a device with real-time display for viewing at any time
+Masked continuous glucose monitoring (mCGM)∗	Professional continuous glucose monitoring	Measurement of interstitial fluid glucose via a sensing device that stores the data to be retrieved at a later time
+Strength of Wording
+
+To maintain consistency with other chapters in the 2018 CPG, the language within the recommendations has been modified, such that interventions supported by Grade A, Level 1 evidence, and confirmed as appropriate through clinical experience, are now written as “should be used” in place of the previous language of “may be offered.” The population, intervention and expected outcome benefit is clearly indicated in each recommendation and the action language should reflect the confidence in the evidence provided.
+
+Real-Time Continuous Glucose Monitoring (rtCGM)
+
+For people living with type 1 diabetes who use basal-bolus injection therapy or continuous subcutaneous insulin infusion (CSII), rtCGM has been shown to reduce A1C (4–9) and increase glucose time in range (TIR) (5,7,8,10), while simultaneously reducing duration and incidence of hypoglycemia (5,7–11) in adults and children. These glycemic benefits of rtCGM have been demonstrated in trials recruiting adults and children with A1C at target (<7.5%) (6) or above target (4–6,9); and in trials which included adults at or above target (8). As well as reducing biochemical (i.e. not necessarily symptomatic) hypoglycemia, rtCGM has been shown to reduce episodes of severe hypoglycemia in adults with a history of severe hypoglycemia or impaired awareness of hypoglycemia using multiple daily injections (MDI) (11). rtCGM has also been shown to improve quality of life and hypoglycemia distress in adults with type 1 diabetes (11–13).
+
+For people living with type 2 diabetes using basal-bolus injection therapy, a randomized controlled trial of 158 subjects demonstrated that the use of rtCGM reduced A1C to a greater extent than usual care, with more time spent in the target range and less time spent above range at 24 weeks (14). Therefore, it is now recommended that rtCGM may be used to improve glycemic levels in those with type 2 diabetes on basal-bolus injection therapy, with a reminder that successful use of rtCGM is dependent on the duration of time it is used, along with the importance of providing it in association with structured education and therapeutic programs (see section Importance of Diabetes Self-Management Education).
+
+Intermittently-Scanned Continuous Glucose Monitoring (isCGM)
+
+The use of isCGM has been shown to be beneficial for people living with type 1 or type 2 diabetes using insulin therapy to decrease time spent in hypoglycemia (15–17). Randomized controlled trials of isCGM compared to capillary blood glucose (CBG) testing in type 1 and type 2 diabetes have not consistently demonstrated differences in A1C (18). However, in a recent health technology assessment, other glucose parameters have been shown to improve. Compared with CBG testing, people using isCGM spent, on average, 1 hour more in target glucose range (95% confidence interval [CI] 0.41–1.59) and 22 minutes less in a high glucose range (95% CI −0.69 to −0.05) per day and less glucose variability among those with type 1 diabetes (19). A meta-regression, which included clinical trials and observational studies (which are subject to a number of biases) in type 1 and type 2 diabetes, suggested isCGM could reduce A1C by 0.55%, with the magnitude of A1C reduction being proportional to baseline A1C (20). However, as is true with any form of glucose monitoring, the act of monitoring may not of itself improve glucose levels, but, rather, provide data that permits users and providers to take actions to impact glucose levels underlying the importance of diabetes self-management education (see below).
+
+Comparison of rtCGM and isCGM in People With Type 1 Diabetes
+
+Two studies have directly compared rtCGM with isCGM in adults with type 1 diabetes. rtCGM users spent more TIR and less time below range (TBR) than isCGM users in a 5-week randomized study in adults with normal awareness of hypoglycemia using MDI or CSII (21). In an 8-week study of individuals with impaired awareness of, or recent severe hypoglycemia using MDI, rtCGM reduced time in hypoglycemia and fear of hypoglycemia, which was not seen with isCGM (22). Superiority of rtCGM to protect from hypoglycemia in this high-risk population was supported in the extension phase of this study, where switching to rtCGM was associated with significant reduction in TBR in subjects originally randomized to isCGM (23).
+
+Masked Continuous Glucose Monitoring
+
+A pragmatic, open-label 12-month study of the use of masked CGM every 3 months, for 5 to 14 days before their clinical visit, compared to usual clinical care among those with type 2 diabetes in general practice, showed no difference in the primary endpoint of A1C at 12 months (24), but there was an increase in TIR at 12 months and lower A1C at 6 months. Similarly, a randomized study of 148 people living with type 2 diabetes treated with insulin compared the effects of masked CGM and usual care with CBG testing in primary and secondary care settings and did not show a difference in the primary endpoint of TIR but did show a greater reduction in A1C with no increase in hypoglycemia (25). Given the conflicting data regarding the effects of the use of masked CGM, no recommendation can be made at this time.
+
+Glucose Monitoring in Women With Diabetes During Pregnancy
+Accuracy of rtCGM and isCGM in pregnancy
+
+In a study of the performance of rtCGM (Dexcom G6) in 32 pregnant women with diabetes (type 1, type 2 and gestational diabetes) across sensor wear sites, accuracy of rtCGM was acceptable (overall mean absolute relative difference [MARD] was 10.3%) when compared to venous glucose measures, which were taken during a period of 6 hours when participants were allowed to eat freely. rtCGM was also found to be acceptably accurate in the hypoglycemic range (<3.8 mmol/L), with a mean absolute difference of 0.5 mmol/L between 3-3.8 mmol/L and 0.35 mmol/L at glucose levels of 2.2-3.0 mmol/L. Comparing different sites, the posterior upper arm was found to be most accurate, with a MARD of 8.7%, followed by the buttock (11.2%) and the abdomen (11.5%) (26).
+
+The use of isCGM in pregnant women with diabetes has also been studied for accuracy and safety. In a study of 74 pregnant women with type 1, type 2 or gestational diabetes, isCGM was found to have good agreement with CBG (overall MARD 11.8%), with high levels of user satisfaction (27).
+
+Glucose monitoring in pregnant women with type 1 and type 2 diabetes
+
+The Continuous Glucose Monitoring in Women with Type 1 Diabetes in Pregnancy (CONCEPTT) trial randomized 325 women (215 pregnant and 110 planning pregnancy) with type 1 diabetes, to rtCGM, in addition to CBG testing or CBG testing alone (28). Pregnant rtCGM users spent more time in the target range of 3.5 to 7.8 mmol/L (68% vs 61%, p=0.0034) and less time above the range (>7.8 mmol/L) (27% vs 32%, p=0.0279) than did pregnant participants using CBG testing alone, with comparable severe hypoglycemic episodes and time spent with hypoglycemia. Neonatal health outcomes were significantly improved, with a lower incidence of large for gestational age (LGA) infants (OR 0.51, 95% CI 0.28–0.90, p=0.021), fewer neonatal intensive care unit (NICU) admissions lasting more than 24 hours (OR 0.48, 95% CI 0.26–0.86, p=0.0157), and a lower risk of neonatal hypoglycemia (OR 0.45; 95% CI 0.22–0.89, p=0.025). No benefit was observed for women planning a pregnancy (28). A budget impact model, where the National Health Service in England was used, estimated the total cost of pregnancy and delivery in women with type 1 diabetes using CBG testing with or without rtCGM. The potential annual cost savings of using rtCGM was estimated to be approximately £9.5 million, with the principal driver being reduced need for NICU and reduced duration of stay in NICU (29). Taken together, these data support updating the recommendation that rtCGM should be used in women with type 1 diabetes during pregnancy to improve blood glucose levels, and to reduce the risk for LGA infants, neonatal hypoglycemia and NICU admissions >24 hours.
+
+To date, there have been no randomized trials using isCGM in pregnant women with type 1 or type 2 diabetes. In an observational cohort study of 186 women with type 1 diabetes attending pregnancy care at 2 tertiary care antenatal clinics in Sweden (92 women used rtCGM and 94 women used isCGM), TIR (3.5 to 7.8 mmol/L) was similar in the 2 groups, although time spent in hypoglycemia was higher in the isCGM group. Pregnancy outcomes were associated with CGM metrics and the incidence of LGA was similar in the 2 groups (52% rtCGM vs 53% isCGM) (30). The TIR achieved in this observational study (reaching 60% in the third trimester) was similar to the control arm, but lower than the intervention arm of CONCEPTT. While isCGM has not yet been shown to reduce neonatal morbidity in women with type 1 diabetes, these data are reassuring, but these observational data are not sufficient to conclude non-inferiority. Achieving optimal glycemic targets is more important than the technology employed. The effectiveness of rtCGM or isCGM for glycemic or fetal outcomes has not yet been studied in pregnant women with type 2 diabetes.
+
+Glucose monitoring in pregnant women with gestational diabetes
+
+Frequent CBG testing is essential to guide management of gestational diabetes (31). Both fasting and postprandial testing are recommended to guide therapy in order to improve fetal outcomes (32). In a randomized trial of 293 women with newly diagnosed gestational diabetes, after 1 week of daily CBG testing (4 times per day: fasting and 2 hours postprandial), women who did not require pharmacotherapy were randomized to testing (4 times per day), either daily or every other day (33). The alternate day approach was non-inferior for birthweight and there were no differences in the need for medical therapy, gestational age of delivery, rate of LGA or preeclampsia. Consistent use of CBG testing was found to be higher in the every-other-day group (89% compared with 92%, p=0.01). It is, therefore, reasonable to reduce testing to every other day after 1 week of testing daily, if glucose levels do not indicate the need for pharmacotherapy.
+
+There have been no new randomized trials or cohort studies using rtCGM or isCGM in women with gestational diabetes since 2018. More studies are needed to assess the benefits of rtCGM or isCGM in women with gestational diabetes.
+
+Glucose Monitoring in Children and Adolescents With Diabetes
+CBG testing
+
+Among children and adolescents with type 1 diabetes, frequent CBG testing (4 or more tests per day) was associated with lower A1C (34,35). In youth with type 2 diabetes on noninsulin antihyperglycemic therapy or insulin, low frequency of CBG testing was associated with higher A1C (36).
+
+rtCGM
+
+Two of 3 randomized controlled trials which included children as young as 6 years, comparing rtCGM to CBG testing, showed lower A1C and less TBR in both adults and children (7,9), but this was not seen in pediatric participants in the other study, which had very low use of rtCGM and was under-powered to detect differences in hypoglycemia (37). Lower A1C with rtCGM in children may depend on time spent using CGM since further analysis of pediatric subjects in this latter trial showed use of rtCGM for 6 or more days per week improved A1C by -0.8 ± 0.6% at 12 months (38). Characteristics, such as younger age and higher frequency of CBG testing prior to rtCGM, may help predict those who are more likely to use rtCGM consistently (39). Another study in younger children (ages 4 to 10 years) did not show any change or differences in A1C or CGM parameters between groups, although the use of rtCGM was associated with a high degree of parental satisfaction with rtCGM (40). These findings underscore a fear of hypoglycemia which is reflected in more conservative recommended glucose targets. In randomized controlled trials (37,40) and observational studies (41,42) of rtCGM, the rates of severe hypoglycemia were low, making it difficult to assess the effect of rtCGM on rates of severe hypoglycemia.
+
+Table 2
+Glucose metrics that can be derived from continuous glucose monitoring∗ (47,48) and recommended targets from the International Consensus Report for most individuals with type 1 or type 2 diabetes (excluding pregnancy, children/adolescents, and older/high-risk groups) (49)
+A1C, glycated hemoglobin; CGM, continuous glucose monitoring.
+Recommended to use CGM regularly (>70% of a 14-day period).
+Glucose metric	Recommended targets (for most individuals with type 1 or type 2 diabetes)	Comments
+Glucose Management Indicator (GMI)
+Approximate A1C level based on the average glucose levels from CGM readings for 14 or more days	
+≤7.0%	
+GMI may differ from measured A1C as it is reflective of glucose values during the period being assessed during CGM interpretation (last 14 days, last 30 days)
+Glycemic Variability
+Reported as % coefficient of variation (%CV) = Standard Deviation/Mean Glucose	
+≤36%	
+Lower %CV has been associated with reduced rates of hypoglycemia
+Time In Range (TIR)
+% of values between 3.9-10.0 mmol/L	
+>70%	
+70% TIR equates to an A1C of about 7.0%. Each 10% TIR equates to about 0.5% change in A1C
+Time Below Range (TBR)
+Level 1: % of values 3.8-3.0 mmol/L	<3.0%	Total % of values <3.9 mmol/L (includes Levels 1 and 2) should be <4% for most individuals
+Level 2: % of values <3.0 mmol/L	<1.0%	 
+Time Above Range (TAR)
+Level 1: % of values 10.1-13.9 mmol/L	<20%	Total % of values >10.1 mmol/L (includes Levels 1 and 2) should be <25% for most individuals
+Level 2: % of values >13.9 mmol/L	<5%	 
+isCGM
+
+An open label study of isCGM in 76 children aged 4 to 17 years with type 1 diabetes using CSII or MDI showed lower A1C and more TIR, with no change in TBR (which was low at baseline) (43). A randomized trial of isCGM in adolescents (ages 13 to 20 years) with A1C >9% at baseline showed no advantage to reduce A1C but was associated with increased frequency of blood glucose monitoring and greater treatment satisfaction (44). Switching from CBG testing to isCGM among children and adolescents with type 1 diabetes was associated with a reduction in severe hypoglycemia but no reduction in A1C in a Belgian observational study (45). Of note, 15.8% of those who switched to isCGM reverted back to CBG testing after a median use of 5.3 months. A small, 2-week camp study showed isCGM was non-inferior to CBG testing in children aged 6 to 15 with type 1 diabetes using CSII (46). A meta-regression including trials and observational data suggested that isCGM may be associated with a mean reduction in A1C of 0.54% in the pediatric subgroup (20).
+
+Hypoglycemia in children with type 1 diabetes
+
+Avoidance of severe hypoglycemia in children is of particular concern for families and providers. Safety is a primary concern in trial design and, fortunately, severe hypoglycemia during clinical trials is a rare event and, therefore, difficult to study. Although a definitive statement regarding the effectiveness of rtCGM to reduce severe hypoglycemia in children is not possible, observations of reductions in severe hypoglycemia in adults and less TBR in children suggest inference of the potential for benefit is plausible.
+
+Type 2 diabetes
+
+No studies have examined the effectiveness of either rtCGM or isCGM in children and/or adolescents with type 2 diabetes. CGM could be offered, as an alternative to CBG testing, if preferred by the individual as part of training, education and support in self-management.
+
+Glucose Metrics
+
+When continuous glucose data are captured, it is possible to generate glucose metrics, including TIR, time above range (TAR), TBR and glycemic variability (standard deviation or coefficient of variation), which may be summarized along with the ambulatory glucose profile (see Table 2) (47). These metrics provide additional complementary glycemic data to assess blood glucose levels and identify potential areas for intervention. As the use of technologies allowing for CGM increases, clinicians will need to become more comfortable with the interpretation of these glucose metrics and international consensus groups have provided guidance and proposed targets (see Tables 2-4) (45,47–49).
+
+Table 4
+Recommended CGM targets for pregnancy (48). Note limited evidence.
+CGM, continuous glucose monitoring
+Insufficient evidence to permit recommendations for type 2 and gestational diabetes (see ref 46 for discussion).
+Glucose metric	Type 1 diabetes pregnancy	Type 2 diabetes/Gestational diabetes
+Time In Range (TIR)
+% of values between 3.5-7.8 mmol/L	
+>70%	
+Not known∗
+Time Below Range (TBR)
+% of values 3.1-3.4 mmol/L	<3.0%	Not known∗
+% of values <3.0 mmol/L	<1.0%	Not known∗
+Time Above Range (TAR)
+Level 1: % of values >7.8 mmol/L	<25%	Not known∗
+Importance of Diabetes Self-Management Education
+
+The importance of diabetes self-management education when introducing or using newer glucose monitoring technologies has been clearly illustrated in recent trials. A randomized controlled trial of a structured educational program conducted in 216 people on basal-bolus injection therapy for type 1 or type 2 diabetes who were using or starting isCGM demonstrated that structured education resulted in greater A1C reduction, TIR and reduced diabetes-related distress, compared to usual care (50). The structured program was designed to increase understanding and use of the available glucose information by the individual to optimize diabetes treatment. It emphasized principles of isCGM, analysis of glucose values and trends, recognition of glucose patterns, therapy adjustments based on those glucose patterns, and psychosocial impact of isCGM.
+
+In the high-risk setting of impaired awareness of hypoglycemia or history of severe hypoglycemia, structured education per se was effective to restore hypoglycemia awareness and to reduce frequency of severe hypoglycemia whether CBG testing or rtCGM were used (51). The trial may have underestimated the value of rtCGM which was used only 57% of the time, and greater use of rtCGM was associated with less time in hypoglycemia (TBR) (51 see Supp Table 6). In the Hypo-DE study, where sensors were used 90% of the time, rtCGM reduced incidence and duration of hypoglycemia events (11).
+
+More guidance around self-management education and self-management support is provided in the 2018 CPG (52).
+
+RECOMMENDATIONS
+
+Recommendations for Adults, Children and Adolescents with Diabetes (changes are in bold)
+
+In most individuals∗, A1C should be measured approximately every 3 months to ensure that glycemic goals are being met or maintained [Grade D, Consensus]. In some circumstances, such as when significant changes are made to therapy, or during pregnancy, it is appropriate to check A1C more frequently. Testing at least every 6 months should be performed in adults during periods of treatment and healthy behaviour stability when glycemic targets have been consistently achieved [Grade D, Consensus].
+In individuals∗ using insulin more than once a day, CBG testing should be used as an essential part of diabetes self-management [Grade A, Level 1 (53) for type 1 diabetes; Grade C, Level 3 (54) for type 2 diabetes; Grade C, Level 3 (33,34), for children and adolescents] and should be undertaken at least 3 times per day [Grade C, Level 3 (54,55)] and include both pre- and postprandial measurements [Grade C, Level 3 (55–57)]. For individuals with type 2 diabetes (including children and adolescents) on once-daily insulin, in addition to noninsulin antihyperglycemic agents, testing at least once a day at variable times is recommended [Grade D, Consensus].
+In individuals∗ with type 2 diabetes not receiving insulin therapy, the recommended frequency of CBG testing should be individualized depending on type of antihyperglycemic agents, A1C level and risk of hypoglycemia [Grade D, Consensus].
+When A1C targets are not being reached, structured CBG testing should be instituted (including a 7-point profile; fasting, preprandial/2-h postprandial at each meal, bedtime; every 1-3 months) to improve A1C [Grade B, Level 2 (58–60) for adults; Grade D, Consensus for children and adolescents].
+If achieving A1C targets or receiving antihyperglycemic medications not associated with hypoglycemia, daily CBG testing is not recommended except during illness or at risk of hyperglycemia (e.g. surgery, steroid treatment) when more frequent testing may be required [Grade D, Consensus].
+In all individuals∗ with diabetes, more frequent CBG testing (4 times per day and/or overnight) is recommended when A1C is not at target or there are episodes of hypoglycemia, to identify the most safe and effective clinical approach to improve blood glucose levels [Grade D, Consensus].
+In individuals∗ with type 1 diabetes using basal-bolus insulin therapy or CSII, who are willing and able to use these devices on a nearly daily basis:
+rtCGM should be used to
+reduce A1C and increase TIR [Grade A, Level 1A (4–8,10)]
+reduce duration and incidence of hypoglycemia [Grade A, Level 1A (5,7,8,10,11)]
+improve aspects of diabetes-specific quality of life (in adults) [Grade B, Level 2 (12,13)]
+increase treatment satisfaction (in adults using CSII) [Grade B, Level 2 (61)
+isCGM may be used to
+increase TIR [Grade B, Level 2 (17,60) for adults; Grade C, Level 3 (43) for children]
+reduce frequency and duration of hypoglycemia (TBR) [Grade B, Level 2 (15,17) for adults]
+increase treatment satisfaction [Grade C, Level 3 (15,17,44)]
+In adults with type 1 diabetes with impaired awareness of hypoglycemia or recent severe hypoglycemia:
+rtCGM should be used to reduce incidence of hypoglycemia and severe hypoglycemic events [Grade A, Level 1A (11)] compared with CBG testing
+rtCGM is recommended to reduce time in hypoglycemia compared with isCGM [Grade B, Level 2 (23)]
+In adults with type 2 diabetes using basal-bolus insulin therapy who have not achieved their A1C target, who are willing and able to use these devices on a nearly daily basis:
+rtCGM may be used to reduce A1C and duration of hypoglycemia (TBR) [Grade A, Level 1A (14)]
+isCGM may be used as an alternative to CBG testing to reduce frequency and duration of hypoglycemia (TBR) [Grade B, Level 2 (16)]
+In pregnant women with type 1 diabetes, rtCGM should be used to increase TIR and reduce TAR and reduce the risk of LGA infants, neonatal hypoglycemia and NICU admissions >24 hours [Grade A, Level 1A (28)].
+Women with gestational diabetes or type 2 diabetes during pregnancy:
+should be requested to perform CBG testing 4 times daily (fasting and postprandially) for 1 week to assess blood glucose levels and need for pharmacotherapy.
+in women who do not require antihyperglycemic medications, CBG testing can be reduced to 4 times per day on alternate days [Grade B, Level 2 (33)]
+in women who require insulin therapy, CBG testing should be performed 4 times daily, both fasting and postprandially, to improve pregnancy outcomes [Grade B, Level 2 (32)]
+If CBG meter readings are suspected to be inaccurate or are discordant from A1C, CBG results should be compared with a simultaneous laboratory measurement of venous blood glucose [Grade D, Consensus].
+Individuals∗ with type 1 diabetes should:
+be instructed to perform ketone testing during periods of acute illness, particularly in the presence of preprandial blood glucose levels >14.0 mmol/L or in the presence of symptoms of diabetic ketoacidosis (DKA) [Grade D, Consensus].
+Blood ketone testing methods may be preferred over urine ketone testing, as they have been associated with earlier detection of both ketosis and response to treatment [Grade B, Level 2 (62)].
+
+∗Includes adults, children and adolescents
+
+Author Disclosures
+
+A.C. reports consulting and/or speaking honoraria from Abbott, Astra Zeneca, Bausch, Bayer, Boehringer Ingelheim, Dexcom, Eisai, Eli Lilly, HLS Therapeutics, Insulet, Janssen, Medtronic, Merck, Novartis, Novo Nordisk, Sanofi, and Takeda, as well as clinical trials with Applied Therapeutics, Boehringer Ingelheim, and Sanofi. D.F. reports funds from Novo Nordisk as part of an expert panel for a randomized trial, outside of the submitted work. R.S. reports consulting and/or speaking honoraria from CCRN, ICEBM, Ensemble-IQ, PPME, MdBriefcase, Pear Healthcare, Antibody, Lifescan, Abbott, Novo Nordisk, Sanofi, HLS Therapeutics, Merck, Dexcom, Astra Zeneca, Lilly, Janssen, and Amgen. J.H. has no conflicts to disclose.
+
+References
+Diabetes Canada Clinical Practice Guidelines Expert Committee. Diabetes Canada 2018 clinical practice guidelines for the prevention and management of diabetes in Canada. Can J Diabetes 2018;42(suppl 1):S1e325.
+Berard LD, Siemens R, Woo V. Diabetes Canada 2018 clinical practice guidelines for the prevention and management of diabetes in Canada: Monitoring gly- cemic control. Can J Diabetes 2018;42(suppl 1):S47e53.
+Banasiak K, Cleary D, Bajurny V, et al. Language Matters - A Diabetes Canada Consensus Statement. Can J Diabetes 2020;44(5):370e3.
+Deiss D, Bolinder J, Riveline J-P, et al. Improved glycemic control in poorly controlled patients with type 1 diabetes using real-time continuous glucose monitoring. Diabetes Care 2006;29:2730e2.
+Beck RW, Riddlesworth T, Ruedy K, et al. Effect of continuous glucose moni- toring on glycemic control in adults with type 1 diabetes using insulin injec- tions: The DIAMOND randomized clinical trial. JAMA 2017;317:371e8.
+6. Lind M, Polonsky W, Hirsch IB, et al. Continuous glucose monitoring vs con- ventional therapy for glycemic control in adults with type 1 diabetes treated with multiple daily insulin injections: The GOLD randomized clinical trial. JAMA 2017;317:379e87.
+Battelino T, Phillip M, Bratina N, et al. Effect of continuous glucose monitoring on hypoglycemia in type 1 diabetes. Diabetes Care 2011;34:795e800.
+Garg SK, Voelmle MK, Beatson CR, et al. Use of continuous glucose monitoring in subjects with type 1 diabetes on multiple daily injections versus continuous subcutaneous insulin infusion therapy: A prospective 6-month study. Diabetes Care 2011;34:574e9.
+Battelino T, Conget I, Olsen B, Schütz-Fuhrmann I, Hommel E, Hoogma R, et al. The use and efficacy of continuous glucose monitoring in type 1 diabetes treated with insulin pump therapy: a randomised controlled trial. Diabetologia 2012;55(12):3155e62. https://doi.org/10.1007/s00125-012-2708-9.
+Haskova A, Radovnicka L, Petruzelkova L, et al. Real-time CGM is superior to flash glucose monitoring for glucose control in type 1 diabetes: The CORRIDA randomized control trial. Diabetes Care 2020 Nov;43(11):2744e50.
+Heinemann L, Freckmann G, Ehrmann D, et al. Real-time continuous glucose monitoring in adults with type 1 diabetes and impaired hypoglycaemia awareness or severe hypoglycaemia treated with multiple daily insulin injections (HypoDE): A multicentre, randomised controlled trial. Lancet 2018;391(10128):1367e77.
+Polonsky WH, Hessler D, Ruedy KJ, Beck RW, Diamond Study Group. The impact of continuous glucose monitoring on markers of quality of life in adults with type 1 diabetes: Further findings from the DIAMOND randomized clinical trial. Diabetes Care 2017;40(6):736e41.
+Lawrence JM, Laffel L, Wysocki T, Xing D, Beck RW, Huang ES, et al. Quality of Life Measures in Children and Adults with Type 1 Diabetes: The Juvenile Dia- betes Research Foundation Continuous Glucose Monitoring Randomized Trial. Diabetes Care 2010;33(10):2175e7. https://doi.org/10.2337/dc10-0331.
+Beck RW, Riddlesworth TD, Ruedy K, et al. Continuous glucose monitoring versus usual care in patients with type 2 diabetes receiving multiple daily insulin injections: A randomized trial. Ann Intern Med 2017;167:365e74.
+Bolinder J, Antuna R, Geelhoed-Duijvestijn P, et al. Novel glucose-sensing technology and hypoglycaemia in type 1 diabetes: A multicentre, non- masked, randomised controlled trial. Lancet 2016;388:2254e63.
+Haak T, Hanaire H, Ajjan R, et al. Flash glucose-sensing technology as a replacement for blood glucose monitoring for the management of insulin- treated type 2 diabetes: A multicenter, open-label randomized controlled trial. Diabetes Ther 2017;8:55e73.
+Oskarsson P, Antuna R, Geelhoed-Duijvestijn P, et al. Impact of flash glucose monitoring on hypoglycaemia in adults with type 1 diabetes managed with multiple daily injection therapy: A pre-specified subgroup analysis of the IMPACT randomised controlled trial. Diabetologia 2018;61(3):539e50.
+Castellana M, Parisi C, Di Molfetta S, et al. Efficacy and safety of flash glucose monitoring in patients with type 1 and type 2 diabetes: A systematic review and meta-analysis. BMJ Open Diabetes Research & Care 2020;8(1).
+HealthOntario.Flashglucosemonitoringsystemforpeoplewithtype1ortype 2 diabetes: A health technology assessment. Ontario health technology assessment series 2019;19(8):1e108.
+Evans M, Welsh Z, Ells S, Seibold A. The Impact of Flash Glucose Monitoring on Glycaemic Control as Measured by HbA1c: A Meta-analysis of Clinical Trials and Real-World Observational Studies. Diabetes Therapy : Research, Treatment and Education of Diabetes and Related Disorders 2020;11(1):83e95. https:// doi.org/10.1007/s13300-019-00720-0.
+Hásková A, Radovnická L, Petruzelková L, Parkin CG, Grunberger G, Horová E, et al. Real-time CGM Is Superior to Flash Glucose Monitoring for Glucose Control in Type 1 Diabetes: The CORRIDA Randomized Control Trial. Diabetes Care 2020;43(11):2744e50. https://doi.org/10.2337/dc20-0112.
+Reddy M, Jugnee N, Laboudi El A, Spanudakis E, Anantharaja S, Oliver N. A randomized controlled pilot study of continuous glucose monitoring and flash glucose monitoring in people with Type 1 diabetes and impaired awareness of hypoglycaemia. Diabetic Medicine: A Journal of the British Dia- betic Association 2018;35(4):483e90. https://doi.org/10.1111/dme.13561.
+Reddy M, Jugnee N, Anantharaja S, Oliver N. Switching from Flash Glucose Monitoring to Continuous Glucose Monitoring on Hypoglycemia in Adults with Type 1 Diabetes at High Hypoglycemia Risk: The Extension Phase of the I HART CGM Study. Diabetes Technology & Therapeutics 2018;20(11):751e7. https:// doi.org/10.1089/dia.2018.0252.
+Furler J, O’Neal D, Speight J, et al. Use of professional-mode flash glucose monitoring, at 3-month intervals, in adults with type 2 diabetes in general practice (GP-OSMOTIC): A pragmatic, open-label, 12-month, randomised controlled trial. The Lancet Diabetes and Endocrinology 2020;8(1):17e26.
+Ajjan RA, Jackson N, Thomson SA. Reduction in HbA1c using professional flash glucose monitoring in insulin-treated type 2 diabetes patients managed in primary and secondary care settings: A pilot,multicentre, randomised controlled trial. Diabetes & Vascular Disease Research 2019;16(4):385e95.
+Castorino K, Polsky S, O’Malley G, et al. Performance of the Dexcom G6 continuous glucose monitoring system in pregnant women with diabetes. Diabetes Tech & Ther 2020;22:943e7.
+Scott EM, Bilous RW, Kautzky-Willer A. Accuracy, user acceptability, and safety evaluation for the FreeStyle Libre flash glucose monitoring system when used by pregnant women with diabetes. Diabetes Technology & Ther 2018;20(3):180e8.
+Feig DS, Donovan LE, Corcoy R, et al, Conceptt Collaborative Group. Continuous glucose monitoring in pregnant women with type 1 diabetes (CONCEPTT): A multi- centre international randomised controlled trial. Lancet 2017;390(10110): 2347e59.
+Murphy HR, Feig DS, Sanchez JJ, et al. Modelling potential cost savings from use of real-time continuous glucose monitoring in pregnant women with type 1 diabetes. Diabet Med 2019;36:1652e8.
+Kristensen K, Ogge LE, Sengpiel V, et al. Continuous glucose monitoring in pregnant women with type 1 diabetes: An observational cohort study of 186 pregnancies. Diabetologia 2019 Jul;62(7):1143e53.
+Hawkins JS, Casey BM, Lo JY, et al. Weekly compared with daily blood glucose monitoring in women with diet-treated gestational diabetes. Obstet Gynecol 2009;113:1307e12.
+de Veciana M, Major CA, Morgan MA, et al. Postprandial versus preprandial blood glucose monitoring in women with gestational diabetes mellitus requiring insulin therapy. N Engl J Med 1995;333:1237e41.
+Mendez-Figueroa H, Schuster M, Maggio L, et al. Gestational diabetes mellitus and frequency of blood glucose monitoring. Obstetrics and Gynecology 2017; 130(1):163e70.
+Formosa N. Blood glucose monitoring in children and adolescents with type 1 diabetes mellitus. Malta Medical Journal 2013;25(1):31e5.
+Miller KM, et al. Evidence of a strong association between frequency of self- monitoring of blood glucose and hemoglobin A1C levels in T1D exchange clinic registry participants. Diabetes Care 2013 Jul;36(7):2009e14.
+Weinstock RS, Braffett BH, McGuigan P, et al, Group, Today Study. Self-moni- toring of blood glucose in youth-onset type 2 diabetes: Results from the TODAY study. Diabetes Care 2019;42(5):903e9.
+Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group, Tamborlane WV, Beck RW, et al. Continuous glucose monitoring and intensive treatment of type 1 diabetes. N Engl J Med 2008;359:1464e76.
+Chase HP, Beck RW, Xing D, et al. Continuous glucose monitoring in youth with type 1 diabetes: 12-month follow-up of the Juvenile Diabetes Research Foun- dation continuous glucose monitoring randomized trial. Diabetes Technol Ther 2010;12(7):507e15.
+Rachmiel M, Landau Z, Boaz M, et al. The use of continuous glucose monitoring systems in a pediatric population with type 1 diabetes mellitus in real-life settings: The AWeSoMe Study Group experience. Acta Diabetologica 2015;52(2):323e9.
+Mauras N, Beck R, Xing D, et al. A randomized clinical trial to assess the efficacy and safety of real-time continuous glucose monitoring in the management of type 1 diabetes in young children aged 4 to <10 years. Diabetes Technology Ther 2013;15(SUPPL.1):S110e1.
+Guilmin-Crepon S, Carel J, Schroedt J, et al. Is there an optimal strategy for real- time continuous glucose monitoring in pediatrics? A 12-month French multi- center, prospective,controlled randomized trial (Start-In!). Pediatric Diabetes 2019;20(3):304e13.
+Swaney EEK, McCombe J, Coggan B, et al. Has subsidized continuous glucose monitoring improved outcomes in pediatric diabetes? Pediatric Diabetes 2020; 21(7):1292e300.
+Campbell FM, Murphy NP, Stewart C, et al. Outcomes of using flash glucose monitoring technology by children and young people with type 1 diabetes in a single arm study. Pediatric Diabetes 2018;19:1294e301.
+Boucher SE, Gray AR, Wiltshire EJ, et al. Effect of 6 Months of Flash Glucose Monitoring in Youth With Type 1 Diabetes and High-Risk Glycemic Control: A Randomized Controlled Trial. Diabetes Care 2020;43:2388e95.
+Messaaoui A, Tenoutasse S, Crenier L. Flash glucose monitoring accepted in daily life of children and adolescents with type 1 diabetes and reduction of severe hypoglycemia in real-life use. Diabetes Technology and Therapeutics 2019;21(6):329e35.
+Piona C, Dovc K, Mutlu G, et al. Non-adjunctive flash glucose monitoring sys- tem use during summer-camp in children with type 1 diabetes: The free- summer study. Pediatric Diabetes 2018;19:1285e93.
+Danne T, Nimri R, Battelino T, et al. International consensus on use of contin- uous glucose monitoring. Diabetes Care 2017;40:1631e40.
+Bergenstal RM, Beck RW, Close KL, et al. Glucose Management Indicator (GMI): A New Term for Estimating A1C From Continuous Glucose Monitoring. Dia- betes Care 2018;41:2275e80.
+Battelino T, Danne T, Bergenstal RM, et al. Clinical Targets for Continuous Glucose Monitoring Data Interpretation: recommendations From the International Consensus on Time in Range. Diabetes Care 2019;42: 1593e603.
+Hermanns N, Ehrmann D, Schipfer M, et al. The impact of a structured education and treatment programme (FLASH) for people with diabetes using a flash sensor- based glucose monitoring system: Results of a randomized controlled trial. Diabetes Research and Clinical Practice 2019;150(April):111e21.
+Little SA, Leelarathna L, Walkinshaw E, Tan HK, Chapple O, Lubina-Solomon A, et al. Recovery of hypoglycemia awareness in long-standing type 1 diabetes: a multicenter 2. 2 factorial randomized controlled trial comparing insulin pump with multiple daily injections and continuous with conventional glucose self-monitoring (HypoCOMPaSS). Diabetes Care 2014;37(8):2114e22. https:// doi.org/10.2337/dc14-0030.
+Sherifali D, Berard LD, Gucciardi E, MacDonald B, MacNeill G. Diabetes Canada 2018 clinical practice guidelines for the prevention and management of dia- betes in Canada: Self-Management Education & Support. Can J Diabetes 2018; 42(suppl 1):S36e41.
+The DCCT Research Group. Epidemiology of severe hypoglycemia in the dia- betes control and complications trial. Am J Med 1991;90:450e9.
+Karter AJ, Ackerson LM, Darbinian JA, et al. Self-monitoring of blood glucose levels and glycemic control: The Northern California Kaiser Permanente Dia- betes registry. Am J Med 2001;111:1e9.
+Sheppard P, Bending JJ, Huber JW. Pre- and post-prandial capillary glucose selfmonitoring achieves better glycaemic control than pre-prandial only monitoring. Pract Diab Int 2005;22:15e22.
+Murata GH, Shah JH, Hoffman RM, et al. Intensified blood glucose monitoring improves glycemic control in stable, insulin-treated veterans with type 2 diabetes: The Diabetes Outcomes in Veterans Study (DOVES). Diabetes Care 2003;26:1759e63.
+Rohlfing CL, Wiedmeyer HM, Little RR, et al. Defining the relationship between plasma glucose and HbA(1c): Analysis of glucose profiles and HbA(1c) in the Diabetes Control and Complications Trial. Diabetes Care 2002; 25:275e8.
+Poolsup N, Suksomboon N, Rattanasookchit S. Meta-analysis of the benefits of self-monitoring of blood glucose on glycemic control in type 2 diabetes patients: An update. Diabetes Technol Ther 2009;11:775e84.
+Polonsky WH, Fisher L, Schikman CH, et al. Structured self-monitoring of blood glucose significantly reduces A1C levels in poorly controlled, noninsulintreated type 2 diabetes: Results from the Structured Testing Program study. Diabetes Care 2011;34:262e7.
+Kempf K, Tankova T, Martin S. ROSSO-in-praxi-international: Long-term effects of self-monitoring of blood glucose on glucometabolic control in patients with type 2 diabetes mellitus not treated with insulin. Diabetes Technol Ther 2013; 15:89e96.
+The SWITCH Study Group, Hommel E, Olsen B, Battelino T, Conget I, Schütz- Fuhrmann I, et al. Impact of continuous glucose monitoring on quality of life, treatment satisfaction, and use of medical care resources: analyses from the SWITCH study. Acta Diabetologica 2014;51(5):845e51. https://doi.org/10. 1007/s00592-014-0598-7.
+Bektas F, Eray O, Sari R, et al. Point of care blood ketone testing of diabetic patients in the emergency department. Endocr Res 2004;30:395e402.

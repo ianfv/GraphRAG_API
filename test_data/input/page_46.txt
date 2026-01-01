@@ -1,0 +1,503 @@
+Chapter Headings
+
+Introduction
+Diagnosis and Screening
+Reducing the Risk of Developing Diabetes
+Management
+Prevention and Treatment of Complications
+Diabetes in Long-Term Care
+Other Relevant Guidelines
+Relevant Appendix
+Author Disclosures
+Key Messages
+Diabetes in older people is distinct from diabetes in younger people and the approach to therapy should be different. This is especially true in those who have functional dependence, frailty, dementia or who are at end of life. This chapter focuses on these individuals. Personalized strategies are needed to avoid overtreatment of the frail elderly.
+In the older person with diabetes and multiple comorbidities and/or frailty, strategies should be used to strictly prevent hypoglycemia, which include the choice of antihyperglycemic therapy and a less stringent glycated hemoglobin (A1C) target.
+Sulphonylureas should be used with caution because the risk of hypoglycemia increases significantly with age.
+DPP-4 inhibitors should be used over sulfonylureas because of a lower risk of hypoglycemia.
+Long-acting basal analogues are associated with a lower frequency of hypoglycemia than intermediate-acting or premixed insulin in this age group.
+Key Messages for Older People with Diabetes
+No two older people are alike and every older person with diabetes needs a customized diabetes care plan. What works for 1 individual may not be the best course of treatment for another. Some older people are healthy and can manage their diabetes on their own, while others may have 1 or more diabetes complications. Others may be frail, have memory loss and/or have several chronic diseases in addition to diabetes.
+Based on the factors mentioned above, your diabetes health-care team will work with you and your caregivers to select target blood glucose and glycated hemoglobin (A1C) levels, appropriate glucose-lowering medications, and a program for screening and management of diabetes-related complications.
+Introduction
+
+This guideline refers primarily to type 2 diabetes in the older person. There is limited information on the management of type 1 diabetes in the elderly, but this is included wherever appropriate. The definition of “older” varies, with some studies defining the elderly population as ≥60 years of age. Administrative guidelines frequently classify people >65 years of age as older. Although there is no uniformly agreed-upon definition of older, it is generally accepted that this is a concept that reflects an age continuum starting sometime around age 70 and is characterized by a slow, progressive impairment in function that continues until the end of life (1). There are many people with type 2 diabetes who are over the age of 70 who are otherwise well, functionally independent/not frail and have at least a decade of healthy life expectancy. These people should be treated to targets and with therapies described elsewhere in this guideline (see Targets for Glycemic Control chapter, p. S42 and Pharmacologic Glycemic Management of Type 2 Diabetes in Adults chapter, p. S88). This chapter focuses on older people who do not fall into any or all of those categories. Decisions regarding therapy should be made on the basis of age/life expectancy and the person's functional status. Where possible, evidence is based on studies where either the main focus was people over the age of 70 years or where a substantial subgroup, specifically reported, were in this age group.
+
+Diagnosis and Screening
+
+As noted in the Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome chapter, p. S10, glycated hemoglobin (A1C) can be used as a diagnostic test for type 2 diabetes in adults. Unfortunately, normal aging is associated with a progressive increase in A1C, and there can be a significant discordance between glucose-based and A1C-based diagnosis of diabetes in this age group, a difference that is accentuated by race and gender (2) (see Monitoring Glycemic Control chapter, p. S47). Pending further studies to define the role of A1C in the diagnosis of diabetes in the elderly, other tests may need to be considered in some older people, especially where the elevation in A1C is modest (i.e. 6.5% to 7.0%). Because they are complementary, we recommend screening with both a fasting plasma glucose and an A1C in older people.
+
+Screening for diabetes may be warranted in select individuals. In the absence of positive intervention studies on morbidity or mortality in this population, the decision about screening for diabetes should be made on an individual basis. Screening is unlikely to be beneficial in most people over the age of 80.
+
+Reducing the Risk of Developing Diabetes
+
+Healthy behaviour interventions are effective in reducing the risk of developing diabetes in older people at high risk for the development of the disease (3). Acarbose (4), rosiglitazone (5) and pioglitazone (1,6) also are effective in preventing diabetes in high-risk elderly. Metformin may not be effective (3). Since several of these drugs have significant toxicity in the older adult (see below) and since there is no evidence that preventing diabetes will make a difference in outcomes in these people, there would appear to be little justification for drug therapy to prevent diabetes in older adults.
+
+Table 1
+Glycemic targets in older people with diabetes
+A1C, glycated hemoglobin; CBGM, capillary blood glucose monitoring; SU, sulfonylurea.
+*Clinical Frailty Score (1 - very fit to 9 - terminally ill). Please see Figure 1.
+Status	Functionally independent	Functionally dependent	Frail and/or with dementia	End of life
+Clinical Frailty Index*	1–3	4–5	6–8	9
+A1C target
+Low-risk hypoglycemia
+(i.e. therapy does not include insulin or SU)	≤7.0%	<8.0%	<8.5%	A1C measurement not recommended. Avoid symptomatic hyperglycemia or any hypoglycemia.
+A1C target
+Higher-risk hypoglycemia
+(i.e. therapy includes insulin or SU)	 	7.1–8.0%	7.1–8.5%	 
+CBGM	 	 	 	 
+Preprandial	4–7 mmol/L	5–8 mmol/L	6–9 mmol/L	Individualized
+Postprandial	5–10 mmol/L	<12 mmol/L	<14 mmol/L	 
+Management
+Organization of care
+
+As interprofessional interventions specifically designed for older adults have been shown to improve glycemic control, referrals to diabetes health-care (DHC) teams should be facilitated (7–9). Pay-for-performance programs improve a number of quality indicators in this age group (10,11). Telemedicine case management and web-based interventions can improve glycemic control, lipids, blood pressure (BP), psychosocial well-being and physical activity; reduce hypoglycemia and ethnic disparities in care; and allow for detection and remediation of medically urgent situations, as well as reduce hospitalizations (12–21). A pharmaceutical care program (e.g. monitoring of symptoms, medication counselling, facilitating communications with physicians/nurse practitioners by pharmacists) can significantly improve medication compliance, as well as the control of diabetes and its associated risk factors (22,23) (see Organization of Care chapter, p.S27).
+
+Self-management education and support
+
+Self-management education and support programs are a vital aspect of diabetes care, particularly for older adults who may require additional education and support in light of other chronic conditions and polypharmacy (24). Recently, a population-based cohort study of older adults (≥65 years of age) living in Ontario found that attendance at a diabetes education program was associated with better quality of care, and better participation relating to education utilization and retinopathy screening (25). A review of diabetes self-management programs for older adults ≥65 years of age, identified that programs that emphasized tailored education and support, or psychological support resulted in greater reductions in A1C, when compared to group-setting education, review and feedback monitoring, or medical management (24) (see Self-Management Education and Support chapter, p. S36).
+
+In the absence of frailty, intensive healthy behaviour interventions may be applicable for appropriate older adults. A 1-year intensive self-management healthy behaviours program (calorie reduction and increased physical activity) was associated with a statistically significant benefit on weight reduction, increased high-density lipoprotein cholesterol (HDL-C), decreased A1C and reduced waist circumference in older adults ranging from 65 to 76 years of age (26). Diabetes self-management programs with access to geriatric teams (i.e. geriatricians, diabetes nurse educators, registered dietitians) can further improve glycemic control and self-care behaviours when compared to usual care, by assessing barriers and providing strategies and opportunities for ongoing support between clinic visits (27).
+
+Targets for glycemic control
+
+The same glycemic targets apply to otherwise healthy older adults as to younger people with diabetes (see below), especially if these targets can be obtained using antihyperglycemic agents associated with low risk of hypoglycemia (see Targets for Glycemic Control chapter, p. S42). In older people with diabetes of several years' duration and established complications, intensive control reduced the risk of microvascular events but did not reduce cardiovascular (CV) events or overall mortality (28–31). Overall mortality was increased in the Action to Control Cardiovascular Risk in Diabetes (ACCORD) study. Therefore, in older people with longstanding diabetes and multiple comorbidities, intensive glycemic control is not advisable. While the initial report of the ACCORD-MIND substudy suggested that intensive control preserved brain volume but did not alter cognitive outcomes, subsequent follow up found no impact on either parameter (32). However, better glycemic control may be associated with less disability and better function (33,34). In cohort studies, it has been demonstrated that the best survival is present in elderly people with an A1C between 7.0% to 8.0%, and values above and below this range are associated with increased mortality (35,36). Table 1 outlines glycemic targets for the elderly across the health spectrum.
+
+Recently, an A1C-derived average blood glucose value has been developed and offered to people with diabetes and health-care providers as a better way to understand glycemic control. While this is a valuable parameter in younger people, this variable and A1C may not accurately reflect continuous glucose monitoring (CGM) measured glucose values or glycemic variability in the older adult (37).
+
+It has been suggested that postprandial glucose values are a better predictor of outcome in older people with diabetes than A1C or preprandial glucose values. Older people with type 2 diabetes who have survived an acute myocardial infarct (MI) may have a lower risk for a subsequent CV event with targeting of postprandial vs. fasting/preprandial glycemia (38). In people with diabetes with equivalent glycemic control, greater variability of glucose values is associated with worse cognition (39).
+
+Recent international guidelines have focused on functional status as a key factor in determining the target A1C in older people with diabetes (Table 2). There is an acceptance that as functional independence is lost and/or life expectancy shortens, the benefit of lower glycemic targets is diminished and the risk of hypoglycemia increases (40–42). Therefore, it is functional status and life expectancy, rather than age itself, that helps determine glycemic targets, including A1C.
+
+Table 2
+Guideline recommendations for key clinical outcomes for older people with diabetes from Diabetes Canada (DC), American Diabetes Association (ADA) and International Diabetes Federation (IDF)
+A1C, glycated hemoglobin; BP; blood pressure; CV, cardiovascular; LDL-C, low density lipoprotein cholesterol.
+Adapted from ADA (42) and IDF (40).
+Measure	ADA	DC	IDF
+A1C	Healthy: <7.5%
+Complex/Intermediate: <8.0%
+Very Complex/Poor Health: <8.5%	Functionally independent: ≤ 7.0%
+Functionally dependent: 7.1–8.0%
+Frail and/or dementia: 7.1–8.5%
+End of life:
+A1C measurement not recommended. Avoid symptomatic hyperglycemia and any hypoglycemia.	Functionally independent: 7.0%–7.5%
+Functionally dependent: 7.0%–8.0%
+Sub-level frail: <8.5%
+Sub-level dementia: <8.5%
+End of life: avoid symptomatic hyperglycemia
+Blood Pressure	Healthy: <140/80 mmHg
+Complex/Intermediate: <140/80 mmHg
+Very Complex/Poor Health: <150/90 mmHg	Functionally independent with life expectancy >10 years: <130/80 mmHg
+Functionally dependent, orthostasis or limited life expectancy: individualize BP targets	Functionally independent: <140/90 mmHg
+Functionally dependent: <140/90 mmHg
+Sub-level frail: <150/90 mmHg
+Sub-level dementia: <140/90 mmHg
+End of life: strict BP control may not be necessary
+LDL-C	<1.8 mmol/L	<2.0 mmol/L or >50% reduction from baseline	<2.0 mmol/L and adjusted based on CV risk
+Frailty
+
+Diabetes is a marker of reduced life expectancy and functional impairment in the older person. People with diabetes develop disability at an earlier age than people without diabetes and they spend more of their remaining years in a disabled state (43,44). “Frailty” is a widely used term associated with aging and disability that denotes a multidimensional syndrome that gives rise to increased vulnerability. Frailty may have a biological basis and appears to be a distinct clinical syndrome. Many definitions of frailty have been proposed. The most commonly applied definition (Fried's Frailty Phenotype) suggests that a person is frail when 3 or more of the following criteria are present: unintentional weight loss (>4.5 kg in the past year), self-reported exhaustion, weakness (diminished grip strength), slow walking speed and low physical activity (45). Progressive frailty has been associated with reduced function and increased mortality. Frailty increases the risk of diabetes, and older people with diabetes are more likely to be frail (46,47). When frailty occurs, it is a better predictor of complications and death in older people with diabetes than chronological age or burden of comorbidity (48).
+
+The Clinical Frailty Scale, developed by Rockwood et al, has demonstrated validity as a 9-point scale from 1 (very fit) to 9 (terminally ill), which can help to determine which older people are frail (49) (Figure 1). In people with multiple comorbidities, a high level of functional dependency and limited life expectancy (i.e. frail people), decision analysis suggests that the benefit of intensive glycemic control is likely to be minimal (50). From a clinical perspective, the decision to offer more or less stringent glycemic control should be based on the degree of frailty. People with moderate or more advanced frailty (Figure 1) have a reduced life expectancy and should not undergo stringent glycemic control. When attempts are made to improve glycemic control in these people, there are fewer episodes of significant hyperglycemia but also more episodes of severe hypoglycemia (51).
+
+Monitoring glycemic control
+
+The same general principles pertain to self-monitoring of blood glucose (SMBG) in older people, as they do for any person with diabetes (Monitoring Glycemic Control chapter, p. S47). The person with diabetes, or family or caregiver must have the knowledge and skills to use a home blood glucose monitor and record the results in an organized fashion. Additionally, the person with diabetes, and/or members of the health-care team, must be willing to review and act upon the SMBG results, in addition to the A1C results. In selected cases, continuous glucose monitoring (CGM) may be employed to determine unexpected patterns of hypoglycemia or hyperglycemia, which may result in significant changes in therapy (see below). Since the correlation between A1C values and CGM-derived mean glucose values is much less in the elderly than younger patient populations, the 2 measures may be used in a complementary manner to assess glycemic control in the future (37).
+
+Particularly relevant to the older adult is the fact that glucose monitoring is the only way to confirm, and appropriately treat, hypoglycemia. Therefore, for older people treated with sulfonylureas, meglitinides and/or insulin, the ability to obtain SMBG at the time of symptoms consistent with hypoglycemia is essential. On the other hand, monitoring is often conducted when it is not required. Regular monitoring is generally not needed in well-controlled subjects on antihyperglycemic agents that rarely cause hypoglycemia (see Monitoring Glycemic Control chapter, p. S47).
+
+Unfortunately, aging is a risk factor for severe hypoglycemia with efforts to intensify therapy (52). Recent data suggests that a substantial number of clinically complex older people have tight glycemic control, which markedly increases their risk of hypoglycemia (53). Asymptomatic hypoglycemia, as assessed by CGM, is frequent in this population (54). This increased risk of hypoglycemia appears to be due to an age-related reduction in glucagon secretion, impaired awareness of hypoglycemic warning symptoms and altered psychomotor performance, which prevents the person from taking steps to treat hypoglycemia (55–57). Although it has been assumed that less stringent A1C targets may minimize the risks of hypoglycemia, a recent study using CGM suggests that older people with higher A1C levels still have frequent episodes of prolonged asymptomatic hypoglycemia (58). If these data are replicated in subsequent studies, the assumptions underlying higher A1C targets for functionally impaired people with diabetes will need to be revisited.
+
+The consequences of a moderate-to-severe hypoglycemic episode could include a fall and injury, seizure or coma, or a CV event (59). A1C values <6.5% and >8.0% are associated with an increased risk of fractures (60). Episodes of severe hypoglycemia may increase the risk of dementia (61), although this is controversial (62). Conversely, cognitive dysfunction in older people with diabetes has clearly been identified as a significant risk factor for the development of severe hypoglycemia (62–64).
+
+Nutrition and physical activity
+
+Nutrition education can improve metabolic control in ambulatory older people with diabetes (65). Although nutrition education is important, weight loss may not be, since moderate obesity is associated with a lower mortality in this population (66). Amino acid supplementation may improve glycemic control and insulin sensitivity in these people, although this is controversial (67,68).
+
+Older women with diabetes have a greater decline in walking speed when compared to a control group without diabetes (69). In the older population with diabetes, higher levels of physical activity are associated with greater survival (70). Physical training programs can be successfully implemented in older people with diabetes, although comorbid conditions may prevent aerobic physical training in many patients, and increased activity levels may be difficult to sustain. Prior to instituting an exercise program, elderly people should be carefully evaluated for underlying CV or musculoskeletal problems that may preclude such programs. Aerobic exercise improves arterial stiffness and baroreflex sensitivity, both surrogate markers of increased CV morbidity and mortality (71,72). While the effects of aerobic exercise programs on glucose and lipid metabolism are inconsistent (73–75), resistance training has been shown to result in modest improvements in glycemic control, as well as improvements in strength, body composition and mobility (76–80). Exercise programs may also reduce the risk of falls and improve balance in older people with diabetes with neuropathy (81,82).
+
+Unfortunately, it appears difficult to maintain these healthy behaviour changes outside of a supervised setting (83).
+
+Figure 1
+Clinical frailty scale.
+
+Adapted with permission from Moorhouse P, Rockwood K. Frailty and its quantitative evaluation (49).
+
+Noninsulin antihyperglycemic agents
+
+In lean older people with type 2 diabetes, the principal metabolic defect is impairment in glucose-induced insulin secretion (84). Initial therapy for these individuals could include agents that stimulate insulin secretion without causing hypoglycemia, such as dipeptidyl peptidase-4 (DPP-4) inhibitors. In older people with obesity and type 2 diabetes, the principal metabolic defect is resistance to insulin-mediated glucose disposal, with insulin secretion being relatively preserved (85–87). Initial therapy for older people with obesity and diabetes could involve agents that improve insulin resistance, such as metformin.
+
+There have been no randomized trials of metformin in the older person with diabetes, although clinical experience suggests it is an effective agent. Metformin may reduce the risk of cancer in older people with diabetes (88,89). There is an association between metformin use and lower vitamin B12 levels, and monitoring of vitamin B12 should be considered in older people on this drug (90–92). Alpha-glucosidase inhibitors are modestly effective in older people with diabetes, but a substantial percentage of individuals cannot tolerate them because of gastrointestinal side effects (93–96). Thiazolidinediones (TZDs) are effective agents, but are associated with an increased incidence of edema and congestive heart failure (CHF) in older people (97–100). Rosiglitazone, but not pioglitazone, may increase the risk of CV events and death (101–104). These agents also increase the risk of fractures in women (97,104–106). When used as monotherapy, they are likely to maintain glycemic targets for a longer time than metformin or glyburide (100). Interestingly, drugs that increase insulin sensitivity, such as TZDs and metformin, may attenuate the progressive loss in muscle mass that occurs in older people with diabetes and contributes to frailty (107).
+
+Sulphonylureas should be used with great caution because the risk of severe hypoglycemia increases substantially with age (108,109) and appears to be higher with glyburide (110–112). Gliclazide and glimepiride are preferred over glyburide in the elderly because they are associated with a lower frequency of hypoglycemia and CV events (113–119). A long-acting formulation of gliclazide resulted in equivalent glycemic control and the same frequency of hypoglycemic events as regular gliclazide in the older adult (115), and appears to result in a lower frequency of hypoglycemic events than glimepiride (116). Meglitinides (repaglinide and nateglinide) are associated with a lower frequency of hypoglycemia in the older person compared to glyburide (120–122) and may be considered in individuals with irregular eating habits.
+
+DPP-4 inhibitors (alogliptin, linagliptin, saxagliptin and sitagliptin) are similarly effective and safe in young and older people with diabetes, cause minimal hypoglycemia when used alone (or with metformin) and do not result in weight gain (123–132). Large numbers of older people have been enrolled in studies of these drugs, including those over 75 and with multiple comorbidities. When compared to sulfonylureas in monotherapy or in combination with metformin, DPP-4 inhibitors result in equivalent glycemic control but result in much lower rates of hypoglycemia (133–137). When added to insulin, linagliptin may improve glycemic control without increasing the risk of hypoglycemia (138). Saxagliptin, alogliptin and sitagliptin do not increase the overall risk of CV events, pancreatitis or pancreatic cancer, but the risk of heart failure may be increased with saxagliptin (139–142) (see Treatment of Diabetes in People with Heart Failure chapter, p. S196).
+
+The efficacy of the glucagon-like peptide-1 (GLP-1) receptor agonists (liraglutide, lixisenatide and dulaglutide) with respect to blood glucose, A1C and weight reduction is independent of age. These agents are well tolerated in the elderly with a similar side effect profile to younger people with diabetes, although there may be a higher risk of gastrointestinal side effects. There is a low risk of hypoglycemia when used as monotherapy or with metformin (143–148). Lixisenatide is not associated with an increase in CV events in elderly people who have recently had a similar event (149), and liraglutide and semaglutide improve CV outcomes in older people with diabetes and pre-existing cardiovascular disease (CVD) (150,151) (see Pharmacologic Glycemic Management of Type 2 Diabetes chapter, p. S88).
+
+Colesevelam is generally well tolerated in the older person with diabetes and has a modest impact on A1C and lipid values (152).
+
+Recently, data have become available on the use of sodium/glucose cotransporter 2 (SGLT2) inhibitors (canagliflozin. empagliflozin and dapagliflozin) in the older person (153–160), although the numbers of participants over 70 years of age in these studies is not nearly as large as those with DPP-4 inhibitors. The studies have been done on participants without complex comorbidities, so it is not clear what the outcomes would be in less robust older people. These drugs are often contraindicated in the older adult due to reductions in glomerular filtration rate (GFR). They appear slightly less effective in terms of reductions in A1C in the older adult, likely because of lower GFRs in this age group. Although information is limited, the older person with diabetes may be more susceptible to dehydration and fractures than younger people treated with these agents, suggesting that they should be used cautiously. There does not appear to be an increased risk of bladder or skin infections, relative to younger patient populations. There have been no head-to-head studies of these drugs in comparison to DPP-4 inhibitors, specifically in the older person with diabetes. In a recent study of empagliflozin in participants with established CVD, the positive impact on CV outcomes was greater in those over, rather than under the age of 65 years, and the impact on renal outcomes was similar in both age groups (158,161). Canagliflozin also appears to have a greater impact on CV outcomes in people over age 65, but the increased risk of amputation and fractures give cause for concern (162). If subsequent studies confirm this finding and establish the safety of these compounds, they may be used more widely in the older age group. Because there is a much larger body of evidence with DPP-4 inhibitors to date in this age group, they should generally be used before SGLT2 inhibitors. Currently, empagliflozin could be considered for people <75 years with evidence of CVD, relatively preserved renal function and no other complex comorbidities.
+
+Insulin therapy
+
+Insulin regimens in the older adult should be individualized and selected to promote patient safety. Insulin absorption is similar from the arm and abdomen, and a skin lift is not required to optimize absorption (163). The abdomen is the preferred site for self-injection because it is easier for the older person to landmark. The clock drawing test and other cognitive assessments can be used to predict which elderly people are likely to have problems with insulin therapy (164,165). In older people, the use of prefilled insulin pens as an alternative to conventional syringes (166,167) minimizes dose errors and may improve glycemic control.
+
+Pre-mixed insulin analogues can be administered after meals (168–170) and result in better and more durable control than basal insulins alone (171), but at the expense of more hypoglycemia and greater weight gain (172,173). When compared to premixed insulin, the combination of detemir and repaglinide results in equivalent glycemic control, with less weight gain, hypoglycemia and glycemic variability (174).
+
+Basal-bolus injection regimens may be associated with greater improvements in glycemic control, health status and mood than twice-daily injections of long-acting insulin (175), although premixed insulin analogues can result in equivalent glycemic control to basal-bolus regimens (176). The addition of glargine to noninsulin antihyperglycemic agents results in improved control and a reduced frequency of hypoglycemia when compared to escalation of non-insulin antihyperglycemic agents (177). Both detemir insulin and glargine insulin U-100 have similar effectiveness in young and older people and result in a reduced rate of hypoglycemia when compared to 30/70 insulin or neutral protamine Hagedorn (NPH) (178–182). Glargine insulin U-300 is associated with a lower frequency of hypoglycemia than glargine U-100 in the older person (183). The kinetics of insulin degludec are similar in young and old people with diabetes (184). Older people appear to have less nocturnal hypoglycemia with insulin degludec than glargine U-100 (185).
+
+Recently, it has been demonstrated that simplification of the insulin regimen in older people with type 2 diabetes by switching multiple-dose insulin regimens to once-a-day glargine U-100 with or without noninsulin antihyperglycemic agents results in equivalent glycemic control and a reduced risk of hypoglycemia (186). This strategy should be more broadly applied in older people with multiple comorbidities and/or frailty.
+
+In the future, older adults may be using newer technology for insulin administration. A randomized controlled trial of basal-bolus injection therapy vs. continuous subcutaneous insulin infusion (CSII) therapy in older people with type 2 diabetes found no difference in glycemic variability, treatment satisfaction, rates of hypoglycemia or glycemic control (187,188). People with type 1 diabetes <75 years of age who are highly functional have improved glycemic control and reduced symptomatic hypoglycemia using CSII (189–191). The ability to use more advanced pump features and the basal/bolus ratio appears to be similar in younger and older people (191). There is no data as yet favouring one pump device over another.
+
+Finally, older people with diabetes are at increased risk for falls and fractures, and insulin therapy and sulfonylureas increase this risk (192,193).
+
+Prevention and Treatment of Complications
+Hypertension
+
+Treatment of isolated systolic hypertension or combined systolic and diastolic hypertension in older people with diabetes is associated with a significant reduction in CV morbidity and mortality and microvascular events. The number needed to treat (NNT) reduces with increasing age (194–198). Treatment of isolated systolic hypertension may also preserve renal function in older people with diabetes (199). Several different classes of antihypertensive agents have been shown to be effective in reducing the risk of CV events and end stage renal disease (ESRD), including thiazide-like diuretics, long-acting calcium channel blockers, angiotensin-converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) (194–204). Any of these agents is a reasonable first choice (200–202). Although the calcium channel blocker amlodipine may be associated with an increased risk of congestive heart failure (CHF) (202), the combination of ACE inhibitor and amlodipine appears to reduce CV events more than the combination of an ACE inhibitor and hydrochlorothiazide (205). Cardioselective beta blockers and alpha-adrenergic blockers are less likely to reduce CV risk than the above agents (200–203). ACE inhibitors may be particularly valuable for people with diabetes and >1 other CV risk factor (206).
+
+In the ACCORD study, more intensive control of blood pressure (BP) (systolic BP <140 mmHg vs. <120 mmHg) in participants with type 2 diabetes at high risk for CV events, did not improve CV outcomes and resulted in more side effects (207). In older people with diabetes, systolic BP <130 mmHg and diastolic BP <67 mmHg may predict an increased mortality rate (36,208). As a result, there has been discussion about altering the systolic BP target for the elderly to 140 mmHg; however, Hypertension Canada in collaboration with Diabetes Canada have maintained the target BP <130/80 mmHg in diabetes (see Treatment of Hypertension chapter, p. S186), although this should be modified for people with diabetes with multiple comorbidities and limited life expectancy. The current guidelines from other international organizations and Diabetes Canada are shown in Table 2. There has been significant improvement in the number of older people treated for hypertension, and therapies being used are more consistent with current clinical practice guidelines (209).
+
+Dyslipidemia
+
+The treatment of dyslipidemia with statins for both primary and secondary prevention of CV events has been shown in most, although not all, studies to significantly reduce CV morbidity and mortality in older people with diabetes (210–218). In people with diabetes with limited life expectancy, consideration should be given to stopping or not starting these medications, as these people are unlikely to receive benefit. Current guidelines from other international organizations are shown in Table 2. The data on the use of fibrates in this patient population are equivocal (219,220), although they may reduce albuminuria and slow GFR rate loss (221).
+
+Erectile dysfunction
+
+Type 5 phosphodiesterase (PDE) inhibitors appear to be effective for the treatment of erectile dysfunction in carefully selected older people with diabetes (222–224). (See Sexual Dysfunction and Hypogandism in Men with Diabetes chapter, p.S228.)
+
+Depression
+
+Depression is common in older people with diabetes, and a systematic approach to the treatment of this illness not only improves quality of life, but reduces mortality (225). While screening for depression is not recommended, maintaining a high index of suspicion is advisable.
+
+Osteoporosis
+
+Type 1 diabetes is associated with low bone density although the mechanism of bone loss is unknown. The Nord-Trondelag Health Survey from Norway showed a significant increase in hip fracture rates among females with type 1 diabetes compared to females without diabetes (relative risk [RR] 6.9, 95% confidence interval [Cl] 2.2–21.6) (226). In the Iowa Women's Health Study, women with type 1 diabetes were 12.25 times more likely to report having had a fracture compared to women without diabetes (227). The relationship between type 2 diabetes and osteoporosis is less clear. In some studies, people with type 2 diabetes had a higher bone mineral density than control populations (228,229); however, other studies have not found significant differences (230,231).
+
+Dementia
+
+Diabetes increases the risk of dementia in older people with diabetes, including both vascular dementia and Alzheimer's disease (62,232,233). This risk appears to be increased in women treated with unopposed estrogen therapy (233). As yet, there is no clear evidence that any particular intervention (i.e. healthy behaviour interventions, treatment of risk factors, etc.) will prevent dementia in this cohort.
+
+Polypharmacy
+
+Older people with diabetes are frequently on multiple medications, many of which may be inappropriate in the setting of complex comorbidity and limited life expectancy (234). In selected populations, deprescribing should be considered to reduce complexity of therapy, side effects and adverse drug interactions (235). Drugs that can be considered first for deprescribing in these individuals include statins and sulfonylureas, because of lack of benefit in people with limited life expectancy and concerns about hypoglycemia, respectively.
+
+Diabetes in Long-Term Care
+
+The prevalence of diabetes is high in institutions and individuals frequently have established microvascular and CV complications, as well as substantial comorbidity (236–240). Canadian data shows over 25% of residents in long-term care facilities (LTC) have type 2 diabetes (241). Although the number of residents living in LTC with type 1 diabetes is unknown, a growing prevalence is noted as a result of advances of glucose management and adults being diagnosed with type 1 diabetes later in life, which requires the implementation of protocols specific for type 1 diabetes management (242). In observational studies, the degree of glycemic control varies widely between different centres (238,243), adherence to clinical practice guidelines is poor and insulin sliding scales (correction insulin only) are used frequently despite lack of evidence for their effectiveness (236,244). The complexity of antihyperglycemic medications is greater in LTC facilities than community-dwelling populations with most common patterns of therapy including insulin (245). Major problems faced by people with diabetes in LTC include: undernutrition (236), overly aggressive glycemic control with A1C levels below recommended target (<7.0%) (246) and polypharmacy. It has been shown that tight glycemic control with A1C <6.0% is associated with higher mortality in the aging population (35,36).
+
+There are very few intervention studies on diabetes in LTC. The short-term substitution of a regular diet or a standard nutritional formula instead of a diabetic nutritional formula or “diabetic diet” did not modify the level of glycemic control (236,247–249). Available data about insulin therapy in people with diabetes in LTC settings are very scarce and great treatment variability of this population seems to prevail in current clinical practice (250). Substitution of regular insulin by lispro insulin at meal time may improve glycemic control with reduced number of hypoglycemic episodes in LTC patients (251). In a prospective randomized clinical trial in LTC, similar glycemic control was achieved with either basal insulin or with noninsulin antihyperglycemic agents in people with type 2 diabetes with no difference in the frequency of hypoglycemia, need for emergency room visits, hospital admission or mortality between treatment groups (252). The utilization of sliding scale insulin is prevalent in LTC and is associated with poorer glycemic control and higher frequency of capillary blood glucose (CBG) monitoring and hypoglycemia (244,250).
+
+Frail older residents of LTC remain at high risk of hypoglycemia due to their advanced age, multiple comorbidities, polypharmacy, hypoglycemia unawareness and impaired renal function. To reduce risk of hypoglycemia, all antihyperglycemic agents have to be adjusted based on renal function (see Appendix 7. Therapeutic Considerations for Renal Impairment) at frequent intervals and higher glycemic targets are recommended for this high-risk population (see above). Deprescribing antihyperglycemic and other agents in high-risk people is recommended to achieve appropriate targets and reduce side effects of medication (235). Appropriate discontinuation of antihyperglycemic medication in older people who have tight glycemic control can potentially reduce risk of hypoglycemia and medication burden (253). Management of diabetes in LTC can be challenging as it requires an interprofessional team approach, collaboration with facility management, development of care protocols and acceptance of set treatment goals by the entire interprofessional team (254).
+
+Recommendations
+Functionally independent older people with diabetes who have a life expectancy of greater than 10 years should be treated to achieve the same glycemic, BP and lipid targets as younger people with diabetes [Grade D, Consensus].
+BP targets should be individualized for older adults who are functionally dependent, or who have orthostasis, or who have a limited life expectancy [Grade D, Consensus].
+In the older person with diabetes and multiple comorbidities and/or frailty, strategies should be used to strictly prevent hypoglycemia, which include the choice of antihyperglycemic therapy and less stringent A1C target [Grade D, Consensus]. Antihyperglycemic agents that increase the risk of hypoglycemia or have other side effects should be discontinued in these people [Grade C, Level 3 (235,253)].
+A higher A1C target may be considered in older people with diabetes taking antihyperglycemic agent(s) with risk of hypoglycemia, with any of the following: [Grade D, Consensus for all]
+Functionally dependent: 7.1–8.0%
+Frail and/or with dementia: 7.1–8.5%
+End of life: A1C measurement not recommended. Avoid symptomatic hyperglycemia and any hypoglycemia.
+The clock drawing test may be used to predict which older individuals will have difficulty learning to inject insulin [Grade C, Level 3 (164)].
+Older people who are able should receive diabetes education with an emphasis on tailored care and psychological support [Grade A, Level 1A (24)].
+If not contraindicated, older people with type 2 diabetes should perform aerobic exercise and/or resistance training to improve glycemic control as well as maintain functional status and reduce the risk of frailty [Grade B, Level 2 (73–77)].
+In older people with type 2 diabetes, sulphonylureas should be used with caution because the risk of hypoglycemia increases substantially with age [Grade D, Level 4 (108)].
+DPP-4 inhibitors should be used over sulfonylureas as second-line therapy to metformin because of a lower risk of hypoglycemia [Grade B, Level 2 (137)]
+In general, initial doses of sulphonylureas in the older person should be half of those used for younger people, and doses should be increased more slowly [Grade D, Consensus]
+Gliclazide and gliclazide MR [Grade B, Level 2 (113,115,119)] and glimepiride [Grade C, Level 3 (114)] should be used instead of glyburide, as they are associated with a reduced frequency of hypoglycemic events
+Meglitinides may be used instead of glyburide to reduce the risk of hypoglycemia [Grade C, Level 2 (121) for repaglinide; Grade C, Level 3 (122) for nateglinide], particularly in individuals with irregular eating habits [Grade D, Consensus].
+In older people with type 2 diabetes with no other complex comorbidities but with clinical CVD and in whom glycemic targets are not achieved with existing antihyperglycemic medication(s) and with an eGFR >30 mL/min/1.73 m2, an antihyperglycemic agent with demonstrated CV outcome benefit could be added to reduce the risk of major CV events [Grade A, Level 1A (161) for empagliflozin; Grade A, Level 1A (150) for liraglutide; Grade C, Level 2 (162) for canagliflozin].
+Detemir, glargine U-100 and U-300 and degludec may be used instead of NPH or human 30/70 insulin to lower the frequency of hypoglycemic events [Grade B, Level 2 (181) for glargine U-100; Grade B, Level 2 (182) for detemir; Grade D, Consensus for degludec and glargine U-300].
+In older people, premixed insulins and prefilled insulin pens should be used to reduce dosing errors and to potentially improve glycemic control [Grade B, Level 2 (166,167)].
+In older LTC residents, regular diets may be used instead of “diabetic diets” or nutritional formulas [Grade D, Level 4 (247–249)].
+Sliding scale (reactive) and correction (supplemental) insulin protocols should be avoided in elderly LTC residents with diabetes to prevent worsening glycemic control [Grade C, Level 3 (244,250)].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; ACE, angiotensin-converting enzyme; ARC, angiotensin receptor blocker; BP, blood pressure; CBG, capillary blood glucose; CGM, continuous glucose monitoring; CHF, congestive heart failure; CSII; continuous subcutaneous insulin infusion; CV, cardiovascular; CVD, cardiovascular disease; DHC, diabetes health care; DPP-4, dipeptidyl peptidase-4; ESRD, end stage renal disease; GFR, glomerular filtration rate; GLP, glucagon-like peptide; HDL-C, high-density lipoprotein cholesterol; LTC, long-term care; MI, myocardial infarct; NPH, neutral protamine Hagedorn; SGLT, sodium glucose co-transporter; SMBG, self-monitoring of blood glucose; TZD, thiazolidinedione.
+
+Other Relevant Guidelines
+Screening for Diabetes in Adults, p. S16
+Reducing the Risk of Developing Diabetes, p. S20
+Organization of Diabetes Care, p. S27
+Self-Management Education and Support, p. S36
+Targets for Glycemic Control, p. S42
+Glycemic Management in Adults With Type 1 Diabetes, p. S80
+Pharmacologic Glycemic Management of Type 2 Diabetes in Adults, p. S88
+Hypoglycemia, p. S104
+Screening for the Presence of Cardiovascular Disease, p. S170
+Dyslipidemia, p. S178
+Treatment of Hypertension, p. S186
+Sexual Dysfunction and Hypogonadism in Men With Diabetes, p. S228
+Relevant Appendix
+Appendix 7. Therapeutic Considerations for Renal Impairment
+
+Literature Review Flow Diagram for Chapter 37: Diabetes in Older People
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (255).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Meneilly reports personal fees from Merck, Novo Nordisk, and grants from Sanofi, outside the submitted work. Dr. Miller reports personal fees from AstraZeneca, Eli Lilly, Novo Nordisk, and Sanofi; grants and personal fees from Boehringer Ingelheim, Janssen, and Merck, outside the submitted work. Dr. Sherifali reports investigator-initiated funding from AstraZeneca. Dr. Tessier has received honoraria from Merck, AstraZeneca, Boehringer Ingelheim, and Elli Lilly. Dr. Zahedi has received honorarium for CME programs and Advisory Boards from the following companies: Eli Lilly, Merck, Novo Nordisk, and Sanofi. No other authors have anything to disclose.
+
+References
+Tessier D, Meneilly GS. Diabetes management in the elderly. In: Gerstein HC, ed. Evidence-based diabetes care. Hamilton: BC Decker Inc., 2001, pg. 370–9.
+Lipska KJ, De Rekeneire N, Van Ness PH, et al. Identifying dysglycemic states in older adults: Implications of the emerging use of hemoglobin A1c. J Clin Endocrinol Metab 2010;95:5289–95.
+Crandall J, Schade D, Ma Y, et al. The influence of age on the effects of lifestyle modification and metformin in prevention of diabetes. J Gerontol A Biol Sci Med Sci 2006;61:1075–81.
+Chiasson JL, Josse RG, Gomis R, et al. Acarbose for prevention of type 2 diabetes mellitus: The STOP-NIDDM randomised trial. Lancet 2002;359:2072–7.
+DREAM (Diabetes REduction Assessment with ramipril and rosiglitazone Medication) Trial Investigators, Gerstein HC, Yusuf S, et al. Effect of rosiglitazone on the frequency of diabetes in patients with impaired glucose tolerance or impaired fasting glucose: A randomised controlled trial. Lancet 2006;368:1096–105.
+Inzucchi SE, Viscoli CM, Young LH, et al. Pioglitazone prevents diabetes in patients with insulin resistance and cerebrovascular disease. Diabetes Care 2016;39:1684–92.
+Kronsbein P, Jorgens V, Muhlhauser I, et al. Evaluation of a structured treatment and teaching programme on non-insulin-dependent diabetes. Lancet 1988;2:1407–11.
+Wilson W, Pratt C. The impact of diabetes education and peer support upon weight and glycemic control of elderly persons with NonInsulin Dependent Diabetes Mellitus (NIDDM). Am J Public Health 1987;77:634–5.
+Braun AK, Kubiak T, Kuntsche J, et al. SGS: A structured treatment and teaching programme for older patients with diabetes mellitus–a prospective randomised controlled multi-centre trial. Age Ageing 2009;38:390–6.
+Fagan PJ, Schuster AB, Boyd C, et al. Chronic care improvement in primary care: Evaluation of an integrated pay-for-performance and practice-based care coordination program among elderly patients with diabetes. Health Serv Res 2010;45:1763–82.
+McGovern MP, Williams DJ, Hannaford PC, et al. Introduction of a new incentive and target-based contract for family physicians in the UK: Good for older patients with diabetes but less good for women? Diabet Med 2008;25:1083–9.
+Shea S,Weinstock RS, Teresi JA, et al. A randomized trial comparing telemedicine case management with usual care in older, ethnically diverse, medically underserved patients with diabetes mellitus: 5 year results of the IDEATel study. J Am Med Inform Assoc 2009;16:446–56.
+Weinstock RS, Teresi JA, Goland R, et al. Glycemic control and health disparities in older ethnically diverse underserved adults with diabetes: Five-year results fromthe Informatics for Diabetes Education and Telemedicine (IDEATel) study. Diabetes Care 2011;34:274–9.
+Trief PM, Teresi JA, Eimicke JP, et al. Improvement in diabetes self-efficacy and glycaemic control using telemedicine in a sample of older, ethnically diverse individuals who have diabetes: The IDEATel project. Age Ageing 2009;38:219–25.
+Weinstock RS, Brooks G, Palmas W, et al. Lessened decline in physical activity and impairment of older adults with diabetes with telemedicine and pedometer use: Results from the IDEATel study. Age Ageing 2011;40:98–105.
+Izquierdo R, Meyer S, Starren J, et al. Detection and remediation of medically urgent situations using telemedicine case management for older patients with diabetes mellitus. Ther Clin Risk Manag 2007;3:485–9.
+Lim S, Kang SM, Shin H, et al. Improved glycemic control without hypoglycemia in elderly diabetic patients using the ubiquitous healthcare service, a new medical information system. Diabetes Care 2011;34:308–13.
+Bond GE, Burr RL, Wolf FM, et al. The effects of a web-based intervention on psychosocial well-being among adults aged 60 and older with diabetes: A randomized trial. Diabetes Educ 2010;36:446–56.
+Bond GE, Burr R, Wolf FM, et al. The effects of a web-based intervention on the physical outcomes associated with diabetes among adults age 60 and older: A randomized trial. Diabetes Technol Ther 2007;9:52–9.
+Berg GD, Wadhwa S. Health services outcomes for a diabetes disease management program for the elderly. Dis Manag 2007;10:226–34.
+Rosenzweig JL, Taitel MS, Norman GK, et al. Diabetes disease management in Medicare Advantage reduces hospitalizations and costs. Am J Manag Care 2010;16:e157–62.
+Chen JH, Ou HT, Lin TC, et al. Pharmaceutical care of elderly patients with poorly controlled type 2 diabetes mellitus: A randomized controlled trial. Int J Clin Pharm 2016;38:88–95.
+Obreli-Neto PR, Guidoni CM, de Oliveira Baldoni A, et al. Effect of a 36-month pharmaceutical care program on pharmacotherapy adherence in elderly diabetic and hypertensive patients. Int J Clin Pharm 2011;33:642–9.
+Sherifali D, Bai JW, Kenny M, et al. Diabetes self-management programmes in older adults: A systematic reviewand meta-analysis. DiabetMed 2015;32:1404–14.
+Murray CM, Shah BR. Diabetes self-management education improves medication utilization and retinopathy screening in the elderly. Prim Care Diabetes 2016;10:179–85.
+Espeland MA, Rejeski WJ, West DS, et al. Intensive weight loss intervention in older individuals: Results from the Action for Health in Diabetes Type 2 diabetes mellitus trial. J Am Geriatr Soc 2013;61:912–22.
+Munshi MN, Segal AR, Suhl E, et al. Assessment of barriers to improve diabetes management in older adults: A randomized controlled study. Diabetes Care 2013;36:543–9.
+ACCORD Study Group, Gerstein HC, Miller ME, et al. Effects of intensive glucose lowering in type 2 diabetes. N Engl J Med 2008;358:2545–59.
+ADVANCE Collaborative Group, Patel A, MacMahon S, et al. Intensive blood glucose control and vascular outcomes in patients with type 2 diabetes. N Engl J Med 2008;358:2560–72.
+Wong MG, Perkovic V, Chalmers J, et al. Long-term benefits of intensive glucose control for preventing end-stage kidney disease: ADVANCE-ON. Diabetes Care 2016;39(5):694–700. http://care.diabetesjournals.org/content/diacare/early/ 2016/03/22/dc15-2322.full.pdf.
+Action to Control Cardiovascular Risk in Diabetes Follow-On (ACCORDION) Eye Study Group and the Action to Control Cardiovascular Risk in Diabetes Follow-On (ACCORDION) Study Group. Persistent effects of intensive glycemic control on retinopathy in type 2 diabetes in the Action to Control Cardiovascular Risk in Diabetes (ACCORD) Follow-On study. Diabetes Care 2016;39:1089–100.
+Murray AM, Hsu FC, Williamson JD, et al. ACCORDION MIND: Results of the observational extension of the ACCORD MIND randomised trial. Diabetologia 2017;60:69–80.
+Wang CP, Hazuda HP. Better glycemic control is associated with maintenance of lower-extremity function over time in Mexican American and European American older adults with diabetes. Diabetes Care 2011;34:268–73.
+Kalyani RR, Saudek CD, Brancati FL, et al. Association of diabetes, comorbidities, and A1C with functional disability in older adults: Results from the National Health and Nutrition Examination Survey (NHANES), 1999–2006. Diabetes Care 2010;33:1055–60.
+Huang ES, Liu JY, Moffet HH, et al. Glycemic control, complications, and death in older diabetic patients: The diabetes and aging study. Diabetes Care 2011;34:1329–36.
+Hamada S, Gulliford MC. Mortality in individuals aged 80 and older with type 2 diabetes mellitus in relation to glycosylated hemoglobin, blood pressure, and total cholesterol. J Am Geriatr Soc 2016;64:1425–31.
+Munshi MN, Segal AR, Slyne C, et al. Shortfalls of the use of HbA1C-derived eAG in older adults with diabetes. Diabetes Res Clin Pract 2015;110:60–5.
+Raz I, Ceriello A, Wilson PW, et al. Post hoc subgroup analysis of the HEART2D trial demonstrates lower cardiovascular risk in older patients targeting postprandial versus fasting/premeal glycemia. Diabetes Care 2011;34:1511–13.
+Rizzo MR,Marfella R, Barbieri M, et al. Relationships between daily acute glucose fluctuations and cognitive performance among aged type 2 diabetic patients. Diabetes Care 2010;33:2169–74.
+International Diabetes Federation. Managing older people with type 2 diabetes global guideline. Brussels, Belgium: International Diabetes Federation (IDF), 2013 http://www.idf.org/sites/default/files/IDF-Guideline-for-older-people-T2D.pdf.
+Mathur S, Zammitt NN, Frier BM. Optimal glycaemic control in elderly people with type 2 diabetes: What does the evidence say? Drug Saf 2015;38:17–32.
+Kirkman MS, Briscoe VJ, Clark N, et al. Diabetes in older adults. Diabetes Care 2012;35:2650–64.
+Platt DE, Ghassibe-Sabbagh M, Youhanna S, et al. Circulating lipid levels and risk of coronary artery disease in a large group of patients undergoing coronary angiography. J Thromb Thrombolysis 2015;39:15–22.
+Bardenheier BH, Lin J, Zhuo X, et al. Disability-free life-years lost among adults aged ≥50 years with and without diabetes. Diabetes Care 2016;39:1222–9.
+Fried LP, Tangen CM,Walston J, et al. Frailty in older adults: Evidence for a phenotype. J Gerontol A Biol Sci Med Sci 2001;56:M146–57.
+Blaum CS, Xue QL, Tian J, et al. Is hyperglycemia associated with frailty status in older women? J Am Geriatr Soc 2009;57:840–7.
+Bouillon K, Kivimaki M, Hamer M, et al. Diabetes risk factors, diabetes risk algorithms, and the prediction of future frailty: The Whitehall II prospective cohort study. J Am Med Dir Assoc 2013;14:851, e1-6.
+Hubbard RE, Andrew MK, Fallah N, et al. Comparison of the prognostic importance of diagnosed diabetes, co-morbidity and frailty in older people. Diabet Med 2010;27:603–6.
+Moorhouse P, Rockwood K. Frailty and its quantitative clinical evaluation. J R Coll Physicians Edinb 2012;42:333–40.
+Huang ES, Zhang Q, Gandra N, et al. The effect of comorbid illness and functional status on the expected benefits of intensive glucose control in older patientswith type 2 diabetes: A decision analysis. Ann Intern Med 2008;149:11–19.
+Lee SJ, Boscardin WJ, Stijacic Cenzer I, et al. The risks and benefits of implementing glycemic control guidelines in frail older adults with diabetes mellitus. J Am Geriatr Soc 2011;59:666–72.
+Miller ME, Bonds DE, Gerstein HC, et al. The effects of baseline characteristics, glycaemia treatment approach, and glycated haemoglobin concentration on the risk of severe hypoglycaemia: Post hoc epidemiological analysis of the ACCORD study. BMJ 2010;340:b5444.
+McCoy RG, Lipska KJ, Yao X, et al. Intensive treatment and severe hypoglycemia among adults with type 2 diabetes. JAMA Intern Med 2016;176:969–78.
+Munshi MN, Segal AR, Suhl E, et al. Frequent hypoglycemia among elderly patients with poor glycemic control. Arch Intern Med 2011;171:362–4.
+Meneilly GS, Cheung E, Tuokko H. Counterregulatory hormone responses to hypoglycemia in the elderly patient with diabetes. Diabetes 1994;43:403–10.
+Bremer JP, Jauch-Chara K, Hallschmid M, et al. Hypoglycemia unawareness in older compared with middle-aged patients with type 2 diabetes. Diabetes Care 2009;32:1513–17.
+Matyka K, Evans M, Lomas J, et al. Altered hierarchy of protective responses against severe hypoglycemia in normal aging in healthy men. Diabetes Care 1997;20:135–41.
+Munshi MN, Slyne C, Segal AR, et al. Liberating A1C goals in older adults may not protect against the risk of hypoglycemia. J Diabetes Complications 2017;31(7):1197–9.
+Malabu UH, Vangaveti VN, Kennedy RL. Disease burden evaluation of fallrelated events in the elderly due to hypoglycemia and other diabetic complications: A clinical review. Clin Epidemiol 2014;6:287–94.
+Conway BN, Long DM, Figaro MK, et al. Glycemic control and fracture risk in elderly patients with diabetes. Diabetes Res Clin Pract 2016;115:47–53.
+Whitmer RA, Karter AJ, Yaffe K, et al. Hypoglycemic episodes and risk of dementia in older patients with type 2 diabetes mellitus. JAMA 2009;301:1565–72.
+Meneilly GS, Tessier DM. Diabetes, dementia and hypoglycemia. Can J Diabetes 2016;40:73–6.
+de Galan BE, Zoungas S, Chalmers J, et al. Cognitive function and risks of cardiovascular disease and hypoglycaemia in patients with type 2 diabetes: The Action in Diabetes and Vascular Disease: Preterax and Diamicron Modified Release Controlled Evaluation (ADVANCE) trial. Diabetologia 2009;52:2328–36.
+Bruce DG, DavisWA, Casey GP, et al. Severe hypoglycaemia and cognitive impairment in older patients with diabetes: The Fremantle Diabetes study. Diabetologia 2009;52:1808–15.
+Miller CK, Edwards L, Kissling G, et al. Nutrition education improves metabolic outcomes among older adults with diabetes mellitus: Results from a randomized controlled trial. Prev Med 2002;34:252–9.
+Perotto M, Panero F, Gruden G, et al. Obesity is associated with lower mortality risk in elderly diabetic subjects: The Casale Monferrato study. Acta Diabetol 2013;50:563–8.
+Solerte SB, Fioravanti M, Locatelli E, et al. Improvement of blood glucose control and insulin sensitivity during a long-term (60 weeks) randomized study with amino acid dietary supplements in elderly subjects with type 2 diabetes mellitus. Am J Cardiol 2008;101:82e–8e.
+Leenders M, Verdijk LB, van der Hoeven L, et al. Prolonged leucine supplementation does not augment muscle mass or affect glycemic control in elderly type 2 diabetic men. J Nutr 2011;141:1070
+Lee CG, Schwartz AV, Yaffe K, et al. Changes in physical performance in older women according to presence and treatment of diabetes mellitus. J Am Geriatr Soc 2013;61:1872–8.
+Stessman J, Jacobs JM. Diabetes mellitus, physical activity, and longevity between the ages of 70 and 90. J Am Geriatr Soc 2014;62:1329–34.
+Madden KM, Lockhart C, Cuff D, et al. Short-term aerobic exercise reduces arterial stiffness in older adults with type 2 diabetes, hypertension, and hypercholesterolemia. Diabetes Care 2009;32:1531–5.
+Madden KM, Lockhart C, Potter TF, et al. Aerobic training restores arterial baroreflex sensitivity in older adults with type 2 diabetes, hypertension, and hypercholesterolemia. Clin J Sport Med 2010;20:312–17.
+Tessier D, Menard J, Fulop T, et al. Effects of aerobic physical exercise in the elderly with type 2 diabetes mellitus. Arch Gerontol Geriatr 2000;31:121–32.
+Ligtenberg PC, Godaert GL, Hillenaar EF, et al. Influence of a physical training program on psychological well-being in elderly type 2 diabetes patients. Psychological well-being, physical training, and type 2 diabetes. Diabetes Care 1998;21:2196–7.
+Ligtenberg PC, Hoekstra JB, Bol E, et al. Effects of physical training on metabolic control in elderly type 2 diabetes mellitus patients. Clin Sci 1997;93:127–35.
+Dunstan DW, Daly RM, Owen N, et al. High-intensity resistance training improves glycemic control in older patients with type 2 diabetes. Diabetes Care 2002;25:1729–36.
+Castaneda C, Layne JE, Munoz-Orians L, et al. A randomized controlled trial of resistance exercise training to improve glycemic control in older adults with type 2 diabetes. Diabetes Care 2002;25:2335–41.
+Brandon LJ, Gaasch DA, Boyette LW, et al. Effects of long-term resistive training on mobility and strength in older adults with diabetes. J Gerontol A Biol Sci Med Sci 2003;58:740–5.
+Cuff DJ, Meneilly GS, Martin A, et al. Effective exercise modality to reduce insulin resistance in women with type 2 diabetes. Diabetes Care 2003;26:2977–82.
+Ibanez J, Izquierdo M, Arguelles I, et al. Twice-weekly progressive resistance training decreases abdominal fat and improves insulin sensitivity in older men with type 2 diabetes. Diabetes Care 2005;28:662–7.
+Morrison S, Colberg SR, Mariano M, et al. Balance training reduces falls risk in older individuals with type 2 diabetes. Diabetes Care 2010;33:748–50.
+Song CH, Petrofsky JS, Lee SW, et al. Effects of an exercise program on balance and trunk proprioception in older adults with diabetic neuropathies. Diabetes Technol Ther 2011;13:803–11.
+Dunstan DW, Daly RM, Owen N, et al. Home-based resistance training is not sufficient to maintain improved glycemic control following supervised training in older individuals with type 2 diabetes. Diabetes Care 2005;28:3–9.
+Meneilly GS, Elahi D. Metabolic alterations in middle-aged and elderly lean patients with type 2 diabetes. Diabetes Care 2005;28:1498–9.
+Meneilly GS, Elliott T. Metabolic alterations in middle-aged and elderly obese patients with type 2 diabetes. Diabetes Care 1999;22:112–18.
+Meneilly GS, Elliott T, Tessier D, et al. NIDDM in the elderly. Diabetes Care 1996;19:1320–5.
+Arner P, Pollare T, Lithell H. Different aetiologies of type 2 (non-insulindependent) diabetes mellitus in obese and non-obese subjects. Diabetologia 1991;34:483–7.
+Libby G, Donnelly LA, Donnan PT, et al. New users of metformin are at low risk of incident cancer: A cohort study among people with type 2 diabetes. Diabetes Care 2009;32:1620–5.
+Baur DM, Klotsche J, Hamnvik OP, et al. Type 2 diabetes mellitus and medications for type 2 diabetes mellitus are associated with risk for and mortality from cancer in a German primary care cohort. Metabolism 2011;60:1363–71.
+Reinstatler L, Qi YP, Williamson RS, et al. Association of biochemical B(1)(2) deficiency with metformin therapy and vitamin B(1)(2) supplements: The National Health and Nutrition Examination survey, 1999–2006. Diabetes Care 2012;35:327–33.
+Leung S, Mattman A, Snyder F, et al. Metformin induces reductions in plasma cobalamin and haptocorrin bound cobalamin levels in elderly diabetic patients. Clin Biochem 2010;43:759–60.
+Kancherla V, Elliott JL Jr, Patel BB, et al. Long-term metformin therapy and monitoring for vitamin B12 deficiency among older veterans. J Am Geriatr Soc 2017;65:1061–6.
+Johnston PS, Lebovitz HE, Coniff RF, et al. Advantages of alpha-glucosidase inhibition as monotherapy in elderly type 2 diabetic patients. J Clin Endocrinol Metab 1998;83:1515–22.
+Orimo H, Akiguchi I, Shiraki M. Usefulness of acarbose in the management of non-insulin-dependent diabetes in the aged. In: Creutzfeldt W, ed. Proceedings of the first international symposium on acarbose. Amsterdam: Excerpta Medica, 1982, pg. 348–52.
+Johansen K. Acarbose treatment of sulfonylurea-treated non-insulin dependent diabetics. A double-blind cross-over comparison of an alpha-glucosidase inhibitor with metformin. Diabete Metab 1984;10:219–23.
+Josse RG, Chiasson JL, Ryan EA, et al. Acarbose in the treatment of elderly patients with type 2 diabetes. Diabetes Res Clin Pract 2003;59:37–42.
+Chilcott J, Tappenden P, Jones ML, et al. A systematic review of the clinical effectiveness of pioglitazone in the treatment of type 2 diabetes mellitus. Clin Ther 2001;23:1792–823, discussion 1.
+Rajagopalan R, Perez A, Ye Z, et al. Pioglitazone is effective therapy for elderly patients with type 2 diabetes mellitus. Drugs Aging 2004;21:259–71.
+Kreider M, Heise M. Rosiglitazone in the management of older patients with type 2 diabetes mellitus. Int J Clin Pract 2002;56:538–41.
+Kahn SE, Haffner SM, Heise MA, et al. Glycemic durability of rosiglitazone, metformin, or glyburide monotherapy. N Engl J Med 2006;355:2427–43.
+WinkelmayerWC, Setoguchi S, Levin R, et al. Comparison of cardiovascular outcomes in elderly patients with diabetes who initiated rosiglitazone vs pioglitazone therapy. Arch Intern Med 2008;168:2368–75.
+Graham DJ, Ouellet-Hellstrom R, MaCurdy TE, et al. Risk of acute myocardial infarction, stroke, heart failure, and death in elderly Medicare patients treated with rosiglitazone or pioglitazone. JAMA 2010;304:411–18.
+Lipscombe LL, Gomes T, Levesque LE, et al. Thiazolidinediones and cardiovascular outcomes in older patients with diabetes. JAMA 2007;298:2634–43.
+Home PD, Pocock SJ, Beck-Nielsen H, et al. Rosiglitazone evaluated for cardiovascular outcomes in oral agent combination therapy for type 2 diabetes (RECORD): Amulticentre, randomised, open-label trial. Lancet 2009;373:2125–35.
+Loke YK, Singh S, Furberg CD. Long-term use of thiazolidinediones and fractures in type 2 diabetes: A meta-analysis. CMAJ 2009;180:32–9.
+Schwartz AV, Chen H, AmbrosiusWT, et al. Effects of TZD use and discontinuation on fracture rates in ACCORD Bone Study. J Clin Endocrinol Metab 2015;100:4059–66.
+Lee CG, Boyko EJ, Barrett-Connor E, et al. Insulin sensitizers may attenuate lean mass loss in older men with diabetes. Diabetes Care 2011;34:2381–6.
+Asplund K, Wiholm BE, Lithner F. Glibenclamide-associated hypoglycaemia: A report on 57 cases. Diabetologia 1983;24:412–17.
+Shorr RI, Ray WA, Daugherty JR, et al. Individual sulfonylureas and serious hypoglycemia in older people. J Am Geriatr Soc 1996;44:751–5.
+Shorr RI, Ray WA, Daugherty JR, et al. Incidence and risk factors for serious hypoglycemia in older persons using insulin or sulfonylureas. Arch Intern Med 1997;157:1681–6.
+Johnsen SP, Monster TB, Olsen ML, et al. Risk and short-term prognosis of myocardial infarction among users of antidiabetic drugs. Am J Ther 2006;13:134–40.
+Greco D, Pisciotta M, Gambina F, et al. Severe hypoglycaemia leading to hospital admission in type 2 diabetic patients aged 80 years or older. Exp Clin Endocrinol Diabetes 2010;118:215–19.
+Tessier D, Dawson K, Tetrault JP, et al. Glibenclamide vs gliclazide in type 2 diabetes of the elderly. Diabet Med 1994;11:974–80.
+Holstein A, Plaschke A, Egberts EH. Lower incidence of severe hypoglycaemia in patients with type 2 diabetes treated with glimepiride versus glibenclamide. Diabetes Metab Res Rev 2001;17:467–73.
+Drouin P. Diamicron MR once daily is effective and well tolerated in type 2 diabetes: A double-blind, randomized, multinational study. J Diabetes Complications 2000;14:185–91.
+Schernthaner G, Grimaldi A, Di Mario U, et al. GUIDE study: Double-blind comparison of once-daily gliclazide MR and glimepiride in type 2 diabetic patients. Eur J Clin Invest 2004;34:535–42.
+Zeller M, Danchin N, Simon D, et al. Impact of type of preadmission sulfonylureas on mortality and cardiovascular outcomes in diabetic patients with acutemyocardial infarction. J Clin Endocrinol Metab 2010;95:4993–5002.
+Pantalone KM, Kattan MW, Yu C, et al. The risk of overall mortality in patients with type 2 diabetes receiving glipizide, glyburide, or glimepiride monotherapy: A retrospective analysis. Diabetes Care 2010;33:1224–9.
+Clemens KK, McArthur E, Dixon SN, et al. The hypoglycemic risk of glyburide (glibenclamide) compared with modified-release gliclazide. Can J Diabetes 2015;39(Suppl. 4):32–40.
+Del Prato S, Heine RJ, Keilson L, et al. Treatment of patients over 64 years of age with type 2 diabetes: Experience from nateglinide pooled database retrospective analysis. Diabetes Care 2003;26:2075–80.
+Papa G, Fedele V, Rizzo MR, et al. Safety of type 2 diabetes treatment with repaglinide compared with glibenclamide in elderly people: A randomized, open-label, two-period, cross-over trial. Diabetes Care 2006;29:1918–20.
+Schwarz SL, Gerich JE, Marcellari A, et al. Nateglinide, alone or in combination with metformin, is effective and well tolerated in treatment-naive elderly patients with type 2 diabetes. Diabetes Obes Metab 2008;10:652–60.
+Umezawa S, Kubota A, Maeda H, et al. Two-year assessment of the efficacy and safety of sitagliptin in elderly patients with type 2 diabetes: Post hoc analysis of the ASSET-K study. BMC Endocr Disord 2015;15:34.
+Lajara R, Aguilar R, Hehnke U, et al. Efficacy and safety of linagliptin in subjects with long-standing type 2 diabetes mellitus (>10 years): Evidence from pooled data of randomized, double-blind, placebo-controlled, phase III trials. Clin Ther 2014;36:1595–605.
+Schernthaner G, Barnett AH, Patel S, et al. Safety and efficacy of the dipeptidyl peptidase-4 inhibitor linagliptin in elderly patients with type 2 diabetes: A comprehensive analysis of data from 1331 individuals aged ≥ 65 years. Diabetes Obes Metab 2014;16:1078–86.
+Round EM, Engel SS, Golm GT, et al. Safety of sitagliptin in elderly patients with type 2 diabetes: A pooled analysis of 25 clinical studies. Drugs Aging 2014;31:203–14.
+Barnett AH, Huisman H, Jones R, et al. Linagliptin for patients aged 70 years or older with type 2 diabetes inadequately controlledwith common antidiabetes treatments: A randomised, double-blind, placebo-controlled trial. Lancet 2013;382:1413–23.
+Karyekar CS, Ravichandran S, Allen E, et al. Tolerability and efficacy of glycemic control with saxagliptin in older patients (aged ≥ 65 years) with inadequately controlled type 2 diabetes mellitus. Clin Interv Aging 2013;8:419–30.
+Schwartz SL. Treatment of elderly patients with type 2 diabetes mellitus: A systematic review of the benefits and risks of dipeptidyl peptidase-4 inhibitors. Am J Geriatr Pharmacother 2010;8:405–18.
+Doucet J, Chacra A, Maheux P, et al. Efficacy and safety of saxagliptin in older patients with type 2 diabetes mellitus. Curr Med Res Opin 2011;27:863–9.
+Barzilai N, Guo H, Mahoney EM, et al. Efficacy and tolerability of sitagliptin monotherapy in elderly patients with type 2 diabetes: A randomized, doubleblind, placebo-controlled trial. Curr Med Res Opin 2011;27:1049–58.
+Chien M-N, Lee C-C, ChenW-C, et al. Effect of sitagliptin as add-on therapy in elderly type 2 diabetes patients with inadequate glycemic control in taiwan. Int J Gerontol 2011;5:103–6. http://www.sciencedirect.com/science/article/pii/S1873959811000469.
+Shankar RR, Xu L, Golm GT, et al. A comparison of glycaemic effects of sitagliptin and sulfonylureas in elderly patients with type 2 diabetes mellitus. Int J Clin Pract 2015;69:626–31.
+Bron M, Wilson C, Fleck P. A post hoc analysis of HbA1c, hypoglycemia, and weight change outcomes with alogliptin vs glipizide in older patients with type 2 diabetes. Diabetes Ther 2014;5:521–34.
+Schernthaner G, Duran-Garcia S, Hanefeld M, et al. Efficacy and tolerability of saxagliptin compared with glimepiride in elderly patients with type 2 diabetes: A randomized, controlled study (GENERATION). Diabetes Obes Metab 2015;17:630–8.
+Hartley P, Shentu Y, Betz-Schiff P, et al. Efficacy and tolerability of sitagliptin compared with glimepiride in elderly patients with type 2 diabetes mellitus and inadequate glycemic control: A randomized, double-blind, non-inferiority trial. Drugs Aging 2015;32:469–76.
+Rosenstock J, Wilson C, Fleck P. Alogliptin versus glipizide monotherapy in elderly type 2 diabetes mellitus patients with mild hyperglycaemia: A prospective, double-blind, randomized, 1-year study. Diabetes Obes Metab 2013;15:906–14.
+Inzucchi SE, Nauck MA, Hehnke U, et al. Improved glucose control with reduced hypoglycaemic risk when linagliptin is added to basal insulin in elderly patients with type 2 diabetes. Diabetes Obes Metab 2015;17:868–77.
+Leiter LA, Teoh H, Braunwald E, et al. Efficacy and safety of saxagliptin in older participants in the SAVOR-TIMI 53 trial. Diabetes Care 2015;38:1145–53.
+White WB, Cannon CP, Heller SR, et al. Alogliptin after acute coronary syndrome in patients with type 2 diabetes. N Engl J Med 2013;369:1327–35.
+Green JB, Bethel MA, Armstrong PW, et al. Effect of sitagliptin on cardiovascular outcomes in type 2 diabetes. N Engl J Med 2015;373:232–42.
+Bethel MA, Engel SS, Green JB, et al. Assessing the safety of sitagliptin in older participants in the Trial Evaluating Cardiovascular Outcomes with Sitagliptin(TECOS). Diabetes Care 2017;40:494–501.
+Hanefeld M, Berria R, Lin J, et al. Lixisenatide treatment for older patients with type 2 diabetes mellitus uncontrolled on oral antidiabetics: Meta-analysis of five randomized controlled trials. Adv Ther 2014;31:861–72.
+Bode BW, Brett J, Falahati A, et al. Comparison of the efficacy and tolerability profile of liraglutide, a once-daily human GLP-1 analog, in patients with type 2 diabetes >/=65 and <65 years of age: A pooled analysis from phase III studies. Am J Geriatr Pharmacother 2011;9:423–33.
+Ludemann J, Dutting ED, Dworak M. Patient preference and tolerability of a DPP-4 inhibitor versus a GLP-1 analog in patients with type 2 diabetes mellitus inadequately controlled with metformin: A 24-week, randomized, multicenter, crossover study. Ther Adv Endocrinol Metab 2015;6:141–8.
+Raccah D, Miossec P, Esposito V, et al. Efficacy and safety of lixisenatide in elderly (≥65 years old) and very elderly (≥75 years old) patients with type 2 diabetes: An analysis from the GetGoal phase III programme. Diabetes Metab Res Rev 2015;31:204–11.
+Boustani MA, Pittman I, Yu M, et al. Similar efficacy and safety of once-weekly dulaglutide in patients with type 2 diabetes aged ≥65 and <65 years. Diabetes Obes Metab 2016;18:820–8.
+Meneilly GS, Roy-Duval C, Alawi H, et al. Lixisenatide therapy in older patients with type 2 diabetes inadequately controlled on their current antidiabetic treatment: The GetGoal-O randomized trial. Diabetes Care 2017;40:485–93.
+Pfeffer MA, Claggett B, Diaz R, et al. Lixisenatide in patients with type 2 diabetes and acute coronary syndrome. N Engl J Med 2015;373:2247–57.
+Marso SP, Daniels GH, Brown-Frandsen K, et al. Liraglutide and cardiovascular outcomes in type 2 diabetes. N Engl J Med 2016;374:311–22. http://www.nejm.org/doi/full/10.1056/NEJMoa1603827.
+Marso SP, Bain SC, Consoli A, et al. Semaglutide and cardiovascular outcomes in patients with type 2 diabetes. N Engl J Med 2016;375:1834–44.
+Gavin JR 3rd, Jones MR, Ford DM, et al. Safety and efficacy of colesevelam HCl in the treatment of elderly patients. Drugs Aging 2014;31:461–70.
+Sinclair AJ, Bode B, Harris S, et al. Efficacy and safety of canagliflozin in individuals aged 75 and older with type 2 diabetes mellitus: A pooled analysis. J Am Geriatr Soc 2016;64:543–52.
+Bode B, Stenlöf K, Harris S, et al. Long-term efficacy and safety of canagliflozin over 104 weeks in patients aged 55–80 years with type 2 diabetes. Diabetes Obes Metab 2015;17:294–303.
+Sinclair A, Bode B, Harris S, et al. Efficacy and safety of canagliflozin compared with placebo in older patients with type 2 diabetes mellitus: A pooled analysis of clinical studies. BMC Endocr Disord 2014;14:37.
+Elmore LK, Baggett S, Kyle JA, et al. A review of the efficacy and safety of canagliflozin in elderly patients with type 2 diabetes. Consult Pharm 2014;29:335–46.
+Bode B, Stenlof K, Sullivan D, et al. Efficacy and safety of canagliflozin treatment in older subjects with type 2 diabetes mellitus: A randomized trial. Hosp Pract (Minneap) 2013;41:72–84.
+Wanner C, Inzucchi SE, Lachin JM, et al. Empagliflozin and progression of kidney disease in type 2 diabetes. N Engl J Med 2016;375:323–34.
+Leiter LA, Cefalu WT, de Bruin TW, et al. Dapagliflozin added to usual care in individuals with type 2 diabetes mellitus with preexisting cardiovascular disease: A 24-week, multicenter, randomized, double-blind, placebo-controlled study with a 28-week extension. J Am Geriatr Soc 2014;62:1252–62.
+Fioretto P, Mansfield TA, Ptaszynska A, et al. Long-term safety of dapagliflozin in older patients with type 2 diabetes mellitus: A pooled analysis of phase IIb/III studies. Drugs Aging 2016;33:511–22.
+Zinman B, Wanner C, Lachin JM, et al. Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes. N Engl J Med 2015;373:2117–28.
+Neal B, Perkovic V, Mahaffey KW, et al. Canagliflozin and cardiovascular and renal events in type 2 diabetes. N Engl J Med 2017;377:644–57.
+Trimble LA, Meneilly GS. Optimizing insulin absorption and insulin injection technique in older adults. Diabetes Care 2014;37:e127–8.
+Trimble LA, Sundberg S, Markham L, et al. Value of the clock drawing test to predict problems with insulin skills in older adults. Can J Diabetes 2005;29:102–4. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.613.3746&rep=rep1&type=pdf.
+Zeyfang A, Berndt S, Aurnhammer G, et al. A short easy test can detect ability for autonomous insulin injection by the elderly with diabetes mellitus. J Am Med Dir Assoc 2012;13:81, e15-8.
+Corsi A, Torre E, Coronel G, et al. Pre-filled insulin pen in newly insulintreated diabetic patients over 60 years old. Nutr Metab 1997;10:78–81. http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=1&SID=3BS4cpPgcdfyk8sPrN2&page=1&doc=1.
+Coscelli C, Lostia S, Lunetta M, et al. Safety, efficacy, acceptability of a prefilled insulin pen in diabetic patients over 60 years old. Diabetes Res Clin Pract 1995;28:173–7.
+Herz M, Sun B, Milicevic Z, et al. Comparative efficacy of preprandial or postprandial Humalog Mix75/25 versus glyburide in patients 60 to 80 years of age with type 2 diabetes mellitus. Clin Ther 2002;24:73–86.
+Warren ML, Conway MJ, Klaff LJ, et al. Postprandial versus preprandial dosing of biphasic insulin aspart in elderly type 2 diabetes patients. Diabetes Res Clin Pract 2004;66:23–9.
+Galic E, VrtovecM, Bozikov V, et al. The impact of the timing of Humalog Mix25 injections on blood glucose fluctuations in the postprandial period in elderly patients with type 2 diabetes. Med Sci Monit 2005;11:187–92.
+Khamseh ME, Haddad J, Yang W, et al. Safety and effectiveness of biphasic insulin aspart 30 in different age-groups: A1chieve sub-analysis. Diabetes Ther 2013;4:347–61.
+Wolffenbuttel BH, Klaff LJ, Bhushan R, et al. Initiating insulin therapy in elderly patients with Type 2 diabetes: Efficacy and safety of lispro mix 25 vs. basal insulin combinedwith oral glucose-lowering agents. Diabet Med 2009;26:1147–55.
+Jovanovicˇ L, Peters AL, Jiang HH, et al. Durability of glycemic control with insulin lispro mix 75/25 versus insulin glargine for older patients with type 2 diabetes. Aging Clin Exp Res 2014;26:115–21.
+Wang X, Zhao L, Liu Y. Comparative research on insulin detemir combined with repaglinide and insulin aspart 30 in treating aged type 2 diabetes mellitus. Int J Clin Exp Med 2016;9:8581–6. http://www.ijcem.com/files/ijcem0017825.pdf.
+Hendra TJ, Taylor CD. A randomised trial of insulin on well-being and carer strain in elderly type 2 diabetic subjects. J Diabetes Complications 2004;18:148–54.
+Arai K, Hirao K, Yamauchi M, et al. Influence of BMI, Age and duration of diabetes mellitus on glycaemic control with twice-daily injections of biphasic insulin aspart 30 versus multiple daily injections of insulin aspart (JDDM 18): Retrospective reanalysis of a 6-month, randomized, open-label, multicentre trial in Japan. Clin Drug Investig 2010;30:35–40.
+Papa G, Fedele V, Chiavetta A, et al. Therapeutic options for elderly diabetic subjects: Open label, randomized clinical trial of insulin glargine added to oral antidiabetic drugs versus increased dosage of oral antidiabetic drugs. Acta Diabetol 2008;45:53–9.
+Pandya N, DiGenio A, Gao L, et al. Efficacy and safety of insulin glargine compared to other interventions in younger and older adults: A pooled analysis of nine open-label, randomized controlled trials in patients with type 2 diabetes. Drugs Aging 2013;30:429–38.
+Bhargava A, Chan V, Kimball ES, et al. Effects of age on glycemic control in patients with type 2 diabetes treated with insulin detemir: A post-hoc analysis of the PREDICTIVETM 303 Study. Drugs Aging 2016;33:135–41.
+Sun Y, Shao L, Niu X, et al. Clinical effectiveness of Novolin® 30R versus Lantus® combined with Glucobay® treatment in elderly patients with type 2 diabetes mellitus controlled by oral hypoglycaemic agents: A randomized study. J Int Med Res 2014;42:993–1001.
+Janka HU, Plewe G, Busch K. Combination of oral antidiabetic agents with basal insulin versus premixed insulin alone in randomized elderly patientswith type 2 diabetes mellitus. J Am Geriatr Soc 2007;55:182–8.
+Garber AJ, Clauson P, Pedersen CB, et al. Lower risk of hypoglycemia with insulin detemir than with neutral protamine hagedorn insulin in older persons with type 2 diabetes: A pooled analysis of phase III trials. J Am Geriatr Soc 2007;55:1735–40.
+Ritzel R, Roussel R, Bolli GB, et al. Patient-level meta-analysis of the EDITION 1, 2 and 3 studies: Glycaemic control and hypoglycaemia with new insulin glargine 300 U/ml versus glargine 100 U/ml in people with type 2 diabetes. Diabetes Obes Metab 2015;17:859–67.
+Korsatko S, Deller S, Mader JK, et al. Ultra-long pharmacokinetic properties of insulin degludec are comparable in elderly subjects and younger adults with type 1 diabetes mellitus. Drugs Aging 2014;31:47–53.
+Sorli C, Warren M, Oyer D, et al. Elderly patients with diabetes experience a lower rate of nocturnal hypoglycaemia with insulin degludec than with insulin glargine: A meta-analysis of phase IIIa trials. Drugs Aging 2013;30:1009–18.
+Munshi MN, Slyne C, Segal AR, et al. SImplification of insulin regimen in older adults and risk of hypoglycemia. JAMA Intern Med 2016;176:1023–6.
+Herman WH, Ilag LL, Johnson SL, et al. A clinical trial of continuous subcutaneous insulin infusion versus multiple daily injections in older adults with type 2 diabetes. Diabetes Care 2005;28:1568–73.
+Johnson SL, McEwen LN, Newton CA, et al. The impact of continuous subcutaneous insulin infusion and multiple daily injections of insulin on glucose variability in older adults with type 2 diabetes. J Diabetes Complications 2011;25:211–15.
+Yeoh E, Beato-Vibora P, Rogers H, et al. Efficacy of insulin pump therapy in elderly patients. Diabetes Technol Ther 2015;17:364–5.
+Rizvi AA, Petry R, Arnold MB, et al. Beneficial effects of continuous subcutaneous insulin infusion in older patients with long-standing type 1 diabetes. Endocr Pract 2001;7:364–9.
+Matejko B, Cyganek K, Katra B, et al. Insulin pump therapy is equally effective and safe in elderly and young type 1 diabetes patients. Rev Diabet Stud 2011;8:254–8.
+Berlie HD, Garwood CL. Diabetes medications related to an increased risk of falls and fall-related morbidity in the elderly. Ann Pharmacother 2010;44:712–17.
+Rajpathak SN, Fu C, Brodovicz KG, et al. Sulfonylurea use and risk of hip fractures among elderly men and women with type 2 diabetes. Drugs Aging 2015;32:321–7.
+Curb JD, Pressel SL, Cutler JA, et al. Effect of diuretic-based antihypertensive treatment on cardiovascular disease risk in older diabetic patients with isolated systolic hypertension. Systolic Hypertension in the Elderly Program Cooperative Research Group. JAMA 1996;276:1886–92.
+Wang JG, Staessen JA, Gong L, et al. Chinese trial on isolated systolic hypertension in the elderly. Systolic Hypertension in China (Syst-China) collaborative group. Arch Intern Med 2000;160:211–20.
+Tuomilehto J, Rastenyte D, Birkenhager WH, et al. Effects of calcium-channel blockade in older patients with diabetes and systolic hypertension. Systolic Hypertension in Europe Trial Investigators. N Engl J Med 1999;340:677–84.
+Lindholm LH, Hansson L, Ekbom T, et al. Comparison of antihypertensive treatments in preventing cardiovascular events in elderly diabetic patients: Results from the Swedish Trial in Old Patients with Hypertension-2. STOP Hypertension-2 Study Group. J Hypertens 2000;18:1671–5.
+Ninomiya T, Zoungas S, Neal B, et al. Efficacy and safety of routine blood pressure lowering in older patients with diabetes: Results from the ADVANCE trial. J Hypertens 2010;28:1141–9.
+Voyaki SM, Staessen JA, Thijs L, et al. Follow-up of renal function in treated and untreated older patients with isolated systolic hypertension. Systolic Hypertension in Europe (Syst-Eur) Trial Investigators. J Hypertens 2001;19:511–19.
+Barzilay JI, Davis BR, Bettencourt J, et al. Cardiovascular outcomes using doxazosin vs. chlorthalidone for the treatment of hypertension in older adults with and without glucose disorders: A report from the ALLHAT study. J Clin Hypertens (Greenwich) 2004;6:116–25.
+Rahman M, Pressel S, Davis BR, et al. Renal outcomes in high-risk hypertensive patients treated with an angiotensin-converting enzyme inhibitor or a calcium channel blocker vs a diuretic: A report from the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT). Arch Intern Med 2005;165:936–46.
+Whelton PK, Barzilay J, Cushman WC, et al. Clinical outcomes in antihypertensive treatment of type 2 diabetes, impaired fasting glucose concentration, and normoglycemia: Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT). Arch Intern Med 2005;165:1401–9.
+Kjeldsen SE, Dahlof B, Devereux RB, et al. Effects of losartan on cardiovascular morbidity and mortality in patients with isolated systolic hypertension and left ventricular hypertrophy: A Losartan Intervention for Endpoint Reduction (LIFE) substudy. JAMA 2002;288:1491–8.
+Ferrari R. Effects of angiotensin-converting enzyme inhibition with perindopril on left ventricular remodeling and clinical outcome: Results of the randomized Perindopril and Remodeling in Elderly with Acute Myocardial Infarction (PREAMI) Study. Arch Intern Med 2006;166:659–66.
+Weber MA, Bakris GL, Jamerson K, et al. Cardiovascular events during differing hypertension therapies in patients with diabetes. J Am Coll Cardiol 2010;56:77–85.
+Heart Outcomes Prevention Evaluation Study Investigators. Effects of ramipril on cardiovascular and microvascular outcomes in people with diabetes mellitus: Results of the HOPE study and MICRO-HOPE substudy. Lancet 2000;355:253–9.
+Cushman WC, Evans GW, Byington RP, et al. Effects of intensive bloodpressure control in type 2 diabetes mellitus. N Engl J Med 2010;362:1575–85.
+Tessier DM, Meneilly GS, Moleski L, et al. Influence of blood pressure and other clinical variables on long-term mortality in a cohort of elderly subjects with type 2 diabetes. Can J Diabetes 2016;40:12–16.
+McAlister FA, Campbell NR, Duong-Hua M, et al. Antihypertensive medication prescribing in 27,822 elderly Canadians with diabetes over the past decade. Diabetes Care 2006;29:836–41.
+Baigent C, Keech A, Kearney PM, et al. Efficacy and safety of cholesterollowering treatment: Prospectivemeta-analysis of data from90,056 participants in 14 randomised trials of statins. Lancet 2005;366:1267–78.
+Collins R, Armitage J, Parish S, et al. Effects of cholesterol-lowering with simvastatin on stroke and other major vascular events in 20536 people with cerebrovascular disease or other high-risk conditions. Lancet 2004;363:757–67.
+Collins R, Armitage J, Parish S, et al. MRC/BHF Heart Protection Study of cholesterol-lowering with simvastatin in 5963 people with diabetes: A randomised placebo-controlled trial. Lancet 2003;361:2005–16.
+Heart Protection Study Collaborative Group. The effects of cholesterol lowering with simvastatin on cause-specific mortality and on cancer incidence in 20,536 high-risk people: A randomised placebo-controlled trial [ISRCTN48489393]. BMC Med 2005;3:6.
+Heart Protection Study Collaborative Group. MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: A randomised placebo-controlled trial. Lancet 2002;360:7–22.
+Keech A, Colquhoun D, Best J, et al. Secondary prevention of cardiovascular events with long-term pravastatin in patients with diabetes or impaired fasting glucose: Results from the LIPID trial. Diabetes Care 2003;26:2713–21.
+Neil HA, DeMicco DA, Luo D, et al. Analysis of efficacy and safety in patients aged 65–75 years at randomization: Collaborative Atorvastatin Diabetes Study (CARDS). Diabetes Care 2006;29:2378–84.
+ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group, The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial. Major outcomes in moderately hypercholesterolemic, hypertensive patients randomized to pravastatin vs usual care: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHATLLT). JAMA 2002;288:2998–3007.
+Sever PS, Poulter NR, Dahlof B, et al. Reduction in cardiovascular events with atorvastatin in 2,532 patients with type 2 diabetes: Anglo-Scandinavian Cardiac Outcomes Trial–lipid-lowering arm (ASCOT-LLA). Diabetes Care 2005;28:1151–7.
+Rubins HB, Robins SJ, Collins D, et al. Diabetes, plasma insulin, and cardiovascular disease: Subgroup analysis from the Department of Veterans Affairs high-density lipoprotein intervention trial (VA-HIT). Arch Intern Med 2002;162:2597–604.
+ACCORD Study Group, Ginsberg HN, Elam MB, et al. Effects of combination lipid therapy in type 2 diabetes mellitus. N Engl J Med 2010;362:1563–74.
+Davis TM, Ting R, Best JD, et al. Effects of fenofibrate on renal function in patients with type 2 diabetes mellitus: The Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) Study. Diabetologia 2011;54:280–90.
+Wagner G, Montorsi F, Auerbach S, et al. Sildenafil citrate (VIAGRA) improves erectile function in elderly patients with erectile dysfunction: A subgroup analysis. J Gerontol A Biol Sci Med Sci 2001;56:M113–19.
+Saenz de Tejada I, Anglin G, Knight JR, et al. Effects of tadalafil on erectile dysfunction in men with diabetes. Diabetes Care 2002;25:2159–64.
+Goldstein I, Young JM, Fischer J, et al. Vardenafil, a new phosphodiesterase type 5 inhibitor, in the treatment of erectile dysfunction in men with diabetes: A multicenter double-blind placebo-controlled fixed-dose study. Diabetes Care 2003;26:777–83.
+Bogner HR, Morales KH, Post EP, et al. Diabetes, depression, and death: A randomized controlled trial of a depression treatment program for older adults based in primary care (PROSPECT). Diabetes Care 2007;30:3005–10.
+Forsen L, Meyer HE, Midthjell K, et al. Diabetes mellitus and the incidence of hip fracture: Results from the Nord-Trondelag Health Survey. Diabetologia 1999;42:920–5.
+Nicodemus KK, Folsom AR. Type 1 and type 2 diabetes and incident hip fractures in postmenopausal women. Diabetes Care 2001;24:1192–7.
+van Daele PL, Stolk RP, Burger H, et al. Bone density in non-insulin-dependent diabetes mellitus. The Rotterdam study. Ann Intern Med 1995;122:409–14.
+Lunt M, Masaryk P, Scheidt-Nave C, et al. The effects of lifestyle, dietary dairy intake and diabetes on bone density and vertebral deformity prevalence: The EVOS study. Osteoporos Int 2001;12:688–98.
+Barrett-Connor E, Holbrook TL. Sex differences in osteoporosis in older adults with non-insulin-dependent diabetes mellitus. JAMA 1992;268:3333–7.
+Tuominen JT, Impivaara O, Puukka P, et al. Bone mineral density in patients with type 1 and type 2 diabetes. Diabetes Care 1999;22:1196–200.
+Li J, Shao YH, Gong YP, et al. Diabetes mellitus and dementia-a systematic review and meta-analysis. Eur Rev Med Pharmacol Sci 2014;18:1778–89.
+Espeland MA, Brinton RD, Hugenschmidt C, et al. Impact of type 2 diabetes and postmenopausal hormone therapy on incidence of cognitive impairment in older women. Diabetes Care 2015;38:2316–24.
+Formiga F, Vidal X, Agusti A, et al. Inappropriate prescribing in elderly people with diabetes admitted to hospital. Diabet Med 2016;33:655–62.
+Aspinall SL, Zhao X, Good CB, et al. Intervention to decrease glyburide use in elderly patients with renal insufficiency. Am J Geriatr Pharmacother 2011;9:58–68.
+Garcia TJ, Brown SA. Diabetes management in the nursing home: A systematic review of the literature. Diabetes Educ 2011;37:167–87.
+Wolffenbuttel BH, van Vliet S, Knols AJ, et al. Clinical characteristics and management of diabetic patients residing in a nursing home. Diabetes Res Clin Pract 1991;13:199–206.
+Mooradian AD, Osterweil D, Petrasek D, et al. Diabetes mellitus in elderly nursing home patients. a survey of clinical characteristics and management. J AmGeriatr Soc 1988;36:391–6.
+Dybicz SB, Thompson S, Molotsky S, et al. Prevalence of diabetes and the burden of comorbid conditions among elderly nursing home residents. Am J Geriatr Pharmacother 2011;9:212–23.
+Brown AF, Mangione CM, Saliba D, et al. Guidelines for improving the care of the older person with diabetes mellitus. J Am Geriatr Soc 2003;51:S265–80.
+Canadian Diabetes Association. Diabetes in Ontario: An ICES practice atlas. Toronto: Institute for Clinical Evaluative Sciences (ICES), 2003. http://www.ices.on.ca/~/media/Files/Atlases-Reports/2003/Diabetes-in-Ontario/Full%20report.ashx.
+Dhaliwal R,Weinstock RS. Management of type 1 diabetes in older adults. Diabetes Spectr 2014;27:9–20. http://spectrum.diabetesjournals.org/content/ diaspect/27/1/9.full.pdf.
+Hauner H, Kurnaz AA, Haastert B, et al. Undiagnosed diabetes mellitus and metabolic control assessed by HbA(1c) among residents of nursing homes. Exp Clin Endocrinol Diabetes 2001;109:326–9.
+Pandya N, Wei W, Meyers JL, et al. Burden of sliding scale insulin use in elderly long-term care residents with type 2 diabetes mellitus. J Am Geriatr Soc 2013;61:2103–10.
+Zullo AR, Dore DD, Gutman R, et al. National glucose-lowering treatment complexity Is greater in nursing home residents than community-dwelling adults. J Am Geriatr Soc 2016;64:e233–5.
+Bo M, Gallo S, Zanocchi M, et al. Prevalence, clinical correlates, and use of glucose-lowering drugs among older patients with type 2 diabetes living in long-term care facilities. J Diabetes Res 2015;2015:174316.
+Coulston AM, Mandelbaum D, Reaven GM. Dietary management of nursing home residents with non-insulin-dependent diabetes mellitus. Am J Clin Nutr 1990;51:67–71.
+Tariq SH, Karcic E, Thomas DR, et al. The use of a no-concentrated-sweets diet in the management of type 2 diabetes in nursing homes. J Am Diet Assoc 2001;101:1463–6.
+Levinson Y, Epstein A, Adler B, et al. Successful use of a sucrose-containing enteral formula in diabetic nursing home elderly. Diabetes Care 2006;29:698–700.
+Van Brunt K, Curtis B, Brooks K, et al. Insulin use in long term care settings for patients with type 2 diabetes mellitus: A systematic review of the literature. J Am Med Dir Assoc 2013;14:809–16.
+Velussi M. Lispro insulin treatment in comparison with regular human insulin in type 2 diabetic patients living in nursing homes. Diabetes Nutr Metab 2002;15:96–100.
+Pasquel FJ, Powell W, Peng L, et al. A randomized controlled trial comparing treatment with oral agents and basal insulin in elderly patients with type 2 diabetes in long-term care facilities. BMJ Open Diabetes Res Care 2015;3:e000104.
+Sjoblom P, Tengblad A, Lofgren UB, et al. Can diabetes medication be reduced in elderly patients? An observational study of diabetes drug withdrawal in nursing home patients with tight glycaemic control. Diabetes Res Clin Pract 2008;82:197–202.
+Munshi MN, Florez H, Huang ES, et al. Management of diabetes in long-term care and skilled nursing facilities: A position statement of the American Diabetes Association. Diabetes Care 2016;39:308–18.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

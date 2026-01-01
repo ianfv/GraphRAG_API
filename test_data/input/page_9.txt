@@ -1,0 +1,258 @@
+Chapter Headings
+
+A1C Testing
+Self-Monitoring of Blood Glucose
+Ketone Testing
+Continuous Glucose Monitoring Systems
+Flash Glucose Monitoring
+Other Relevant Guidelines
+Relevant Appendices
+Author Disclosures
+Key Messages
+Glycated hemoglobin (A1C) is a valuable indicator of glycemic treatment effectiveness and should be measured at least every 3 months when glycemic targets are not being met and when antihyperglycemic therapy is being adjusted. In some circumstances, such as when significant changes are made to therapy or during pregnancy, it is appropriate to check A1C more frequently.
+Awareness of all measures of glycemia—self-monitored blood glucose results, including self-monitored blood glucose (SMBG), flash glucose monitoring (FGM), continous glucose monitoring (CGM) and A1C—provides the best information to assess glycemic control.
+Self-monitoring of blood glucose, FGM and CGM should not be viewed as glucose-lowering interventions, but rather as aids to assess the effectiveness of glucose-lowering interventions and to prevent and detect hypoglycemia.
+Timing and frequency of SMBG may be determined individually based on the type of diabetes, the type of antihyperglycemic treatment prescribed, the need for information about blood glucose levels and the individual's capacity to use the information from testing to modify healthy behaviours or self-adjust antihyperglycemic agents.
+SMBG, FGM and CGM linked with a structured educational and therapeutic program designed to facilitate behaviour change can improve blood glucose levels and prevent hypoglycemia.
+Key Messages for People with Diabetes
+A1C is a measurement of your average blood glucose control for the last 2 to 3 months. Approximately 50% of the value comes from the last 30 days.
+You should have your A1C measured every 3 months when your blood glucose targets are not being met or when you are making changes to your diabetes management. In some circumstances, such as when significant changes are made to your glucose-lowering therapy or during pregnancy, your health-care provider may check your A1C more frequently.
+Checking your blood glucose with a glucose meter (also known as self-monitoring of blood glucose) or using a flash glucose meter or continuous glucose monitor will:
+Determine if you have a high or low blood glucose at a given time
+Show how your health behaviours and diabetes medication(s) affect your blood glucose levels
+Help you and your diabetes health-care team to make health behaviour and medication changes that will improve your blood glucose levels.
+Discuss with your diabetes health-care team how often you should check your blood glucose level.
+A1C Testing
+
+Glycated hemoglobin (A1C) is a reliable estimate of mean plasma glucose (PG) levels over the previous 8 to 12 weeks (1). The mean blood glucose (BG) level in the 30 days immediately preceding the blood sampling (days 0 to 30) contributes 50% of the result and the prior 90 to 120 days contributes 10% (2,3). In uncommon circumstances, where the rate of red blood cell turnover is significantly shortened or extended, or the structure of hemoglobin is altered, A1C may not accurately reflect glycemic status (Table 1).
+
+A1C is the preferred standard for assessing glycated hemoglobin, and laboratories are encouraged to use assay methods that are standardized to the Diabetes Control and Complications Trial (DCCT) reference (4–6). A1C is a valuable indicator of treatment effectiveness and should be measured at least every 3 months when glycemic targets are not being met and when diabetes therapy is being adjusted or changed. Testing at 6-month intervals may be considered in situations where glycemic targets are consistently achieved (4,7). In some circumstances, such as when significant changes are made to therapy, or during pregnancy, it is appropriate to check A1C more frequently (see Diabetes and Pregnancy chapter, p. S255).
+
+A1C may also be used for the diagnosis of diabetes in adults (see Screening for Diabetes in Adults chapter, p. S16). In Canada, A1C is reported using the National Glycohemoglobin Standardization Program (NGSP) units (%). In 2007, a consensus statement from the American Diabetes Association, European Association for the Study of Diabetes and the International Diabetes Federation called for A1C reporting worldwide to change to dual reporting of A1C with the International Federation of Clinical Chemistry and Laboratory Medicine (IFCC) SI units (mmol/mol) and derived NGSP units (%) with the hope of fully converting to exclusive reporting in SI units (8). However, this has not been adopted worldwide, and both Canada and the United States still use the NGSP units (%) (9). Although there are some advantages to reporting in SI units, the most notable disadvantage is the massive education effort that would be required to ensure recognition and adoption of the new units. Canada is currently not performing dual reporting; therefore, throughout this document, A1C is still written in NGSP units (%). For those who wish to convert NGSP units to SI units, the following equation can be used: IFCC = 10.93 (NGSP) − 23.50 (10) (see Appendix 15. Glycated Hemoglobin Conversion Chart for conversion of A1C from NGSP units to IFCC SI units).
+
+Point-of-care A1C analyzers are bench-top instruments that use a finger-prick capillary blood sample. They are designed for use in a health-care provider's office, a treatment room or at a bedside. The blood is applied to a test cartridge and the sample is analyzed within several minutes (11). Point-of-care A1C testing has several potential advantages over laboratory A1C testing, including rapid test results to expedite medical decision-making, convenience for people with diabetes, potential improved health system efficiency and improved access to testing for underserved populations (12). A number of point-of-care A1C devices are commercially available for monitoring glycemic control; however, a United Kingdom systematic review concluded that evidence of the impact of using point-of-care A1C testing on medication use, clinical decision-making and participants' outcomes is lacking, and that a randomized trial with economic evaluation is needed (13). Currently, no point-of-care A1C analyzers are approved for the diagnosis of diabetes.
+
+Several studies have shown that A1C concentrations are higher in some ethnic groups (African, Asian, Hispanic) than in Caucasian persons with similar plasma glucose concentrations (14–19). In 1 cross-sectional study, A1C was 0.13 to 0.47 percentage points higher in African American than in Caucasian persons, with the difference increasing as glucose intolerance worsened. However, all of these studies estimated mean glucose levels on the basis of very limited measurements and, as a result, it is not clear whether the higher A1C observed in certain ethnic groups is due to worse glycemic control or racial variation in the glycation of hemoglobin. If differences in A1C between ethnic groups exist, the differences appear to be small and have not been shown to significantly modify the association between A1C and cardiovascular outcomes (20), retinopathy (21) or nephropathy (22).
+
+Table 1
+Factors that can affect A1C
+A1C, glycated hemoglobin.
+Factor	Increased A1C	Decreased A1C	Variable change in A1C
+Erythropoiesis	Iron deficiency
+B12 deficiency
+Decreased erythropoiesis	Use of erythropoietin, iron or B12
+Reticulocytosis
+Chronic liver disease	 
+Altered hemoglobin	 	 	Fetal hemoglobin
+Hemoglobinopathies
+Methemoglobin
+Genetic determinants
+Altered glycation	Alcoholism
+Chronic renal failure
+Decreased erythrocyte pH	Ingestion of aspirin, vitamin C or vitamin E
+Hemoglobinopathies
+Increased erythrocyte pH	 
+Erythrocyte destruction	 	 	 
+Assays	Increased erythrocyte lifespan:
+Splenectomy
+	Decreased erythrocyte lifespan:
+Chronic renal failure
+Hemoglobinopathies
+Splenomegaly
+Rheumatoid arthritis
+Antiretrovirals
+Ribavirin
+Dapsone
+	 
+Self-Monitoring of Blood Glucose
+
+Monitoring blood glucose levels, whether using traditional self monitoring of blood glucose (SMBG) devices or more recent flash glucose monitoring (FGM), can serve as a useful adjunct to other measures of glycemia, including A1C. Most people with diabetes benefit from monitoring BG for a variety of reasons (23,24). Monitoring BG is the optimal way to confirm and appropriately treat hypoglycemia. It can provide feedback on the results of healthy behaviour interventions and antihyperglycemic pharmacological treatments. It can increase one's empowerment and adherence to treatment. It can also provide information to both the person with diabetes and their diabetes health-care team to facilitate longer-term treatment modifications and titrations as well as shorter-term treatment decisions, such as insulin dosing for people with type 1 or type 2 diabetes. Finally, in situations where A1C does not accurately reflect glycemia (Table 1), monitoring BG is necessary to adequately monitor glycemia (25).
+
+Monitoring BG is most effective when combined with an education program that incorporates instruction for people with diabetes on healthy behaviour changes in response to BG values and for health-care providers on how to adjust antihyperglycemic medications in response to BG readings (26–30). As part of this education, people with diabetes should receive instruction on how and when to perform self-monitoring; how to record the results in an organized fashion; the meaning of various BG levels and how behaviour and actions affect BG results.
+
+Frequency of SMBG
+
+The recommended frequency of monitoring BG may be individualized to each person's unique circumstances. Factors influencing this recommendation include type of diabetes, type of antihyperglycemic therapy, changes to antihyperglycemic therapy, adequacy of glycemic control, literacy and numeracy skills, propensity to hypoglycemia, awareness of hypoglycemia, occupational requirements and acute illness.
+
+Type 1 and type 2 diabetes treated with insulin
+
+For people with type 1 diabetes, monitoring BG is essential to achieving and maintaining good glycemic control. In a large cohort study, performance of ≥3 self-tests per day was associated with a statistically and clinically significant 1.0% absolute reduction in A1C (8). The evidence is less certain in people with type 2 diabetes treated with insulin, although the above principle likely applies (8). In a large, non-randomized study of individuals with stable type 2 diabetes using insulin, testing at least 3 times a day was associated with improved glycemic control (31). More frequent testing, including preprandial and 2-hour postprandial PG (31,32) and occasional overnight BG measurements, is often required to provide the information needed to reduce hypoglycemia risk, including unrecognized nocturnal hypoglycemia (33–37).
+
+Type 2 diabetes not treated with insulin
+
+For people with type 2 diabetes treated with healthy behaviour interventions, with or without noninsulin antihyperglycemic agents, the effectiveness and frequency of monitoring BG in improving glycemic control is less clear (23,24,38–47). A series of recent meta-analyses, all using different methodologies and inclusion criteria, have generally shown a small benefit to reducing A1C in those individuals performing SMBG compared to those who did not (48–54). The magnitude of the benefit is small, with absolute A1C reductions ranging from 0.2% to 0.5%. These analyses demonstrated greater A1C reductions in those performing SMBG when the baseline A1C was >8% (30,48,51,55). SMBG has been demonstrated to be most effective in persons with type 2 diabetes within the first 6 months after diagnosis (56). Also of significance, there is no evidence that SMBG affects one's satisfaction, general well-being or general health-related quality of life (56).
+
+Most trials in noninsulin-treated people with type 2 diabetes are of limited value as baseline A1C levels were typically <8.0%, and the trials did not include a component of educational and therapeutic intervention in response to BG values. Several recent, well-designed randomized controlled trials that have included this component have demonstrated reductions in A1C (30,57,58). In the Structured Testing Program (STeP) trial, 483 poorly controlled participants with diabetes not on insulin (mean A1C >8.9%) were randomized to either an active control group with enhanced usual care or a structured testing group with enhanced usual care and at least quarterly use of structured SMBG (30). At 1 year, there was a significantly greater reduction in mean A1C in the structured testing group compared with the active control group (−0.3%, p=0.04). Significantly more structured testing group participants received a treatment change recommendation compared with active control group participants. In the Role of Self-Monitoring of Blood Glucose and Intensive Education in Patients with Type 2 Diabetes Not Receiving Insulin (ROSES) trial, participants were randomly allocated to either a self-monitoring-based diabetes management strategy with education on how to modify health behaviours according to SMBG readings or to usual care (57). Results of SMBG were discussed during monthly telephone contact. After 6 months, significantly greater reductions in mean A1C (−0.5%, p=0.04) and body weight (−4.0 kg, p=0.02) were observed in the SMBG group compared with the usual care group. In the St. Carlos trial, newly diagnosed people with type 2 diabetes were randomized to either an SMBG-based intervention or an A1C-based intervention (58). In the SMBG intervention group, SMBG results were used as both an educational tool to promote adherence to healthy behaviour modifications as well as a therapeutic tool for adjustment of antihyperglycemic pharmacologic therapy. Treatment decisions for the A1C cohort were based strictly on A1C test results. After 1 year of follow up, median A1C level and body mass index (BMI) were significantly reduced in participants in the SMBG intervention group (from 6.6% to 6.1%, p<0.05; and from 29.6 kg to 27.9 kg, p<0.01). In the A1C-based intervention group, there was no change in median A1C or BMI. The evidence is less clear about how often, once recommended, SMBG should be performed by persons with type 2 diabetes not treated with insulin.
+
+Separate from the ability of the person with diabetes to use self-monitored glucose to lower A1C, monitoring glucose should be considered for the prevention, recognition and treatment of hypoglycemia in persons whose regimens include an insulin secretagogue due to the higher risk of hypoglycemia with this class of antihyperglycemic agents (59). On the other hand, for people with type 2 diabetes who are managed with healthy behaviour interventions, with or without non-insulin antihyperglycemic agents associated with low risk of hypoglycemia, and who are meeting glycemic targets, very infrequent monitoring may be needed (see Appendix 5. Self-Monitoring of Blood Glucose [SMBG] Recommendation Tool for Health-Care Providers).
+
+Verification of accuracy of SMBG performance and results
+
+Variability can exist between BG results obtained using SMBG devices and laboratory testing of PG. At BG levels >4.2 mmol/L, a difference of <15% between SMBG and simultaneous venous fasting plasma glucose (FPG) (after at least an 8-hour fast), is considered acceptable (60). In order to ensure accuracy of SMBG, results should be compared with a laboratory measurement of FPG at least annually or when A1C does not match SMBG readings. Periodic re-education on correct SMBG technique may improve the accuracy of SMBG results (61,62). In rare situations, therapeutic interventions may interfere with the accuracy of some SMBG devices. For example, icodextrin-containing peritoneal dialysis solutions may cause falsely high readings in meters utilizing glucose dehydrogenase. Care should be taken to select an appropriate meter with an alternative glucose measurement method in such situations.
+
+Alternate site testing
+
+Meters are available that allow SMBG using blood samples from sites other than the fingertip (forearm, palm of the hand, thigh). Accuracy of results over a wide range of BG levels and during periods of rapid change in BG levels is variable across sites. During periods of rapid change in BG levels (e.g. after meals, after exercise and during hypoglycemia), fingertip testing has been shown to more accurately reflect glycemic status than forearm or thigh testing (63,64). In comparison, blood samples taken from the palm near the base of the thumb (thenar area) demonstrate a closer correlation to fingertip samples at all times of day and during periods of rapid change in BG levels (65,66).
+
+Ketone Testing
+
+Ketone testing is recommended for all individuals with type 1 diabetes during periods of acute illness accompanied by elevated BG, when preprandial BG levels remain elevated (>14.0 mmol/L), or when symptoms of diabetic ketoacidosis (DKA) (such as nausea, vomiting or abdominal pain) are present (4). If all of these conditions are present in type 2 diabetes, ketone testing should be considered, as DKA also can occur in these individuals.
+
+During DKA, the equilibrium that is usually present between ketone bodies shifts toward formation of beta-hydroxybutyric acid (beta-OHB). As a result, testing methods that measure blood beta-OHB levels may provide more clinically useful information than those that measure urine acetoacetate or acetone levels. Assays that measure acetoacetate through urine testing may not identify the onset and resolution of ketosis as quickly as those that quantify beta-OHB levels in blood, since acetoacetate or acetone can increase as beta-OHB decreases with effective treatment (60). Meters that quantify beta-OHB from capillary sampling may be preferred for self-monitoring of ketones, as they have been associated with earlier detection of ketosis and may provide information required to prevent progression to DKA (66–68). This may be especially useful for individuals with type 1 diabetes using continuous subcutaneous insulin (CSII) therapy, as interruption of insulin delivery can result in rapid onset of DKA (69).
+
+Continuous Glucose Monitoring Systems
+
+Continuous glucose monitoring (CGM) systems measure glucose concentrations in the interstitial fluid. Two types of devices are available. The “real time” (also called “personal”) CGM provides information directly to the user by displaying moment-to–moment absolute glucose levels and trending arrows, and by providing alarm notifications in the event that the glucose level is above or below a preset limit. A “blinded” (sometimes referred to as “professional”) CGM captures, but does not display, the glucose readings, which are then downloaded onto a computer for viewing and retrospective analysis by the health-care provider (typically in conjunction with the user).
+
+CGM technology incorporates a subcutaneously inserted sensor, an attached transmitter and, in the case of real-time CGM, a display unit (which may be a stand-alone unit or be integrated into an insulin pump). In professional CGM, the “transmitter” captures and retains the data. In Canada, 2 real-time CGM and 2 professional CGM are available. Real-time CGM has been consistently shown to reduce A1C in both adults (70–81) and children (71,73,75,76,78,79,82) with type 1 diabetes with and without CSII, and to reduce A1C in adults with type 2 diabetes (83). Real-time CGM also has been shown to reduce the time spent in hypoglycemia (78,80,81,84). Professional CGM has been shown to reduce A1C in adults with type 2 diabetes (85) and in pregnant women with type 1 or type 2 diabetes (86).
+
+Successful use of CGM is dependent on adherence with duration of time the CGM is used. The greater the time wearing the device, typically the better the A1C (72,73,76,77,82,86). Like SMBG, CGM provides the best outcomes if it is associated with structured educational and therapeutic programs. CGM is not a replacement for SMBG because SMBG is still required for calibration of the CGM device. Some real-time CGM devices require SMBG to confirm interstitial measurements prior to making therapeutic changes or treating suspected hypoglycemia; whereas other devices only require SMBG if glucose alerts and readings do not match symptoms.
+
+Flash Glucose Monitoring
+
+Flash glucose monitoring (FGM) also measures glucose concentration in the interstitial fluid, however, FGM differs from CGM technology in several ways. FGM is factory calibrated and does not require capillary blood glucose (with SMBG device) calibration. BG levels are not continually displayed on a monitoring device but instead are displayed when the sensor is “flashed” with a reader device on demand. The FGM reader also displays a plot profile of the last 8 hours, derived from interpolating glucose concentrations recorded every 15 minutes. Therefore, when the person with diabetes performs ≥3 sensor scans per day at ≤8 hour intervals, the FGM records 24-hour glucose profiles. The sensor can be worn continuously for up to 14 days. The device does not provide low or high glucose alarms.
+
+In the Randomised Controlled Study to Evaluate the Impact of Novel Glucose Sensing Technology on Hypoglycaemia in Type 1 Diabetes (IMPACT) trial, FGM without the use of SMBG decreased hypoglycemia in participants with well-controlled type 1 diabetes (A1C <7.5%) on either MDI or CSII, an average of 74 minutes per day, for a 38% reduction compared with a control group (87). In addition, a 40% reduction in the time spent in hypoglycemia at night, a 50% reduction in serious hypoglycemia and a reduction of routine SMBG measurements by 91%. In the Randomised Controlled Study to Evaluate the Impact of Novel Glucose Sensing Technology on HbA1c in Type 2 Diabetes trial, in individuals with type 2 diabetes, the use of FGM vs. SMBG resulted in a similar drop in A1C, but a significant reduction in time spent in hypoglycemia, <3.9 mmol/l by 43%, <3.1 mmol/L by 53%, reduced nocturnal hypoglycemia by 54%, reduced glycemic variability and improved quality of life. There was a statistical reduction in A1C for participants <65 years at 3 and 6 months (−0.53% and -0.20% respectively) (88).
+
+Recommendations
+For most individuals with diabetes, A1C should be measured approximately every 3 months to ensure that glycemic goals are being met or maintained [Grade D, Consensus]. In some circumstances, such as when significant changes are made to therapy, or during pregnancy, it is appropriate to check A1C more frequently. Testing at least every 6 months should be performed in adults during periods of treatment and healthy behaviour stability when glycemic targets have been consistently achieved [Grade D, Consensus].
+For individuals using insulin more than once a day, SMBG should be used as an essential part of diabetes self-management [Grade A, Level 1 (34), for type 1 diabetes; Grade C, Level 3 (23), for type 2 diabetes] and should be undertaken at least 3 times per day [Grade C, Level 3 (23,31)] and include both pre- and postprandial measurements [Grade C, Level 3 (31,32,89)]. For individuals with type 2 diabetes on once-daily insulin in addition to noninsulin antihyperglycemic agents, testing at least once a day at variable times is recommended [Grade D, Consensus].
+For individuals with type 2 diabetes not receiving insulin therapy, frequency of SMBG recommendations should be individualized depending on type of antihyperglycemic agents, level of glycemic control and risk of hypoglycemia [Grade D, Consensus].
+When glycemic control is not being achieved, SMBG should be instituted [Grade B, Level 2 (46,51)] and should include periodic pre- and postprandial measurements and training of health-care providers and people with diabetes on methods to modify health behaviours and antihyperglycemic medications in response to SMBG values [Grade B, Level 2 (30,90)]
+If achieving glycemic targets or receiving antihyperglycemic medications not associated with hypoglycemia, infrequent SMBG is appropriate [Grade D, Consensus].
+In many situations, for all individuals with diabetes, more frequent SMBG testing should be undertaken to provide information needed to make health behaviour or antihyperglycemic medication adjustments required to achieve desired glycemic targets and avoid risk of hypoglycemia [Grade D, Consensus].
+In people with type 1 diabetes who have not achieved their glycemic target, real-time CGM may be offered to improve glycemic control [Grade A, Level 1A (71,80,81) for non-CSII users; Grade B, Level 2 for CSII users (71)] and reduce duration of hypoglycemia [Grade A, Level 1A (78,80,84)] in individuals who are willing and able to use these devices on a nearly daily basis.
+FGM may be offered to people with diabetes to decrease time spent in hypoglycemia [Grade B, Level 2 (87) for type 1 diabetes; Grade B, Level 2 (88) for type 2 diabetes].
+In order to ensure accuracy of BG meter readings, meter results should be compared with laboratory measurement of simultaneous venous FPG (8-hour fast) at least annually and when A1C does not match glucose meter readings [Grade D, Consensus].
+Individuals with type 1 diabetes should be instructed to perform ketone testing during periods of acute illness accompanied by elevated BG, when preprandial BG levels remain >14.0 mmol/L or in the presence of symptoms of DKA [Grade D, Consensus]. Blood ketone testing methods may be preferred over urine ketone testing, as they have been associated with earlier detection of ketosis and response to treatment [Grade B, Level 2 (67)].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; BG, blood glucose; BMI, body mass index CBG; capillary blood glucose; CGM, continuous glucose monitoring; CGMS, continuous glucose monitoring system; CSII, continuous subcutaneous infusion infusion; DKA, diabetic ketoacidosis; FGM; flash glucose monitoring; FPG, fasting plasma glucose; PG, plasma glucose; SMBG, self-monitoring of blood glucose.
+
+Other Relevant Guidelines
+
+Chapter 7. Self-Management Education and Support
+
+Chapter 8. Targets for Glycemic Control
+
+Chapter 12. Glycemic Management in Adults with Type 1 Diabetes
+
+Chapter 14. Hypoglycemia
+
+Chapter 34. Type 1 Diabetes in Children and Adolescents
+
+Chapter 35. Type 2 Diabetes in Children and Adolescents
+
+Chapter 36. Diabetes and Pregnancy
+
+Relevant Appendices
+
+Appendix 5. Self-Monitoring of Blood Glucose (SMBG) Recommendation Tool for Health-Care Providers
+
+Appendix 15. Glycated Hemoglobin Conversion Chart
+
+Literature Review Flow Diagram for Chapter 9: Monitoring Glycemic Control
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (91).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Lori Berard has received consulting and/or speaker fees from Bayer, Boehringer Ingelheim, Sanofi, Eli Lilly, Novo Nordisk, Janssen, AstraZeneca, and Merck. Rick Siemens reports personal fees from Sanofi, Novo Nordisk, Mont-Med, Abbott, Merck, AstraZeneca, Lifescan, and Janssen, outside the submitted work. Dr. Woo has nothing to disclose.
+
+References
+McCarter RJ, Hempe JM, Chalew SA. Mean blood glucose and biological variation have greater influence on HbA1c levels than glucose instability: An analysis of data from the Diabetes Control and Complications Trial. Diabetes Care 2006;29:352–5.
+Goldstein DE, Little RR, Lorenz RA, et al. Tests of glycemia in diabetes. Diabetes Care 2004;27:1761–73.
+Calisti L, Tognetti S. Measure of glycosylated hemoglobin. Acta Biomed 2005;76(Suppl. 3):59–62.
+American Diabetes Association. Standards of medical care in diabetes—2007. Diabetes Care 2007;30(Suppl. 1):S4–41.
+Sacks DB, Bruns DE, Goldstein DE, et al. Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus. Clin Chem 2002;48:436–72.
+American Diabetes Association, European Association for the Study of Diabetes, International Federation of Clinical Chemistry and LaboratoryMedicine, International Diabetes Federation. Consensus statement on the worldwide standardisation of the HbA1c measurement. Diabetologia 2007;50:2042–3.
+Driskell OJ, Holland D,Waldron JL, et al. Reduced testing frequency for glycated hemoglobin, HbA1c, is associated with deteriorating diabetes control. Diabetes Care 2014;37:2731–7.
+Consensus Committee. Consensus statement on the worldwide standardization of the hemoglobin A1C measurement: The American Diabetes Association, European Association for the Study of Diabetes, International Federation of Clinical Chemistry and Laboratory Medicine, and the International Diabetes Federation. Diabetes Care 2007;30:2399–400.
+Sacks DB. Measurement of hemoglobin A(1c): A new twist on the path to harmony. Diabetes Care 2012;35:2674–80.
+Weykamp C, JohnWG, Mosca A, et al. The IFCC Reference Measurement System for HbA1c: A 6-year progress report. Clin Chem 2008;54:240–8.
+Diagnostic Evidence Co-operative Oxford. Point-of-care HbA1c tests—diagnosis of diabetes. London: National Institue for Health Research (NHS), 2016, pg. Report No.: Horizon Scan Report 0044. https://www.oxford.dec.nihr.ac.uk/files/reports-and-resources/horizon-scanning-report0044-poc-hba1c-in-diagnosis.pdf. Accessed November 15, 2017.
+Spaeth BA, Shephard MD, Schatz S. Point-of-care testing for haemoglobin A1c in remote Australian Indigenous communities improves timeliness of diabetes care. Rural Remote Health 2014;14:2849.
+Hirst JA, McLellan JH, Price CP, et al. Performance of point-of-care HbA1c test devices: Implications for use in clinical practice—a systematic review and metaanalysis. Clin Chem Lab Med 2017;55:167–80.
+Saaddine JB, Fagot-Campagna A, Rolka D, et al. Distribution of HbA(1c) levels for children and young adults in the U.S.: Third National Health and Nutrition Examination Survey. Diabetes Care 2002;25:1326–30.
+Herman WH, Ma Y, Uwaifo G, et al. Differences in A1C by race and ethnicity among patients with impaired glucose tolerance in the Diabetes Prevention Program. Diabetes Care 2007;30:2453–7.
+Herman WH, Dungan KM, Wolffenbuttel BH, et al. Racial and ethnic differences in mean plasma glucose, hemoglobin A1c, and 1,5-anhydroglucitol in over 2000 patients with type 2 diabetes. J Clin Endocrinol Metab 2009;94:1689–94.
+Selvin E, Steffes MW, Ballantyne CM, et al. Racial differences in glycemic markers: A cross-sectional analysis of community-based data. Ann Intern Med 2011;154:303–9.
+Herman WH, Cohen RM. Racial and ethnic differences in the relationship between HbA1c and blood glucose: Implications for the diagnosis of diabetes. J Clin Endocrinol Metab 2012;97:1067–72.
+Bergenstal RM, Gal RL, Connor CG, et al. Racial differences in the relationship of glucose concentrations and hemoglobin A1c levels. Ann Intern Med 2017;167:95–102.
+Selvin E, Steffes MW, Zhu H, et al. Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults. N Engl J Med 2010;362:800–11.
+Tsugawa Y, Mukamal KJ, Davis RB, et al. Should the hemoglobin A1c diagnostic cutoff differ between blacks and whites? A cross-sectional study. Ann Intern Med 2012;157:153–9.
+Selvin E, Ning Y, Steffes MW, et al. Glycated hemoglobin and the risk of kidney disease and retinopathy in adults with and without diabetes. Diabetes 2011;60:298–305.
+Karter AJ, Ackerson LM, Darbinian JA, et al. Self-monitoring of blood glucose levels and glycemic control: The Northern California Kaiser Permanente Diabetes registry. Am J Med 2001;111:1–9.
+Karter AJ, Parker MM, Moffet HH, et al. Longitudinal study of new and prevalent use of self-monitoring of blood glucose. Diabetes Care 2006;29:1757–63.
+Malekiani CL, Ganesan A, Decker CF. Effect of hemoglobinopathies on hemoglobin A1c measurements. Am J Med 2008;121:e5.
+Parkin CG, Davidson JA. Value of self-monitoring blood glucose pattern analysis in improving diabetes outcomes. J Diabetes Sci Technol 2009;3:500–8.
+Franciosi M, Pellegrini F, De Berardis G, et al. The impact of blood glucose self-monitoring on metabolic control and quality of life in type 2 diabetic patients: An urgent need for better educational strategies. Diabetes Care 2001;24:1870–7.
+Norris SL, Lau J, Smith SJ, et al. Self-management education for adults with type 2 diabetes: A meta-analysis of the effect on glycemic control. Diabetes Care 2002;25:1159–71.
+Polonsky WH, Earles J, Smith S, et al. Integrating medical management with diabetes self-management training: A randomized control trial of the Diabetes Outpatient Intensive Treatment program. Diabetes Care 2003;26:3048–53.
+Polonsky WH, Fisher L, Schikman CH, et al. Structured self-monitoring of blood glucose significantly reduces A1C levels in poorly controlled, noninsulintreated type 2 diabetes: Results fromthe Structured Testing Program study. Diabetes Care 2011;34:262–7.
+Sheppard P, Bending JJ, Huber JW. Pre- and post-prandial capillary glucose selfmonitoring achieves better glycaemic control than pre-prandial only monitoring. Pract Diab Int 2005;22:15–22.
+Murata GH, Shah JH, Hoffman RM, et al. Intensified blood glucose monitoring improves glycemic control in stable, insulin-treated veterans with type 2 diabetes: The Diabetes Outcomes in Veterans Study (DOVES). Diabetes Care 2003;26:1759–63.
+The Diabetes Control and Complications Trial Research Group, Nathan DM, Genuth S, et al. The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. N Engl J Med 1993;329:977–86.
+The DCCT Research Group. Epidemiology of severe hypoglycemia in the diabetes control and complications trial. Am J Med 1991;90:450–9.
+Gale EA, Tattersall RB. Unrecognised nocturnal hypoglycaemia in insulintreated diabetics. Lancet 1979;1:1049–52.
+Vervoort G, Goldschmidt HM, van Doorn LG. Nocturnal blood glucose profiles in patients with type 1 diabetes mellitus on multiple (> or = 4) daily insulin injection regimens. Diabet Med 1996;13:794–9.
+Jones TW, Porter P, Sherwin RS, et al. Decreased epinephrine responses to hypoglycemia during sleep. N Engl J Med 1998;338:1657–62.
+Boutati EI, Raptis SA. Self-monitoring of blood glucose as part of the integral care of type 2 diabetes. Diabetes Care 2009;32(Suppl. 2):S205–10.
+Faas A, Schellevis FG, Van Eijk JT. The efficacy of self-monitoring of blood glucose in NIDDM subjects. A criteria-based literature review. Diabetes Care 1997;20:1482–6.
+Harris MI. Frequency of blood glucose monitoring in relation to glycemic control in patients with type 2 diabetes. Diabetes Care 2001;24:979–82.
+Coster S, Gulliford MC, Seed PT, et al. Self-monitoring in Type 2 diabetes mellitus: A meta-analysis. Diabet Med 2000;17:755–61.
+Welschen LM, Bloemendal E, Nijpels G, et al. Self-monitoring of blood glucose in patients with type 2 diabetes who are not using insulin: A systematic review. Diabetes Care 2005;28:1510–17.
+Welschen LM, Bloemendal E, Nijpels G, et al. Self-monitoring of blood glucose in patients with type 2 diabetes mellitus who are not using insulin. CochraneDatabase Syst Rev 2005;(2):CD005060.
+Davidson MB, Castellanos M, Kain D, et al. The effect of self monitoring of blood glucose concentrations on glycated hemoglobin levels in diabetic patients not taking insulin: A blinded, randomized trial. Am J Med 2005;118:422–5.
+Davis WA, Bruce DG, Davis TM. Is self-monitoring of blood glucose appropriate for all type 2 diabetic patients? The Fremantle Diabetes Study. Diabetes Care 2006;29:1764–70.
+DavisWA, Bruce DG, Davis TME. Does self-monitoring of blood glucose improve outcome in type 2 diabetes? The Fremantle Diabetes Study. Diabetologia 2007;50:510–15.
+Farmer A, Wade A, Goyder E, et al. Impact of self monitoring of blood glucose in the management of patients with non-insulin treated diabetes: Open parallel group randomised trial. BMJ 2007;335:132.
+Allemann S, Houriet C, Diem P, et al. Self-monitoring of blood glucose in noninsulin treated patients with type 2 diabetes: A systematic review and metaanalysis. Curr Med Res Opin 2009;25:2903–13.
+Jansen JP. Self-monitoring of glucose in type 2 diabetes mellitus: A Bayesian meta-analysis of direct and indirect comparisons. Curr Med Res Opin 2006;22:671–81.
+McGeoch G, Derry S, Moore RA. Self-monitoring of blood glucose in type-2 diabetes: What is the evidence? Diabetes Metab Res Rev 2007;23:423–40.
+Poolsup N, Suksomboon N, Rattanasookchit S. Meta-analysis of the benefits of self-monitoring of blood glucose on glycemic control in type 2 diabetes patients: An update. Diabetes Technol Ther 2009;11:775–84.
+St John A, Davis WA, Price CP, et al. The value of self-monitoring of blood glucose: A review of recent evidence. J Diabetes Complications 2010;24:129–41.
+Towfigh A, Romanova M,Weinreb JE, et al. Self-monitoring of blood glucose levels in patients with type 2 diabetes mellitus not taking insulin: A meta-analysis. Am J Manag Care 2008;14:468–75.
+Canadian Agency for Drugs and Technologies in Health (CADTH). Systematic review of use of blood glucose test strips for the management of diabetes mellitus. CADTH Technol Overv 2010;1:e0101.
+Skeie S, Kristensen GB, Carlsen S, et al. Self-monitoring of blood glucose in type 1 diabetes patients with insufficient metabolic control: Focused self-monitoring of blood glucose intervention can lower glycated hemoglobin A1C. J Diabetes Sci Technol 2009;3:83–8.
+Malanda UL,Welschen LM, Riphagen II, et al. Self-monitoring of blood glucose in patients with type 2 diabetes mellitus who are not using insulin. Cochrane Database Syst Rev 2012;(1):CD005060.
+Franciosi M, Lucisano G, Pellegrini F, et al. ROSES: Role of self-monitoring of blood glucose and intensive education in patients with type 2 diabetes not receiving insulin. A pilot randomized clinical trial. Diabet Med 2011;28:789–96.
+Duran A, Martin P, Runkle I, et al. Benefits of self-monitoring blood glucose in the management of new-onset Type 2 diabetes mellitus: The St Carlos Study, a prospective randomized clinic-based interventional study with parallel groups. J Diabetes 2010;2:203–11.
+UK Prospective Diabetes Study (UKPDS) Group. Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). UK Prospective Diabetes Study (UKPDS) Group. Lancet 1998;352:837–53.
+Notice: New requirements for medical device licence applications for lancing devices and blood glucose monitoring systems [press release]. Ottawa, 2014.
+Norris SL, Engelgau MM, Narayan KM. Effectiveness of self-management training in type 2 diabetes: A systematic review of randomized controlled trials. Diabetes Care 2001;24:561–87.
+Bergenstal R, Pearson J, Cembrowski GS, et al. Identifying variables associated with inaccurate self-monitoring of blood glucose: Proposed guidelines to improve accuracy. Diabetes Educ 2000;26:981–9.
+Jungheim K, Koschinsky T. Glucose monitoring at the arm: Risky delays of hypoglycemia and hyperglycemia detection. Diabetes Care 2002;25:956–60.
+Ellison JM, Stegmann JM, Colner SL, et al. Rapid changes in postprandial blood glucose produce concentration differences at finger, forearm, and thigh sampling sites. Diabetes Care 2002;25:961–4.
+Bina DM, Anderson RL, Johnson ML, et al. Clinical impact of prandial state, exercise, and site preparation on the equivalence of alternative-site blood glucose testing. Diabetes Care 2003;26:981–5.
+Jungheim K, Koschinsky T. Glucose monitoring at the thenar: Evaluation of upper dermal blood glucose kinetics during rapid systemic blood glucose changes. Horm Metab Res 2002;34:325–9.
+Bektas F, Eray O, Sari R, et al. Point of care blood ketone testing of diabetic patients in the emergency department. Endocr Res 2004;30:395–402.
+Khan AS, Talbot JA, Tieszen KL, et al. Evaluation of a bedside blood ketone sensor: The effects of acidosis, hyperglycaemia and acetoacetate on sensor performance. Diabet Med 2004;21:782–5.
+Guerci B, Benichou M, Floriot M, et al. Accuracy of an electrochemical sensor for measuring capillary blood ketones by fingerstick samples during metabolic deterioration after continuous subcutaneous insulin infusion interruption in type 1 diabetic patients. Diabetes Care 2003;26:1137–41.
+Guerci B, Floriot M, Bohme P, et al. Clinical performance of CGMS in type 1 diabetic patients treated by continuous subcutaneous insulin infusion using insulin analogs. Diabetes Care 2003;26:582–9.
+Deiss D, Bolinder J, Riveline J-P, et al. Improved glycemic control in poorly controlled patients with type 1 diabetes using real-time continuous glucose monitoring. Diabetes Care 2006;29:2730–2.
+Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group, Tamborlane WV, Beck RW, et al. Continuous glucose monitoring and intensive treatment of type 1 diabetes. N Engl J Med 2008;359:1464–76.
+Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group, Beck RW, Hirsch IB, et al. The effect of continuous glucose monitoring in well-controlled type 1 diabetes. Diabetes Care 2009;32:1378–83.
+Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group, Bode B, Beck RW, et al. Sustained benefit of continuous glucose monitoring on A1C, glucose profiles, and hypoglycemia in adults with type 1 diabetes. Diabetes Care 2009;32:2047–9.
+O’Connell MA, Donath S, O’Neal DN, et al. Glycaemic impact of patient-led use of sensor-guided pump therapy in type 1 diabetes: A randomised controlled trial. Diabetologia 2009;52:1250–7.
+Raccah D, Sulmont V, Reznik Y, et al. Incremental value of continuous glucose monitoring when starting pump therapy in patients with poorly controlled type 1 diabetes: The RealTrend study. Diabetes Care 2009;32:2245–50.
+Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group. Effectiveness of continuous glucose monitoring in a clinical care environment: Evidence from the Juvenile Diabetes Research Foundation continuous glucose monitoring (JDRF-CGM) trial. Diabetes Care 2010;33:17–22.
+Battelino T, Phillip M, Bratina N, et al. Effect of continuous glucose monitoring on hypoglycemia in type 1 diabetes. Diabetes Care 2011;34:795–800.
+Bergenstal RM, Tamborlane WV, Ahmann A, et al. Effectiveness of sensoraugmented insulin-pump therapy in type 1 diabetes. N Engl JMed 2010;363:311–20.
+Beck RW, Riddlesworth T, Ruedy K, et al. Effect of continuous glucose monitoring on glycemic control in adults with type 1 diabetes using insulin injections: The DIAMOND randomized clinical trial. JAMA 2017;317:371–8.
+Lind M, Polonsky W, Hirsch IB, et al. Continuous glucose monitoring vs conventional therapy for glycemic control in adults with type 1 diabetes treatedwith multiple daily insulin injections: The GOLD randomized clinical trial. JAMA 2017;317:379–87.
+Chase HP, Beck RW, Xing D, et al. Continuous glucose monitoring in youth with type 1 diabetes: 12-month follow-up of the Juvenile Diabetes Research Foundation continuous glucose monitoring randomized trial. Diabetes Technol Ther 2010;12:507–15.
+Yoo HJ, An HG, Park SY, et al. Use of a real time continuous glucose monitoring system as a motivational device for poorly controlled type 2 diabetes. Diabetes Res Clin Pract 2008;82:73–9.
+Garg SK, Voelmle MK, Beatson CR, et al. Use of continuous glucose monitoring in subjects with type 1 diabetes on multiple daily injections versus continuous subcutaneous insulin infusion therapy: A prospective 6-month study. Diabetes Care 2011;34:574–9.
+Cosson E, Hamo-Tchatchouang E, Dufaitre-Patouraux L, et al. Multicentre, randomised, controlled study of the impact of continuous sub-cutaneous glucose monitoring (GlucoDay) on glycaemic control in type 1 and type 2 diabetes patients. Diabetes Metab 2009;35:312–18.
+Murphy HR, Rayman G, Lewis K, et al. Effectiveness of continuous glucose monitoring in pregnant women with diabetes: Randomised clinical trial. BMJ 2008;337:a1680.
+Bolinder J, Antuna R, Geelhoed-Duijvestijn P, et al. Novel glucose-sensing technology and hypoglycaemia in type 1 diabetes: A multicentre, non-masked, randomised controlled trial. Lancet 2016;388:2254–63.
+Haak T, Hanaire H, Ajjan R, et al. Flash glucose-sensing technology as a replacement for blood glucose monitoring for the management of insulin-treated type 2 diabetes: A multicenter, open-label randomized controlled trial. Diabetes Ther 2017;8:55–73.
+Rohlfing CL, Wiedmeyer HM, Little RR, et al. Defining the relationship between plasma glucose and HbA(1c): Analysis of glucose profiles and HbA(1c) in the Diabetes Control and Complications Trial. Diabetes Care 2002;25:275–8.
+Kempf K, Tankova T, Martin S. ROSSO-in-praxi-international: Long-term effects of self-monitoring of blood glucose on glucometabolic control in patients with type 2 diabetes mellitus not treated with insulin. Diabetes Technol Ther 2013;15:89–96.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

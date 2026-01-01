@@ -1,0 +1,541 @@
+Chapter Headings
+
+Introduction
+Treatment Regimens
+Effects of Antihyperglycemic Agents on Microvascular and Cardiovascular Complications
+Effects of Antihyperglycemic Agents on Glycemic Control and Other Short-Term Outcomes
+Insulin Treatment in Type 2 Diabetes
+Adverse Effects
+Other Relevant Guidelines
+Relevant Appendices
+Author Disclosures
+Key Messages
+Healthy behaviour interventions should be initiated in people newly diagnosed with type 2 diabetes.
+In people with type 2 diabetes with A1C <1.5% above the person's individualized target, antihyperglycemic pharmacotherapy should be added if glycemic targets are not achieved within 3 months of initiating healthy behaviour interventions.
+In people with type 2 diabetes with A1C ≥1.5% above target, antihyperglycemic agents should be initiated concomitantly with healthy behaviour interventions, and consideration could be given to initiating combination therapy with 2 agents.
+Insulin should be initiated immediately in individuals with metabolic decompensation and/or symptomatic hyperglycemia.
+In the absence of metabolic decompensation, metformin should be the initial agent of choice in people with newly diagnosed type 2 diabetes, unless contraindicated.
+Dose adjustments and/or additional agents should be instituted to achieve target A1C within 3 to 6 months. Choice of second-line antihyperglycemic agents should be made based on individual patient characteristics, patient preferences, any contraindications to the drug, glucose-lowering efficacy, risk of hypoglycemia, affordability/access, effect on body weight and other factors.
+In people with clinical cardiovascular (CV) disease in whom A1C targets are not achieved with existing pharmacotherapy, an antihyperglycemic agent with demonstrated CV outcome benefit should be added to antihyperglycemic therapy to reduce CV risk.
+In people without clinical CV disease in whom A1C target is not achieved with current therapy, if affordability and access are not barriers, people with type 2 diabetes and their providers who are concerned about hypoglycemia and weight gain may prefer an incretin agent (DPP-4 inhibitor or GLP-1 receptor agonist) and/or an SGLT2 inhibitor to other agents as they improve glycemic control with a low risk of hypoglycemia and weight gain.
+In people receiving an antihyperglycemic regimen containing insulin, in whom glycemic targets are not achieved, the addition of a GLP-1 receptor agonist, DPP-4 inhibitor or SGLT2 inhibitor may be considered before adding or intensifying prandial insulin therapy to improve glycemic control with less weight gain and comparable or lower hypoglycemia risk.
+Key Messages for People with Diabetes
+Some people who have type 2 diabetes can achieve their target blood glucose levels with nutrition guidance and physical activity alone, but most also need glucose-lowering medications. The decision about which medications are best for you depends on many factors, including your blood glucose level, symptoms, other health problems you have and affordability of medications. Your health-care provider may even combine medications that act differently on your body to help you control your blood glucose.
+Glucose-lowering medications for type 2 diabetes include:
+First-line glucose-lowering medication:
+Metformin: Metformin is generally the first choice for people with type 2 diabetes because of its safety, low cost and possible heart benefits. It works by making your body respond better to insulin so that your body uses insulin more effectively. Metformin also lowers glucose production from the liver. Nausea and diarrhea are possible side effects and usually go away within 1 to 2 weeks as your body gets used to the medicine. It is associated with a low risk of hypoglycemia and does not cause weight gain.
+If metformin and healthy behaviour changes are not enough to control your blood glucose level, other medications can be added.
+Second-line glucose-lowering medication:
+DPP-4 inhibitors: These medications work to lower blood glucose by increasing insulin levels after meals and lowering glucagon levels (a hormone that raises blood glucose). They do not cause weight gain and are associated with a low risk of hypoglycemia.
+GLP-1 receptor agonists: These injectable medications act when blood glucose increases after eating. They increase insulin levels, which helps lower blood glucose and lower glucagon levels (a hormone that raises blood glucose). They also slow digestion and reduce appetite. Possible side effects include nausea, which usually goes away with time. They are associated with weight loss and a low risk of hypoglycemia.
+SGLT2 inhibitors: These medications work by eliminating glucose into the urine. Side effects may include genital yeast infections, urinary tract infections, increased urination and low blood pressure. They are associated with weight loss and a low risk of hypoglycemia.
+Insulin secretagogues (meglitinides, sulfonylureas): These medications help your pancreas release more insulin. Possible side effects include hypoglycemia and weight gain.
+Thiazolidinediones: Like metformin, these medications make the body's tissues more sensitive to insulin. Side effects include weight gain and an increased risk of heart failure and fractures.
+Insulin therapy: Some people who have type 2 diabetes need insulin therapy as well. Depending on your needs, your health-care provider may prescribe a mixture of insulin types to use throughout the day and night. Often, people with type 2 diabetes start insulin use with 1 injection of long-acting insulin at night.
+Discuss the pros and cons of different treatment plans with your healthcare provider. Together, you can decide which medication is best for you after considering many factors, including costs and other aspects of your health.
+Introduction
+
+People with type 2 diabetes form a heterogeneous group. Consequently, treatment regimens and therapeutic targets should be individualized. The treatment of type 2 diabetes involves a multi-pronged approach that aims to treat and prevent symptoms of hyperglycemia, such as dehydration, fatigue, polyuria, infections and hyperosmolar states; and to reduce the risks of cardiovascular (CV) and microvascular complications (1). This includes healthy behaviour interventions (see Reducing the Risk of Diabetes chapter, p. S20; Cardiovascular Protection in People with Diabetes chapter, p. S162) and antihyperglycemic medications. This chapter provides updated recommendations for the approach to antihyperglycemic therapy and selection of pharmaceutical agents. The number of available antihyperglycemic agents is ever expanding, requiring the health-care provider to consider many of the following factors when choosing medications: degree of hyperglycemia, medication efficacy for reducing diabetes complications (microvascular and/or CV) and lowering glucose, medication effects on the risk of hypoglycemia, body weight, other side effects, concomitant medical conditions, ability to adhere to regimen, broader health and social needs, affordability of medications, and patient values and preferences. Recommendations in this chapter are based on a rigorous and careful review of the evidence regarding the efficacy and adverse effects of available medications on clinically important outcomes.
+
+Table 1
+Antihyperglycemic agents for use in type 2 diabetes
+A1C, glycated hemoglobin; BG, blood glucose; CrCl, creatinine clearance; CV, cardiovascular; CVD, cardiovascular disease; eGFR, estimated glomerular filtration rate; GI, gastrointestinal; HDL-C, high density lipoprotein cholesterol; LDL-C, low density lipoprotein cholesterol; MI; myocardial infarct.
+*Maruthur et al 2016 (19); Mearns et al 2015 (24); Liu et al 2012 (23).
+**Semaglutide received Health Canada approval after these guidelines were in press.
+†A1C lowering vs. placebo, Sherifali et al 2010 (6).
+‡MACE, major adverse cardiovascular event.
+§Based on data from 2 trials in <100 patients.
+Class and mechanism of action	Drug	Cost	A1C lowering*	Hypoglycemia	Weight	Effect on primary CVD outcomes	Other therapeutic considerations
+First Line
+Biguanide: Enhances insulin sensitivity in liver and peripheral tissues by activation of AMP-activated protein kinase	Metformin
+Metformin extended-release	$	Approx.
+1.0†	Negligible risk as monotherapy	Neutral	Reduction in myocardial infarction in overweight individuals	
+GI side effects
+Vitamin B12 deficiency
+Contraindicated if CrCl/eGFR <30 mL/min or hepatic failure
+Caution if CrCl/eGFR 30 to 60 mL/min
+
+Second Line
+Incretin: Increases glucose-dependent insulin release, slows gastric emptying, inhibits glucagon release	DPP-4 inhibitors
+ Alogliptin
+ Linagliptin
+ Saxagliptin
+ Sitagliptin	$$$	0.5 to 0.7	Negligible risk as monotherapy	Neutral	Neutral (for alogliptin, saxagliptin and sitagliptin)	
+Rare cases of pancreatitis
+Rare cases of severe joint pain
+Caution with saxagliptin in participants with heart failure
+
+ 	GLP-1 receptor agonists**
+ Short-acting
+ Exenatide
+ Lixisenatide
+ Longer-acting
+ Dulaglutide
+ Exenatide extended-release
+ Liraglutide	$$$$	1.0	Negligible risk as monotherapy	Loss of 1.6 to 3 kg	Reduction in MACE‡ and CV death in participants with clinical CVD (for liraglutide)
+Neutral (for exenatide ER, lixisenatide)	
+Subcutaneous injection
+Nausea, vomiting, diarrhea
+Less A1C lowering with short-acting agents than longer-acting agents
+Rare cases of acute gallstone disease
+Reduced progression of nephropathy with liraglutide
+Contraindicated with personal/family history of medullary thyroid cancer or multiple endocrine neoplasia syndrome type 2
+
+SGLT-2 inhibitors: Inhibits SGLT-2 transport protein to prevent glucose reabsorption by the kidney	Canagliflozin
+Dapagliflozin
+Empagliflozin	$$$	0.4 to 0.7	Negligible risk as monotherapy	Loss of 2 to 3 kg	Reduction in MACE‡ (empagliflozin and canagliflozin) and CV death (empagliflozin) in participants with clinical CVD	
+Reduced progression of nephropathy and reduction in heart failure in participants with clinical CVD with empagliflozin and canagliflozin
+Genital mycotic infections
+Urinary tract infections
+Hypotension
+Small increase in LDL-C
+Rare cases of diabetic ketoacidosis (which may occur without hyperglycemia)
+Increased risk of fractures with canagliflozin Increased risk of lower extremity amputation with canagliflozin (avoid if prior amputation)
+Dapagliflozin not to be used with bladder cancer
+Reports of acute kidney injury with canagliflozin and dapagliflozin
+Contraindicated if CrCl/eGFR <45 mL/min (canagliflozin, empagliflozin) or <60 mL/min (dapagliflozin)
+Caution with renal dysfunction, loop diuretics, the elderly
+Treatment should be withheld prior to major surgery or with serious illness or infections
+
+Alpha-glucosidase inhibitor: Inhibits pancreatic α-amylase and intestinal α-glucosidase	Acarbose	$$	0.7 to 0.8§	Negligible risk as monotherapy	Neutral	—	
+GI side effects common
+Requires 3 times daily dosing
+
+Insulin: Activates insulin receptors to regulate metabolism of carbohydrate, fat, and protein	Bolus (prandial) Insulins
+ Rapid-acting analogues
+ Aspart
+ Aspart (faster-acting)
+ Glulisine
+ Lispro U-100
+ Lispro U-200
+ Short-acting
+ Regular
+Basal Insulins
+ Intermediate-acting
+ NPH
+ Long-acting analogues
+ Degludec U-100
+ Degludec U-200
+ Detemir
+ Glargine U-100
+ Glargine U-100 (biosimilar)
+ Glargine U-300
+Premixed Insulins
+ Premixed regular-NPH
+ Biphasic insulin aspart
+ Lispro/lispro protamine suspension	$ to $$$$	0.9 to 1.2 or more	Significant risk	Gain of 4 to 5 kg
+Gain of 0 to 0.4 kg for long-acting analogue alone	Neutral (for glargine and degludec)	
+Potentially greatest A1C reduction and no maximum dose
+Numerous formulations and delivery systems, allows for regimen flexibility
+
+Insulin secretagogue: Activates sulfonylurea receptor on β-cell to stimulate endogenous insulin secretion	Sulfonylureas
+ Gliclazide
+ Gliclazide modified-release	$	0.7 to 1.3	
+Minimal/
+moderate risk	Gain of 1.5 to 2.5 kg	—	
+Gliclazide preferred over glyburide due to lower risk of hypoglycemia, CV events, mortality
+Relatively rapid BG-lowering response
+Postprandial glycemia is especially reduced by meglitinides
+Meglitinides require 3 times daily dosing
+Repaglinide contraindicated when co-administered with clopidogrel or with gemfibrozil
+
+ 	 Glimepiride	 	 	Moderate risk	 	 	 
+ 	 Glyburide	 	 	Moderate risk	 	 	 
+ 	 (note: chlorpropamide and tolbutamide are still available in Canada, but rarely used)	 	 	 	 	 	 
+ 	Meglitinides
+ Repaglinide	$$	0.7 to 1.1	Minimal/ moderate risk	Gain of 0.7 to 1.8 kg	—
+Thiazolidinedione (TZD): Enhances insulin sensitivity in peripheral tissues and liver by activation of peroxisome proliferator- activated receptor gamma receptors	 Pioglitazone
+ Rosiglitazone	$$$	0.8 to 0.9	Negligible risk as monotherapy	Gain of 2.5 to 5 kg	Neutral (for pioglitazone)	
+Mild increase in HDL-C
+May induce edema and/or congestive heart failure
+Rare occurrence of macular edema
+Higher occurrence of fractures
+Pioglitazone not to be used with bladder cancer
+Controversy regarding MI risk for rosiglitazone
+
+Weight loss agent: Inhibits lipase	Orlistat	$$$	0.2 to 0.4	Negligible risk as monotherapy	Loss of 3 to 4 kg	—	
+Promotes weight loss
+Can cause diarrhea and other GI side effects
+Requires 3 times daily dosing
+Treatment Regimens
+Newly diagnosed type 2 diabetes
+
+Individuals presenting with newly diagnosed type 2 diabetes require a multifaceted treatment plan. This includes diabetes education by an interprofessional team (see Self-Management Education and Support chapter, p. S36), healthy behaviour interventions (diet and physical activity, smoking cessation) with a target of 5% to 10% weight loss for overweight individuals (see Weight Management in Diabetes chapter, p. S124; Cardiovascular Protection in People with Diabetes chapter, p. S162), and screening for complications. It should be emphasized to people with type 2 diabetes that healthy behaviour interventions and weight loss can lead to withdrawal of antihyperglycemic medication and even remission of type 2 diabetes in some cases (2). The Look AHEAD (Action for Health in Diabetes) trial showed that an intensive healthy behaviour intervention resulted in a significantly greater weight loss and likelihood of diabetes remission after 1 year compared to standard care, with the greatest benefit seen in persons with new-onset type 2 diabetes (21.2% remission rate) (2). Antihyperglycemic therapy with metformin may also be initiated at diagnosis, depending on the current and target glycated hemoglobin (A1C).
+
+The treatment of hyperglycemia should begin with the establishment of a target A1C which, in most cases, will be ≤7.0% as this has been shown to reduce long-term microvascular complications in newly diagnosed people with type 2 diabetes (3). A1C targets may be higher (up to 8.5%) if the benefits of intensive glycemic control are unlikely to outweigh the risks and burden, such as in individuals with limited life expectancy, high risk of hypoglycemia, multimorbidity, or based on the values and preferences of the person with diabetes (see Targets for Glycemic Control chapter, p. S42 for recommendations). It should be emphasized to people with type 2 diabetes that reductions in A1C levels are associated with better outcomes even if recommended glycemic targets cannot be reached, and inability to achieve A1C target should not be considered a treatment failure (3,4).
+
+If the A1C level at diagnosis is less than 1.5% above target and the person with type 2 diabetes lacks metabolic decompensation and/or symptoms of hyperglycemia, the first line of treatment should be healthy behaviour interventions (see Reducing the Risk of Diabetes chapter, p. S20). If healthy behaviour interventions are insufficient to achieve target A1C levels within 3 months, they should be combined with antihyperglycemic medications. In the face of significant hyperglycemia (i.e. A1C >1.5% above target), pharmacotherapy is usually required at diagnosis concurrent with healthy behaviour interventions. People who have evidence of metabolic decompensation (e.g. marked hyperglycemia, ketosis or unintentional weight loss) and/or symptomatic hyperglycemia should be started immediately on insulin, regardless of A1C level. Insulin may later be tapered or discontinued once stability is achieved.
+
+In general, A1C will decrease by about 0.5% to 1.5% with monotherapy, varying with the specific agent used and the baseline A1C level. By and large, the higher the baseline A1C, the greater the A1C reduction seen for each given agent. The maximum effect of noninsulin antihyperglycemic agent monotherapy is observed by 3 to 6 months (5,6).
+
+Initial combination therapy (with or without insulin) may be required in settings of more severe hyperglycemia and/or metabolic decompensation to provide a more rapid and larger decrease in A1C (7–11). Evidence indicates that initial combination of metformin with another agent is associated with an additional mean 0.4% to 1.0% reduction in A1C and a relative 40% higher chance of achieving A1C <7.0% after 6 months compared to metformin alone (7–9,12).
+
+The initial use of combinations of submaximal doses of antihyperglycemic agents produces more rapid and improved glycemic control and fewer side effects compared to monotherapy at maximal doses (13–17).
+
+Table 1 lists all the available classes of antihyperglycemic therapies. These include insulin and noninsulin therapies. Unless contraindicated, metformin should be the initial pharmacotherapy in people with type 2 diabetes. Contraindications include chronic kidney disease (CKD) stage 4 to 5 (eGFR <30 mL/min) and hepatic failure. The recommendation to use metformin as the initial agent in most people is based on its efficacy in lowering A1C, its relatively mild side effect profile, long-term safety track record, affordability, negligible risk of hypoglycemia and lack of weight gain. Compared to sulfonylureas, metformin monotherapy has comparable A1C-lowering effects, but better glycemic durability (18), a lower risk of hypoglycemia (19), less weight gain (19,20) and lower CV risk (20). Metformin is associated with less weight gain than thiazolidinediones (21), and has better A1C lowering and weight loss than DPP-4 inhibitors (19). The demonstrated CV benefit of metformin monotherapy in newly diagnosed participants who were overweight in the UKPDS trial (17) is also cited as a reason to select metformin as first-line treatment, although other evidence from a meta-analysis of metformin trials has been equivocal on this matter (21,22). Metformin should be started at a low dose and gradually increased over several weeks to minimize the risk of gastrointestinal side effects. If metformin is contraindicated or if initial combination therapy is required, then a second agent should be chosen based on individual patient characteristics and the efficacy and safety profile of other agents (see Table 1 and Figure 2). DPP-4 inhibitors, GLP-1 receptor agonists or SGLT2 inhibitors should be considered over other antihyperglycemic agents as they are associated with less hypoglycemia and weight gain (19,23–27), provided there are no contraindications and no barriers to affordability or access.
+
+Insulin may be used at diagnosis in individuals with marked hyperglycemia and can also be used temporarily during illness, pregnancy, stress or for a medical procedure or surgery. The use of intensive insulin therapy may lead to partial recovery of beta cell function when used in people with metabolic decompensation, and studies suggest that early insulin treatment may induce remission in people with newly diagnosed type 2 diabetes (28,29–31). Trials of this approach are ongoing.
+
+Treatment advancement in people with pre-existing type 2 diabetes
+
+The natural history of type 2 diabetes is that of ongoing beta cell function decline, so blood glucose (BG) levels often increase over time even with excellent adherence to healthy behaviours and therapeutic regimens (32). Treatment must be responsive as therapeutic requirements may increase with longer duration of disease. If A1C target is not achieved or maintained with current pharmacotherapy, treatment intensification is often required. A review of potential precipitants of increasing A1C (e.g. infection, ischemia) and medication adherence should first be conducted, and current therapy may need to be modified if there are significant barriers to adherence. Dose adjustments and/or additional antihyperglycemic medications should be instituted to achieve A1C target within 3 to 6 months, to avoid clinical inertia and manage ongoing disease progression (33). Healthy behaviour interventions, including nutritional therapy and physical activity, should continue to be optimized while pharmacotherapy is being intensified. Metformin should be continued with other agents unless contraindicated.
+
+In general, when combining antihyperglycemic agents with or without insulin, classes of agents that have different mechanisms of action should be used. Simultaneous use of agents within the same class and/or from different classes but with similar mechanisms of action (e.g. sulfonylureas and meglitinides or DPP-4 inhibitors and GLP-1 receptor agonists) is currently untested, may be less effective at improving glycemia and is not recommended at this time. Table 1 identifies the mechanism of action for all classes of antihyperglycemic agents to aid the reader in avoiding the selection of agents with overlapping mechanisms.
+
+Figure 1
+Management of hyperglycemia in type 2 diabetes.
+
+A1C, glycated hemoglobin; CHF, congestive heart failure; CV, cardiovascular; CVD, cardiovascular disease; DKA, diabetic ketoacidosis; eGFR, estimated glomerular filtration rate; HHS, hyperosmolar hyperglycemic state.
+
+Figure 1 (continued)
+Management of hyperglycemia in type 2 diabetes.
+
+Effects of Antihyperglycemic Agents on Microvascular and Cardiovascular Complications
+
+In deciding upon which agent to add after metformin, there must be consideration of both short-term effects on glycemic control and long-term effects on clinical complications. Agents with evidence demonstrating the ability to not only lower glucose levels but also reduce the longer-term risk of microvascular and/or CV complications should be prioritized. While intensive glycemic control with a variety of agents is associated with a reduction in microvascular complications (3) and possibly CV complications (34) (see Targets for Glycemic Control chapter, p. S42), Table 1 highlights agent-specific effects on CV or microvascular complications (e.g. CKD) based on trials where glycemic differences between treatment arms were minimized.
+
+The effect of exogenous insulin on the risk of CV complications has been shown to be neutral (35,36). The Outcome Reduction with Initial Glargine Intervention (ORIGIN) trial studied the use of basal insulin titrated to a FBG of <5.3 mmol/L in people at high CV risk with prediabetes or early type 2 diabetes over 6 years. There was a neutral effect on CV outcomes and cancer, and a slight increase in hypoglycemia and weight (36,37).
+
+Earlier trials evaluated effects of thiazolidinediones on CV events. Meta-analyses of smaller studies suggested possible higher risk of myocardial infarction (MI) with rosiglitazone (38,39); however, CV events were not significantly increased in a larger randomized clinical trial (40,41). Conversely, the evidence for pioglitazone suggests a possible reduced risk of CV events, but the primary CV outcome was neutral (42,43). While these agents have comparable glucose-lowering effects to other drugs, the edema, weight gain, risk of congestive heart failure (CHF) (44), increased risk of fractures (45,46) and inconsistent data regarding MI risk with rosiglitazone (38–40) and bladder cancer risk with pioglitazone significantly limit the clinical utility of this drug class (47,48).
+
+Based on controversies regarding rosiglitazone, in 2008, the United States Food and Drug Administration (FDA) required that all new antidiabetic therapies undergo evaluation for CV safety at the time of approval. Subsequently, several industry-sponsored placebo-controlled trials were initiated to evaluate CV outcomes of drugs from 3 newer classes: DPP-4 inhibitors, GLP-1 receptor agonists and SGLT2 inhibitors (see Table 2). Trial durations are from 1.5 to 5 years, and the majority of participants had established type 2 diabetes and either clinical CV disease or multiple CV risk factors. Therefore, findings from these trials are directly relevant to people with established type 2 diabetes and clinical CV disease or multiple risk factors. Studies have not evaluated whether findings are generalizable to people with new-onset type 2 diabetes or those at average or lower CV risk.
+
+Three DPP-4 inhibitor trials have been completed (Table 2). None have shown inferiority or superiority compared to placebo for the risk of major CV events (49,50). Saxagliptin was associated with an increased incidence of hospitalization for heart failure (50) that has yet to be fully explained and, therefore, this agent is not recommended in people with a history of CHF, especially in people who also have renal impairment and/or history of MI. There was a non-statistically significant increase in hospitalizations for CHF with alogliptin in the Examination of Cardiovascular Outcomes with Alogliptin versus Standard of Care (EXAMINE) trial (49) and there is limited experience treating people with a history of CHF with linagliptin; therefore, these agents should be used with caution in that setting. Moreover, a secondary analysis of the data suggested a possibly higher relative risk of unstable angina and all-cause mortality with saxagliptin in those under 65 years (51). The significance of these findings is unclear and further studies are needed. The GLP-1 receptor agonist, lixisenatide, was also shown to be non-inferior to placebo after a median 2.1 years of follow up (52).
+
+Figure 2
+Antihyperglycemic medications and renal function. Based on product monograph precautions.
+
+CKD, chronic kidney disease; CV, cardiovascular; GFR, glomerular filtration rate; TZD, thiazolidinedione.
+
+Three approved and one unapproved antihyperglycemic agent, thus far, have shown benefit in reducing major CV outcomes in individuals with clinical CVD, the SGLT2 inhibitors empagliflozin (53) and canagliflozin (54), and the GLP-1 receptor agonists liraglutide (55) and semaglutide (56). The Empagliflozin Cardiovascular Outcome Event Trial (EMPA-REG OUTCOME) included 7,020 people with type 2 diabetes and clinical CVD (defined by ≥1 of the following: MI >2 months prior, multivessel CAD, single-vessel CAD with positive stress test or unstable angina hospitalization in prior year, unstable angina >2 months prior and evidence of CAD, stroke >2 months prior, occlusive peripheral artery disease), most of whom (78%) were already on antihyperglycemic therapy and 82% had diabetes for more than 5 years. Those treated with empagliflozin had significantly fewer CV events (CV death, nonfatal MI, nonfatal stroke) compared to placebo-treated participants after a median 3.1 years follow up (10.5% vs. 12.1%, hazard ratio [HR], 0.86, p<0.001 for noninferiority, p=0.04 for superiority), which was driven by a significant decrease in CV mortality as nonfatal events were not significantly reduced. In a secondary analysis, empagliflozin was associated with a significant reduction in hospitalizations for CHF (4.1 vs. 2.7%, HR 0.65, 95% confidence interval [CI] 0.50–0.85) (53,57). Recent meta-analyses of SGLT2 inhibitors confirmed a significant benefit of this class of agents on major CV outcomes, which was largely driven by EMPA-REG OUTCOME results (58–60).
+
+The CANagliflozin cardioVascular Assessment Study (CANVAS) program, which integrated findings from 2 placebo-controlled trials (CANVAS and CANVAS-R), evaluated the CV effects of canagliflozin (54). The trials enrolled 10,142 participants (4,330 in CANVAS and 5,812 in CANVAS-R) with type 2 diabetes (mean duration 13.5 years), who were aged 30 years or older with symptomatic CVD (symptomatic atherosclerotic vascular disease (coronary, cerebrovascular or peripheral) (66%) or 50 years or older with at least 2 CV risk factors (duration of diabetes ≥10 years, systolic BP >140 mmHg while on ≥1 antihypertensive agent, current smoker, microalbuminuria, macroalbuminuria or HDL cholesterol <1.0 mmol/L) (34%). Over a median follow up of 2.4 years, significantly fewer persons randomized to canagliflozin than placebo had the primary outcome of CV death, nonfatal MI or nonfatal stroke (26.9 vs. 31.5 per 1,000 person-years respectively; HR 0.86, 95% CI 0.75–0.97, p<0.001 for noninferiority and p=0.02 for superiority). There were no statistical differences in the individual components of the composite outcome. There was a reduction in hospitalization for heart failure and in several adverse renal outcomes; however, these were considered exploratory outcomes due to pre-specified rules of evidence hierarchy. While one-third of participants did not have CVD, a significant decrease in the primary endpoint was only found in those with CVD. Therefore, as with other CV outcome trials, these results largely apply to people with type 2 diabetes requiring add-on antihyperglycemic therapy who have established clinical CVD. Canagliflozin was also associated with an increase in fracture rates (HR 1.26, 95% CI 1.04–1.52), and higher rates of genital infections and volume depletion. Importantly, canagliflozin was associated with doubling in the risk of lower extremity amputation (HR 1.97, 95% CI 1.41–2.75). This risk was strongest in participants with a prior amputation. Canagliflozin should, therefore, be avoided in people with a prior amputation, as the harms appear to be greater than the benefits in that population.
+
+The Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results (LEADER) trial enrolled 9,340 participants with longstanding type 2 diabetes (median duration 12.8 years) and 88% were on antihyperglycemic therapy at baseline (55). The majority of included participants (81%) were ≥50 years of age on pre-existing antihyperglycemic therapy with at least 1 CV condition (coronary heart disease [CHD], cerebrovascular disease, peripheral arterial disease, CHF or stage 3 or higher CKD). Over a median follow up of 3.8 years, fewer participants in the liraglutide arm compared to placebo had the primary endpoint of CV death, nonfatal MI or nonfatal stroke (13% vs. 14.9%, respectively; HR 0.87, 95% CI 0.78–0.97), fulfilling the statistical criteria for both noninferiority (p<0.001) and superiority (p=0.01). While the LEADER trial included some people with CV risk factors only, over 80% of participants had cardiovascular disease (CVD) and only 10.5% of the primary events occurred in those without clinical disease. Therefore results are most applicable to people with type 2 diabetes with clinical CVD requiring add-on antihyperglycemic therapy.
+
+The Trial to Evaluate Cardiovascular and Other Long-term Outcomes with Semaglutide in Subjects with Type 2 Diabetes (SUSTAIN-6) enrolled 3,297 participants with a mean duration of type 2 diabetes of 13.9 years (56). At baseline, 98% were on antihyperglycemic therapy and 83% had established CVD or stage 3 or higher CKD. After a median follow up of 2.1 years, the primary composite outcome of CV death, nonfatal MI or nonfatal stroke occurred in 6.6% of participants treated with semaglutide and 8.9% of participants treated with placebo (HR 0.74, 95% CI 0.58–0.95), fulfilling statistical criteria for noninferiority (p<0.001); a non- pre-specified test for superiority was also significant (p=0.02). There was, however, a higher rate of diabetic retinopathy complications in the semaglutide group compared to placebo group (3.0% vs. 1.8%, HR 1.76; 95% CI 1.11–2.78; p=0.02). It is unclear at this time if there is a direct effect of semaglutide or other explanations for this unexpected difference in retinopathy complication rates, although the risk appeared greatest in individuals with pre-existing retinopathy and rapid lowering of A1C.
+
+All 4 trials reported lower rates of kidney disease progression in the treated groups compared to placebo (53,55,56). It should also be noted that the majority of people in these trials had pre-existing CVD and required add-on antihyperglycemic therapy. In addition, because these were placebo-controlled trials, no conclusions can be made about how the cardioprotective properties of empagliflozin, canagliflozin, liraglutide and semaglutide compare to those of other agents. CV outcome trials for other agents are expected to be completed by 2019; therefore, based on evidence to date, a GLP-1 receptor agonist or SGLT2 inhibitor with demonstrated CV outcome benefit should be considered as initial add-on therapy for people with pre-existing type 2 diabetes and clinical CV disease who have not achieved target A1C on existing treatment to reduce CV risk.
+
+A careful review of the methods and findings from these trials was conducted by an independent committee. While primary analyses results were similar for canagliflozin, empagliflozin and liraglutide, it was concluded that the strength of evidence for CV benefit was weaker for canagliflozin than for the other agents. This conclusion was based on three factors. First, in 2012 an interim analysis of the CANVAS study for medication approval necessitated unblinding of study data. A decision was then made to combine this study with the CANVAS-R study, presumably to provide greater power for CV outcomes. The interim unblinding and protocol revision were viewed as potential threats to internal validity, thereby weakening the strength of evidence for benefit. Second, while canagliflozin was associated with a significant decrease in the composite MACE outcome, there was no significant benefit on individual outcomes, such as all-cause or CV mortality. Third, the findings of increased risk of fractures and amputations with canagliflozin treatment in the context of a noninferiority design where the comparator is placebo was particularly concerning, indicating that harms may outweigh benefits. For these reasons, the committee decided that the uncertainty regarding benefits should be acknowledged with a lower grade of recommendation for canagliflozin than for other agents with demonstrated CV benefit.
+
+Table 2
+Major clinical outcome trial characteristics for antihyperglycemic agents
+2xScr, doubling of serum creatinine; ≥50%⇓eGFR, minimum 50% decline in estimated glomerular filtration rate; CV Death, death from cardiovascular causes; ESRD, end stage renal disease; HF hosp, hospitalization for heart failure; LL Amp, lower limb amputation; MACE, major adverse cardiovascular event (cardiovascular death, nonfatal myocardial infarction or nonfatal stroke); MACE + UA, MACE plus hospitalization for unstable angina; Prog Alb, progression of albuminuria; UL, upper limit of 95% confidence interval.
+*Primary outcome reported first hazard ratio (95% confidence interval).
+†Median
+‡Vital status known (number of participants who completed protocol not reported).
+§No peer-reviewed publications, data taken from Clincaltrials.gov.
+ 	A1C (%)	 
+Study	Clinicaltrials.gov	Agent (Dose) (n)	Age (yrs)	Men	DM (yrs)	Start	End	Follow up (yrs)	Completed	Results*
+Dipeptidyl Peptidase-4 Inhibitors
+EXAMINE (49,145)	NCT00968708	Alogliptin (25 or 12.5 mg) (n=2,701)	61.0†	68%	7.1†	8.0 (±1.1)	-0.33	1.5†	n=2,692 (99%)‡	MACE: 0.96 (UL 1.16)
+ 	 	Placebo (n=2,679)	 	 	7.3†	 	+0.03	 	n=2,663 (99%)‡	HF hosp: 1.07 (0.79–1.46)
+CARMELINA§	NCT01897532	Linagliptin (5 mg) (n=4,150 estimated)	 	 	 	 	 	Estimated completion in 2018	MACE + UA
+ 	 	Placebo (n=4,150 estimated)	 	 	 	 	 	 	 
+CAROLINA (143)	NCT01243424	Linagliptin (5 mg) (n=unknown)	64	60%	6.2	7.2	 	Estimated completion in 2019	MACE + UA
+ 	 	Glimepiride (1–4 mg) (n=unknown) (total enrolled n=6,051)	 	 	 	 	 	 	 
+SAVOR-TIMI 53 (50)	NCT01107886	Saxagliptin (5 or 2.5 mg) (n=8,280)	65.1	67%	10.3†	8.0 (±1.4)	7.7	2.1†	n=8,078 (97%)	MACE: 1.00 (0.89–1.12)
+ 	 	Placebo (n=8,212)	65.0	 	 	 	7.9	 	n=7,998 (97%)	HF hosp: 1.27 (1.07–1.51)
+TECOS (144)	NCT00790205	Sitagliptin (100 or 50 mg) (n=7,332)	65.4	71%	11.6	7.2 (±0.5)	0.29 lower than placebo	3.0†	n=6,972 (95%)	MACE + UA: 0.98 (0.88–1.09)
+ 	 	Placebo (n=7,339)	65.5	70%	 	 	 	 	n=6,905 (94%)	HF hosp: 1.00 (0.83–1.20)
+GLP-1 receptor agonists
+HARMONY Outcomes§	NCT02465515	Albiglutide (30 or 50 mg) (n=unknown) estimated enrolment 9,400	 	 	 	 	 	Estimated completion in 2018	MACE
+ 	 	Placebo (n=unknown)	 	 	 	 	 	 	 
+REWIND§	NCT01394952	Dulaglutide(1.5 mg) (n=unknown) total enrolled n=9,622	 	 	 	 	 	Estimated completion in 2018	MACE
+ 	 	Placebo (n=unknown)	 	 	 	 	 	 	 
+EXSCEL (146)	NCT01144338	Exenatide (2 mg) (n=7,356)	60.2†	62%	12.0†	8.0†	0.53 lower than placebo	3.8†	n=7,094 (96%)	MACE: 0.91 (0.83–1.00)
+CV death: 0.88 (0.76–1.02)
+ 	 	Placebo (n=7,396)	60.2†	62%	 	 	 	 	n=7,093 (96%)	HF hosp: 0.94 (0.78–1.13)
+FREEDOM-CVO§	NCT01455896	ITCA 650 (Exenatide in DUROS) (60 µg) (n=unknown) estimated enrolment n=4,000	 	 	 	 	 	Study completed April 2016	MACE + UA: results not released yet
+ 	 	Placebo (n=unknown)	 	 	 	 	 	 	 
+LEADER (55)	NCT01179048	Liraglutide (1.8 mg) (n=4,668)	64.2	65%	12.8	8.7 (±1.5)	0.40 lower than placebo	3.8†	n=4,529 (97%)	MACE: 0.87 (0.78–0.97)
+CV death: 0.78 (0.66–0.93)
+ 	 	Placebo (n=4,672)	64.4	64%	 	 	 	 	n=4,513 (97%)	HF hosp: 0.87 (0.73–1.05)
+ELIXA (52)	NCT01147250	Lixisenatide (20 µg) (n=3,034)	59.9	70%	9.2	7.7	0.27 lower than placebo	2.1†	n=2,922 (96%)	MACE + UA: 1.02 (0.89–1.17)
+ 	 	Placebo (n=3,034)	60.6	69%	9.4	7.6	 	 	n=2,916 (96%)	HF hosp: 0.96 (0.75–1.23)
+PIONEER 6§	NCT02692716	Semaglutide (not stated) (unknown) estimated enrolment n=3,176	 	 	 	 	 	Estimated completion in 2018	MACE
+ 	 	Placebo (n=unknown)	 	 	 	 	 	 	 
+SUSTAIN 6 (56)	NCT01720446	Semaglutide (0.5 mg) (n=826)	64.6	60%	14.3	8.7	-1.1	2.1†	1,623 (99%)	MACE: 0.74 (0.58–0.95)
+ 	 	Semaglutide (1.0 mg) (n=822)	64.7	63%	14.1	8.7	-1.4	 	 	HF hosp: 1.11 (0.77–1.61)
+ 	 	Placebo (n=1,649)	64.6	60%	13.6	8.7	-0.4	 	n=1,609 (98%)	Retinopathy: 1.76 (1.11–2.78)
+Sodium-glucose co-transporter-2 inhibitors
+CANVAS (54)	NCT01032629	Canagliflozin (100 mg) (n=1,445)	62.4	66%	13.4	8.2 (±0.9)	 	5.7	 	MACE: 0.88 (0.75–1.03)
+ 	 	Canagliflozin (300 mg) (1,444)	 	 	 	 	 	 	 	HF hosp: 0.77 (0.55–1.08)
+ 	 	Placebo (1,444)	 	 	 	 	 	 	 	 
+CANVAS-R (54)	NCT01989754	Canagliflozin (300 mg) (n=2,907)	64.0	63%	13.7	8.3 (±1.0)	 	2.1	 	Prog Alb: 0.64 (0.57–0.73)
+ 	 	Placebo (n=2,905)	 	 	 	 	 	 	 	MACE: 0.82 (0.66–1.01)
+CANVAS Program (54)	 	Canagliflozin (100 or 300 mg) (n=5,795)	63.2	65%	13.5	8.2 (±0.9)	0.58 lower than placebo	3.6	n=9,734 (96%)	MACE: 0.86 (0.75–0.97)
+ 	 	Placebo (n=4,347)	63.4	63%	13.7	8.2 (±0.9)	 	 	 	Prog Alb: 0.73 (0.67–0.79)
+HF hosp: 0.67 (0.52–0.87)
+LL amp: 1.97 (1.41–2.75)
+CREDENCE§	NCT02065791	Canagliflozin (100 mg) (n=unknown) estimated enrolment n=4,200	 	 	 	 	 	Estimated completion in 2019	ESRD, 2xSCr, renal or CV death
+ 	 	Placebo (unknown)	 	 	 	 	 	 	MACE + HF + UA
+Dapa-CKD§	NCT03036150	Dapagliflozin (5 or 10 mg) (n=unknown) estimated enrollment n=4,000	 	 	 	 	 	Estimated completion in 2020	≥50% ⇓ eGFR, ESRD, renal or CV death
+ 	 	Placebo (n=unknown)	 	 	 	 	 	 	 
+Dapa-HF§	NCT03036124	Dapagliflozin (5 or 10 mg) (n=unknown) estimated enrolment n=4,500	 	 	 	 	 	Estimated completion in 2019	CV death or HF hosp
+ 	 	Placebo (n=unknown)	 	 	 	 	 	 	 
+DECLARE-TIMI 58§	NCT01730534	Dapagliflozin (10 mg) (n=unknown) total enrolled n=17,276	 	 	 	 	 	Estimated completion in 2019	MACE
+ 	 	Placebo (n=unknown)	 	 	 	 	 	 	 
+EMPA-REG Outcome (53,57)	NCT01131676	Empagliflozin 10 mg (n=2,345)	63.0	71%	57% had diabetes >10 yrs	~8.0	0.24 lower	3.1†	n=2,264 (97%)	MACE: 0.86 (0.74–0.99)
+CV death: 0.62 (0.49–0.77)
+ 	 	Empagliflozin (25 mg) (n=2,342)	63.2	72%	 	 	0.36 lower	 	n=2,279 (97%)	HF hosp: 0.65 (0.50–0.85)
+ 	 	Placebo (n=2,333)	63.2	72%	 	 	@206 wks	 	n=2,266 (97%)	 
+EMPEROR-Preserved§	NCT03057951	Empagliflozin (10 mg) (n=unknown) estimated enrollment n=4,126	 	 	 	 	 	Estimated completion in 2020	CV death or HF hosp
+ 	 	Placebo (n=unknown)	 	 	 	 	 	 	 
+EMPEROR-Reduced§	NCT03057977	Empagliflozin (not stated) (n=unknown) estimated enrolment n=2,850	 	 	 	 	 	Estimated completion in 2020	CV death or HF hosp
+ 	 	Placebo (n=unknown)	 	 	 	 	 	 	 
+VERTIS CV§	NCT01986881	Ertugliflozin (15 mg) (n=4,000 estimated)	 	 	 	 	 	Estimated completion in 2019	MACE
+ 	 	Placebo (n=4,000 estimated)	 	 	 	 	 	 	 
+Effects of Antihyperglycemic Agents on Glycemic Control and Other Short-Term Outcomes
+
+In the absence of evidence for long-term clinical benefit, agents effective at A1C lowering should be considered in terms of both the degree of baseline hyperglycemia needing correction, and any heightened concerns regarding hypoglycemia (e.g. elderly people or those with renal or hepatic dysfunction) (see Diabetes in Older People chapter, p. S283). While most medications added to metformin lower A1C to a similar extent, insulin and insulin secretagogues are associated with higher rates of hypoglycemia than other agents (21,23,24,61). Insulin treatment is recommended for people with metabolic decompensation and/or symptomatic hyperglycemia. In those who are stable, other agent-specific advantages and disadvantages should be weighed as treatment is individualized to best suit the patient's needs and preferences. Each of the agents listed in Table 1 and Figure 1 has advantages and disadvantages to consider. Figure 2 illustrates the basis on which agent selection is influenced by renal function as dictated by product monograph precautions.
+
+Recent meta-analyses have summarized head-to-head comparisons of metformin-based combinations (19,24,62,63). Combinations of metformin with a sulfonylurea, a thiazolidinedione (TZD), an SGLT2 inhibitor and a DPP-4 inhibitor have comparable A1C-lowering effects (19,24,62–66), while the combination of metformin with a GLP-1 receptor agonist reduced A1C more than combination with a DPP-4 inhibitor. TZDs, insulin and sulfonylureas are associated with the most weight gain (1.5 to 5.0 kg) when added to metformin, whereas GLP-1 receptor agonists and SGLT2 inhibitors are associated with weight loss. Hypoglycemia risk is also lower with TZDs, DPP-4 inhibitors, SGLT2 inhibitors and GLP-1 receptor agonists compared to sulfonylureas and insulin (19,24,62–65,67,68). Network meta-analyses that indirectly compared the net benefits of second- and third-line treatment options have found similar results (21,23,24,69–71). Evidence on comparative effectiveness of acarbose and orlistat is limited, although they are associated with a low risk of hypoglycemia and weight gain. Based on these findings, people on metformin monotherapy requiring treatment intensification and their providers may prefer an incretin agent (DPP-4 inhibitor or GLP-1 receptor agonist), and/or SGLT2 inhibitor to other agents if there are no contraindications and affordability and access are not barriers, as they will improve glycemic control with a low risk of hypoglycemia and weight gain. These agents should be considered before an insulin secretagogue (sulfonylurea or meglitinide) or insulin as add-on therapy in people with a high risk of hypoglycemia (such as elderly people or those with impaired renal function) and/or obesity. The safety of incretin agents, SGLT2 inhibitors and TZDs in pregnancy is unknown; therefore, these agents should be avoided or discontinued in women who are pregnant or planning a pregnancy (see Diabetes and Pregnancy chapter, p. S255).
+
+If a sulfonylurea is added to metformin, gliclazide should be considered as first choice as it is associated with a lower risk of hypoglycemia (67,72), CV events and mortality relative to other sulfonylureas (73). Glimepiride is also associated with a lower risk of CV events and mortality (73), but has a similar rate of hypoglycemia (67,72) compared to other sulfonylureas.
+
+For people already taking metformin and a sulfonylurea, the addition of either a DPP-4 inhibitor, a GLP-1 receptor agonist or SGLT2 inhibitor may be considered as they are associated with effective A1C lowering with less hypoglycemia than insulin or TZDs (21,69,70,74,75); GLP-1 receptor agonists and SGLT2 inhibitors are also associated with weight loss (70,71) (see Weight Management in Diabetes chapter, p. S124). Concurrent addition of 2 antihyperglycemic agents (+/- insulin) to metformin therapy may be considered in settings of more severe hyperglycemia. For instance, the combination of a DPP-4 inhibitor or a GLP-1 receptor agonist and an SGLT2 inhibitor added to metformin has been shown to be as safe and more efficacious at lowering A1C after 24 weeks than either agent alone (76,77).
+
+SGLT2 inhibitors and GLP-1 receptor agonists added to metformin have also been shown to reduce systolic BP compared to metformin alone, and add-on of SGLT2 inhibitors reduce systolic BP more than add-on of sulfonylureas or DPP-4 inhibitors (19).
+
+Insulin Treatment in Type 2 Diabetes
+
+A combination of noninsulin antihyperglycemic agents and insulin often effectively controls glucose levels. Insulin treatment includes long-acting or intermediate-acting insulin analogue injections once or twice daily for basal glycemic control, and bolus injections at mealtimes for prandial glycemic control. Adding insulin to noninsulin antihyperglycemic agent(s) may result in better glycemic control with a smaller dose of insulin (78), and may induce less weight gain and less hypoglycemia than that seen when non-insulin antihyperglycemic agents are stopped and insulin is used alone (79,80). A single injection of an intermediate-acting (NPH) (81) or long-acting insulin analogue (insulin glargine U-100, insulin glargine U-300, insulin detemir or insulin degludec) (82–84) may be added. The addition of bedtime insulin to metformin therapy leads to less weight gain than insulin plus a sulfonylurea or twice-daily NPH insulin (85). When insulin is used in type 2 diabetes, the insulin regimen should be tailored to achieve good metabolic control while trying to avoid hypoglycemia. With intensive glycemic control, there is an increased risk of hypoglycemia, but this risk is lower in people with type 2 diabetes than in those with type 1 diabetes. The mode of insulin administration (continuous subcutaneous infusion vs. injections), the number of insulin injections (1 to 4 per day) and the timing of injections may vary depending on each individual's situation (86).
+
+As type 2 diabetes progresses, insulin requirements will likely increase and higher doses of basal insulin (intermediate-acting or long-acting analogues) may be needed. DPP-4 inhibitors, GLP-1 receptor agonists and SGLT2 inhibitors have been shown to be efficacious at further lowering glucose levels when combined with insulin therapy (87–98). A meta-analysis determined that the addition of a GLP-1 receptor agonist to basal insulin regimens results in greater A1C reduction, more weight loss and less hypoglycemia compared to the addition of bolus insulin (99). A GLP-1 receptor agonist should, therefore, be considered before bolus insulin as add-on therapy in people on basal insulin (with or without other agents) who require antihyperglycemic treatment intensification if there are not barriers to affordability or access.
+
+If glycemic control is suboptimal on treatment regimens that include basal insulin with other agents, bolus insulin at mealtimes (short- or rapid-acting analogues) may be added. Generally, once bolus insulin is introduced into a treatment regimen, either as a separate mealtime bolus or as part of a premixed containing regimen, insulin secretagogues, such as sulfonylureas and meglitinides, should be discontinued. Concomitant therapy with metformin and, if applicable, a GLP-1 receptor agonist, DPP-4 inhibitor or SGLT2 inhibitor should be continued with regimens containing bolus insulin unless contraindicated, to allow for improved glycemic control with less risk of weight gain and hypoglycemia (100).
+
+The reduction in A1C achieved with insulin therapy depends on the dose and number of injections per day (101). A meta-analysis of 12 articles compared basal-bolus and biphasic insulin regimens, and found that both approaches are equally efficacious at lowering A1C, with comparable effects on hypoglycemia risk and weight—although basal-bolus regimens were modestly more efficacious in people with type 2 diabetes already on insulin (102). Bolus insulin should be initiated using a stepwise approach (starting with 1 injection at the largest meal and additional mealtime injections at 3-month intervals if needed), as it was shown to be as efficacious at A1C lowering as a full basal-bolus regimen, and is associated with less hypoglycemia and greater patient satisfaction after 1 year (103).
+
+Lower rates of hypoglycemia have been observed in some studies of individuals with type 2 diabetes treated with rapid-acting insulin analogues (insulin aspart, insulin lispro, insulin glulisine) compared to those treated with short-acting (regular) insulin (104–106). Use of long-acting basal insulin analogues (insulin detemir, insulin glargine, insulin degludec) in those already on antihyperglycemic agents reduces the relative risk of symptomatic and nocturnal hypoglycemia compared to treatment with NPH insulin (83,104,107–112). Meta-analyses indicate a relative reduction of 0.89 (95% Cl 0.83–0.96) and 0.63 (95% Cl 0.51–0.77) for symptomatic and nocturnal hypoglycemia respectively (112); and rates of 26% vs. 34% and 13% vs. 22% for at least one symptomatic and nocturnal hypoglycemic event with an analogue vs. NPH (111). Insulin degludec has been associated with lower rates of overall and nocturnal hypoglycemia compared to glargine U-100 (82,84,113). The Randomised, Double Blind, Cross-over Trial Comparing the Safety and Efficacy of Insulin Degludec and Insulin Glargine, With or Without OADs in Subjects With Type 2 Diabetes (SWITCH 2) trial randomized patients with type 2 diabetes and at least one risk factor for hypoglycemia (history of hypoglycemia, >5 years of insulin therapy, hypoglycemia unawareness or moderate chronic renal failure) to insulin degludec or glargine U-100. After 32 weeks of treatment, insulin degludec was associated with a significantly lower rate of the primary endpoint of overall symptomatic hypoglycemic episodes (rate ratio 0.70, 95% CI 0.61–0.80). The proportions of patients with hypoglycemic episodes were 9.7% and 14.7% for insulin degludec and glargine U-100, respectively (114). The Trial Comparing Cardiovascular Safety of Insulin Degludec versus Insulin Glargine in Patients with Type 2 Diabetes at High Risk of Cardiovascular Events (DEVOTE) randomized patients with type 2 diabetes at high risk of CV disease to insulin degludec or glargine U-100, and found no difference in the primary outcome of CV events but a significant decrease in severe hypoglycemia with degludec (4.6%) compared to glargine U-100 (6.6%; odds ratio, 0.73; p<0.001 for superiority) (84). Insulin degludec may thus be considered over glargine U-100 in patients at high risk of hypoglycemia and/or CV disease. There is also some evidence of lower hypoglycemia rates with glargine U-300 compared to glargine U-100 (115) and may also be considered over glargine U-100 if reducing hypoglycemia is a priority (116). Efficacy and rates of hypoglycemia are similar between glargine U-100 and detemir (117).
+
+Adverse Effects
+
+Aside from effects of some antihyperglycemic agents on the occurrence of hypoglycemia and weight, there are adverse effects unique to each agent (Table 1). Gastrointestinal side effects are more common with metformin, alpha glucosidase inhibitors, GLP-1 receptor agonists and orlistat than with other agents. Metformin can cause diarrhea, which tends to resolve over time and is minimized with starting at a low dose and subsequent slow titration of the dosage. Extended-release metformin can also be used to improve tolerability in individuals experiencing gastrointestinal side effects with immediate-release metformin (118–121). Metformin is also associated with an approximate 2-fold increased incidence of vitamin B12 deficiency (122–124), and vitamin B12 levels should be measured periodically in people taking metformin or with signs or symptoms of deficiency (such as impaired proprioception or peripheral neuropathy). GLP-1 receptor agonists and, less commonly, DPP-4 inhibitors can cause nausea and GLP-1 receptor agonists can also cause diarrhea. A meta-analysis comparing the risk of congestive heart failure between antihyperglycemic therapies found an increased risk with TZDs and DPP-4 inhibitors (driven by higher risk with saxagliptin) (44), although another meta-analysis (125) and a large observational study of over one million participants (126) failed to find an increased risk of heart failure with DPP-4 inhibitors compared to other agents. TZDs are also associated with a 47% increased risk of fractures compared to other agents that is predominantly seen in women (127). Reports of acute pancreatitis have been noted with DPP-4 inhibitors and GLP-1 receptor agonists. A small significant increase in pancreatitis but not pancreatic cancer was seen with DPP4-inhibitors in a meta-analysis of 3 large randomized controlled trials of over 20,000 participants (128). However, a recent large Canadian observational study of over 1.5 million people did not confirm a higher risk of pancreatitis with incretin-based therapies compared to other agents (129). SGLT2 inhibitors are associated with a 3- to 4-fold increased risk of genital mycotic infections (19,69,95), as well as higher rates of urinary tract infections, volume depletion, rare acute kidney injury and rare DKA (130,131). Canagliflozin treatment is associated with an increased risk of fractures (54,132) and a twofold increased risk of amputations (54). In a retrospective analysis, empagliflozin was not associated with an increased risk of amputations in the EMPA-REG trial (133). There is evidence of a higher risk of bladder cancer with pioglitazone in some studies (47,48) but not others (134–136), and some reports of increased bladder cancer risk with dapagliflozin (137). GLP-1 receptor agonists have been shown to promote the development of pancreatic and medullary thyroid cancer in rodents, but an increased risk has not been seen in humans (138). Semaglutide was associated with a higher risk of retinopathy in SUSTAIN-6 (see above) (56). Earlier epidemiological evidence suggesting a possible link between insulin glargine and cancer has not been substantiated in review of clinical trial data for either glargine or detemir (36,139,140).
+
+Recommendations
+Treatment of Newly Diagnosed People with Type 2 Diabetes
+Healthy behaviour interventions should be initiated at diagnosis [Grade B, Level 2 (2)]. Metformin may be used at the time of diagnosis, in conjunction with healthy behaviour interventions [Grade D, Consensus].
+If glycemic targets are not achieved using healthy behaviour interventions alone within 3 months, antihyperglycemic therapy should be added to reduce the risk of microvascular complications [Grade A, Level 1A (3)]. Metformin should be chosen over other agents due to its low risk of hypoglycemia and weight gain [Grade A, Level 1A (19)], and long-term experience [Grade D, Consensus].
+If A1C values are ≥1.5% above target at diagnosis, initiating metformin in combination with a second antihyperglycemic agent should be considered to increase the likelihood of reaching target [Grade B, Level 2 (7–9)].
+Individuals with metabolic decompensation (e.g. marked hyperglycemia, ketosis or unintentional weight loss) should receive insulin with or without metformin to correct the relative insulin deficiency [Grade D, Consensus].
+Treatment Advancement in People with Type 2 Diabetes in Whom Glycemic Targets are Not Achieved with Existing Antihyperglycemic Medication
+Dose adjustments to and/or addition of antihyperglycemic medications should be made in order to attain target A1C within 3 to 6 months [Grade D, Consensus].
+>If glycemic targets are not achieved with existing antihyperglycemic medication(s), other classes of agents should be added to improve glycemic control. The choice should be individualized taking into account the information in Figure 1 and Table 1 [Grade B, Level 2 (19)].
+In adults with type 2 diabetes with clinical CVD in whom glycemic targets are not achieved with existing antihyperglycemic medication(s) and with an eGFR > 30 mL/min/1.73 m2, an antihyperglycemic agent with demonstrated CV outcome benefit should be added to reduce the risk of:
+Major CV events [Grade A, Level 1A (53) for empagliflozin; Grade A, Level 1A (55) for liraglutide; Grade C, Level 2 (54) for canagliflozin]
+Heart failure hospitalization [Grade B, Level 2 (53) for empagliflozin; Grade C, Level 2 (54) for canagliflozin]
+Progression of nephropathy [Grade B, Level 2 (141) for empagliflozin; Grade C, Level 3 (54) for canagliflozin].
+In adults with type 2 diabetes without clinical CVD in whom glycemic targets are not achieved with existing antihyperglycemic medication(s), incretin agents (DPP-4 inhibitors or GLP-1 receptor agonists) and/or SGLT2 inhibitors should be considered as add-on medication over insulin secretagogues, insulin and TZDs to improve glycemic control if lower risk of hypoglycemia and/or weight gain are priorities [Grade A, Level 1A (19,23,26,62,63,74)].
+For adults with type 2 diabetes with metabolic decompensation (e.g. marked hyperglycemia, ketosis or unintentional weight loss), insulin should be used [Grade D, Consensus].
+Insulin may be used at any time in the course of type 2 diabetes [Grade D, Consensus] (see Appendix 9. Examples of Insulin Initiation and Titration in People with Type 2 Diabetes). In people not achieving glycemic targets on existing noninsulin antihyperglycemic medication(s), the addition of a once-daily basal insulin regimen should be considered over premixed insulin or bolus only regimens, if lower risk of hypoglycemia and/or weight gain are priorities [Grade B, Level 2 (101)].
+In adults with type 2 diabetes treated with basal insulin therapy, if lower risk of hypoglycemia is a priority:
+Long-acting insulin analogues (insulin glargine U-100, glargine U-300, detemir, degludec) should be considered over NPH insulin to reduce the risk of nocturnal and symptomatic hypoglycemia [Grade A, Level 1A (82,104,110–113)]
+Insulin degludec may be considered over insulin glargine U-100 to reduce overall and nocturnal hypoglycemia  [Grade B, Level 2 for patients with ≥1 risk factor for hypoglycemia (114); Grade C, Level 3 for others (113)] and severe hypoglycemia in patients at high CV risk [Grade C, Level 3 (84)]
+
+Insulin glargine U-300 may be considered over insulin glargine U-100 to reduce overall and nocturnal hypoglycemia [Grade C, Level 3 (116)].
+
+In adults with type 2 diabetes receiving insulin, doses should be adjusted and/or additional antihyperglycemic medication(s) (noninsulin and/or bolus insulin) should be added if glycemic targets are not achieved [Grade D, Consensus].
+A GLP-1 receptor agonist should be considered as add-on therapy [Grade A, Level 1A (87,97)], before initiating bolus insulin or intensifying insulin to improve glycemic control with weight loss and a lower hypoglycemia risk compared to single or multiple bolus insulin injections [Grade A, Level 1A (25,98,99)].
+An SGLT2 inhibitor should be considered as add-on therapy to improve glycemic control with weight loss and lower hypoglycemic risk compared to additional insulin [Grade A, Level 1A (27,93,94)].
+A DPP-4 inhibitor may be considered as add-on therapy to improve glycemic control without weight gain or increased hypoglycemia risk compared to additional insulin [Grade B, Level 2 (27,91)].
+When bolus insulin is added to antihyperglycemic agents, rapid-acting analogues may be used instead of short-acting (regular) insulin to improve glycemic control [Grade B, Level 2 (142)].
+Bolus insulin may be initiated using a stepwise approach (starting with 1 injection at 1 meal and additional mealtime injections as needed) to achieve similar A1C reduction with lower hypoglycemia risk compared to initiating a full basal-bolus injection regimen [Grade B, Level 2 (103)].
+All individuals with type 2 diabetes currently using or starting therapy with insulin or insulin secretagogues should be counselled about the prevention, recognition and treatment of hypoglycemia [Grade D, Consensus].
+Metformin, insulin secretagogues and SGLT2 inhibitors should be temporarily withheld during acute illnesses associated with reduced oral intake or dehydration [Grade D, Consensus]. (See Appendix 8. Sick Day Medication List.)
+SGLT2 inhibitors should be temporarily withheld prior to major surgical procedures, and during acute infections and serious illness to reduce the risk of ketoacidosis [Grade D, Consensus].
+
+Abbreviations
+
+A1C, glycated hemoglobin; BG, blood glucose; BP, blood pressure; CHF, congestive heart failure; CHD, coronary heart disease; CI, confidence interval; CV, cardiovascular; CVD, cardiovascular disease; DKA, diabetic ketoacidosis; HR, hazard ratio; MI; myocardial infarct; NPH, neutral protamine Hagedorn; TZD, thiazolidinedione.
+
+Other Relevant Guidelines
+
+ 
+
+Chapter 8. Targets for Glycemic Control
+
+Chapter 12. Glycemic Management in Adults With Type 1 Diabetes
+
+Chapter 14. Hypoglycemia
+
+Chapter 17. Weight Management in Diabetes
+
+Chapter 35. Type 2 Diabetes in Children and Adolescents
+
+Chapter 36. Diabetes and Pregnancy
+
+Chapter 37. Diabetes in Older People
+
+Relevant Appendices
+
+Appendix 6. Types of Insulin
+
+Appendix 7. Therapeutic Considerations for Renal Impairment
+
+Appendix 8. Sick-Day Medication List
+
+Appendix 9. Examples of Insulin Initiation and Titration Regimens in People With Type 2 Diabetes
+
+Literature Review Flow Diagram for Chapter 13: Pharmacologic Glycemic Management of Type 2 Diabetes in Adults
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (147).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Goldenberg reports personal fees from Abbott, AstraZeneca, Boehringer Ingelheim, Eli Lilly, Janssen, Merck, Novo Nordisk, Sanofi, and Servier, outside the submitted work. Dr. MacCallum reports personal fees from Janssen and Novo Nordisk, outside the submitted work. No other author has anything to disclose.
+
+References
+Gaede P, Lund-Andersen H, Parving HH, et al. Effect of a multifactorial intervention on mortality in type 2 diabetes. N Engl J Med 2008;358:580–91.
+Gregg EW, Chen H, Wagenknecht LE, et al. Association of an intensive lifestyle intervention with remission of type 2 diabetes. JAMA 2012;308:2489–96.
+UK Prospective Diabetes Study (UKPDS) Group. Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). UK Prospective Diabetes Study (UKPDS) Group. Lancet 1998;352:837–53.
+Stratton IM, Adler AI, Neil HA, et al. Association of glycaemia with macrovascular and microvascular complications of type 2 diabetes (UKPDS 35): Prospective observational study. BMJ 2000;321:405–12.
+Bloomgarden ZT, Dodis R, Viscoli CM, et al. Lower baseline glycemia reduces apparent oral agent glucose-lowering efficacy: A meta-regression analysis. Diabetes Care 2006;29:2137–9.
+Sherifali D, Nerenberg K, Pullenayegum E, et al. The effect of oral antidiabetic agents on A1C levels: A systematic review and meta-analysis. Diabetes Care 2010;33:1859–64.
+Phung OJ, Sobieraj DM, Engel SS, et al. Early combination therapy for the treatment of type 2 diabetes mellitus: Systematic review and meta-analysis. Diabetes Obes Metab 2014;16:410–17.
+Rosenstock J, Chuck L, Gonzalez-Ortiz M, et al. Initial combination therapy with canagliflozin plus metformin versus each component as monotherapy for drugnaive type 2 diabetes. Diabetes Care 2016;39:353–62.
+Gao W, Dong J, Liu J, et al. Efficacy and safety of initial combination of DPP-IV inhibitors and metformin versus metformin monotherapy in type 2 diabetes: A systematic review of randomized controlled trials. Diabetes Obes Metab 2014;16:179–85.
+Lewin A, DeFronzo RA, Patel S, et al. Initial combination of empagliflozin and linagliptin in subjects with type 2 diabetes. Diabetes Care 2015;38:394–402.
+Abdul-Ghani MA, Puckett C, Triplitt C, et al. Initial combination therapy with metformin, pioglitazone and exenatide is more effective than sequential add-on therapy in subjectswith new-onset diabetes. Results fromthe Efficacy and Durability of Initial Combination Therapy for type 2 diabetes (EDICT): A randomized trial. Diabetes Obes Metab 2015;17:268–75, Available from.
+Hadjadj S, Rosenstock J, Meinicke T, et al. Initial combination of empagliflozin and metformin in patients with type 2 diabetes. Diabetes Care 2016;39:1718–28.
+Garber AJ, Larsen J, Schneider SH, et al. Simultaneous glyburide/metformin therapy is superior to component monotherapy as an initial pharmacological treatment for type 2 diabetes. Diabetes Obes Metab 2002;4:201–8.
+Rosenstock J, Goldstein BJ, Vinik AI, et al. Effect of early addition of rosiglitazone to sulphonylurea therapy in older type 2 diabetes patients (>60 years): The Rosiglitazone Early vs. SULphonylurea Titration (RESULT) study. Diabetes Obes Metab 2006;8:49–57.
+Rosenstock J, Rood J, Cobitz A, et al. Improvement in glycaemic control with rosiglitazone/metformin fixed-dose combination therapy in patients with type 2 diabetes with very poor glycaemic control. Diabetes Obes Metab 2006;8:643–9.
+Rosenstock J, Rood J, Cobitz A, et al. Initial treatment with rosiglitazone/metformin fixed-dose combination therapy compared with monotherapy with either rosiglitazone or metformin in patients with uncontrolled type 2 diabetes. Diabetes Obes Metab 2006;8:650–60.
+UK Prospective Diabetes Study (UKPDS) Group. Effect of intensive bloodglucose control with metformin on complications in overweight patients with type 2 diabetes (UKPDS 34). UK Prospective Diabetes Study (UKPDS) Group. Lancet 1998;352:854–65.
+Kahn SE, Haffner SM, Heise MA, et al. Glycemic durability of rosiglitazone, metformin, or glyburide monotherapy. N Engl J Med 2006;355:2427–43.
+Maruthur NM, Tseng E, Hutfless S, et al. Diabetes medications as monotherapy or metformin-based combination therapy for type 2 diabetes: A systematic review and meta-analysis. Ann Intern Med 2016;164:740–51.
+Hong J, Zhang Y, Lai S, et al. Effects of metformin versus glipizide on cardiovascular outcomes in patients with type 2 diabetes and coronary artery disease. Diabetes Care 2013;36:1304–11.
+Palmer SC, Mavridis D, Nicolucci A, et al. Comparison of clinical outcomes and adverse events associated with glucose-lowering drugs in patients with type 2 diabetes: A meta-analysis. JAMA 2016;316:313–24.
+Boussageon R, Supper I, Bejan-Angoulvant T, et al. Reappraisal of metformin efficacy in the treatment of type 2 diabetes: A meta-analysis of randomised controlled trials. PLoS Med 2012;9:e1001204.
+Liu SC, Tu YK, Chien MN, et al. Effect of antidiabetic agents added to metformin on glycaemic control, hypoglycaemia and weight change in patients with type 2 diabetes: A network meta-analysis. Diabetes Obes Metab 2012;14:810–20.
+Mearns ES, Sobieraj DM, White CM, et al. Comparative efficacy and safety of antidiabetic drug regimens added to metformin monotherapy in patients with type 2 diabetes: A network meta-analysis. PLoS ONE 2015;10:e0125879.
+Mathieu C, Rodbard HW, Cariou B, et al. A comparison of adding liraglutide versus a single daily dose of insulin aspart to insulin degludec in subjects with type 2 diabetes (BEGIN: VICTOZA ADD-ON). Diabetes Obes Metab 2014;16:636–44.
+Zhou JB, Bai L, Wang Y, et al. The benefits and risks of DPP4-inhibitors vs. sulfonylureas for patients with type 2 diabetes: Accumulated evidence from randomised controlled trial. Int J Clin Pract 2016;70:132–41.
+Min SH, Yoon JH, Hahn S, et al. Comparison between SGLT2 inhibitors and DPP4 inhibitors added to insulin therapy in type 2 diabetes: A systematic review with indirect comparison meta-analysis. Diabetes Metab Res Rev 2016;33:
+Weng J, Li Y, Xu W, et al. Effect of intensive insulin therapy on beta-cell function and glycaemic control in patients with newly diagnosed type 2 diabetes: A multicentre randomised parallel-group trial. Lancet 2008;371:1753–60.
+Ryan EA, Imes S,Wallace C. Short-term intensive insulin therapy in newly diagnosed type 2 diabetes. Diabetes Care 2004;27:1028–32.
+Kramer CK, Zinman B, Retnakaran R. Short-term intensive insulin therapy in type 2 diabetes mellitus: A systematic review and meta-analysis. Lancet Diabetes Endocrinol 2013;1:28–34.
+Kramer CK, Choi H, Zinman B, et al. Determinants of reversibility of beta-cell dysfunction in response to short-term intensive insulin therapy in patients with early type 2 diabetes. Am J Physiol Endocrinol Metab 2013;305:E1398–407.
+Turner RC, Cull CA, Frighi V, et al. Glycemic control with diet, sulfonylurea, metformin, or insulin in patients with type 2 diabetes mellitus: Progressive requirement for multiple therapies (UKPDS 49). UK Prospective Diabetes Study (UKPDS) Group. JAMA 1999;281:2005–12.
+Paul SK, Klein K, Thorsted BL, et al. Delay in treatment intensification increases the risks of cardiovascular events in patients with type 2 diabetes. Cardiovasc Diabetol 2015;14:100.
+Control Group, Turnbull FM, Abraira C, et al. Intensive glucose control and macrovascular outcomes in type 2 diabetes. Diabetologia 2009;52:2288–98.
+American Diabetes Association. Implications of the United Kingdom prospective diabetes study. Diabetes Care 1998;21:2180–4.
+ORIGIN Trial Investigators, Gerstein HC, Bosch J, et al. Basal insulin and cardiovascular and other outcomes in dysglycemia. N Engl J Med 2012;367:319–28.
+Gerstein HC, Yale JF, Harris SB, et al. A randomized trial of adding insulin glargine vs. avoidance of insulin in people with Type 2 diabetes on either no oral glucoselowering agents or submaximal doses of metformin and/or sulphonylureas. The Canadian INSIGHT (Implementing New Strategies with Insulin Glargine for Hyperglycaemia Treatment) Study. Diabet Med 2006;23:736–42.
+Nissen SE, Wolski K. Effect of rosiglitazone on the risk of myocardial infarction and death fromcardiovascular causes. N Engl JMed 2007;356:2457–71.
+Nissen SE,Wolski K. Rosiglitazone revisited: An updated meta-analysis of risk for myocardial infarction and cardiovascular mortality. Arch Intern Med 2010;170:1191–201.
+Home PD, Pocock SJ, Beck-Nielsen H, et al. Rosiglitazone evaluated for cardiovascular outcomes in oral agent combination therapy for type 2 diabetes (RECORD): Amulticentre, randomised, open-label trial. Lancet 2009;373:2125–35.
+Home PD, Pocock SJ, Beck-Nielsen H, et al. Rosiglitazone evaluated for cardiovascular outcomes–an interim analysis. N Engl J Med 2007;357:28–38.
+Dormandy JA, Charbonnel B, Eckland DJ, et al. Secondary prevention of macrovascular events in patients with type 2 diabetes in the PROactive Study (PROspective pioglitAzone Clinical Trial In macroVascular Events): A randomised controlled trial. Lancet 2005;366:1279–89.
+Lincoff AM, Wolski K, Nicholls SJ, et al. Pioglitazone and risk of cardiovascular events in patients with type 2 diabetes mellitus: A meta-analysis of randomized trials. JAMA 2007;298:1180–8.
+Udell JA, Cavender MA, Bhatt DL, et al. Glucose-lowering drugs or strategies and cardiovascular outcomes in patients with or at risk for type 2 diabetes: A meta-analysis of randomised controlled trials. Lancet Diabetes Endocrinol 2015;3:356–66.
+Meymeh RH, Wooltorton E. Diabetes drug pioglitazone (Actos): Risk of fracture. CMAJ 2007;177:723–4.
+Kahn SE, Zinman B, Lachin JM, et al. Rosiglitazone-associated fractures in type 2 diabetes: An Analysis from A Diabetes Outcome Progression Trial (ADOPT). Diabetes Care 2008;31:845–51.
+Tuccori M, Filion KB, Yin H, et al. Pioglitazone use and risk of bladder cancer: Population based cohort study. BMJ 2016;352:i1541.
+Colmers IN, Bowker SL, Majumdar SR, et al. Use of thiazolidinediones and the risk of bladder cancer among people with type 2 diabetes: A meta-analysis. CMAJ 2012;184:E675–83.
+White WB, Cannon CP, Heller SR, et al. Alogliptin after acute coronary syndrome in patients with type 2 diabetes. N Engl J Med 2013;369:1327–35.
+Scirica BM, Bhatt DL, Braunwald E, et al. Saxagliptin and cardiovascular outcomes in patients with type 2 diabetes mellitus. N Engl JMed 2013;369:1317–26.
+Leiter LA, Teoh H, Braunwald E, et al. Efficacy and safety of saxagliptin in older participants in the SAVOR-TIMI 53 trial. Diabetes Care 2015;38:1145–53.
+Pfeffer MA, Claggett B, Diaz R, et al. Lixisenatide in patients with type 2 diabetes and acute coronary syndrome. N Engl J Med 2015;373:2247–57.
+Zinman B, Wanner C, Lachin JM, et al. Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes. N Engl J Med 2015;373:2117–28.
+Neal B, Perkovic V, Mahaffey KW, et al. Canagliflozin and cardiovascular and renal events in type 2 diabetes. N Engl J Med 2017;
+Marso SP, Daniels GH, Brown-Frandsen K, et al. Liraglutide and cardiovascular outcomes in type 2 diabetes. N Engl J Med 2016;375:311–22.
+Marso SP, Bain SC, Consoli A, et al. Semaglutide and cardiovascular outcomes in patients with type 2 diabetes. N Engl J Med 2016;375:1834–44.
+Fitchett D, Zinman B,Wanner C, et al. Heart failure outcomes with empagliflozin in patients with type 2 diabetes at high cardiovascular risk: Results of the EMPAREG OUTCOME trial. Eur Heart J 2016;37:1526–34.
+Wu JHY, Foote C, Blomster J, et al. Effects of sodium-glucose cotransporter-2 inhibitors on cardiovascular events, death, andmajor safety outcomes in adults with type 2 diabetes: A systematic review and meta-analysis. Lancet Diabetes Endocrinol 2016;4:411–19.
+Savarese G, D’Amore C, Federici M, et al. Effects of dipeptidyl peptidase 4 inhibitors and sodium-glucose linked cotransporter-2 inhibitors on cardiovascular events in patients with type 2 diabetes mellitus: A meta-analysis. Int J Cardiol 2016;220:595–601.
+Salsali A, Kim G, Woerle HJ, et al. Cardiovascular safety of empagliflozin in patients with type 2 diabetes: Ameta-analysis of data fromrandomized placebocontrolled trials. Diabetes Obes Metab 2016;18:1034–40.
+Hirst JA, Farmer AJ, Dyar A, et al. Estimating the effect of sulfonylurea on HbA1c in diabetes: A systematic review and meta-analysis. Diabetologia 2013;56:973– 84.
+Mishriky BM, Cummings DM, Tanenberg RJ. The efficacy and safety of DPP4 inhibitors compared to sulfonylureas as add-on therapy tometformin in patients with Type 2 diabetes: A systematic review and meta-analysis. Diabetes Res Clin Pract 2015;109:378–88.
+Foroutan N, Muratov S, Levine M. Safety and efficacy of dipeptidyl peptidase-4 inhibitors vs sulfonylurea in metformin-based combination therapy for type 2 diabetes mellitus: Systematic review and meta-analysis. Clin InvestMed 2016;39:E48–62.
+Clar C, Gill JA, Court R, et al. Systematic review of SGLT2 receptor inhibitors in dual or triple therapy in type 2 diabetes. BMJ Open 2012;2:e001007.
+Hartley P, Shentu Y, Betz-Schiff P, et al. Efficacy and tolerability of sitagliptin compared with glimepiride in elderly patients with type 2 diabetes mellitus and inadequate glycemic control: A randomized, double-blind, non-inferiority trial. Drugs Aging 2015;32:469–76.
+Zhong X, Lai D, Ye Y, et al. Efficacy and safety of empagliflozin as add-on to metformin for type 2 diabetes: A systematic review and meta-analysis. Eur J Clin Pharmacol 2016;72:655–63.
+Schopman JE, Simon AC, Hoefnagel SJ, et al. The incidence of mild and severe hypoglycaemia in patients with type 2 diabetes mellitus treated with sulfonylureas: A systematic review and meta-analysis. Diabetes Metabolism Res Rev 2014;30:11–22.
+Kim SS, Kim IJ, Lee KJ, et al. Efficacy and safety of sitagliptin/metformin fixed-dose combination compared with glimepiride in patients with type 2 diabetes: A multicenter randomized double-blind study. J Diabetes 2016;9:412–22.
+Mearns ES, Saulsberry WJ, White CM, et al. Efficacy and safety of antihyperglycaemic drug regimens added to metformin and sulphonylurea therapy in type 2 diabetes: A network meta-analysis. Diabet Med 2015;32:1530–40.
+Lee CMY,Woodward M, Colagiuri S. Triple therapy combinations for the treatment of type 2 diabetes—a network meta-analysis. Diabetes Res Clin Pract 2016;116:149–58.
+Lozano-Ortega G, Goring S, Bennett HA, et al. Network meta-analysis of treatments for type 2 diabetes mellitus following failure with metformin plus sulfonylurea. Curr Med Res Opin 2016;32:807–16.
+Andersen SE, Christensen M. Hypoglycaemia when adding sulphonylurea to metformin: A systematic review and networkmeta-analysis. Br J Clin Pharmacol 2016;82:1291–302.
+Simpson SH, Lee J, Choi S, et al. Mortality risk among sulfonylureas: A systematic review and network meta-analysis. Lancet Diabetes Endocrinol 2015;3:43–51.
+McIntosh B, Cameron C, Singh SR, et al. Choice of therapy in patients with type 2 diabetes inadequately controlled with metformin and a sulphonylurea: A systematic review and mixed-treatment comparison meta-analysis. Open Med 2012;6:e62–74.
+Downes MJ, Bettington EK, Gunton JE, et al. Triple therapy in type 2 diabetes; a systematic review and network meta-analysis. PeerJ 2015;3:e1461.
+Rosenstock J, Hansen L, Zee P, et al. Dual add-on therapy in type 2 diabetes poorly controlled with metformin monotherapy: A randomized double-blind trial of saxagliptin plus dapagliflozin addition versus single addition of saxagliptin or dapagliflozin to metformin. Diabetes Care 2015;38:376–83.
+Frias JP, Guja C, Hardy E, et al. Exenatide once weekly plus dapagliflozin once daily versus exenatide or dapagliflozin alone in patients with type 2 diabetes inadequately controlled with metformin monotherapy (DURATION-8): A 28 week, multicentre, double-blind, phase 3, randomised controlled trial. Lancet Diabetes and Endocrinology 2016;4:1004–16.
+Johnson JL, Wolf SL, Kabadi UM. Efficacy of insulin and sulfonylurea combination therapy in type II diabetes. A meta-analysis of the randomized placebocontrolled trials. Arch Intern Med 1996;156:259–64.
+United Kingdom Prospective Diabetes Study Group. United Kingdom Prospective Diabetes Study 24: A 6-year, randomized, controlled trial comparing sulfonylurea, insulin, and metformin therapy in patients with newly diagnosed type 2 diabetes that could not be controlled with diet therapy. Ann Intern Med 1998;128:165–75.
+Hemmingsen B, Christensen LL, Wetterslev J, et al. Comparison of metformin and insulin versus insulin alone for type 2 diabetes: Systematic review of randomised clinical trials with meta-analyses and trial sequential analyses. BMJ 2012;344:e1771.
+Yki-Järvinen H, Kauppila M, Kujansuu E, et al. Comparison of insulin regimens in patients with non-insulin-dependent diabetes mellitus. N Engl J Med 1992;327:1426–33.
+Zinman B, Philis-Tsimikas A, Cariou B, et al. Insulin degludec versus insulin glargine in insulin-naive patients with type 2 diabetes: A 1-year, randomized, treat-to-target trial (BEGIN Once Long). Diabetes Care 2012;35:2464–71.
+Rosenstock J, Schwartz SL, Clark CM Jr, et al. Basal insulin therapy in type 2 diabetes: 28-week comparison of insulin glargine (HOE 901) and NPH insulin. Diabetes Care 2001;24:631–6.
+Marso SP, McGuire DK, Zinman B, et al. Efficacy and safety of degludec versus glargine in type 2 diabetes. N Engl J Med 2017;
+Yki-Jarvinen H, Ryysy L, Nikkila K, et al. Comparison of bedtime insulin regimens in patients with type 2 diabetes mellitus. A randomized, controlled trial. Ann Intern Med 1999;130:389–96.
+Abraira C, Colwell JA, Nuttall FQ, et al. Veterans Affairs Cooperative Study on glycemic control and complications in type II diabetes (VA CSDM). Results of the feasibility trial. Veterans Affairs Cooperative Study in Type II Diabetes. Diabetes Care 1995;18:1113–23.
+Buse JB, Bergenstal RM, Glass LC, et al. Use of twice-daily exenatide in Basal insulin-treated patients with type 2 diabetes: A randomized, controlled trial. Ann Intern Med 2011;154:103–12.
+Arnolds S, Dellweg S, Clair J, et al. Further improvement in postprandial glucose control with addition of exenatide or sitagliptin to combination therapy with insulin glargine and metformin: A proof-of-concept study. Diabetes Care 2010;33:1509–15.
+Barnett AH, Charbonnel B, Donovan M, et al. Effect of saxagliptin as add-on therapy in patients with poorly controlled type 2 diabetes on insulin alone or insulin combined with metformin. Curr Med Res Opin 2012;28:513–23.
+Vilsboll T, Rosenstock J, Yki-Jarvinen H, et al. Efficacy and safety of sitagliptin when added to insulin therapy in patients with type 2 diabetes. Diabetes Obes Metab 2010;12:167–77.
+Zinman B, Ahren B, Neubacher D, et al. Efficacy and cardiovascular safety of linagliptin as an add-on to insulin in type 2 diabetes: A pooled comprehensive post hoc analysis. Can J Diabetes 2016;40:50–7.
+Neal B, Perkovic V, de Zeeuw D, et al. Efficacy and safety of canagliflozin, an inhibitor of sodium-glucose cotransporter 2, when used in conjunction with insulin therapy in patients with type 2 diabetes. Diabetes Care 2015;38:403–11.
+Rosenstock J, Jelaska A, Frappin G, et al. Improved glucose control with weight loss, lower insulin doses, and no increased hypoglycemia with empagliflozin added to titrated multiple daily injections of insulin in obese inadequately controlled type 2 diabetes. Diabetes Care 2014;37:1815–23.
+Wilding JP, Woo V, Rohwedder K, et al. Dapagliflozin in patients with type 2 diabetes receiving high doses of insulin: Efficacy and safety over 2 years. Diabetes Obes Metab 2014;16:124–36.
+Liakos A, Karagiannis T, Athanasiadou E, et al. Efficacy and safety of empagliflozin for type 2 diabetes: A systematic reviewand meta-analysis. Diabetes Obes Metab 2014;16:984–93.
+Kim YG, Min SH, Hahn S, et al. Efficacy and safety of the addition of a dipeptidyl peptidase-4 inhibitor to insulin therapy in patients with type 2 diabetes: A systematic review and meta-analysis. Diabetes Res Clin Pract 2016;116:86–95.
+Ahmann A, Rodbard HW, Rosenstock J, et al. Efficacy and safety of liraglutide versus placebo added to basal insulin analogues (with or without metformin) in patients with type 2 diabetes: A randomized, placebo-controlled trial. Diabetes Obes Metab 2015;17:1056–64.
+Rosenstock J, Guerci B, Hanefeld M, et al. Prandial options to advance basal insulin glargine therapy: Testing lixisenatide plus basal insulin versus insulin glulisine either as basal-plus or basal-bolus in type 2 diabetes: The GetGoal Duo-2 Trial. Diabetes Care 2016;39:1318–28.
+Eng C, Kramer CK, Zinman B, et al. Glucagon-like peptide-1 receptor agonist and basal insulin combination treatment for the management of type 2 diabetes: A systematic review and meta-analysis. Lancet 2014;384:2228–34.
+Wulffele MG, Kooy A, Lehert P, et al. Combination of insulin and metformin in the treatment of type 2 diabetes. Diabetes Care 2002;25:2133–40.
+Holman RR, Farmer AJ, Davies MJ, et al. Three-year efficacy of complex insulin regimens in type 2 diabetes. N Engl J Med 2009;361:1736–47.
+Wang C, Mamza J, Idris I. Biphasic vs basal bolus insulin regimen in Type 2 diabetes: A systematic reviewand meta-analysis of randomized controlled trials. Diabet Med 2015;32:585–94.
+Rodbard HW, Visco VE, Andersen H, et al. Treatment intensification with stepwise addition of prandial insulin aspart boluses compared with full basal-bolus therapy (FullSTEP Study): A randomised, treat-to-target clinical trial. Lancet Diabetes Endocrinol 2014;2:30–7.
+Singh SR, Ahmad F, Lal A, et al. Efficacy and safety of insulin analogues for the management of diabetes mellitus: A meta-analysis. CMAJ 2009;180:385–97
+Anderson JH Jr, Brunelle RL, Keohane P, et al. Mealtime treatment with insulin analog improves postprandial hyperglycemia and hypoglycemia in patientswith non-insulin-dependent diabetes mellitus. Multicenter Insulin Lispro Study Group. Arch Intern Med 1997;157:1249–55.
+Anderson JH Jr, Brunelle RL, Koivisto VA, et al. Improved mealtime treatment of diabetes mellitus using an insulin analogue. Multicenter Insulin Lispro Study Group. Clin Ther 1997;19:62–72.
+Yki-Jarvinen H, Dressler A. Ziemen M. Less nocturnal hypoglycemia and better post-dinner glucose control with bedtime insulin glargine compared with bedtime NPH insulin during insulin combination therapy in type 2 diabetes. HOE 901/3002 Study Group. Diabetes Care 2000;23:1130–6.
+Fritsche A, Schweitzer MA, Haring HU, et al. Glimepiride combined with morning insulin glargine, bedtime neutral protamine hagedorn insulin, or bedtime insulin glargine in patients with type 2 diabetes. A randomized, controlled trial. Ann Intern Med 2003;138:952–9.
+Janka HU, Plewe G, Riddle MC, et al. Comparison of basal insulin added to oral agents versus twice-daily premixed insulin as initial insulin therapy for type 2 diabetes. Diabetes Care 2005;28:254–9.
+Horvath K, Jeitler K, Berghold A, et al. Long-acting insulin analogues versus NPH insulin (human isophane insulin) for type 2 diabetes mellitus. Cochrane Database Syst Rev 2007;(2):CD005613.
+Monami M, Marchionni N, Mannucci E. Long-acting insulin analogues versus NPH human insulin in type 2 diabetes: Ameta-analysis. Diabetes Res Clin Pract 2008;81:184–9.
+Rys P, Wojciechowski P, Rogoz-Sitek A, et al. Systematic review and metaanalysis of randomized clinical trials comparing efficacy and safety outcomes of insulin glargine with NPH insulin, premixed insulin preparations or with insulin detemir in type 2 diabetes mellitus. Acta Diabetol 2015;52:649–62.
+Ratner RE, Gough SC, Mathieu C, et al. Hypoglycaemia risk with insulin degludec compared with insulin glargine in type 2 and type 1 diabetes: A pre-planned meta-analysis of phase 3 trials. Diabetes Obes Metab 2013;15:175–84.
+Wysham C, Bhargava A, Chaykin L, et al. Effect of insulin degludec vs insulin glargine U100 on hypoglycemia in patients with type 2 diabetes. The SWITCH 2 Randomized Clinical Trial. JAMA 2017;318(1):45–56.
+Clements JN, Bello L. Insulin glargine 300 units/mL: A new basal insulin product for diabetes mellitus. Am J Health Syst Pharm 2016;73:359–66.
+Ritzel R, Roussel R, Volli GB, et al. Patient-level meta-analysis of the EDITION 1, 2 and 3 studies: glycaemic control and hypoglycaemia with new insulin glargine 300 U/ml versus glargine 100 U/ml in people with type 2 diabetes. Diabetes Obes Metab 2015;17:859–67.
+Zhuang YG, Peng H, Huang F. A meta-analysis of clinical therapeutic effect of insulin glargine and insulin detemir for patients with type 2 diabetes mellitus. Eur Rev Med Pharmacol Sci 2013;17:2566–70.
+Blonde L, Dailey GE, Jabbour SA, et al. Gastrointestinal tolerability of extended-release metformin tablets compared to immediate-release metformin tablets: Results of a retrospective cohort study. CurrMed Res Opin 2004;20:565–72.
+Ali S, Fonseca V. Overview of metformin: Special focus on metformin extended release. Expert Opin Pharmacother 2012;13:1797–805.
+Jabbour S, Ziring B. Advantages of extended-release metformin in patients with type 2 diabetes mellitus. Postgrad Med 2011;123:15–23.
+Levy J, Cobas RA, Gomes MB. Assessment of efficacy and tolerability of oncedaily extended release metformin in patients with type 2 diabetes mellitus. Diabetol Metab Syndr 2010;2:16.
+de Jager J, Kooy A, Lehert P, et al. Long term treatment with metformin in patients with type 2 diabetes and risk of vitamin B-12 deficiency: Randomised placebo controlled trial. BMJ 2010;340:c2181.
+Aroda VR, Edelstein SL, Goldberg RB, et al. Long-term metformin use and vitamin B12 deficiency in the diabetes prevention program outcomes study. J Clin Endocrinol Metab 2016;101:1754–61.
+Niafar M, Hai F, Porhomayon J, et al. The role of metformin on vitamin B12 deficiency: A meta-analysis review. Intern Emerg Med 2015;10:93–102.
+Kongwatcharapong J, Dilokthornsakul P, Nathisuwan S, et al. Effect of dipeptidyl peptidase-4 inhibitors on heart failure: A meta-analysis of randomized clinical trials. Int J Cardiol 2016;211:88–95.
+Filion KB, Azoulay L, Platt RW, et al. A multicenter observational study of incretin-based drugs and heart failure. N Engl J Med 2016;374:1145–54.
+Zhu ZN, Jiang YF, Ding T. Risk of fracture with thiazolidinediones: An updated meta-analysis of randomized clinical trials. Bone 2014;68:115–23.
+Buse JB, Bethel MA, Green JB, et al. Pancreatic safety of sitagliptin in the TECOS Study. Diabetes Care 2017;40:164–70.
+Azoulay L, Filion KB, Platt RW, et al. Association between incretin-based drugs and the risk of acute pancreatitis. JAMA Intern Med 2016;176:1464–73.
+Taylor SI, Blau JE, Rother KI. SGLT2 inhibitors may predispose to ketoacidosis. J Clin Endocrinol Metab 2015;100:2849–52.
+Rosenstock J, Ferrannini E. Euglycemic diabetic ketoacidosis: A predictable, detectable, and preventable safety concern with SGLT2 inhibitors. Diabetes Care 2015;38:1638–42.
+Watts NB, Bilezikian JP, Usiskin K, et al. Effects of canagliflozin on fracture risk in patients with type 2 diabetes mellitus. J Clin Endocrinol Metab 2016;101:157–66.
+Kohler S, Zeller C, Iliev H, et al. Safety and tolerability of empagliflozin in patients with type 2 diabetes: Pooled analysis of phase I-III clinical trials. Adv Ther 2017;
+Lewis JD, Habel LA, Quesenberry CP, et al. Pioglitazone use and risk of bladder cancer and other common cancers in persons with diabetes. JAMA 2015;314:265–77.
+Levin D, Bell S, Sund R, et al. Pioglitazone and bladder cancer risk: A multipopulation pooled, cumulative exposure analysis. Diabetologia 2015;58:493–504.
+Erdmann E, Harding S, Lam H, et al. Ten-year observational follow-up of PROactive: A randomized cardiovascular outcomes trial evaluating pioglitazone in type 2 diabetes. Diabetes Obes Metab 2016;18:266–73.
+Vivian EM. Dapagliflozin: A new sodium-glucose cotransporter 2 inhibitor for treatment of type 2 diabetes. Am J Health Syst Pharm 2015;72:361–72.
+Tseng CH, Lee KY, Tseng FH. An updated review on cancer risk associated with incretin mimetics and enhancers. J Environ Sci Health C Environ Carcinog Ecotoxicol Rev 2015;33:67–124.
+Home PD, Lagarenne P. Combined randomised controlled trial experience of malignancies in studies using insulin glargine. Diabetologia 2009;52:2499–506.
+Dejgaard A, Lynggaard H, Rastam J, et al. No evidence of increased risk of malignancies in patients with diabetes treated with insulin detemir: A metaanalysis. Diabetologia 2009;52:2507–12.
+Wanner C, Inzucchi SE, Lachin JM, et al. Empagliflozin and progression of kidney disease in type 2 diabetes. N Engl J Med 2016;375:323–34.
+Mannucci E, Monami M, Marchionni N. Short-acting insulin analogues vs. regular human insulin in type 2 diabetes: A meta-analysis. Diabetes Obes Metab 2009;11:53–9.
+Marx N, Rosenstock J, Kahn SE, et al. Design and baseline characteristics of the CARdiovascular Outcome Trial of LINAgliptin Versus Glimepiride in Type 2 Diabetes (CAROLINA®). Diab Vasc Dis Res 2015;12:164–74.
+Green JB, Bethel MA, Armstrong PW, et al. Effect of sitagliptin on cardiovascular outcomes in type 2 diabetes. N Engl J Med 2015;373:232–42.
+Zannad F, Cannon CP, Cushman WC, et al. Heart failure and mortality outcomes in patients with type 2 diabetes taking alogliptin versus placebo in EXAMINE: a multicentre, randomised, double-blind trial. Lancet 2015;385:2067–76.
+Holman RR, Bethel MA, Mentz RJ, et al. Effects of once-weekly exenatide on cardiovascular outcomes in type 2 diabetes. N Engl J Med 2017;377:1228–39.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

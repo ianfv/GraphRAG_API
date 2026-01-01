@@ -1,0 +1,172 @@
+Chapter Headings
+
+Introduction
+Screening for Type 1 Diabetes
+Screening for Type 2 Diabetes in Adults
+Risk Prediction Tools for Type 2 Diabetes
+Other Relevant Guidelines
+Relevant Appendix
+Author Disclosures
+Key Messages
+In the absence of evidence for interventions to prevent or delay type 1 diabetes, routine screening for type 1 diabetes is not recommended.
+Screen for type 2 diabetes using a fasting plasma glucose and/or glycated hemoglobin (A1C) every 3 years in individuals ≥40 years of age or in individuals at high risk on a risk calculator (33% chance of developing diabetes over 10 years).
+Diagnose diabetes in the absence of symptomatic hyperglycemia if A1C is ≥6.5% on 2 tests, fasting plasma glucose ≥7.0 mmol/L on 2 tests, or A1C ≥6.5% and fasting plasma glucose ≥7.0 mmol/L (see Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome chapter, p. S10).
+Key Messages for People with Diabetes
+If you are age 40 years or over, you are at risk for type 2 diabetes and should be tested at least every 3 years.
+If you have risk factors that increase the likelihood of developing type 2 diabetes, you should be tested more frequently and/or start regular screening earlier. Some of the risk factors include family history of diabetes; being a member of a high-risk population; history of prediabetes or gestational diabetes; and having overweight.
+You can use the Canadian Diabetes Risk (CANRISK) calculator to assess your risk for diabetes (available at http://www.healthycanadians.gc.ca/diseases-conditions-maladies-affections/disease-maladie/diabetes-diabete/canrisk/index-eng.php).
+Several methods for screening for diabetes are available. Usually 2 abnormal blood tests are needed to make a diagnosis of diabetes.
+The earlier you are diagnosed, the sooner you can take action to stay well.
+Introduction
+
+Screening for diabetes implies testing for diabetes in individuals without symptoms who are unaware of their condition. Screening for diabetes will also detect individuals at increased risk for diabetes (prediabetes) or individuals with less severe states of dysglycemia who may still be at risk for type 2 diabetes. Screening strategies vary according to the type of diabetes and evidence of effective interventions to prevent progression of prediabetes to diabetes and/or reduce the risk of complications associated with diabetes. A large meta-analysis suggests that interventions in people classified through screening as having prediabetes have some efficacy in preventing or delaying onset of type 2 diabetes in trial populations (1) (see Reducing the Risk of Developing Diabetes chapter, p. S20). The growing importance of diabetes screening is undeniable (2).
+
+In contrast to other diseases, there is no distinction between screening and diagnostic testing. Therefore, to screen for diabetes and prediabetes, the same tests would be used for diagnosis of both medical conditions (see Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome chapter, p. S10).
+
+Screening for Type 1 Diabetes
+
+Type 1 diabetes mellitus is primarily a result of pancreatic beta-cell destruction due to an immune-mediated process that is likely incited by environmental factors in genetically predisposed individuals. An individual's risk of developing type 1 diabetes can be estimated by considering family history of type 1 diabetes with attention to age of onset and sex of the affected family members (3) and profiling immunity and genetic markers (4).
+
+The loss of pancreatic beta cells in the development of type 1 diabetes passes through a subclinical prodrome that can be detected reliably in first- and second-degree relatives of persons with type 1 diabetes by the presence of pancreatic islet autoantibodies in their sera (5). However, in a recent large study, one-time screening for glutamic acid decarboxylase antibodies (GADAs) and islet antigen-2 antibodies (IA-2As) in the general childhood population in Finland would identify only 60% of those individuals who will develop type 1 diabetes over the next 27 years. Initial positivity for GADAs and/or IA-2As had a sensitivity of 61% (95% confidence interval [Cl] 36–83) for type 1 diabetes. The combined positivity for GADAs and IA-2As had both a specificity and a positive predictive value of 100% (95% Cl 59–100) (6).
+
+Ongoing clinical studies are testing different strategies for preventing or reversing early type 1 diabetes in the presence of positive autoimmunity. Given that the various serological markers are not universally available and in the absence of evidence for interventions to prevent or delay type 1 diabetes, no widespread recommendations for screening for type 1 diabetes can be made.
+
+Screening for Type 2 Diabetes in Adults
+
+A substantial number of Canadians are living with diabetes that has not yet been diagnosed. The estimated prevalence of undiagnosed type 2 diabetes in the general population is 1.13% by fasting plasma glucose (FPG) levels and 3.09% by glycated hemoglobin (A1C) criterion, contributing to 20% to 40% of total diabetes cases (7). Based on retinopathy data, it is estimated that the onset of type 2 diabetes occurs 4 to 7 years before its clinical diagnosis (8,9). Tests for hyperglycemia can identify individuals who may have or be at risk for preventable diabetes complications (6,10).
+
+To be effective, population-based screening would have to involve wide coverage and would have the goal of early identification and subsequent intervention to reduce morbidity and mortality. Using various multi-staged screening strategies, the ADDITION-Europe study showed that 20% to 94% of eligible people in primary care practices attended the first blood glucose test of the screening process, and diabetes was detected in 0.33% to 1.09% of the target populations, which was lower than expected (11). In the subsequent ADDITION Europe cluster randomized trial of intensive multifaceted cardiovascular (CV) risk factor management vs. routine diabetes care among screening-identified people with type 2 diabetes, intensive management did not significantly reduce CV [hazard ratio (HR) 0.83, 95% Cl 0.65–1.05] or all-cause mortality (HR 0.91, 95% CI 0.69–1.21) (12). Of note, a very high proportion of the routine care group also received optimal CV risk factor management, which may have diluted any potential benefits. When a computer simulation model was used to estimate the effect associated with screening and intensive treatment compared to a 3- to 6-year delay in diagnosis, a significant reduction in the risk of CV outcomes was seen with early detection and treatment, although this type of study has several inherent limitations (13).
+
+In ADDITION-Cambridge, population-based screening for type 2 diabetes was not associated with a reduction in all-cause, CV or diabetes-related mortality within 10 years compared to a no-screening control group. However, the low rate of type 2 diabetes in the screened population (3%) was likely too small to affect overall population mortality (14). Nonetheless, there is currently insufficient evidence of clinical benefit to support a strategy of population-based screening for type 2 diabetes.
+
+In 2015, the States Preventive Services Task Force (USPSTF) recommended targeted screening for abnormal blood glucose (BG) in adults aged 40 to 70 years with overweight or obesity (15). However, screening according to this recommendation would only detect approximately half of people with undiagnosed dysglycemia, and substantially less in racial/ethnic minorities (16). Although the relatively low prevalence of diabetes in the general population makes it unlikely that mass screening will be cost effective, testing for diabetes in people with risk factors for type 2 diabetes (Table 1), or with diabetes-associated conditions, is likely to result in more benefit than harm and will lead to overall cost savings (17–23). Therefore, in contrast to the USPSTF, Diabetes Canada guidelines recommend broader inclusion criteria for screening based on the presence of additional risk factors. Routine testing for type 2 diabetes is justifiable in some, but not all, settings (24,25). Screening individuals as early as age 40 years in primary care offices has proven to be useful in detecting unrecognized diabetes (26).
+
+While fasting plasma glucose (FPG) and/or A1C are the recommended screening tests, a 75 g oral glucose tolerance test (OGTT) may be considered when the FPG is 6.1 to 6.9 mmol/L (19) and/or A1C is 6.0% to 6.4% (Figure 1). In one study, A1C identified only one-half of people with impaired fasting glucose (IFG) and/or impaired glucose tolerance (IGT) diagnosed by OGTT (27). OGTT may also be considered when the FPG is 5.6 to 6.0 mmol/L and/or A1C is 5.5% to 5.9% and suspicion of type 2 diabetes or IGT is high (e.g. for individuals with risk factors listed in Table 1). Along with the glycemic criteria for considering an OGTT, testing may be especially useful in the following clinical situations: unexplained microvascular complications, diagnostic uncertainty (e.g. presence of factors that make A1C inaccurate) or if further CV risk stratification is considered to be beneficial.
+
+Table 1
+Risk factors for type 2 diabetes
+A1C, glycated hemoglobin; CV, cardiovascular; GDM, gestational diabetes; HDL-C, high-density lipoprotein cholesterol; HIV, human immunodeficiency virus-1; IFG, impaired fasting glucose; IGT, impaired glucose tolerance.
+∗ Associated with insulin resistance.
+† The incidence of type 2 diabetes is at least 3 times higher in people with schizophrenia than in the general population (34,35). Using data collected in 1991, the prevalence of diabetes was assessed in >20,000 individuals diagnosed with schizophrenia. The rate of diagnosed diabetes was 9% to 14%, exceeding rates for the general population prior to the widespread use of new antipsychotic drugs (36).
+‡ HIV and HAART increase the risk of prediabetes (lGT) and type 2 diabetes by 1.5- to 4-fold compared to the general population (37).
+§ Obstructive sleep apnea is an independent risk factor for diabetes (hazard ratio 1.43) (38).
+
+Age ≥40 years
+First-degree relative with type 2 diabetes
+Member of high-risk population (e.g. African, Arab, Asian, Hispanic, Indigenous or South Asian descent, low socioeconomic status)
+History of prediabetes (lGT, lFG or A1C 6.0%–6.4%)∗
+History of GDM
+History of delivery of a macrosomic infant
+Presence of end organ damage associated with diabetes:
+>Microvascular (retinopathy, neuropathy, nephropathy)
+CV (coronary, cerebrovascular, peripheral)
+Presence of vascular risk factors:
+HDL-C <1.0 mmol/L in males, <1.3 mmol/L in females∗
+>TG ≥1.7 mmol/L∗
+Hypertension∗
+Overweight∗
+Abdominal obesity∗
+Smoking
+Presence of associated diseases:
+History of pancreatitis
+Polycystic ovary syndrome∗
+Acanthosis nigricans∗
+Hyperuricemia/gout
+Non-alcoholic steatohepatitis
+Psychiatric disorders (bipolar disorder, depression, schizophrenia†
+HlV infection‡
+Obstructive sleep apnea§
+Cystic fibrosis
+Use of drugs associated with diabetes:
+Glucocorticoids
+Atypical antipsychotics
+Statins
+Highly active antiretroviral therapy‡
+Anti-rejection drugs
+Other (see Appendix 2)
+Other secondary causes (see Appendix 2)
+
+People with prediabetes, especially those with IGT or an A1C of 6.0% to 6.4%, not only are at increased risk of developing type 2 diabetes, but also have an increased risk of CV complications, particularly in the context of the metabolic syndrome (28,29). The increased risk of cardiovascular disease (CVD) in people with IGT is a factor supporting ongoing consideration of the 75 g OGTT in diabetes screening. These individuals would benefit from CV risk factor reduction strategies (2).
+
+Members of high-risk ethnic populations should be screened for prediabetes and type 2 diabetes using the recommended screening tests, such as FPG, A1C and OGTT (Table 1). However, the high prevalence of hemoglobinopathies among these populations may considerably reduce the accuracy of A1C as a reliable screening tool. Furthermore, high-risk ethnic groups may have A1C levels that are slightly higher than those of Caucasians at the same level of glycemia, and more studies may help determine ethnic-specific A1C thresholds for diabetes diagnosis (30) (see Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome chapter, p. S10).
+
+Figure 1
+Screening and diagnosis algorithm for type 2 diabetes.
+
+Risk Prediction Tools for Type 2 Diabetes
+
+A number of risk scores based on clinical characteristics have been developed to identify individuals at high risk of having undiagnosed diabetes. However, the impact of known risk factors on having undiagnosed type 2 diabetes differs between populations of different ethnic origins, and risk scores developed in Caucasian populations cannot be applied to populations of other ethnic groups (31). Furthermore, the prevalence of individuals at risk for developing type 2 diabetes varies considerably according to the scoring system and diagnostic criteria used. As a result, risk scoring systems must be validated for each considered population in order to adequately detect individuals at risk and eventually implement effective prevention strategies (32). The Canadian Diabetes Risk Assessment Questionnaire (CANRISK) is a statistically valid tool that may be suitable for diabetes risk assessment in Canada's multi-ethnic population and is available on the Internet at www.phac-aspc.gc.ca/cd-mc/diabetes-diabete/canrisk/index-eng.php (33). CANRISK has not been validated in individuals <40 years of age, and should be used with caution in this age group.
+
+Recommendations
+All individuals should be evaluated annually for type 2 diabetes risk on the basis of demographic and clinical criteria [Grade D, Consensus].
+Screening for diabetes using FPG and/or A1C should be performed every 3 years in individuals ≥40 years of age or at high risk using a risk calculator [Grade D, Consensus]. Earlier testing and/or more frequent follow up (every 6 to 12 months) with either FPG and/or A1C should be considered in those at very high risk using a risk calculator or in people with additional risk factors for diabetes [Grade D, Consensus] (see Table 1 for risk factors).
+
+Abbreviations:
+
+2hPG, 2-hour plasma glucose; A1C, glycated hemoglobin; CI, confidence interval; CV, cardiovascular; FPG, fasting plasma glucose; GADAs; glutamic acid decarboxylase antibodies; GDM, gestational diabetes; HAART, highly active antiretroviral therapy; HDL-C, high-density lipoprotein cholesterol; HIV; human immunodeficiency virus-1; HR, hazard ratio; IFG, impaired fasting glucose; IGT, impaired glucose tolerance; OGTT, oral glucose tolerance test.
+
+Other Relevant Guidelines
+
+Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome, p. S10
+
+Reducing the Risk of Developing Diabetes, p. S20
+
+Type 1 Diabetes in Children and Adolescents, p. S234
+
+Type 2 Diabetes in Children and Adolescents, p. S247
+
+Relevant Appendix
+Appendix 2. Etiologic Classification of Diabetes Mellitus
+
+Literature Review Flow Diagram for Chapter 4: Screening for Diabetes in Adults
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (39).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Goldenberg reports personal fees from Abbott, AstraZeneca, Boehringer Ingelheim, Eli Lilly, Janssen, Merck, Novo Nordisk, Sanofi, and Servier, outside the submitted work. No other authors have anything to disclose.
+
+References
+Barry E, Roberts S, Oke J, et al. Efficacy and effectiveness of screen and treat policies in prevention of type 2 diabetes: Systematic review and meta-analysis of screening tests and interventions. BMJ 2017;356:i6538.
+Gilmer TP, O’Connor PJ. The growing importance of diabetes screening. Diabetes Care 2010;33:1695–7.
+Harjutsalo V, Reunanen A, Tuomilehto J. Differential transmission of type 1 diabetes from diabetic fathers and mothers to their offspring. Diabetes 2006;55:1517–24.
+Decochez K, Truyen I, van der Auwera B, et al. Combined positivity for HLA DQ2/ DQ8 and IA-2 antibodies defines population at high risk of developing type 1 diabetes. Diabetologia 2005;48:687–94.
+Bingley PJ. Interactions of age, islet cell antibodies, insulin autoantibodies, and first-phase insulin response in predicting risk of progression to IDDM in ICA+ relatives: The ICARUS data set. Islet Cell Antibody Register Users Study. Diabetes 1996;45:1720–8.
+Knip M, Korhonen S, Kulmala P, et al. Prediction of type 1 diabetes in the general population. Diabetes Care 2010;33:1206–12.
+Rosella LC, Lebenbaum M, Fitzpatrick T, et al. Prevalence of prediabetes and undiagnosed diabetes in Canada (2007–2011) according to fasting plasma glucose and HbA1c screening criteria. Diabetes Care 2015;38:1299–305.
+Harris MI, Klein R, Welborn TA, et al. Onset of NIDDM occurs at Least 4–7 yr before clinical diagnosis. Diabetes Care 1992;15:815–19.
+Porta M, Curletto G, Cipullo D, et al. Estimating the delay between onset and diagnosis of type 2 diabetes from the time course of retinopathy prevalence. Diabetes Care 2014;37:1668–74.
+Cowie CC, Rust KF, Byrd-Holt DD, et al. Prevalence of diabetes and impaired fasting glucose in adults in the U.S. population: National Health And Nutrition Examination Survey 1999–2002. Diabetes Care 2006;29:1263–8.
+Van den Donk M, Sandbaek A, Borch-Johnsen K, et al. Screening for type 2 diabetes. Lessons from the ADDITION-Europe study. Diabet Med 2011;28:1416–24.
+Griffin SJ, Borch-Johnsen K, Davies MJ, et al. Effect of early intensive multifactorial therapy on 5-year cardiovascular outcomes in individuals with type 2 diabetes detected by screening (ADDITION-Europe): A cluster-randomised trial. Lancet 2011;378:156–67.
+Herman WH, Ye W, Griffin SJ, et al. Early detection and treatment of type 2 diabetes reduce cardiovascular morbidity and mortality: A simulation of the results of the Anglo-Danish-Dutch Study of Intensive Treatment in people with screendetected diabetes in primary care (ADDITION-Europe). Diabetes Care 2015;38:1449–55.
+Simmons RK, Echouffo-Tcheugui JB, Sharp SJ, et al. Screening for type 2 diabetes and population mortality over 10 years (ADDITION-Cambridge): A cluster-randomised controlled trial. Lancet 2012;380:1741–8.
+Siu AL. Screening for abnormal blood glucose and type 2 diabetes mellitus: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med 2015;163:861–8.
+O’Brien MJ, Lee JY, Carnethon MR, et al. Detecting dysglycemia using the 2015 United States Preventive Services Task Force screening criteria: A cohort analysis of community health center patients. PLoS Med 2016;13:e1002074.
+Raikou M, McGuire A. The economics of screening and treatment in type 2 diabetes mellitus. Pharmacoeconomics 2003;21:543–64.
+The CDC Diabetes Cost Effectiveness Study Group, Centers for Disease Control and Prevention. The cost-effectiveness of screening for type 2 diabetes. JAMA 1998;280:1757–63.
+Kahn R, Alperin P, Eddy D, et al. Age at initiation and frequency of screening to detect type 2 diabetes: A cost-effectiveness analysis. Lancet 2010;375:1365–74.
+Simmons RK, Rahman M, Jakes RW, et al. Effect of population screening for type 2 diabetes on mortality: Long-term follow-up of the Ely cohort. Diabetologia 2011;54:312–19.
+Gillies CL, Lambert PC, Abrams KR, et al. Different strategies for screening and prevention of type 2 diabetes in adults: Cost effectiveness analysis. BMJ 2008;336:1180–5.
+Hoerger TJ, Hicks KA, Sorensen SW, et al. Cost-effectiveness of screening for prediabetes among overweight and obese U.S. adults. Diabetes Care 2007;30:2874–9.
+Sherifali D, Fitzpatrick-Lewis D, Peirson L, et al. Screening for type 2 diabetes in adults: An updated systematic review. Open Diabetes J 2013;6:1–13. http://benthamopen.com/contents/pdf/TODIAJ/TODIAJ-6-1.pdf.
+KnowlerWC. Screening for NIDDM: Opportunities for detection, treatment, and prevention. Diabetes Care 1994;17:445–50.
+Simmons RK, Echouffo-Tcheugui JB, Griffin SJ. Screening for type 2 diabetes: An update of the evidence. Diabetes Obes Metab 2010;12:838–44.
+Leiter LA, Barr A, Bélanger A, et al. Diabetes Screening in Canada (DIASCAN) study: Prevalence of undiagnosed diabetes and glucose intolerance in family physician offices. Diabetes Care 2001;24:1038–43.
+Chilelli NC, Cosma C, Ragazzi E, et al. Screening with HbA1c identifies only one in two individuals with diagnosis of prediabetes at oral glucose tolerance test: Findings in a real-world Caucasian population. Acta Diabetol 2014;51:875–82.
+Hu G, Qiao Q, Tuomilehto J, et al. Prevalence of the metabolic syndrome and its relation to all-cause and cardiovascular mortality in nondiabetic European men and women. Arch Intern Med 2004;164:1066–76.
+Lind M, Tuomilehto J, Uusitupa M, et al. The association between HbA1c, fasting glucose, 1-hour glucose and 2-hour glucose during an oral glucose tolerance test and cardiovascular disease in individuals with elevated risk for diabetes.PLoS ONE 2014;9:e109506.
+Hare MJL, Magliano DJ, Zimmet PZ, et al. Glucose-independent ethnic differences in HbA1c in people without known diabetes. Diabetes Care 2013;36:1534–40.
+Glumer C, Vistisen D, Borch-Johnsen K, et al. Risk scores for type 2 diabetes can be applied in some populations but not all. Diabetes Care 2006;29:410–14.
+Schmid R, Vollenweider P, Waeber G, et al. Estimating the risk of developing type 2 diabetes: A comparison of several risk scores: The Cohorte Lausannoise study. Diabetes Care 2011;34:1863–8.
+Robinson CA, Agarwal G, Nerenberg K. Validating the CANRISK prognostic model for assessing diabetes risk in Canada’s multi-ethnic population. Chronic Dis Inj Can 2011;32:19–31.
+McKee HA, D’Arcy PF, Wilson PJ. Diabetes and schizophrenia–a preliminary study. J Clin Hosp Pharm 1986;11:297–9.
+Mukherjee S, Decina P, Bocola V, et al. Diabetes mellitus in schizophrenic patients.Compr Psychiatry 1996;37:68–73.
+Dixon L, Weiden P, Delahanty J, et al. Prevalence and correlates of diabetes in national schizophrenia samples. Schizophr Bull 2000;26:903–12.
+Samaras K, Diabetes DJC. insulin resistance and glucose metabolism in HlV infection and its treatment. In: Ekoé JM, Rewers M, Williams R, et al., eds. The epidemiology of diabetes mellitus. Chichester: Wiley Blackwell, 2008, pg. 665–75.
+Botros N, Concato J, Mohsenin V, et al. Obstructive sleep apnea as a risk factor for type 2 diabetes. Am J Med 2009;122:1122–7.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

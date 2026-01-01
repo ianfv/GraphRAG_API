@@ -1,0 +1,292 @@
+Chapter Headings
+
+Introduction
+Prevention
+Screening and Diagnosis
+Classification
+Management
+Vaccination
+Complications
+Comorbid Conditions
+Other Relevant Guidelines
+Author Disclosures
+Key Messages
+Anticipatory guidance regarding healthy eating, physical activity, limiting screen time and age-appropriate sleep duration/quality is recommended to prevent type 2 diabetes in children and adolescents.
+Regular targeted screening for type 2 diabetes is recommended in children at risk.
+Children with type 2 diabetes should receive care in consultation with an interprofessional pediatric diabetes health-care team.
+Early screening, intervention and optimization of glycemic control are essential, as the onset of type 2 diabetes during childhood is associated with severe and early onset of microvascular and cardiovascular complications.
+Key Messages for People with Children and Adolescents with Diabetes
+There is plenty you can do to help manage or prevent type 2 diabetes in children and adolescents. Encourage your child or adolescent to eat healthy foods, limit sweet drinks (juice, pop), get plenty of physical activity, get a good night's sleep and keep time spent on screens low.
+Many children with type 2 diabetes will also require oral glucose-lowering medication and/or insulin for treatment.
+
+Note: Unless otherwise specified, the term “child” is used for individuals 0 to 18 years of age, and the term “adolescent” for those 13 to 18 years of age.
+
+Introduction
+
+Type 2 diabetes in children has increased in frequency around the world over the past 2 decades (1). Children from ethnic groups at high risk for type 2 diabetes in their adult populations, namely those of African, Arab, Asian, Hispanic, Indigenous or South Asian descent, are disproportionately affected. A Canadian national surveillance study demonstrated a minimum incidence of type 2 diabetes in children and adolescents <18 years of age of 1.54 per 100,000 children per year (2). Significant regional variation was observed with the highest minimum incidence seen in Manitoba of 12.45 per 100,000 children per year. In this study, 44% of children with new-onset type 2 diabetes were of Aboriginal heritage, 25% Caucasian, 10.1% Asian, 10.1% African/Caribbean and the remaining of other or mixed ethnic origin (2). Recent data from the United States demonstrated an incidence of 8.1 per 100,000 person years in the 10- to 14-year age group and 11.8 per 100,000 person years in the 15- to 19-year age group. In this study, the highest rates were found in American Indian, African American, Asian/Pacific Islander and Hispanic youth (in descending order), and the lowest incidence occurred in non-Hispanic white youth (3). Type 2 diabetes is a highly heritable condition, with 90% of children and youth affected having a first- or second-degree relative who also has type 2 diabetes (4). A significant proportion of youth with type 2 diabetes live below the poverty line or come from low-resourced homes (5).
+
+Prevention
+
+Breastfeeding has been shown to reduce the risk of youth-onset type 2 diabetes in some populations (6).
+
+Obesity is a major risk factor for the development of type 2 diabetes (2). The prevalence of obesity among Canadian children aged 5 to 17 years is 12% (7). Studies on the prevention of obesity in children are limited and have generally not demonstrated long-term effectiveness (8,9).
+
+Efforts to improve sleep quality and quantity, decrease sedentary behaviours and increase both light and vigorous physical activity can result in significant metabolic health benefits (10,11). Health Canada has endorsed the Canadian 24-hour Movement Guidelines for children and youth (available at http://www.csep.ca/en/guidelines/get-the-guidelines) (12).
+
+Interventions aimed at reducing sugar-sweetened beverage consumption among children and youth should also be considered as consumption of these beverages has been linked to both obesity and incident type 2 diabetes (13–15). Screen time use should be limited, given its relationship to greater insulin resistance and adiposity (16).
+
+In children with obesity, family-based healthy behaviour interventions, which include physical activity, healthy nutrition and mental health supports have been shown to result in a modest decrease in body mass index (BMI) and improvements in metabolic health parameters. The most effective interventions were those delivered by a specialized interdisciplinary team that included group sessions with parent and family involvement (9).
+
+In adolescents with obesity, pharmacotherapy (i.e. orlistat or metformin) in combination with healthy behaviour interventions, demonstrate a very modest additional reduction in BMI over the short term, with frequent gastrointestinal side effects (17). Long-term studies are absent, and no pediatric studies have been performed to assess the prevention of diabetes or long-term complications using these medications (17). In adolescents with obesity and evidence of severe insulin resistance, pharmacological therapy with metformin or orlistat should only be considered after a comprehensive evaluation of the child's metabolic status, family history and review of healthy behaviour interventions. Due to a lack of data in prepubertal children, the use of weight management medications should only be considered in this population within the context of a supervised clinical trial (17–19).
+
+Bariatric surgery may be considered in adolescents with severe obesity (BMI ≥35 kg/m2 with severe comorbidities or ≥40 kg/m2 with less severe comorbidities), who have reached their final adult height and have undergone a comprehensive assessment by an expert interprofessional team, affirming their understanding of the risks and benefits of the procedure, demonstrating their ability to adhere to the necessary pre- and post-operative care, and have appropriate family and social supports (20) (see Weight Management in Diabetes chapter, p. S124). The long-term effectiveness of bariatric surgery remains unknown.
+
+Screening and Diagnosis
+
+The microvascular complications of type 2 diabetes have been identified at diagnosis, implying long-term, unrecognized hyperglycemia (21). Children may also present with acute decompensation in diabetic ketoacidosis (DKA) and/or hyperosmolar hyperglycemic state (HHS). This argues for a systematic screening program in children at high risk for type 2 diabetes in order to prevent an acute, life-threatening presentation and to decrease the development of chronic complications. Although not proven in children, it is generally assumed that earlier diagnosis of diabetes will lead to interventions that will improve glycemic control and reduce the related short- and long-term complications (21).
+
+Risk factors for the development of type 2 diabetes in children include a history of type 2 diabetes in a first- or second-degree relative (1–4,22), being a member of a high-risk population (e.g. people of African, Arab, Asian, Hispanic, Indigenous or South Asian descent) (1–4); obesity (2); impaired glucose tolerance (IGT) (23); polycystic ovary syndrome (PCOS) (24); exposure to diabetes in utero (25–27); acanthosis nigricans (28); hypertension and dyslipidemia (29); and non-alcoholic fatty liver disease (NAFLD) (30). Atypical antipsychotic medications are associated with significant weight gain, insulin resistance and impaired fasting glucose (IFG) or type 2 diabetes in children (31–33). Neuropsychiatric disorders and the use of neuropsychiatric medications are more common in children with obesity and type 2 diabetes compared to the general pediatric population (34).
+
+In a recent national Canadian diabetes incidence study, the mean age of diagnosis of type 2 diabetes in youth was 13.7 years (2). However, 8% of all newly diagnosed children with type 2 diabetes were less than 10 years of age. In children of Aboriginal, Caucasian and Asian origin, 11%, 8.8% and 8.7%, respectively, presented at less than 10 years of age. Thus, consideration should be given for screening at a younger age in those at high risk (2).
+
+A fasting plasma glucose (FPG) is the recommended routine screening test for children, although ensuring a fasting state may be a challenge. The reproducibility of the FPG is high (35). The oral glucose tolerance test (OGTT) may have a higher detection rate (36,37) in children who have severe obesity (BMI ≥99th percentile for age and gender) and who have multiple risk factors for type 2 diabetes, but it has poor reproducibility (35). A glycated hemoglobin (A1C) ≥6.0% is able to identify children with type 2 diabetes at 86% sensitivity and 85% specificity and had similar screening efficacy to FPG, when compared to the gold standard 2-hour OGTT (38), using laboratory-based, DCCT-aligned, National Glycohemoglobin Standardization program-certified methodology. In children with insulin resistance, the screening efficacy of A1C improved to 99% sensitivity and 96% specificity (38). A1C offers a more practical alternative to fasting blood work and/or a 2-hour OGTT, and is predictive of future diabetes-related complications (39). Limitations include heterogeneous assay methodologies, inaccuracy in the presence of hemoglobinopathies or hemolysis and an inability to accurately predict IGT or IFG. The use of A1C as a screening test for pediatric diabetes is controversial because it diverges to some extent from fasting blood glucose values and post-glucose challenge values. Therefore, A1C should not be relied upon as the sole diagnostic test to screen for type 2 diabetes but rather used in combination with FPG and/or 2-hour OGTT. Given the aforementioned limitations, we recommend using a combination of A1C and fasting or random blood glucose to screen for type 2 diabetes in children and youth with risk factors. A 2-hour OGTT may be considered as an initial screening test in children and youth with 3 or more risk factors and should be done in those in whom there is a discrepancy between the A1C and fasting or random blood glucose results.
+
+Classification
+
+In most children, the presence of clinical risk factors, mode of presentation and early course of the disease indicate whether the child has type 1 or type 2 diabetes. However, differentiation may be difficult in some. Children with type 2 diabetes can present with DKA (40,41). Testing for diabetes autoantibodies should be considered in all children and adolescents with a clinical diagnosis of type 2 diabetes because of evidence that up to 10% to 20% of these children are autoantibody positive, suggesting that they, in fact, have type 1 diabetes with insulin deficiency and are at risk for other autoimmune conditions (42). In addition, the absence of islet autoantibodies may be useful in supporting the diagnosis of type 2 diabetes (43–45). Fasting insulin levels are not helpful at diagnosis, as levels may be low due to glucose toxicity (46). DNA diagnostic testing for genetic defects in beta cell function (monogenic diabetes) should be considered in children who have a strong family history suggestive of autosomal dominant inheritance and who are lacking features of insulin resistance. This may be helpful when diabetes classification is unclear and may lead to more appropriate management (47,48).
+
+Management
+
+Children with type 2 diabetes should receive care in conjunction or consultation with an interprofessional pediatric diabetes health-care team that should include either a pediatric endocrinologist or pediatrician with diabetes expertise, dietitian, diabetes nurse educator and mental health professional. The target A1C for most children with type 2 diabetes should be ≤7.0%. However, there is evidence to suggest that achieving an A1C of <6.0% within the first 6 months of diagnosis may reduce the risk of treatment failure (49). To be effective, treatment programs for adolescents with type 2 diabetes need to address the lifestyle and health habits of the entire family, emphasizing healthy eating and physical activity (50), and promoting smoking prevention/cessation strategies.
+
+In adolescent females with type 2 diabetes, proactive contraceptive counselling to avoid pregnancy is warranted given the high rates of congenital anomalies reported in this population (51).
+
+A recent quality improvement initiative using anonymized data from 578 adolescents with type 2 diabetes in Germany and Austria found that more than half of these adolescents did not perform regular physical activity, and increasing physical activity was associated with a lower A1C, a lower body mass index-standard deviation score (BMI-SDS) and a higher high-density lipoprotein cholesterol (HDL-C) (52). In addition, the SEARCH for Diabetes in Youth Study found that decreased time spent watching television was associated with a significantly attenuated 5-year increase in A1C among adolescents with type 2 diabetes (53). Thus, it is reasonable to recommend (in the absence of direct evidence for this population [54]) that children with type 2 diabetes strive to achieve the same activity level recommended for children in general (i.e. 60 minutes daily of moderate-to-vigorous physical activity; limiting recreational screen time to no more than 2 hours per day and limiting sedentary (motorized) transport, extended sitting and time spent indoors throughout the day (http://www.csep.ca/en/guidelines/get-the-guidelines) (12).
+
+Insulin is required in those with severe metabolic decompensation at diagnosis (e.g. DKA, A1C ≥9.0%, symptoms of severe hyperglycemia) but may be successfully weaned once glycemic targets are achieved (55,56). Once-a-day basal insulin is often effective in attaining metabolic control. Unless acidosis is present, metformin should generally be started at the same time as insulin, at a starting dose of 500 mg daily for 7 days, titrating by 500 mg once a week over 3 to 4 weeks to a maximum dose of 1,000 mg twice daily. Titration increments may be reduced to 250 mg if there are gastrointestinal side effects.
+
+While none of the noninsulin antihyperglycemic agents have been approved by Health Canada for use in children, there are increasing data about the safety or efficacy of certain noninsulin antihyperglycemic agents in the pediatric population. Metformin was the first to be shown in a randomized controlled trial to be safe in adolescents for up to 16 weeks, reducing A1C by 1.0% to 2.0% and lowering FPG with similar side effects as seen in adults (57). Glimepiride has since also been shown to be safe and effective in adolescents for up to 24 weeks, reducing A1C (-0.54%) to a similar extent as metformin (-0.71%), but resulting in a significant weight increase of 1.3 kg (58). For this reason, glimepiride should only be considered if metformin is not tolerated.
+
+The Treatment Options for Type 2 Diabetes in Youth (TODAY) study was a multicentre trial that randomized 699 youth with type 2 diabetes to metformin alone, metformin plus a lifestyle intervention, or metformin plus rosiglitazone (55). The study population included youth 10 to 17 years of age with a mean diabetes duration of 7.8 months and A1C <8%. In the entire study population, treatment failure (defined as A1C ≥8% over 6 months or sustained metabolic decompensation requiring insulin therapy) occurred in 51.7% of the metformin group, 46.6% of the metformin plus lifestyle group and 38.6% of the metformin plus rosiglitazone group (metformin-rosiglitazone vs. metformin alone; p<0.006). However, there were important differences in response between genders and ethnic groups. This study demonstrated that a significant proportion of youth with type 2 diabetes requires aggressive intervention early in the course of the disease, and treatment failure is common. Serious adverse events thought to be related to study medication were uncommon over mean follow up of 3.9 years. Given the concerns raised around the long-term safety of rosiglitazone since the start of this trial, it is premature to recommend its routine use in children on the basis of this study.
+
+A pharmacokinetic and safety study of a single injection of exenatide (GLP-1 agonist) in 13 adolescents being treated with metformin demonstrated good tolerability and improved postprandial glucose levels (59). More recently, a randomized placebo-controlled trial of liraglutide (GLP-1 agonist) in youth with type 2 diabetes already being treated with diet/exercise alone or metformin was completed. This small study of 14 liraglutide-treated vs. 7 placebo-treated subjects provided preliminary evidence that liraglutide was well tolerated in youth with type 2 diabetes, with safety, tolerability and pharmacokinetic profiles similar to profiles in adults (60).
+
+The experience of bariatric surgery in adolescents with type 2 diabetes is limited to several small case series with follow up ranging from 1 to 5 years. Type 2 diabetes remission rates were reported to range from 68% to 100% following vertical sleeve gastrectomy and from 79% to 94% following Roux-en-Y gastric bypass (61). While these remission rates are high, the potential benefit must be balanced against potential risks of intra-, peri- and post-operative complications, leading to additional intra-abdominal and endoscopic procedures, as well as nutritional deficiencies (including vitamin B12, thiamine and vitamin D). Notably, relapse rates in children and adolescents are yet to be published; however, up to one-third of adults have been reported to experience relapse within 5 years of initial remission that is associated with weight regain, longer duration of diabetes and insulin use prior to surgery (61). Thus, bariatric surgery in adolescents with type 2 diabetes should be limited to appropriately selected adolescents with severe obesity and be performed only by experienced teams.
+
+Vaccination
+
+The recommendations for influenza and pneumococcal vaccination in Canada do not address the specific condition of type 2 diabetes in children, as there are no targeted studies evaluating the usefulness of these vaccinations in this population. However, for children with diabetes mellitus, in general, the Public Health Agency of Canada (PHAC) recommends influenza vaccination given this population's high risk of influenza-related complications or hospitalization (http://www.phac-aspc.gc.ca/naci-ccni/flu-2015-grippe-eng.php#ii5) (62), as well as pneumococcal vaccination citing an increased risk for invasive pneumococcal disease (http://www.phac-aspc.gc.ca/publicat/cig-gci/p04-pneu-eng.php#tab1) (63). Some children with type 2 diabetes may also have other factors (e.g. Indigenous heritage) that may place them at higher risk of increased influenza- and pneumococcal-related morbidity (62–65).
+
+Complications
+
+Youth with type 2 diabetes appear to be at significantly higher risk of developing earlier and severe microvascular and cardiovascular (CV) disease compared to youth with type 1 diabetes (66–70). Clinical factors identified in 1 study to be associated with the development of complications included older age at diagnosis and poorer metabolic control (69).
+
+Short-term complications of type 2 diabetes in children include DKA and HHS; 10% of Canadian youth present with DKA at the time of diagnosis (2). High mortality rates (up to 37% in one series) have been reported in youth presenting with combined DKA and HHS at onset of type 2 diabetes (71–73). The management of HHS in pediatrics often requires more aggressive fluid resuscitation with delayed insulin administration at a lower dose and careful replacement of potassium, phosphate and magnesium (74). For management of DKA, see Type 1 Diabetes in Children and Adolescents chapter, p. S234.
+
+While neuropathy has not been described in adolescents with type 2 diabetes at diagnosis, the prevalence of diabetic peripheral neuropathy was documented to be significantly higher in youth with type 2 diabetes compared to youth with type 1 diabetes in both a pilot study among SEARCH study participants (25.7% in youth with type 2 diabetes vs. 8.2% in those with type 1 diabetes) (75) and in the more extensive follow-up study (17.7% youth with type 2 diabetes vs. 8.5% in those with type 1 diabetes) (70). Peripheral nerve abnormalities were detected in 1 in 5 youth with type 2 diabetes in 1 study, with more than half having autonomic neuropathy after a median duration of diabetes of 1.3 years (67). Table 1 summarizes the complications and comorbidities that should be screened for in youth with type 2 diabetes.
+
+In the TODAY study, 13.7% of participants had some form of retinopathy within 2 to 8 years of diagnosis, but none had macular edema, advanced nonproliferative retinopathy or proliferative retinopathy. Older age, longer duration of diabetes and higher mean A1C appeared to be risk factors for the development of retinopathy (76). These findings suggest that screening at diagnosis and yearly thereafter is warranted (Table 1).
+
+Albuminuria was noted in 6.3% of TODAY study participants at baseline, and the incidence of albuminuria over 3.9 years was 10.3% (2.6% yearly, comparable to adults) (77). The only identified risk factor for albuminuria was A1C. One-third of youth with albuminuria progressed to frank proteinuria. Therefore, screening for these complications at diagnosis and yearly thereafter is recommended (Table 1).
+
+Furthermore, Aboriginal youth in Canada are at increased risk of renal diseases that are not associated with diabetes (78). Given that the documentation of persistent albuminuria may indicate one of several possible diagnoses, including underlying primary renal disease, diabetic nephropathy or focal sclerosing glomerulosclerosis (a comorbid condition associated with obesity), referral to a pediatric nephrologist for assessment of etiology and treatment is recommended (78).
+
+Cardiovascular complications
+
+Children with type 2 diabetes may already display cardiac structure abnormalities. In the TODAY study, 8.1% of the 455 participants having undergone cardiac echography had increased left ventricular (LV) wall thickness, 4.5% had increased LV mass and 3.6% had both (79). Changes in LV architecture were associated with obesity and higher systolic BP (as in the population without diabetes). In addition, baseline A1C was associated with both LV wall thickness and LV mass. In the absence of longitudinal data on the significance of these changes, it would be premature to recommend routine echocardiography. Nonetheless, adults with early-onset type 2 diabetes display a markedly increased risk for cardiovascular disease (CVD), with high rates of ischemic heart disease (12.6%), stroke (4.3%) and death (11%), as early as in their 40's (80). It has been estimated that the average life expectancy of individuals with early onset type 2 diabetes may be reduced by 15 years (81). Thus, children with type 2 diabetes display abnormalities in early markers of CVD and are at significantly increased CV risk as they enter adulthood, suggesting that efforts to minimize established CV factors (e.g. smoking, inactivity) must be promoted in this vulnerable population.
+
+Table 1
+Screening for diabetes complications and comorbidities in children with type 2 diabetes
+ACR, albumin-to-creatinine ratio; ALT, alanine aminotransferase; BP, blood pressure; HDL-C, high-density lipoprotein cholesterol; LDL-C, low-density lipoprotein cholesterol; NAFLD, non-alcoholic fatty liver disease; OSA; obstructive sleep apnea; PCOS, polycystic ovary syndrome; TC, total cholesterol; TG, triglycerides.
+Complication/Comorbid condition	Indications and intervals for screening	Screening test
+Neuropathy	Yearly screening commencing at diagnosis of diabetes	Questioned and examined for:
+Symptoms of numbness, pain, cramps and paresthesia
+Vibration sense
+Light touch and ankle reflexes
+
+Retinopathy	Yearly screening commencing at diagnosis of diabetes	
+7-standard field, stereoscopic-colour fundus photography with interpretation by a trained reader (gold standard); or
+Direct ophthalmoscopy or indirect slit-lamp fundoscopy through dilated pupil; or
+
+Digital fundus photography
+
+
+Nephropathy	Yearly screening commencing at diagnosis of diabetes	
+
+First morning (preferred) or random ACR
+
+Abnormal ACR requires confirmation at least 1 month later with either a first morning ACR or timed overnight urine collection for ACR
+
+Repeated sampling should be done every 3 to 4 months over a 6- to 12-month period to demonstrate persistence
+
+
+Dyslipidemia	Screening should commence at diagnosis of diabetes and yearly thereafter	Fasting TC, HDL-C, TG, calculated LDL-C
+Hypertension	At diagnosis of diabetes and every diabetes-related clinical encounter thereafter (at least twice annually)	BP measurement using appropriately sized cuff
+NAFLD	Yearly screening commencing at diagnosis of diabetes	ALT and/or fatty liver on ultrasound
+PCOS	Yearly clinical screening commencing at diagnosis of diabetes in pubertal females	Clinical assessment on history and physical exam for oligo/amenorrhea, acne and/or hirsutism
+OSA	At baseline, and yearly clinical screening	Symptoms suggestive of obstructive sleep apnea include: snoring, apneas, morning headaches, fatigue, daytime sleepiness, nocturia and enuresis
+Depression	Screening at diagnosis and yearly thereafter	Clinical assessment on history of symptoms of depression, including fatigue, depressed or irritable mood, loss of interest or pleasure, feelings of worthlessness or guilt
+Binge Eating	Screening at diagnosis and yearly thereafter	Clinical assessment on history: frequency of having lost control while eating, eating unusually large amounts
+Comorbid Conditions
+
+In the TODAY study, 4.5% of adolescents with recently diagnosed type 2 diabetes had elevated low-density lipoprotein cholesterol (LDL-C) or were on lipid-lowering drugs at diagnosis, and this rose to 10.7% by 36 months (82). Despite having a rigorous study protocol for the management of dyslipidemia, only 21% of those treated reached study target LDL-C levels (LDL C <2.6 mmol/L); LDL-C levels rose with A1C, independent of treatment group. Intensive healthy behaviour interventions may be beneficial to triglycerides (TG), irrespective of A1C (82). Thus, screening for dyslipidemia at diagnosis and yearly thereafter is recommended (Table 1). In children with familial dyslipidemia and a positive family history of early CV events, a statin should be started if the LDL-C level remains >4.1 mmol/L after a 3- to 6-month trial of dietary intervention (83).
+
+In the TODAY study, the prevalence of hypertension at baseline was 11.6%, and increased to 33.8% after 3.9 years of follow up (77). While being male, having a higher BMI and older age at baseline were associated with the development of hypertension, A1C and race/ethnicity were not. Notably, males had 87% higher risk of developing hypertension compared to females (77). Of 205 participants in the TODAY study started on lisinopril for hypertension and/or microalbuminuria, 38.5% required the maximum dose, and over one-third required additional medications. This would suggest that management of hypertension in these youth may be challenging and referral to a pediatric nephrologist should be considered. For further details and discussion on the treatment of dyslipidemia and hypertension, see Type 1 Diabetes in Children and Adolescents chapter, p. S234.
+
+Since 95% of adolescents with type 2 diabetes present with obesity and 73% have clinical evidence of insulin resistance as manifested by acanthosis nigricans (2), surveillance should occur for comorbid conditions associated with insulin resistance, including polycystic ovary syndrome (PCOS) (2) and non-alcoholic fatty liver disease (NAFLD) (84) (Table 1). In a Canadian national surveillance study, PCOS was reported in 12.1% and NAFLD in 22.2% of children and youth at diagnosis of type 2 diabetes (2). While this study defined NAFLD as alanine aminotransferase (ALT) >3x the upper limit of normal or fatty liver on ultrasound, the definition of NAFLD is somewhat controversial, with no consensus on threshold values of ALT or what is the optimal method to identify NAFLD (85).
+
+The prevalence of obstructive sleep apnea (OSA) in youth with type 2 diabetes remains uncertain; however, the prevalence among youth with obesity is reported to be 19% to 61% (86). A small study among youth with type 2 diabetes suggests that the prevalence may be even higher in this population than in obese youth without diabetes (87). Given the deleterious association between OSA and cardiometabolic health in adults (88), it would be prudent to clinically screen for it in youth with type 2 diabetes at diagnosis, and regularly thereafter (Table 1). Indeed, the prevalence of OSA in adults with type 2 diabetes has been reported to be above 85%. Children with symptoms suggestive of OSA should be referred to a sleep specialist for evaluation.
+
+In the TODAY study, 14.8% of participants reported clinically significant depressive symptoms, with females more frequently affected than males (89). There were no differences in the prevalence of depressive symptoms across ethnic groups. Depression scores were inversely related to quality of life (89). Within the TODAY study, 6% of 678 respondents were classified as binge eaters (defined as 4 or more episodes of binge eating in the past month), with 24% being subclinical binge eaters (defined as 1 to 3 episodes of binge eating in the past month). Clinical binge eaters had higher BMI z-scores and percentage overweight compared with subclinical binge eaters and nonovereaters, and had greater global eating, weight and shape concerns (90). They also had more depressive symptoms and lower quality of life. There were no noted differences in the prevalence of binge eating across age, sex, race or glycemic control (90). Depressive symptoms appear to be associated with poor adherence to diabetes treatment (91,92). Given these data, we recommend screening at baseline and regularly thereafter for symptoms of depression or binge eating (Table 1), and referral to a pediatric mental health professional if symptoms are identified (see Diabetes and Mental Health chapter, p.S130).
+
+Recommendations
+All children should receive guidance promoting healthy eating, limiting sugar-sweetened beverage intake [Grade C, Level 3 (9,13,15)], limiting screen time (16), improving sleep quantity and quality, decreasing sedentary behaviours and increasing both light and vigorous physical activity [Grade C, Level 3 (10,11)] to prevent type 2 diabetes.
+Children with obesity should receive intensive healthy behaviour interventions that incorporate family-oriented counselling and behaviour therapy to reduce the risk of diabetes [Grade D, Level 4 (9)].
+Screening for type 2 diabetes should be considered every 2 years using a combination of an A1C and a FPG or random plasma glucose in children and adolescents with any of the following conditions:
+≥3 risk factors in nonpubertal children beginning at 8 years of age or ≥2 risk factors in pubertal children [Grade D, Consensus]. Risk factors include:
+Obesity (BMI ≥95th percentile for age and gender) [Grade D, Level 4 (2)]
+Member of a high-risk ethnic group (e.g. African, Arab, Asian, Hispanic, Indigenous or South Asian descent) [Grade D, Level 4 (2)]
+First-degree relative with type 2 diabetes and/or exposure to hyperglycemia in utero [Grade D, Level 4 (2)]
+Signs or symptoms of insulin resistance (including acanthosis nigricans, hypertension, dyslipidemia, NAFLD [ALT >3X upper limit of normal or fatty liver on ultrasound]) [Grade D, Level 4 (2)]
+PCOS [Grade D, Level 4 (2)]
+IFG and/or IGT [Grade D, Level 4 (23)]
+Use of atypical antipsychotic medications [Grade C, Level 3 (31–33)]
+If there is a discrepancy between the A1C and FPG or random plasma glucose, testing may be repeated or a 2-hour OGTT (1.75 g/kg; maximum 75 g) may be performed [Grade B, Level 2 (38)].
+Starting at the time of diagnosis of type 2 diabetes, all children should receive ongoing intensive counselling, including healthy behaviour interventions, from an interprofessional pediatric health-care team that includes either a pediatric endocrinologist or pediatrician with diabetes expertise, diabetes educator and mental health professional [Grade D, Consensus].
+Regular physical activity, consisting of ≥60 minutes of moderate-to-vigorous physical activity daily, should be recommended to all children with type 2 diabetes [Grade B, Level 2 (93)].
+The target A1C for most children with type 2 diabetes should be ≤7.0% [Grade D, Consensus].
+In children with type 2 diabetes and A1C ≥9.0% and in those with severe metabolic decompensation (e.g. DKA), insulin therapy should be initiated but may be successfully weaned once glycemic targets are achieved [Grade D, Level 4 (56)]. Metformin should generally be started at the same time as insulin unless acidosis is present [Grade B, Level 2 (19)].
+In children with type 2 diabetes who are metabolically stable (A1C <9.0% and no/minimal symptoms), metformin should be initiated in conjunction with healthy behaviour interventions [Grade D, Consensus]. If glycemic targets are not achieved within 3–6 months from diagnosis, then basal insulin should be initiated [Grade D, Consensus]. If targets are still not achieved on a combination of metformin and basal insulin, then prandial insulin should be initiated [Grade D, Consensus].
+Children with type 2 diabetes should be screened for neuropathy at diagnosis [Grade D, Consensus] and annually thereafter [Grade D, Consensus].
+Children with type 2 diabetes should be screened at diagnosis for retinopathy [Grade D, Consensus] and yearly thereafter [Grade B, Level 2 (76)].
+Children with type 2 diabetes should be screened for chronic kidney disease at diagnosis [Grade B, Level 2 (77)] and yearly thereafter [Grade D, Consensus] with a first morning urine ACR (preferred) [Grade B, Level 2 (94)] or a random ACR [Grade D, Consensus]. Abnormal results should be confirmed [Grade B, Level 2 (95)] at least 1 month later with a first morning ACR or timed, overnight urine collection for albumin excretion rate (AER) [Grade D, Consensus]. Albuminuria (ACR >2.5 mg/mmol; AER >20 mcg/min) should not be diagnosed unless it is persistent, as demonstrated by 2 consecutive first morning ACR or timed collections obtained at 3- to 4-month intervals over a 6- to 12-month period [Grade D, Consensus].
+Children with type 2 diabetes with persistent albuminuria should be referred to a pediatric nephrologist for assessment of etiology and treatment [Grade D, Level 4 (78)].
+Children with type 2 diabetes should have a fasting lipid profile measured at diagnosis of diabetes and yearly thereafter [Grade B, Level 2 (82)].
+Children with type 2 diabetes should be screened for hypertension beginning at diagnosis of diabetes and at every diabetes-related clinical encounter thereafter (at least biannually) [Grade B, Level 2 (77)].
+Children with type 2 diabetes should be screened at diagnosis for comorbid conditions associated with insulin resistance, including NAFLD [Grade D, Level 4 (2,84)], OSA [Grade D, Level 4, (87)] and PCOS in pubertal females [Grade D, Level 4 (2)], and yearly thereafter as clinically indicated [Grade D, Consensus].
+Children with type 2 diabetes should be screened at diagnosis for depression and disordered eating (in particular binge eating) and at every diabetes-related clinical encounter thereafter (at least biannually) [Grade B, Level 2 (89,90)].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; ACR, albumin-to-creatinine ratio; ALT, alanine aminotransferase; BMI, body mass index; CVD, cardiovascular disease; DHC, diabetes health-care team; DKA, diabetic ketoacidosis; FPG, fasting plasma glucose; IFG, impaired fasting glucose; IGT, impaired glucose tolerance; HDL-C, high-density lipoprotein cholesterol; HHS, hyperglycemic hyperosmolar state; LDL-C, low-density lipoprotein cholesterol; NAFLD, nonalcoholic fatty liver disease; OGTT, oral glucose tolerance test; PCOS, polycystic ovary syndrome.
+
+Other Relevant Guidelines
+Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome, p. S10
+Reducing the Risk of Developing Diabetes, p. S20
+Hyperglycemic Emergencies in Adults, p. S109
+Diabetes and Mental Health, p. S130
+Dyslipidemia, p. S178
+Treatment of Hypertension, p. S186
+Retinopathy, p. S210
+Type 1 Diabetes in Children and Adolescents, p. S234
+Type 2 Diabetes and Indigenous Peoples, p. S296
+
+Literature Review Flow Diagram for Chapter 35: Type 2 Diabetes in Children and Adolescents
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (96).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Henderson reports grants from the Canadian Society of Endocrinology and Metabolism and AstraZeneca, outside the submitted work. No other authors have anything to disclose.
+
+References
+Nadeau K, Dabelea D. Epidemiology of type 2 diabetes in children and adolescents. Endocr Res 2008;33:35–58.
+Amed S, Dean HJ, Panagiotopoulos C, et al. Type 2 diabetes, medicationinduced diabetes, and monogenic diabetes in Canadian children: A prospective national surveillance study. Diabetes Care 2010;33:786–91.
+Writing Group for the SEARCH for Diabetes in Youth Study Group, Dabelea D, Bell RA, et al. Incidence of diabetes in youth in the United States. JAMA 2007;297:2716–24.
+Copeland KC, Zeitler P, Geffner M, et al. Characteristics of adolescents and youth with recent-onset type 2 diabetes: The TODAY cohort at baseline. J Clin Endocrinol Metab 2011;96:159–67.
+Hamman RF, Bell RA, Dabelea D, et al. The SEARCH for Diabetes in Youth study: Rationale, findings, and future directions. Diabetes Care 2014;37:3336–44.
+Taylor JS, Kacmar JE, Nothnagle M, et al. A systematic review of the literature associating breastfeeding with type 2 diabetes and gestational diabetes. J Am Coll Nutr 2005;24:320–6.
+Body mass index of Canadian children and youth. Ottawa (ON): Health Statistics Division: Statistics Canada, 2012, pg. Report No.: 82-625-X. http://www.statcan.gc.ca/pub/82-625-x/2012001/article/11712-eng.pdf.
+Oude Luttikhuis H, Baur L, Jansen H, et al. Interventions for treating obesity in children. Cochrane Database Syst Rev 2009;(1):CD001872.
+Canadian Task Force on Preventive Health Care, Parkin P, Connor GS, et al. Recommendations for growth monitoring, and prevention and management of overweight and obesity in children and youth in primary care. CMAJ 2015;187:411–21.
+Tremblay MS, Carson V, Chaput JP, et al. Canadian 24-hour movement guidelines for children and youth: An integration of physical activity, sedentary behaviour, and sleep. Appl Physiol Nutr Metab 2016;41:S311–27.
+Henderson M, Benedetti A, Barnett TA, et al. Influence of adiposity, physical activity, fitness, and screen time on insulin dynamics over 2 years in children. JAMA Pediatr 2016;170:227–35.
+CSEP. Canadian 24-hour movement guidelines for children and youth: An integration of physical activity, sedentary behaviour, and sleep. Ottawa: Canadian Society for Exercise Physiology (CSEP), 2017. http://www.csep.ca/CMFiles/Guidelines/24hrGlines/Canadian24HourMovementGuidelines2016.pdf.
+Te Morenga L, Mallard S, Mann J. Dietary sugars and body weight: Systematic review and meta-analyses of randomised controlled trials and cohort studies. BMJ 2013;346:e7492.
+Greenwood DC, Threapleton DE, Evans CE, et al. Association between sugarsweetened and artificially sweetened soft drinks and type 2 diabetes: Systematic review and dose-response meta-analysis of prospective studies. Br J Nutr 2014;112:725–34.
+Laverty AA, Magee L, Monteiro CA, et al. Sugar and artificially sweetened beverage consumption and adiposity changes: National longitudinal study. Int J Behav Nutr Phys Act 2015;12:137.
+Nightingale CM, Rudnicka AR, Donin AS, et al. Screen time is associated with adiposity and insulin resistance in children. Arch Dis Child 2017;102:612–6.
+Boland CL, Harris JB, Harris KB. Pharmacological management of obesity in pediatric patients. Ann Pharmacother 2015;49:220–32.
+McDonagh MS, Selph S, Ozpinar A, et al. Systematic review of the benefits and risks of metformin in treating obesity in children aged 18 years and younger. JAMA Pediatr 2014;168:178–84.
+Laffel L, Chang N, Grey M, et al. Metformin monotherapy in youth with recent onset type 2 diabetes: Experience from the prerandomization run-in phase of the TODAY study. Pediatr Diabetes 2012;13:369–75.
+Michalsky M, Reichard K, Inge T, et al. ASMBS pediatric committee best practice guidelines. Surg Obes Relat Dis 2012;8:1–7.
+Pinhas-Hamiel O, Zeitler P. Acute and chronic complications of type 2 diabetes mellitus in children and adolescents. Lancet 2007;369:1823–31.
+Pinhas-Hamiel O, Dolan LM, Daniels SR, et al. Increased incidence of noninsulin-dependent diabetes mellitus among adolescents. J Pediatr 1996;128:608–15.
+Weiss R, Taksali SE, Tamborlane WV, et al. Predictors of changes in glucose tolerance status in obese youth. Diabetes Care 2005;28:902–9.
+Palmert MR, Gordon CM, Kartashov AI, et al. Screening for abnormal glucose tolerance in adolescents with polycystic ovary syndrome. J Clin Endocrinol Metab 2002;87:1017–23.
+Dabelea D, Hanson RL, Lindsay RS, et al. Intrauterine exposure to diabetes conveys risks for type 2 diabetes and obesity: A study of discordant sibships. Diabetes 2000;49:2208–11.
+Young TK, Martens PJ, Taback SP, et al. Type 2 diabetes mellitus in children: Prenatal and early infancy risk factors among native canadians. Arch Pediatr Adolesc Med 2002;156:651–5.
+Mendelson M, Cloutier J, Spence L, et al. Obesity and type 2 diabetes mellitus in a birth cohort of First Nation children born to mothers with pediatric-onset type 2 diabetes. Pediatr Diabetes 2011;12:219–28.
+Stoddart ML, Blevins KS, Lee ET, et al. Association of acanthosis nigricans with hyperinsulinemia compared with other selected risk factors for type 2 diabetes in Cherokee Indians: The Cherokee Diabetes Study. Diabetes Care 2002;25:1009–14.
+Weiss R, Dziura J, Burgert TS, et al. Obesity and the metabolic syndrome in children and adolescents. N Engl J Med 2004;350:2362–74.
+Perseghin G, Bonfanti R, Magni S, et al. Insulin resistance and whole body energy homeostasis in obese adolescents with fatty liver disease. Am J Physiol Endocrinol Metab 2006;291:E697–703.
+Panagiotopoulos C, Ronsley R, Davidson J. Increased prevalence of obesity and glucose intolerance in youth treated with second-generation antipsychotic medications. Can J Psychiatry 2009;54:743–9.
+Ronsley R, Nguyen D, Davidson J, et al. Increased risk of obesity and metabolic dysregulation following 12 months of second-generation antipsychotic treatment in children: A prospective cohort study. Can J Psychiatry 2015;60:441–50.
+Galling B, Roldan A, Nielsen RE, et al. Type 2 diabetes mellitus in youth exposed to antipsychotics: A systematic review and meta-analysis. JAMA Psychiatry 2016;73:247–59.
+Levitt Katz LE, Swami S, Abraham M, et al. Neuropsychiatric disorders at the presentation of type 2 diabetes mellitus in children. Pediatr Diabetes 2005;6:84–9.
+Libman IM, Barinas-Mitchell E, Bartucci A, et al. Reproducibility of the oral glucose tolerance test in overweight children. J Clin Endocrinol Metab 2008;93:4231–7.
+Sinha R, Fisch G, Teague B, et al. Prevalence of impaired glucose tolerance among children and adolescents with marked obesity. N Engl J Med 2002;346:802–10.
+Reinehr T, Andler W, Kapellen T, et al. Clinical characteristics of type 2 diabetes mellitus in overweight European caucasian adolescents. Exp Clin Endocrinol Diabetes 2005;113:167–70.
+Shah S, Kublaoui BM, Oden JD, et al. Screening for type 2 diabetes in obese youth. Pediatrics 2009;124:573–9.
+American Diabetes Association. Standards of medical care in diabetes—2014. Diabetes Care 2014;37:S14–80.
+Pinhas-Hamiel O, Dolan LM, Zeitler PS. Diabetic ketoacidosis among obese African-American adolescents with NIDDM. Diabetes Care 1997;20:484–6.
+Sellers EA, Dean HJ. Diabetic ketoacidosis: A complication of type 2 diabetes in Canadian aboriginal youth. Diabetes Care 2000;23:1202–4.
+Klingensmith GJ, Pyle L, Arslanian S, et al. The presence of GAD and IA-2 antibodies in youth with a type 2 diabetes phenotype: Results fromthe TODAY study. Diabetes Care 2010;33:1970–5.
+Dabelea D, Palmer JP, Bennett PH, et al. Absence of glutamic acid decarboxylase antibodies in Pima Indian children with diabetes mellitus. Diabetologia 1999;42:1265–6.
+Sellers E, Eisenbarth G, Young TK, et al. Diabetes-associated autoantibodies in aboriginal children. Lancet 2000;355:1156.
+Hathout EH, Thomas W, El-Shahawy M, et al. Diabetic autoimmune markers in children and adolescents with type 2 diabetes. Pediatrics 2001;107:E102.
+Ferrannini E. Insulin resistance versus insulin deficiency in non-insulindependent diabetes mellitus: Problems and prospects. Endocr Rev 1998;19:477–90.
+Sellers EA, Triggs-Raine B, Rockman-Greenberg C, et al. The prevalence of the HNF-1alpha G319S mutation in Canadian aboriginal youth with type 2 diabetes. Diabetes Care 2002;25:2202–6.
+Hattersley AT. Molecular genetics goes to the diabetes clinic. Clin Med (Lond) 2005;5:476–81.
+Zeitler P, Hirst K, Copeland KC, et al. HbA1c after a short period of monotherapy with metformin identifies durable glycemic control among adolescents with type 2 diabetes. Diabetes Care 2015;38:2285–92.
+Pinhas-Hamiel O, Standiford D, Hamiel D, et al. The type 2 family: A setting for development and treatment of adolescent type 2 diabetes mellitus. Arch Pediatr Adolesc Med 1999;153:1063–7.
+Klingensmith GJ, Pyle L, Nadeau KJ, et al. Pregnancy outcomes in youth with type 2 diabetes: The TODAY study experience. Diabetes Care 2016;39:122–9.
+Herbst A, Kapellen T, Schober E, et al. Impact of regular physical activity on blood glucose control and cardiovascular risk factors in adolescents with type 2 diabetes mellitus—a multicenter study of 578 patients from 225 centres. Pediatr Diabetes 2015;16:204–10.
+Li C, Beech B, Crume T, et al. Longitudinal association between television watching and computer use and risk markers in diabetes in the SEARCH for Diabetes in Youth study. Pediatr Diabetes 2015;16:382–91.
+Johnson ST, Newton AS, Chopra M, et al. In search of quality evidence for lifestyle management and glycemic control in children and adolescents with type 2 diabetes: A systematic review. BMC Pediatr 2010;10:97.
+Zeitler P, Hirst K, Pyle L, et al. A clinical trial to maintain glycemic control in youth with type 2 diabetes. N Engl J Med 2012;366:2247–56.
+Sellers EA, Dean HJ. Short-term insulin therapy in adolescents with type 2 diabetes mellitus. J Pediatr Endocrinol Metab 2004;17:1561–4.
+Jones KL, Arslanian S, Peterokova VA, et al. Effect of metformin in pediatric patients with type 2 diabetes: A randomized controlled trial. Diabetes Care 2002;25:89–94.
+Gottschalk M, Danne T, Vlajnic A, et al. Glimepiride versus metformin as monotherapy in pediatric patients with type 2 diabetes: A randomized, single-blind comparative study. Diabetes Care 2007;30:790–4.
+Malloy J, Capparelli E, Gottschalk M, et al. Pharmacology and tolerability of a single dose of exenatide in adolescent patients with type 2 diabetes mellitus being treated with metformin: A randomized, placebo-controlled, singleblind, dose-escalation, crossover study. Clin Ther 2009;31:806–15.
+Klein DJ, Battelino T, Chatterjee DJ, et al. Liraglutide’s safety, tolerability, pharmacokinetics, and pharmacodynamics in pediatric type 2 diabetes: A randomized, double-blind, placebo-controlled trial. Diabetes Technol Ther 2014;16:679–87.
+Shah AS, D’Alessio D, Ford-Adams ME, et al. Bariatric surgery: A potential treatment for type 2 diabetes in youth. Diabetes Care 2016;39:934–40.
+An Advisory Committee Statement (ACS), National Advisory Committee on Immunization (NACI). Canadian immunization guide chapter on influenza and statement on seasonal influenza vaccine for 2015–2016. Ottawa: Public Health Agency of Canada, 2015. http://www.phac-aspc.gc.ca/naci-ccni/assets/pdf/flu-2015-grippe-eng.pdf. Accessed November 15, 2017.
+Government of Canada. Canadian immunization guide: Part 4—active vaccines. Ottawa: Public Health Agency of Canada, 2016. https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines.html. Accessed November 15, 2017.
+Crighton EJ, Elliott SJ, Moineddin R, et al. A spatial analysis of the determinants of pneumonia and influenza hospitalizations in Ontario (1992–2001). Soc Sci Med 2007;64:1636–50.
+National Advisory Committee on Immunization. Update on pediatric invasive pneumococcal disease and recommended use of conjugate pneumococcal vaccines. Ottawa: Public Health Agency of Canada, 2010. http://www.phac-aspc.gc.ca/publicat/ccdr-rmtc/10vol36/acs-3/index-eng.php. Accessed November 15, 2017.
+Yokoyama H, Okudaira M, Otani T, et al. Existence of early-onset NIDDM Japanese demonstrating severe diabetic complications. Diabetes Care 1997;20:844–7.
+Eppens MC, Craig ME, Cusumano J, et al. Prevalence of diabetes complications in adolescents with type 2 compared with type 1 diabetes. Diabetes Care 2006;29:1300–6.
+Maahs DM, Snively BM, Bell RA, et al. Higher prevalence of elevated albumin excretion in youth with type 2 than type 1 diabetes: The SEARCH for Diabetes in Youth study. Diabetes Care 2007;30:2593–8.
+Dart AB, Martens PJ, Rigatto C, et al. Earlier onset of complications in youth with type 2 diabetes. Diabetes Care 2014;37:436–43.
+Dabelea D, Stafford JM, Mayer-Davis EJ, et al. Association of type 1 diabetes vs type 2 diabetes diagnosed during childhood and adolescence with complications during teenage years and young adulthood. JAMA 2017;317:825–35.
+Rosenbloom AL. Hyperglycemic hyperosmolar state: An emerging pediatric problem. J Pediatr 2010;156:180–4.
+Fourtner SH, Weinzimer SA, Levitt Katz LE. Hyperglycemic hyperosmolar nonketotic syndrome in children with type 2 diabetes. Pediatr Diabetes 2005;6:129–35.
+Carchman RM, Dechert-Zeger M, Calikoglu AS, et al. A new challenge in pediatric obesity: Pediatric hyperglycemic hyperosmolar syndrome. Pediatr Crit Care Med 2005;6:20–4.
+Zeitler P, Haqq A, Rosenbloom A, et al. Hyperglycemic hyperosmolar syndrome in children: Pathophysiological considerations and suggested guidelines for treatment. J Pediatr 2011;158:9–14, e1-2.
+Jaiswal M, Lauer A, Martin CL, et al. Peripheral neuropathy in adolescents and young adults with type 1 and type 2 diabetes from the SEARCH for Diabetes in Youth follow-up cohort: A pilot study. Diabetes Care 2013;36:3903–8.
+Today Study Group. Retinopathy in youth with type 2 diabetes participating in the TODAY clinical trial. Diabetes Care 2013;36:1772–4.
+Today Study Group. Rapid rise in hypertension and nephropathy in youth with type 2 diabetes: The TODAY clinical trial. Diabetes Care 2013;36:1735–41.
+Sellers EA, Blydt-Hansen TD, Dean HJ, et al. Macroalbuminuria and renal pathology in First Nation youth with type 2 diabetes. Diabetes Care 2009;32:786–90.
+Levitt Katz L, Gidding SS, Bacha F, et al. Alterations in left ventricular, left atrial, and right ventricular structure and function to cardiovascular risk factors in adolescents with type 2 diabetes participating in the TODAY clinical trial. Pediatr Diabetes 2015;16:39–47.
+Constantino MI, Molyneaux L, Limacher-Gisler F, et al. Long-term complications and mortality in young-onset diabetes: Type 2 diabetes is more hazardous and lethal than type 1 diabetes. Diabetes Care 2013;36:3863–9.
+Rhodes ET, Prosser LA, Hoerger TJ, et al. Estimated morbidity and mortality in adolescents and young adults diagnosed with Type 2 diabetes mellitus. Diabet Med 2012;29:453–63.
+Today Study Group. Lipid and inflammatory cardiovascular risk worsens over 3 years in youth with type 2 diabetes: The TODAY clinical trial. Diabetes Care 2013;36:1758–64.
+Expert Panel on Integrated Guidelines for Cardiovascular Health and Risk Reduction in Children and Adolescents, National Heart Lung Blood Institute. Expert panel on integrated guidelines for cardiovascular health and risk reduction in children and adolescents: Summary report. Pediatrics 2011;128:S213–56.
+Nadeau KJ, Klingensmith G, Zeitler P. Type 2 diabetes in children is frequently associated with elevated alanine aminotransferase. J Pediatr Gastroenterol Nutr 2005;41:94–8.
+Anderson EL, Howe LD, Jones HE, et al. The prevalence of non-alcoholic fatty liver disease in children and adolescents: A systematic review and metaanalysis. PLoS ONE 2015;10:e0140908.
+Andersen IG, Holm JC, Homoe P. Obstructive sleep apnea in obese children and adolescents, treatment methods and outcome of treatment—a systematic review. Int J Pediatr Otorhinolaryngol 2016;87:190–7.
+Shalitin S, Tauman R, Meyerovitch J, et al. Are frequency and severity of sleepdisordered breathing in obese children and youth with and without type 2 diabetes mellitus different? Acta Diabetol 2014;51:757–64.
+Ceccato F, Bernkopf E, Scaroni C. Sleep apnea syndrome in endocrine clinics. J Endocrinol Invest 2015;38:827–34.
+Anderson BJ, Edelstein S, Abramson NW, et al. Depressive symptoms and quality of life in adolescents with type 2 diabetes: Baseline data from the TODAY study. Diabetes Care 2011;34:2205–7.
+Wilfley D, Berkowitz R, Goebel-Fabbri A, et al. Binge eating, mood, and quality of life in youth with type 2 diabetes: Baseline data from the TODAY study. Diabetes Care 2011;34:858–60.
+Katz LL, Anderson BJ, McKay SV, et al. Correlates of medication adherence in the TODAY cohort of youth with type 2 diabetes. Diabetes Care 2016;39:1956–62.
+Lawrence JM, Standiford DA, Loots B, et al. Prevalence and correlates of depressed mood among youth with diabetes: The SEARCH for Diabetes in Youth study. Pediatrics 2006;117:1348–58.
+MacMillan F, Kirk A, Mutrie N, et al. A systematic review of physical activity and sedentary behavior intervention studies in youth with type 1 diabetes: Study characteristics, intervention design, and efficacy. Pediatr Diabetes 2014;15:175–89.
+Shield JP, Hunt LP, Baum JD, et al. Screening for diabetic microalbuminuria in routine clinical care: Which method? Arch Dis Child 1995;72:524–5.
+Houlihan CA, Tsalamandris C, Akdeniz A, et al. Albumin to creatinine ratio: A screening test with limitations. Am J Kidney Dis 2002;39:1183–9.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

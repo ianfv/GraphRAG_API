@@ -1,0 +1,532 @@
+Chapter Headings
+
+Introduction
+Glycemic Targets
+Insulin Therapy
+Insulin Delivery
+Adjunctive Therapy
+Diabetes Ketacidosis (DKA)
+Author Disclosures
+External Reviewers
+Key Messages
+Glycemic targets and management approach for all individuals living with type 1 diabetes should be individualized using a person- and family-centered approach to minimize the risk of long-term complications while balancing hypoglycemia and ketosis risk and burden of diabetes self-management.
+Automated insulin delivery (AID) systems (insulin pump and connected continuous glucose monitor) are the preferred treatment method for all individuals to optimize glycemia and person-reported outcomes, provided the individual is willing and able to wear and operate the devices.
+When AID systems are not possible or chosen, continuous glucose monitoring (CGM) should be used in combination with insulin pump therapy (IPT) or basal bolus injection (BBI) therapy.
+BBI therapy with long-acting basal analogues is preferred to conventional insulin regimens (TID or BID) using NPH because of its variable action profile and higher risk of hypoglycemia with NPH in both adults and children.
+Ultrarapid- and ultra-long-acting insulin analogues should be considered in place of rapid- or long-acting insulin analogues for BBI therapy in both adults and children to improve glycemic outcomes and minimize hypoglycemia.
+In adults, adjunctive therapy, such as metformin, glucagon-like peptide-1 receptor agonists (GLP-1RA), or sodium-glucose cotransporter-2 inhibitors (SGLT2i), may be considered in addition to insulin to meet individual treatment goals while employing strategies to support safety, efficacy, and tolerability of these medications.
+The dose of oral glucose used to treat hypoglycemia should be tailored to the individual’s age and the insulin treatment regimen, with lower carbohydrate requirements in children using AID.
+Intranasal glucagon and instructions for use should be provided for adults and children.
+Newer evidence supports more aggressive fluid resuscitation is safe when managing diabetic ketoacidosis in children.
+Subcutaneous insulin can be safely used to manage non-severe diabetic ketoacidosis (DKA).
+Key Messages for People With Type 1 Diabetes and Their Families
+Glycemic targets should be designed to fit into an individual’s life and should consider the balance of long- and short-term safety, access to technology, and life circumstances. Individuals should have a discussion with their health-care provider and care team to find the best available treatment options to meet their diabetes goals in the context of their life and unique circumstances.
+Across all ages, insulin can be delivered in a variety of ways:
+Ideally by an insulin pump integrated with CGM (AID), which may help keep glucose levels more stable and in range, with the potential for less management burden and improved sleep.
+By insulin injections or insulin pump.
+CGM is recommended for people using insulin injections or pumps.
+Newer insulins, including ultrarapid- and ultra-long-acting insulins, may be helpful for people to reach their individual treatment goals.
+Balancing high and low blood glucose is necessary for all individuals living with type 1 diabetes. All individuals should talk with their diabetes health-care team about prevention and treatment of high or low glucose levels, including:
+Individuals should know the signs and symptoms of DKA, and have a plan to prevent it, including a backup plan for unexpected interruption to insulin delivery, ketone testing supplies, and knowing when to seek medical help.
+Treatment of mild to moderate low glucose may differ depending on the individual’s age and insulin management plan. Individuals should always carry a source of fast-acting carbohydrate.
+Consider having nasal glucagon available for moderate to more severe episodes of low glucose.
+Wear diabetes identification (e.g. a Medic Alert bracelet)
+Introduction
+
+This updated clinical practice guideline replaces the previous chapter of Glycemic Management in Adults With Type 1 Diabetes (2018, chapter 12) and updates the glycemic management portions of the Management of Type 1 Diabetes in Children and Adolescents chapter (2018, chapter 34) where new evidence impacting clinical practice has become available. The term children is inclusive of all individuals <18 years of age, whereas evidence specific to adolescents indicates 13–18 years and toddlers <4 years. This update includes advances in insulin formulations, delivery systems, and adjunctive therapies. This guideline focuses on glycemic management across all life stages and includes new evidence on treatments for hypoglycemia in children and DKA in adults and children. Pregnancy is excluded from this guideline as recommendations are being updated separately. This guideline update comments on screening and prevention of type 1 diabetes as it is timely; however, due to the lack of current treatment availability in Canada, no clinical practice recommendations have been included.
+
+The goal of this guideline update is to support individuals in living well with type 1 diabetes throughout their lifespan, balancing optimization of glycemic management with risk of hypoglycemia, while considering individual life context, needs, and experiences. While insulin remains the mainstay of therapy for type 1 diabetes across the lifespan, we advocate for universal access to advanced insulin therapies (second-generation basal insulin analogues) and technologies (automated insulin delivery [AID] systems) for all individuals living with type 1 diabetes irrespective of geography, ethnicity, or social and economic status. For school-aged children who remain on intermediate-acting insulins due to the lack of support for insulin administration at school, we strongly advocate for facilitation of insulin administration in schools and daycares throughout Canada to allow evidence-based optimal choice of BBI, IPT, or AID for all children. With the expanding technology advancements to insulin delivery, the terminology has been updated to reflect language used in clinical practice (Table 1).
+
+Table 1
+Updated/current insulin delivery terminology
+
+Glycemic Targets
+
+In the Diabetes Control and Complications Trial (DCCT), intensive insulin therapy reduced the risk of microvascular complications in adults with type 1 diabetes [1]. Since the median glycated hemoglobin (A1C) among participants randomized to intensive therapy was 7.2%, an A1C target of <7.0% [1] became the standard of care. It is important to recognize that 50% of participants in the intensive insulin therapy arm had an A1C >7.2%; however, this group experienced substantial reductions in microvascular complications by the conclusion of the trial. Following conclusion of the DCCT, the mean A1C remained stable at approximately 8.0% for participants in both the conventional and intensive arms, indicating the challenges of maintaining an A1C <7.0% due to the ongoing risk of hypoglycemia [2].
+
+In previous guidelines, a higher A1C target for children was recommended as lower A1C targets were considered a risk factor for severe hypoglycemia. With the emergence of new technology (CGM, AID) and increasing use of intensive management regimens in children and adolescents, risk for severe hypoglycemia and associated neurocognitive consequences is dissipating. Further, chronic hyperglycemia and glycemic variability in young children (ages 4 to 10 years) are associated with white matter structural changes in the brain and poorer overall cognitive performance [3-5]. In view of this, the new recommended A1C target for the pediatric population is <7.0% across all age groups.
+
+Canadian data on A1C values among people living with type 1 diabetes is limited due to lack of robust population-based data sources or registries; however, it appears 20%–30% of adults with type 1 diabetes in Canada have an A1C <7.0% [8].
+
+Individuals with type 1 diabetes and adverse social determinants of health, such as marginalized populations (i.e. low income), have higher A1C values than those who are not socially disadvantaged. This has been demonstrated in settings both with and without universal health care [9,10] [7,11,12]. Individuals who experience greater challenges to accessing diabetes technologies, such as CGM or AID [13,14], may have more difficulty safely attaining glycemic targets [15-17]. Among adolescents and adults with type 1 diabetes, diabetes distress, and mental health conditions are associated with higher A1C [18-20].
+
+A person- and family-centred approach to setting glycemic targets is recommended. Where there is concern that an unattainable target might have negative consequences for the individual or family, it is recommended that an interprofessional diabetes team engage in collaborative and shared decision making with the person and/or family when available to establish an individualized A1C target. Cognitive behavioural techniques, such as motivational interviewing, goal setting, stress management, and family conflict resolution, may be effective in developing individualized care plans that empower people with diabetes and/or their caregivers to work towards achieving the most attainable glycemic targets for their unique context [21-23].
+
+Insulin Therapy
+
+Insulin is the life-sustaining therapy for people living with type 1 diabetes. Intensive diabetes management, including insulin delivered by BBI therapy or insulin pumps, has been shown to improve glycemic management, reduce microvascular complications in adults and adolescents in the DCCT trial [1], and reduce cardiovascular complications in the EDIC follow-up study [24]. Therefore, identifying better ways to deliver individualized intensive insulin therapy while avoiding hypoglycemia is an important goal for people of all ages living with type 1 diabetes.
+
+There have been many advances in the development of insulin analogues with longer or shorter onset and duration of action based on modifications of the insulin molecule and excipients with which it is co-formulated. These changes have led to reduced postprandial glycemic excursions, less hypoglycemia, and improved overall glucose levels [25–28].
+
+Rapid-acting insulin analogues have a more rapid onset and shorter duration of action than regular insulin (see Types of Insulin in supplementary materials). They are used as bolus insulin in basal-bolus therapy, and to deliver both basal and bolus insulin in insulin pumps. In both BBI and IPT, aspart and lispro have been shown to improve A1C and reduce the risk of severe or nocturnal hypoglycemia in adults [25–27]. Fewer trials have been done in children, and while 1 meta-analysis showed generally neutral effects, 1 trial in preschoolers aged 2 to 6 years showed improved A1C with aspart versus regular insulin [28], and 2 trials in adolescents showed lower post-prandial glucose and less hypoglycemia with lispro versus regular insulin [27,29]. Health-related quality of life was not consistently improved with rapid-acting analogues in adults [26], but parents of preschoolers found it improved their satisfaction with diabetes treatment [28]. Trials in adults and children suggest glulisine has similar clinical effects to aspart and lispro [30–32].
+
+Ultrarapid-acting insulin analogues have an even more rapid onset (see Types of Insulin in supplementary materials). Only 1 of these is currently available in Canada—faster acting aspart. In people of all ages, ultrarapid analogues taken before a meal reduce post-prandial glycemic excursions compared to rapid analogues [33] [34–37], but this did not translate to an overall improvement in A1C except in 1 trial of children and adolescents [34]. Adults [35,37,38] but not children [39] using IPT or AID also spent more time in glycemic target range (TIR) and less time below range (TBR) using ultrarapid compared to rapid analogue insulins; however, this came at the expense of more unplanned infusion set changes due to catheter occlusions [37].
+
+Even with rapid and ultrarapid analogues, timing of insulin boluses in relation to food intake is important. In adults and children using BBI therapy or any insulin pumps, post-prandial glucose and A1C is improved by taking mealtime insulin 10–20 minutes before eating as opposed to 0–20 minutes after the first bite [34,40–42]. One trial in children and adolescents found that a rapid-acting analogue taken before meals was better than an ultrarapid-acting analogue taken after meals for reducing post-prandial glucose and hypoglycemia [34].
+
+For people on BBI therapy, modifications to the insulin molecule have resulted in basal insulin with more protracted action with less of a peak, allowing for more consistent basal insulin action over 24 hours (see Types of Insulin in supplementary materials). In all ages, long-acting insulin analogues improve A1C and reduce the risk of nocturnal hypoglycemia [43,44] compared to NPH insulin, and in adults and older adolescents, long-acting analogues also reduce the risk of severe hypoglycemia, and have a modest benefit on body weight [43]. On the contrary, several meta-analyses have shown less consistent results when individually comparing glargine 100 u/mL alone to NPH [27,45,46], possibly due to heterogeneity of effect on either A1C lowering or hypoglycemia reduction between trials. One trial in toddlers and preschoolers aged 2–6 years showed benefits on rates of DKA, TIR, and glucose variability when comparing glargine 100 u/mL to NPH [47].
+
+Though still administered daily, ultralong second-generation basal insulin analogues have an even longer and flatter action profile than long-acting analogues (see Types of Insulin in supplementary materials). Degludec insulin comes in 2 concentrations (100 u/mL and 200 u/mL), with similar pharmacokinetics and pharmacodynamics. Glargine 300 u/mL has different pharmacokinetics and pharmacodynamics than glargine 100 u/mL that make it an ultralong analogue. Several trials and meta-analyses in adults [48–52] and children [50,53] show reductions in nocturnal or severe hypoglycemia with ultralong- versus long-acting analogues, while others do not [43,46,47,54,55]. Beneficial effects on hypoglycemia risk are more clearly shown in adults prone to nocturnal severe hypoglycemia [52]. Ultra-long-acting insulins also reduce glycemic variability [51,52] and, in children and adolescents, they reduce the risk of hyperglycemia with ketosis [55].
+
+A once-weekly basal insulin analogue has recently been approved for use in adults with type 1 diabetes in Canada. Icodec insulin binds to albumin in circulation allowing for its very protracted profile. In adults with type 1 diabetes, it was noninferior to daily basal insulin for A1C reduction, but significantly increased the rate of hypoglycemia almost 2-fold [56]. Therefore, for most adults with type 1 diabetes, the added risk of hypoglycemia outweighs the benefit of weekly basal dosing. Furthermore, treatment satisfaction was lower with weekly than daily basal insulin among adults with type 1 diabetes [56].
+
+As patents end on biologic (protein) medications, including insulin, other manufacturers have brought biosimilars to the market, often at lower cost to consumers and payers than the originator brands. Several biosimilar insulins are now available in Canada. Rapid-acting analogue biosimilars currently include aspart insulin (Kirsty, Trurapi) and lispro insulin (Admelog), and long-acting analogue glargine 100 u/mL (Basaglar, Semglee). Evidence from randomized trials in adults indicates that biosimilar insulins are no different in their average effects on A1C or nocturnal or severe hypoglycemia than their originator brand counterparts [57]. Data are not available in subgroups and other populations, and in case of interindividual differences in response, frequent monitoring during a switch between insulin brands would be prudent. Diabetes Canada has published a position paper on biosimilar drugs which highlights that individual and contextual factors should be prioritized in any decision to switch brands.
+
+Insulin Delivery
+
+There has been substantial growth in evidence around advancements in insulin delivery choices for individuals with type 1 diabetes. Historically, the DCCT/EDIC studies demonstrated that intensification of insulin therapy in type 1 diabetes resulted in improved A1C and reduced risk of complications, but with substantially increased risk of hypoglycemia [1,24]. Today, advancements in insulin delivery technology have demonstrated the potential for unmatched improvements in glycemia, without the added risks of increased hypoglycemia. Beyond glycemia, we recognize the complex interplay of burdens that accompany type 1 diabetes self-management; therefore, these recommendations also factor in impacts on person-reported outcomes among insulin delivery options.
+
+With advancing diabetes technology, particularly insulin delivery systems that work in conjunction with CGM, there has been an increasing shift in research to assess the glycemic impact of interventions using CGM-derived glycemic metrics, such as TIR. These metrics correspond with Diabetes Canada’s recommended sensor glucose targets and international consensus recommendations [58]. Use of CGM metrics allows for a comprehensive assessment of the time spent within, below, and above the target range of 3.9–10.0 mmol/L, with additional insights on glycemia by time of day from the 24-hour glucose profile. It has been recognized that there are clinically significant benefits associated with each 5% improvement to TIR [58]; therefore, this important metric has guided some key recommendations in this section.
+
+AID
+
+AID systems use algorithms to combine the technology from IPT and real-time continuous glucose monitoring (rtCGM) to automate various aspects of insulin delivery. Currently available systems aim to prevent and minimize hypo- and hyperglycemia via increasing, decreasing, and stopping basal insulin delivery; and, in some systems, delivering automated correction boluses.
+
+There is ample high quality evidence to support the use of AID systems in all individuals living with type 1 diabetes [59–61]. The recommendation for all individuals to be offered AID is based on findings from large meta-analyses of studies done in both pediatric [60] and adult populations [59]. Key findings confirm the safety and efficacy of AID systems in children and adults with type 1 diabetes, with primary outcomes including significant improvements to TIR [59,60] and mean glucose [59]. In addition, there were favorable effects on measures of hyperglycemia, hypoglycemia, glycemic variability, and adverse events [59,60]. Randomized controlled trial data demonstrates that glycemic benefits occur immediately after initiation of AID, with the greatest glycemic benefits in the overnight period [62–65].
+
+To validate the benefits of AID systems in clinical practice among diverse populations and over longer time periods, a recent systematic review of real-world evidence was conducted, representing 171,209 individuals with type 1 diabetes [61]. Findings demonstrated significant improvements to TIR, with a majority of studies showing >10% improvement, and stable or reduced levels of hypoglycemia [61].
+
+Beyond glycemic benefits, evidence is evolving around positive impacts on quality of life and person-reported outcomes (PROs). A current systematic review and meta-analysis was conducted to clarify the complex evidence on PROs with AID use [66]. They included 62 studies, using 45 different questionnaires in pediatric and adult populations (mean ages from 3.3–67 years). Meta-analysis of the randomized controlled trials demonstrated significant effects of AID use on PROs in children, adolescents, and adults, including reduced diabetes distress, reduced fear of hypoglycemia, improved hypoglycemia awareness, and improved quality of life. The authors emphasized the importance of reducing fear of hypoglycemia, with significant improvements to both the worry and behavior subscales. They suggested that these positive psychological and behavioral effects were likely contributors to the improved diabetes distress and quality of life. There were similar findings in the meta-analysis of observational studies, with additional evidence for improved quality of sleep for parents. Qualitative findings highlighted that individuals with type 1 diabetes using AID felt less diabetes-related burden and improved well-being [66]. As newer generations of AID systems continue to be refined, the effects on PROs may strengthen, hence ongoing research is needed.
+
+There has been a paradigm shift from previous guidelines which outlined prerequisites and characteristics of ideal candidates for IPT. AID systems have shown potential for success among diverse groups of individuals to improve glycemic and/or quality of life outcomes regardless of baseline glycemia, age, socio-economic status, race/ethnicity, and/or previous experience with diabetes technology [67,68]. Individuals with elevated baseline glycemia have demonstrated the greatest improvements in TIR and A1C, and have been able to use AID systems safely [64,67]. Glycemic improvements have even been reported among individuals who routinely omit mealtime bolus doses, where the automated correction boluses help to minimize resulting hyperglycemia [69]. Alternatively, individuals who have met glycemic goals using other therapies may benefit from AID to maintain glycemia while relieving self-management burden; given the mental toll required to meet targets without automation, this cannot be understated. Therefore, this updated recommendation is for AID to be offered to all individuals living with type 1 diabetes provided they are willing to wear the device, able to operate it independently or with assistance (children), and require the minimum insulin dose per day for the given system.
+
+In practice, clinicians should openly discuss individual treatment goals, desires, and expectations to ultimately empower people with diabetes to determine if AID is a suitable choice, and which system they prefer to use. Clinicians should inform people with diabetes about all commercially available and do-it-yourself options, as the various systems available use different algorithms, each with their own unique features and benefits [70]. Training, education, and ongoing support for people with diabetes are critical components for successful long-term use of all insulin delivery systems, including AID. In the current landscape of rapidly advancing technology options, it is imperative that health-care providers are supported in educational opportunities to increase experience with AID.
+
+Insulin pump therapy (IPT)
+
+The use of AID is growing considerably, however, individuals may continue to choose IPT without automation for a variety of reasons, including availability, access, or personal preference. It continues to be a safe and effective method of intensive insulin delivery and demonstrates benefits to people with type 1 diabetes. IPT alone has been shown to modestly improve A1C and may reduce nocturnal hypoglycemia [71] without affecting the incidence of severe hypoglycemia [71–73] over daily insulin injection regimens. It allows for more fine-tuned insulin titration than BBI therapy, particularly for those with very low insulin requirements, or with significantly different basal requirements across the day (e.g. “dawn phenomenon”).
+
+The addition of integrated rtCGM with IPT systems allows for the use of predictive low glucose suspend (PLGS) features, which aim to minimize pending hypoglycemia based on rtCGM information by automatically suspending basal delivery. IPT+PLGS has been shown to reduce daytime and nocturnal hypoglycemia in children and adolescents with type 1 diabetes [74], as well as reduce hypoglycemia and severe hypoglycemia in adults with type 1 diabetes [75,76].
+
+BBI therapy
+
+BBI therapy continues to be used widely by individuals with type 1 diabetes. In addition to options for different formulations of insulin (see Types of Insulin in supplementary materials), the use of technology, specifically smartphone apps, is increasing in the landscape of diabetes. Auxiliary-style apps with insulin dose calculators can be used to assist in mealtime and correction insulin dose decision making. An improvement in A1C has been demonstrated for children and adolescents on basal-bolus therapy using these auxillary-style apps [77]. While there may be differences in functionality and benefits between various insulin dose calculation apps, it is promising that individuals of all ages may benefit from them to aid in the daily tasks of mealtime and correction insulin dose decisions.
+
+Figure 1
+Insulin delivery choice recommendations by outcome.
+
+Supplementary Figure - Insulin Options
+
+Adjunctive Therapy
+
+There has been substantial interest in the potential use of non-insulin antihyperglycemic agents in type 1 diabetes to improve glycemia without increasing insulin dose requirements. Many individuals with type 1 diabetes express frustration with a vicious cycle of increasing insulin doses driving weight gain which requires further increased insulin dose requirements. Most interest has focused on agents that improve insulin sensitivity or work independently of insulin to reduce weight and total daily dose of insulin. Although some earlier studies explored the utility of pramlintide [78], an analogue of amylin which is co-secreted with insulin, it is not available in Canada and is not discussed in this chapter. Some clinical trials tested the effectiveness of GLP-1RA, either alone or in combination with immune-modulating drugs, to slow beta cell loss in new onset type 1 diabetes (i.e. prolong the honeymoon period) but are not included in these recommendations [79,80]. Our focus is on the effectiveness of non-insulin antihyperglycemic agents for glycemic and other metabolic outcomes in combination with insulin in individuals with established type 1 diabetes.
+
+There is substantial literature examining the safety and effectiveness of several classes of non-insulin antihyperglycemic agents in type 1 diabetes, including studies conducted in children as young as 8 years, although most pediatric participants were adolescents. A systematic review and meta-analysis of 57 studies of 7 classes of non-insulin antihyperglycemic agents, when considered together, concluded that compared with placebo adjunctive therapies resulted in significant reductions in A1C, body weight, and insulin dose, but also identified potential risks of hypoglycemia (risk ratio [RR], 1.04), gastrointestinal side effects (RR, 1.99), and ketoacidosis (RR, 3.44) [81]. Subgroup analysis of participants under 18 years versus adults did not identify any between-group variance in any of the effects of adjunct therapies although underpowered to show differences versus placebo in participants under 18 years who represented only 5% of subjects. Clinically, however, it is much more helpful to consider the safety and effectiveness of individual classes of non-insulin antihyperglycemic agents. These are summarized in Table 2, below.
+
+Table 2
+Safety and effectiveness of non-insulin antihyperglycemic agents
+A1C, glycated hemoglobin; AGI, alpha glucosidase inhibitors; DPP4i, dipeptidyl peptidase 4 inhibitors; GI, gastrointestinal; GLP-1RA, glucagon-like peptide-1 receptor agonists; SGLT2i, sodium-glucose cotransporter-2 inhibitors; TZD, thiazolidinedione.
+Adapted from Cai et al (81). Data are presented as mean weighted difference or risk ratio (95% CI). Data in bold text indicates a statistically significant difference compared with placebo at an alpha of 0.05, while italicized text indicates no significant difference.
+∗ Up to one-third of cases of ketoacidosis in trials were associated with glucose levels <13.9 mmol/L (i.e. euglycemic ketoacidosis).
+ 	Beneficial effects (weighted mean difference)	Adverse effects (risk ratio)
+ 	A1C (%)	Weight (kg)	Insulin dose (units/day)	Hypoglycemia	Severe hypo	GI side effects	Ketoacidosis
+Metformin	–0.29
+(–0.50 to –0.08)	–2.1
+(–2.8 to –1.3)	–4.8
+(–7.1 to –2.6)	1.18
+(0.48–2.86)	1.99
+(0.95–4.17)	1.69
+(1.11–2.56)	1.16
+(0.38–3.48)
+GLP-1RA	–0.19
+(–0.29 to –0.1)	–4.8
+(–5.0 to –4.6)	–5.5
+(–7.8 to –3.3)	1.03
+(0.99–1.07)	0.80
+(0.58–1.1)	2.52
+(1.52–4.2)	2.44
+(0.29–20.5)
+SGLT2i	–0.42
+(–0.47 to –0.37)	–2.7
+(–3.2 to –2.3)	–6.0
+(–8.4 to –3.5)	1.01
+(0.99–1.04)	0.94
+(0.71–1.23)	1.41
+(0.83–2.39)	4.76
+(2.67–8.49)*
+AGI	–0.58
+(–0.82 to –0.33)	0.9
+(–0.7 to 2.5)	–0.6
+(–5.1 to 4.1)	1.60
+(0.89–2.86)	3.10
+(0.13–74.6)	2.83
+(2.01–3.97)	N/A
+TZD	0.05
+(–0.33 to 0.42)	0.99
+(–1.1 to 3.1)	–0.2
+(–3.4 to 3.0)	1.24
+(0.83–1.83)	0.65
+(0.11–3.8)	0.20
+(0.01–3.89)	N/A
+DPP4i	–0.15
+(–0.34 to 0.04)	0.1
+(–0.9 to 1.1)	–2.8
+(–5.8 to 0.3)	2.00
+(0.2–19.6)	0.33
+(0.01–7.9)	N/A	N/A
+
+Three classes of non-insulin antihyperglycemic agents (metformin, GLP-1RA, SGLT2i) can reduce A1C, weight, and insulin dose when added to insulin in type 1 diabetes and were considered for inclusion in this updated guideline. The evidence for these 3 classes was assessed as Grade A, Level 1A for adults [81–84]; and, in adolescents, the evidence for metformin was assessed as Grade B, Level 1A [85,86]. Thiazolidinediones and dipeptidyl peptidase 4 (DPP4) inhibitors were not considered for recommendation because they did not reduce A1C. Although alpha glucosidase inhibitors reduced A1C, they did not reduce weight or total daily insulin dose, and were associated with significant gastrointestinal side effects, being 5 times more likely to be discontinued due to adverse effects than placebo [81].
+
+Metformin
+
+As described above, meta-analyses of trials using metformin in adults have shown reductions in A1C, weight, and insulin dose without increased risks for hypoglycemia or ketoacidosis but with higher risk for gastrointestinal side effects. Several meta-analyses of trials of metformin in more than 500 children with type 1 diabetes have been published. Although children as young as 8 years were eligible for these clinical trials, the majority of participants were adolescents. Some, but not all, pediatric trials recruited participants with overweight or obesity and were conducted over 12 weeks to 1 year using doses ranging from 500 mg to 2 g/day. An earlier meta-analysis showed reductions in weight and insulin dose, but were not able to show a difference in A1C [86]. A similar finding was seen in a more recent meta-analysis which was not able to show a reduction in A1C in short-term studies in children [85]. It did report a higher risk of hypoglycemia (RR, 3.13 [1.05, 9.32], 5.5% vs 1.4%) with metformin although only 3 studies had more than 1 event [85].
+
+Short-term clinical trials provide limited information about the durability of benefits in clinical practice. The Removal Trial randomized adults over 40 years (mean diabetes duration over 30 years) with type 1 diabetes and cardiovascular risk factors to metformin (1 g bid) or placebo for 3 years. Metformin did not reduce progression of intima-medial thickness, the primary end point. A1C (–0.13%, 95% CI –0.22 to –0.037; p=0.0060), body weight (–1.17 kg, 95% CI –1.66 to –0.69; p<0.0001), and LDL cholesterol (–0.13 mmol/L, –0.24 to –0.03; p=0.0117) were reduced with metformin, and eGFR was increased (4.0 mL/min per 1.73 m2, 2.19 to 5.82; p<0.0001). Early reductions in A1C may have attenuated over time since there was a significant visit-by-treatment interaction. A similar interaction was seen for insulin dose but no reduction was seen on average over 3 years [87]. These data are an important reminder that short-term improvements may not be sustained over time.
+
+It might be anticipated that individuals with weight gain, high insulin doses, and/or suboptimal glycemia may benefit most from metformin. Insulin dose reductions may be required to mitigate risk for hypoglycemia. The gastrointestinal side effects of metformin in type 1 diabetes are expected and appear similar to those observed in type 2 diabetes. It is anticipated that risk mitigating strategies, starting at low dose and titrating slowly can be usefully applied in type 1 diabetes as can education around sick day management (see Appendix 8: Sick-Day Medication; guidelines.diabetes.ca) and recommendations for dose reductions in people with reduced GFR.
+
+GLP-1RA
+
+The beneficial effects of GLP-1RA outlined above were confirmed in a 2024 meta-analysis of 24 studies of 3,377 adults with type 1 diabetes which included new onset and established cases [84]. Insulin pump users were well represented and approximately 20% of participants had residual C-peptide secretion. Most studies examined liraglutide (with doses from 0.6 to 1.8 mg/day) or exenatide. Fewer than 100 participants combined were in either of the single studies of lixisenatide and albiglutide. Overall A1C (−0.21 [−0.26, −0.17] %), weight (−3.78 [−4.39, −3.17] kg), and insulin dose (−5.84 [−7.51, −4.16]) were reduced, but adverse events leading to withdrawal (3.70 [2.63–5.18]) and gastrointestinal side effects (nausea: 4.71 [4.02–5.52]; vomiting: 3.79 [2.61–5.50]; and diarrhea: 1.55 [1.12–2.13]) were more common, as was ketosis (1.34 [1.04–1.79]). The risk of any hypoglycemia was increased (1.43 [1.13–1.80)], but the risk for symptomatic (1.08 [0.87–1.33]) or severe (0.80 [0.63–1.03]) hypoglycemia were not. Few studies evaluated quality of life and/or treatment satisfaction. Liraglutide was associated with greater increase in treatment satisfaction (treatment-related impact measures-diabetes) but no difference in the generic short-form 36 (SF-36) score [88,89].
+
+The evidence was strongest for liraglutide which showed a dose response for A1C reduction (−0.09%/mg), weight (−2.2 kg/mg), and insulin dose (−4.32 IU/mg), but the highest liraglutide dose was associated with higher odds of nausea (OR 6.5) and ketosis (OR 1.8). The efficacy for A1C lowering was greater in c-peptide–positive individuals, while weight loss and insulin dose reduction was similar.
+
+Our search did not identify any randomized trials of semaglutide although retrospective cohort studies have been published suggesting similar effects [90]. A small study conducted in users of sensor-augmented pumps suggested semaglutide doses as low as 0.5 mg/week were effective for weight loss [90] with no change in TIR or increase in TBR. Neither did we identify any randomized trials of GLP-1RA in pediatric participants with type 1 diabetes. Although liraglutide is approved to treat type 2 diabetes in children 10 years and older, and both liraglutide and semaglutide are licensed for pediatric obesity in adolescents over 12 years, there are no data to inform a recommendation for GLP-1RA use as an add on to insulin in pediatric type 1 diabetes. No trials using dual or triple incretin agonists in type 1 diabetes have been completed yet. To reduce the risk of hypoglycemia, clinical trial protocols required or recommended insulin dose reductions when GLP-1RA were started and then titrated based on capillary blood glucose values. In trials of liraglutide, total daily insulin dose was reduced by 25% at randomization [88,89].
+
+As discussed earlier for metformin, strategies from type 2 diabetes to mitigate the expected gastrointestinal side effects of GLP-1RA can be used. Individuals with longstanding type 1 diabetes may have some degree of underlying autonomic neuropathy which may increase susceptibility for gastrointestinal side effects and lower doses may be preferable. Prescribers should counsel individuals on the risk of nausea and delayed gastric emptying. Very slow titration (e.g. 1 click per day) may facilitate tolerability since much lower adverse events were seen in trials of IDegLira in type 2 diabetes where the starting dose of liraglutide was 0.36 mg and increased in 0.072 mg steps [91]. Avoiding adverse gastrointestinal effects may be an important strategy to mitigate risks for hypoglycemia. Delayed gastric emptying might slow recovery from hypoglycemia if rapid-acting carbohydrates are not used to treat. This class of drug may not be suitable for those with known gastroparesis.
+
+SGLT2i
+
+A 2020 meta-analysis of 7,962 participants in 13 randomized trials of SGLT2i, including canagliflozin, dapagliflozin, empagliflozin, ipragliflozin, and sotagliflozin versus placebo added to insulin in adults with type 1 diabetes showed reductions in A1C (−0.39 [−0.43, −0.34] %), glycemic variability (−18.7 [−23.3, −14.2] mg/dL), and insulin dose (−5.4 [−7.2, −3.9]) [83]. Similar findings were reported in an earlier meta-analysis which also showed reductions in weight (−3.47 [−3.78, −3.16] kg) [82]. Neither found an increase in rates of hypoglycemia or severe hypoglycemia [82,83]. Clinical trials included individuals with body mass index as low as 18.5 and eGFR as low as 30 mL/min/1.73 m2.
+
+Reductions in glucose variability may contribute to individual well-being. Sotagliflozin was shown to increase treatment satisfaction and reduce diabetes distress [92,93].
+
+There was an increased risk of genital infections (RR 3.57 [2.97, 4.29]) with both higher and lower doses [82]. The risk for ketoacidosis was increased (3.67 [1.94, 6.94] [82] and 5.04 [3.2, 8.0]) [83]. The Empagliflozin as Adjunctive to inSulin thErapy (EASE) trials explored dose response in terms of benefits and risks. Very low doses of empagliflozin (2.5 mg daily) did not increase the risk of diabetic ketoacidosis compared to placebo but resulted in less A1C lowering than higher doses [94].
+
+One case of fatal DKA was reported with 25 mg empagliflozin [94]. No deaths were reported in those randomized to dapagliflozin in DEPICT-1 or DEPICT-2 [95,96] or sotagliflozin in InTandem-1 or InTandem-2 [92,93]. In the placebo arms of InTandem-1 and InTandem-2, there were 3 deaths [92,93].
+
+Although there have been a number of mechanistic studies of SGLT2i in adolescents with type 1 diabetes, and a randomized controlled trial presented as an abstract, there is insufficient data to make any recommendations for adolescents or children.
+
+The risks of genital infection and ketoacidosis with SGLT2i is known from their use in type 2 diabetes where insulin deficiency was identified as a risk factor. A concerning feature of ketoacidosis with SGLT2i is the uncoupling of ketogenesis from hyperglycemia (because of insulin independent glucose disposal in the urine), which can lead to euglycemic DKA (ketoacidosis presenting with a plasma glucose <13.9 mmol/L), which could delay recognition and treatment by people with diabetes and health-care providers.
+
+Most phase 3 trials recommended a reduction in insulin doses when the new treatment was started, and adjusted subsequently based on blood glucose monitoring. In trials with dapagliflozin, it was recommended that the total daily dose be reduced by up to 20% [96,97]; for trials with sotagliflozin, meal-time insulin was reduced by 30%, with no change to basal insulin dose [92,93]. These trials provided urine ketone strips and blood ketone monitors along with education about signs and symptoms of ketoacidosis (including euglycemic DKA). Participants were instructed to check for ketones if they had GI symptoms or intercurrent illness and to contact the research team if beta-hydroxybutyrate levels were >0.6 mmol/L [92,93,95,96] or to seek medical attention if the levels were >1.5 mmol/L [94]. Only the EASE trials (empagliflozin) performed fasting ketone testing: daily during run-in and the first 4 weeks of treatment, and 2–3 times per week subsequently. Trial protocols provided investigators with suggestions for treatment of ketones which generally consisted of additional rapid insulin given by injection (i.e. not via pump).
+
+Risk mitigation strategies to reduce ketoacidosis are required (Textbox 1). These strategies have been previously documented in the STOP DKA protocol [98] (link to protocol can be accessed at: http://www.innovativetherapeutics.org/wp-content/uploads/2016/01/STOP-DKA-Card-Innovative-Therapeutics.pdf).
+ 
+
+Textbox 1
+Mitigation strategies for preventing DKA with sodium-glucose cotransporter-2 inhibitors
+
+Explain and check understanding of the potential for ketosis to develop in the absence of hyperglycemia.
+Review situations when ketosis could develop (e.g. intercurrent illness, infections, stress, surgery, pump or infusion set failures).
+Prescribe or provide a meter and strips to check blood ketones.
+Recommend fasting well-day ketones 1 to 2 times/week before and after starting SGLT2i (if 0.8 mmol/L or higher, recommend adjustments to diet or insulin).
+After first month, monitor ketones when unwell or during high-risk situations (as above).
+Provide written guidance for management if ketone levels exceed 1.0 mmol/L (e.g. STOP DKA protocol).
+Review these directions at follow-up appointments.
+
+DKA, diabetic ketoacidosis.
+
+Diabetes Canada has previously recommended caution about combining SGLT2i with low-carbohydrate eating patterns (https://www.canadianjournalofdiabetes.com/article/S1499-2671(20)30097-6/fulltext). Individuals who are not able to understand or follow these directions may not be suitable recipients for SGLT2i therapy.
+
+Balance of benefits and harms
+
+It is clear that there is robust evidence demonstrating the effectiveness of adjunctive therapies added to insulin to reduce A1C, weight, and insulin doses. While greatest weight loss may be seen with GLP-1RA, with modest A1C reductions, this comes with risks of gastrointestinal side effects and relatively high discontinuation rates. SGLT2i may have more A1C lowering (especially if eGFR is >60 mL/min/1.73 m2) and less weight loss, but is associated with increased risks for ketoacidosis. Metformin has more modest effects for A1C and weight loss, but with milder gastrointestinal side effects. All seem to have similar effects to reduce insulin dose. PROs have not been studied extensively, but are improved with adjunctive therapies. Except for metformin, adjunctive therapy should not be used in pregnancy or in those planning to conceive.
+
+Balancing the strong evidence for both benefit and harm is challenging. A further consideration is the need to discuss preferences of persons living with diabetes. It is therefore not possible to make a strong treatment recommendation. However, recognizing individual autonomy of individuals living with type 1 diabetes was important to the working group, which included several persons with lived experience with diverging personal perspectives on the value of adjunctive therapies. We have made a conditional recommendation that adjunctive therapies may be used in addition to insulin based on shared decision making. Recognizing that type 1 diabetes is a chronic condition and the data is derived from short-term studies with high discontinuation rates for GLP-1RA and SGLT2i, we include in our recommendation that the safety and efficacy of adjunctive therapy be reviewed regularly.
+
+We recognize that there is a risk that the use of adjunctive therapies in addition to insulin may lead to confusion and mis-identification of individuals as living with type 2 diabetes. Individuals should carry identification (e.g. medicalert) indicating that they have type 1 diabetes and that insulin should not be discontinued.
+
+Increased glucose monitoring is recommended when adjunctive therapies are initiated to assist appropriate adjustments to insulin doses to reduce risk of hypoglycemia without increasing risk for ketoacidosis.
+
+Diabetes Canada makes evidence-based recommendations for drugs which are licensed in Canada, even if the drug is not licensed for the indication. This off-label prescribing aligns with medical ethics and recommendations of Canada's Drug Agency (CDA-AMC). It may be of interest to note that dapagliflozin and sotagliflozin were both previously approved for use in type 1 diabetes in Europe. More long-term data and clinical trials in adolescents will help clarify the risks and benefits of these agents and help more people with diabetes reach optimal glycemic targets to prevent microvascular complications.
+
+Prevention and delay of type 1 diabetes
+
+Various immune therapies have been or are being studied with the goal to delay or prevent the onset of stage 3 (clinical) type 1 diabetes in individuals at risk, or to slow the decline in beta-cell function in those with stage 3. Review of these studies is beyond the scope of this chapter. At the time of writing, there are no therapies available in Canada that can be recommended to delay or prevent the onset of type 1 diabetes. Teplizumab is approved in the United States for stage 2 type 1 diabetes in individuals aged 8 years and older [99,100], and has been found in a systematic review to slow progression of C-peptide loss in recently diagnosed stage 3 type 1 diabetes [101]. Baricitinib has been shown in one randomized controlled trial to slow C-peptide loss in recently diagnosed stage 3 type 1 diabetes and is also not available in Canada [102]. Verapamil has been studied in 2 small randomized controlled trials and may preserve C-peptide, but cannot be recommended due to small sample sizes and concerns about adverse cardiac events [103].
+
+Treatment of hypoglycemia in children and adolescents
+
+This section provides an update on acute hypoglycemia management in children and adolescents as the 2023 update did not address pediatric populations. For management of hypoglycemia in adults, see the chapter Hypoglycemia in Adults (guidelines.diabetes.ca).
+
+Hypoglycemia is a significant challenge for children and families living with type 1 diabetes, with respect to the balance of meeting glycemic targets and fear of hypoglycemia [104]. Fear of hypoglycemia significantly impacts quality of life for children and their caregivers and can influence diabetes management decisions [97]. As outlined in the hypoglycemia update for adults, risk for severe hypoglycemia includes prior episodes of hypoglycemia, adolescent age group, and preschool children unable to detect and/or treat mild to moderate hypoglycemia on their own. The effects of hypoglycemia are broad, impacting school performance, participation in school, sports or other physical activity, and sleep schedules (for both children and their caregivers). A complete review of the nutritional and exercise guidelines to prevent hypoglycemia are beyond the scope of this update focused on acute management; however, prevention of hypoglycemia should be the priority in the education and management of type 1 diabetes. Recommendations for prevention of hypoglycemia with exercise can be found in an existing clinical practice guideline (see Physical Activity and Diabetes chapter [guidelines.diabetes.ca]).
+
+For acute management of mild to moderate hypoglycemia, also referred to as level 1 and 2 hypoglycemia, required treatment with oral rapidly absorbed carbohydrate varies in amount based on the child’s weight and/or mode of therapy (Table 3).
+
+Table 3
+Treatment of acute hypoglycemia in children and adolescents
+Hypoglycemia category	Level 1 hypoglycemia (mild or alert)	Level 2 hypoglycemia (moderate)	Level 3 hypoglycemia (severe)
+Description	Glucose 3.0–3.9 mmol/L
+Autonomic symptoms only	Glucose <3.0 mmol/L
+Neuroglycopenic symptoms, without significant impact on mental status	Glucose <3.9 mmol/L
+Neuroglycopenic symptoms with significant cognitive impairment
+Management	For BBI or IPT:
+   Oral carbohydrates (0.3 g/kg)
+     Age <5 years: 5 g
+     Age 5–10 years: 10 g
+     Age >10 years: 15 g
+   For AID:
+     Age <5 years: 5 g
+     Age 5–10 years: 5 g
+     Age >10 years: 5–10 g	Same as for level 1 hypoglycemia	If able to swallow:
+   Oral carbohydrate (20 g)
+If unable or unsafe to swallow:
+   Age ≥4 years: Intranasal or injectable glucagon
+   Age <4 years: Glucagon subq/IM, 0.5 mg if <20 kg; 1 mg ≥20 kg)
+ 
+AID, automated insulin delivery; BBI, basal bolus injection therapy; IPT, insulin pump therapy.
+
+In children and adolescents with severe hypoglycemia, also referred to as level 3, which results in altered level of consciousness and impaired oral/enteral glucose intake, glucagon is the standard of care. In conscious individuals aged 4 years and older, intranasal glucagon is as effective as subcutaneous glucagon to resolve hypoglycemia [105]. Caregivers report that intranasal glucagon is easier to use and to teach than injectable glucagon [106]. Intranasal glucagon has not been studied in children under age 4 years, but may be the only alternative if injectable glucagon is unavailable, since availability is limited in Canada (https://jdrf.ca/changes-to-glucagon-availability-in-canada/). In conscious children aged 6 years and older, subcutaneous dasiglucagon, which does not require reconstitution, may be used to treat hypoglycemia; however, at the time of this publication, it is not available in Canada [107].
+
+DKA
+
+This section provides an update on clinical practice recommendations for management of DKA since 2018 (see Hyperglycemic Emergencies in Adults chapter and Type 1 Diabetes in Children and Adolescents chapter [guidelines.diabetes.ca]). Recommendations focus only on areas where new evidence has emerged.
+
+DKA is an emergency caused by relative insulin deficiency and increased counterregulatory hormones. This results in hyperglycemia, decreased extracellular fluid volume, and fatty acid oxidation resulting in a metabolic acidosis. Clinically, this can present as a combination of the signs and symptoms of hyperglycemia, acidosis, and any underlying precipitant. DKA can be graded in terms of severity depending on the mental status and degree of metabolic changes. There are no absolute clinical criteria, but a commonly applied classification is presented in Table 4.
+ 
+
+Table 4
+Severity of diabetic ketoacidosis
+Capillary blood gas	Mild	Moderate	Severe
+pH	7.25–7.35	7–7.24	<7
+Bicarbonate (mmol/L)	15–18	10–15	<10
+Anion gap (mmol/L)	>10	>12	>12–15
+Mental status	Alert	Alert/drowsy	Stupor/coma
+Intravenous fluids
+
+Since 2018, a number of studies in the pediatric population have assessed the question of optimal intravenous fluid composition and administration to improve outcomes, in particular with respect to speed of resolution of DKA and risks of cerebral edema.
+
+Five studies have compared a balanced crystalloid (Plasmalyte, Ringer’s Lactate, Hartman’s Solution) to 0.9% normal saline [108–112]. In mild to moderate DKA, these studies have found no difference in measured outcomes, including length of stay and cerebral edema. In addition, multiple clinical trials have assessed hypotonic compared against isotonic fluid administration in DKA. The largest trial, PECARN DKA FLUID, randomized 1,389 episodes of pediatric DKA in a 2-by-2 design of either fast (20 ml/kg bolus) or slow (10 ml/kg bolus) administration of either hypotonic or isotonic fluid [113]. Ultimately, there was no clear benefit of any particular strategy in terms of the primary outcome of cerebral injury or the secondary outcomes of neurocognitive function and recovery. While this was an apparent null finding, the trial has led to a change in clinical practice as fluid resuscitation in children has traditionally been conservative due to concerns around cerebral edema. Nevertheless, this study did not capture sufficient episodes of severe DKA to make a definitive fluid recommendation in this specific subset of individuals. Useful algorithms and order sets for management of pediatric DKA, which align with the present recommendations, have been published by TREKK (Translating Emergency Knowledge for Kids) (link to https://trekk.ca/topic/dka).
+
+Subcutaneous insulin
+
+Resolution of DKA requires administration of insulin to stop lipolysis and ketoacid production. Intravenous insulin is rapid in onset of action, can be titrated frequently or discontinued quickly, and has long been the standard of care for DKA management. However, this means of insulin delivery requires intensive supervision and monitoring, often in a critical care setting, as it carries a risk of hypokalemia and hypoglycemia. Subcutaneous insulin does not require intensive care admission, and may be preferential in some presentations and clinical settings.
+
+In pediatrics, 1 randomized controlled trial has evaluated the safety and efficacy of using subcutaneous insulin (0.15 U/kg every 2 hours) instead of intravenous insulin infusion for mild or moderate DKA [114]. In this trial, frequent subcutaneous insulin injection resulted in lower cumulative insulin dose, lower length of stay in moderate DKA, and there was no increase in adverse event rates.
+
+In 2016, a Cochrane Review of 5 randomized controlled trials in adults, including 201 episodes of DKA, showed no increase in harm when using subcutaneous insulin [115]. However, because the included studies were small, and judged to be of low quality, no recommendation was made in the 2018 Diabetes Canada guidelines. Since then, a large interventional cohort study involving 7,989 DKA hospitalizations showed a decrease in ICU length of stay, without increase in harm, with the use of a subcutaneous insulin protocol. Given the increased pressures on the health-care system, management of mild to moderate DKA with subcutaneous insulin is a reasonable option.
+
+Limitations and future directions
+
+This expert author group acknowledges that glycemic management of type 1 diabetes is influenced by factors beyond therapeutic options and choice of insulin delivery system. Daily life with type 1 diabetes requires careful navigation of strategies around nutrition, physical activity, and exercise. Previous Diabetes Canada guidelines have addressed prevention of hypoglycemia during exercise in adults but not in children. Nutrition also has been addressed in previous chapters. The approach to management of physical activity and nutrition in the setting of AID has changed considerably [116] since these guidelines have been published. Updated Canadian recommendations are needed for management of nutrition and exercise in type 1 diabetes but were outside the scope of this guideline. Given the mental toll and countless burdens associated with type 1 diabetes self-management, it is critical to routinely address mental health and the well-being of each individual and their family/caretakers. All of these elements should be carefully balanced while working collaboratively with people living with type 1 diabetes to optimize care and to help them achieve their individualized health goals.
+
+Recommendations
+Glycemic targets
+For adults and children living with type 1 diabetes, a person- and family-centered approach to setting individualized glycemic targets is recommended.
+For adults, recommended targets for capillary blood glucose (CBG), A1C, and sensor glucose are reviewed in chapters 8 and 9 and are unchanged.
+For children, recommended targets are the same for CBG, A1C, and sensor glucose as for adults, and in alignment with the International Society for Pediatric and Adolescent Diabetes Consensus Guidelines [117] [Grade D, Consensus].
+While attainment of an A1C <7% is associated with a reduction in microvascular complications [Grade A Level 1A] [1], individualized glycemic targets may consider individual and caregiver context across multiple domains, including access to care and technology, risk of and fear of hypoglycemia, mental health co-morbidities, and other factors as determined by the person, family, and care team [Grade D, Consensus].
+Insulin
+BBI therapy or IPT should be used as part of an intensive diabetes management regimen in adults and adolescents to:
+Achieve glycemic targets [Grade A, Level 1A] [1]
+Reduce the risk of retinopathy, nephropathy, and neuropathy [Grade A, Level 1A] [1]
+BBI therapy or IPT may be used as part of an intensive diabetes management regimen in children to:
+Achieve glycemic targets [Grade D, Consensus]
+Reduce the risk of retinopathy, nephropathy, and neuropathy [Grade D, Consensus]
+BBI therapy or IPT may be used as part of an intensive diabetes management regimen to:
+Reduce the risk of cardiovascular outcomes in adults and adolescents [Grade B, Level 2] [24]; and in younger children [Grade D, Consensus]
+Rapid-acting insulin analogues should be used in place of regular insulin in BBI therapy and IPT to:
+Improve A1C [Grade 1, Level 1A] [25–27] and minimize risk of nocturnal hypoglycemia in adults [Grade A, Level 1A] [27]
+Rapid-acting insulin analogues may be used in place of regular insulin in BBI therapy and IPT to:
+Improve A1C and minimize hypoglycemia in preschoolers (aged 2–6) [Grade C, Level 3] [28]; and in other children and adolescents [Grade D, Consensus]
+Lower postprandial glucose in adolescents using BBI therapy [Grade A, Level 2] [27,29]
+Minimize the risk of severe hypoglycemia in adults [Grade B, Level 1A [26,27] and nocturnal hypoglycemia in adolescents using BBI therapy [Grade B, Level 2] [27,29]; and in children [Grade D, Consensus]
+Improve treatment satisfaction in parents of preschoolers [Grade C, Level 3] [28]
+Ultrarapid-acting insulin analogues should be considered in place of rapid insulin analogues:
+In individuals on BBI therapy not at target to:
+Improve A1C in children and adolescents [Grade A, Level 1A] [34]
+Lower post-prandial glucose in adults [Grade A, Level 1A] [33]
+And may be used in place of rapid-acting analogues to lower post-prandial glucose in children and adolescents [Grade B, Level 2 [34]
+In individuals on IPT∗ not at target, ultrarapid-acting insulin analogues should be considered to:
+Improve TIR and TBR in adults [Grade A, Level 1A] [37]
+Lower post-prandial glucose in adults [Grade A, Level 1A] [33,35,36,118–120]
+In AID systems∗, ultrarapid-acting insulin analogues may be considered to:
+Improve TIR in adults [Grade C, Level 3] [35,38] and decrease TBR in adults [Grade C, Level 3] [35,38]
+Decrease post-prandial glucose in adults [Grade C, Level 3] [35]
+      ∗Some insulin pumps are not compatible with ultrarapid-acting insulin and there is an increased risk of occlusions and pump-site failures.
+Meal time rapid- or ultrarapid-acting insulin boluses may be delivered 10–20 minutes prior to meals as opposed to immediately prior or after meals to:
+Improve A1C [Grade C, Level 3] [40,41] in adults; and in children and adolescents [Grade C, Level 3] [42]
+Decrease post-prandial glucose [Grade C, Level 3] [40,41] in adults; and in children and adolescents [Grade B, Level 2] [34]
+Minimize the risk of hypoglycemia [Grade C, Level 3] [40,41] in adults; and in children and adolescents [Grade C, Level 3] [42]
+Long-acting daily basal insulin analogues may be used in place of NPH insulin to:
+Improve A1C [Grade B, Level 2] [44] in all ages
+Minimize the risk of hypoglycemia [Grade B, Level 1A] [43,44] in all ages
+Minimize the risk of severe hypoglycemia in adults [Grade B, Level 1A] [27,45,46] and severe or nocturnal hypoglycemia in children and adolescents [Grade B, Level 1A] [27,46]
+Reduce the risk of DKA [Grade B, Level 2] [47] in children
+Improve TIR and glycemic variability [Grade B, Level 2] [47] in children
+Ultralong-acting basal insulin analogues may be used in place of long-acting insulin analogues to:
+Minimize the risk of hypoglycemia:
+Severe hypoglycemia in all ages [Grade C, Level 2] [46,50]
+Nocturnal hypoglycemia in adults [Grade C, Level 3] [46,48,49] and in children and adolescents [Grade C, Level 3] [53]
+Severe and nocturnal hypoglycemia in adults prone to nocturnal severe hypoglycemia [Grade C, Level 3] [52]
+Reduce the risk of hyperglycemia with ketosis in children and adolescents [Grade B, Level 2] [55]
+Reduce glycemic variability in adults prone to severe nocturnal hypoglycemia [Grade C, Level 3] [51,52] and in toddlers and preschool aged children [Grade B, Level 2] [47]
+Ultralong-acting daily basal insulin analogues may be preferred over weekly basal insulin to:
+Minimize the risk of hypoglycemia in adults [Grade B, Level 2] [56]; and in children and adolescents [Grade D, Consensus].
+Improve diabetes treatment satisfaction in adults [Grade B, Level 2] [56].
+AID
+AID should be used∗ in all individuals with type 1 diabetes to improve A1C, TIR, hypoglycemia, fear of hypoglycemia, unawareness of hypoglycemia, diabetes distress, and quality of life without increasing the risk of DKA [Grade A, Level 1A] [59,60,66,121].
+AID may be used∗ to improve quality of sleep for youth and their parents/caregivers [Grade C, Level 3] [66,122].
+Individuals of all ages using AID systems may treat non-severe hypoglycemia events with less fast-acting carbohydrate (i.e. 5–10 g) compared with the standard recommendations [123] [Grade D Consensus].
+IPT+PLGS
+When not able to use AID, sensor-augmented IPT with predictive low glucose suspend (IPT+PLGS) should be used∗ in children and adolescents with type 1 diabetes to reduce daytime and nocturnal hypoglycemia [Grade A, Level 1A] [74].
+When not able to use AID, sensor-augmented IPT with predictive low glucose suspend (IPT+PLGS) may be used∗ in adults who are hypoglycemia prone to reduce frequency of hypoglycemic events and severe hypoglycemia [Grade B, Level 2] [75].
+IPT
+When not able to use AID, IPT should be used∗ over BBI to improve A1C [Grade A, Level 1A] [71,73]
+Without affecting incidence of severe hypoglycemia in all ages [Grade A, Level 1A] [71–73].
+Without affecting incidence of DKA in children and adolescents [Grade A, Level 1A] [72,73].
+IPT may be used in individuals with type 1 diabetes over BBI to allow for flexible bolus and basal dosing, especially for individuals who have low insulin requirements, gastroparesis, require temporary basal adjustments for physical activity, and/or females planning pregnancy [Grade D, Consensus].
+For individuals of all ages using insulin delivery via insulin pump (IPT+PLGS or AID), it is important to receive regular counselling on:
+Infusion site management, including frequency of site changes, site rotation, appropriateness of infusion set type, and skin care solutions [Grade D, Consensus].
+Sick-day management and troubleshooting in the face of pump failure and development of ketones [Grade D, Consensus].
+
+∗For those willing to wear the device
+
+BBI therapy with bolus calculator
+Bolus dose calculator smartphone applications may be used by individuals with type 1 diabetes using BBI to improve A1C, in children and adolescents [Grade B, Level 2] [77] and assist with insulin dose decisions, to all individuals [Grade D, Consensus].
+Adjunctive Therapy
+
+In adults with type 1 diabetes, non-insulin antihyperglycemics may be used in addition to insulin to help individuals achieve outcomes which are important to them using the principles of shared decision making, where the balance of risks, benefits, and side effects is acceptable and strategies to mitigate risks are employed. The safety, efficacy, and tolerability of the agent should be reviewed at 3 months and annually to determine if the therapy should continue [Grade D, Consensus].
+
+The evidence for adjunctive therapy shows:
+Metformin in addition to insulin reduces A1C, weight, and insulin dose in adults [Grade A, Level 1A] [81].
+Metformin in addition to insulin reduces weight and insulin doses in adolescents [Grade B, Level 1A] [85,86].
+GLP-1RA in addition to insulin in adults reduces A1C, weight, and insulin dose but with an increased risk of gastrointestinal side effects [Grade A, Level 1A] [84].
+SGLT2i in addition to insulin in adults reduces A1C, glucose variability, and weight, and improves treatment satisfaction but with an increased risk of euglycemic ketoacidosis and genital infections [Grade A, Level 1A] [81–83].
+Hypoglycemia in children
+In conscious children and adolescents using basal bolus or non-AID IPT, hypoglycemia should be treated with 0.3 g/kg oral carbohydrates, preferably in the form of glucose or sucrose (see Table 3) [Grade A, Level 2] [124,125].
+In conscious children using AID systems, a lower dose of carbohydrate may be used to treat hypoglycemia [Grade D, Consensus].
+In unconscious children 4 years and older, intranasal or injectable glucagon may be used [Grade B, Level 2] [105] to treat hypoglycemia.
+In unconscious children <4 years of age, injectable glucagon should be used. If injectable glucagon is not available, intranasal glucagon may be used in children <4 years of age [Grade D, Consensus].
+Glucose should be rechecked after 15 minutes and retreated with 5–15 g of carbohydrate if able to swallow and blood glucose remains <3.9 mmol/L or retreat with glucagon if unconscious [Grade D, Consensus].
+DKA
+In people with type 1 diabetes with DKA, intravenous fluid resuscitation should be undertaken with either balanced crystalloid or normal saline, depending on local availability [Grade A, Level 1] [108–112].
+Children and adolescents with type 1 diabetes presenting in mild to moderate DKA may be treated with either isotonic or hypotonic fluid based on their hydration status and degrees of electrolyte derangement at presentation [Grade B, Level 2] [108,113,126].
+In children and adolescents with type 1 diabetes presenting in mild to moderate DKA, an intravenous isotonic fluid bolus of 10–20 mL/kg may be considered initially, and repeated 15–20 minutes after completion if clinical signs of moderate to severe dehydration or shock persist without a risk of negative neurologic outcomes [Grade B, Level 2] [113,126]. There is insufficient evidence to make a recommendation for severe DKA.
+In children and adolescents with type 1 diabetes, when access to intravenous insulin is unavailable, frequent subcutaneous insulin injections may be used as an alternative to manage mild to moderate DKA [Grade B, Level 2] [114].
+In adults with type 1 diabetes and DKA who do not require ICU admission for another reason, implementation of a subcutaneous protocol for management of DKA may be considered as an alternative to intravenous insulin to reduce ICU admission [Grade B, Level 1] [115]; [Grade B, Level 3] [115].
+Author Disclosures
+
+I.J.H. has received speaker and advisory board fees from Dexcom Canada, Abbott Diabetes Canada, Novo Nordisk, Tandem, Insulet, Medtronic, and Sanofi unrelated to the current work; B.W. holds investigator grants from CIHR, Diabetes Canada, Heart and Stroke, and Breakthrough T1D, unrelated to current guideline work; S.A. holds a BC Children’s Hospital Research Institute Research Salary Award, and has received speaker and advisory board fees from Dexcom, Abbott, Novo Nordisk, Eli Lilly, Sanofi, and Insulet, unrelated to this work; A.C. has received speaker fees from Dexcom Canada, Abbott, Diabetes Canada, consulting fees from Dexcom Canada, and insulin pump training fees from Insulet, Medtronic, and Tandem (unrelated to the current work). She lives with type 1 diabetes, and has personal experience using both DIY AID and commercially available AID systems (Medtronic and Tandem). She is the owner and operator of Type One Journeys Inc; E.C. reports research funding to her institution from CIHR and Breakthrough Diabetes; D.M. has received speaker fees from Diabetes Canada, Diabetes Update, Abbott Nutrition US, and Pepsico Inc. He lives with type 1 diabetes and has personal experience using a DIY AID system that uses Insulet and Dexcom components. He reports research funding to his institution by CIHR, Breakthrough T1D, the Kidney Foundation of Canada, Mitacs Inc, NorWest Co-op Community Health, PepsiCo Inc, The Weston Family Foundation, and the Winnipeg Foundation, outside the submitted work; M.N. reports research grants from Diabetes Canada, CIHR, and FRQS; Z.P. has received speaker and advisory board fees from Dexcom, Eli Lilly, NovoNordisk, and Sanofi, and research grants from NovoNordisk and Sanofi; L.S. has received insulin pump training fees from Medtronic and Insulet; P.A.S. is supported by the Alberta Academic Medicine Health Services Program and holds the Charles A. Allard Chair in Diabetes Research. He has received personal fees from Abbott, Bayer, Dexcom, GSK, Novo Nordisk, Sanofi, Vertex, Ypsomed; B.S.S. has received speaker and advisory board fees from Dexcom Canada, Abbott Diabetes Canada, NovoNordisk, Sanofi, and Merck unrelated to the current work; A.W. has received research grants from Diabetes Canada, CIHR, Breakthrough T1D, Banting & Best Diabetes Centre, and Banting Research Foundation, and honoraria from Diabetes Care Community, RTOERO, MD Briefcase, and CPD Network for educational activities; P.K., P.M.R., and C.C. have no conflicts to disclose.
+
+External Reviewers
+
+Thank you to our external reviewers for their insightful feedback and the lending of their time and expertise: Robyn L. Houlden MD, FRCPC; Oliva Ortiz-Alvarez MD, MSc, FRCP(C); Daniel Plante MD; Elizabeth Sellers MD, MSc, FRCPC; and Jill Borland Starkes MD, MSc, FRCP(C).
+
+References
+Diabetes Control Complications Trial Research Group. The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. N Engl J Med. 1993; 329:977-986
+Diabetes Control Complications Trial/Epidemiology of Diabetes Interventions Complications Study Research Group. Intensive diabetes treatment and cardiovascular outcomes in type 1 diabetes: the DCCT/EDIC study 30-year follow-up. Diabetes Care 2016;39:686-693
+Hershey T, Perantie DC, Warren SL, Zimmerman EC, Sadler M, White NH. Frequency and timing of severe hypoglycemia affects spatial memory in children with type 1 diabetes. Diabetes Care 2005;28:2372-2377
+Mauras N, Buckingham B, White NH, Tsalikian E, Weinzimer SA, Jo B, et al. Impact of type 1 diabetes in the developing brain in children: a longitudinal study. Diabetes Care 2021;44:983-992
+Gaudieri PA, Chen R, Greer TF, Holmes CS. Cognitive function in children with type 1 diabetes: a meta-analysis. Diabetes Care 2008; 31:1892-1897
+Prigge R, McKnight JA, Wild SH, Haynes A, Jones TW, Davis EA, et al. Inter- national comparison of glycaemic control in people with type 1 diabetes: an update and extension. Diabet Med 2022;39, e14766
+FosterNicole C, BeckRoy W, MillerKellee M, ClementsMark A, RickelsMichael R, DiMeglioLinda A, et al. State of type 1 diabetes manage- ment and outcomes from the T1D exchange in 2016e2018. Diabetes Technol Ther; 2019.
+Weisman A, Brown R, Chu L, Aronson R, Perkins BA. Factors Associated With Attainment of Glycemic Targets Among Adults With Type 1 and Type 2 Diabetes in Canada: A Cross-sectional Study Using Primary and Specialty Care Electronic Medical Record Data. Can 2024;48:44-52. e5
+Fegan-Bohm K, Minard CG, Anderson BJ, Butler AM, Titus C, Weissberg- Benchell J, et al. Diabetes distress and HbA1c in racially/ethnically and socioeconomically diverse youth with type 1 diabetes. Pediatr Diabetes 2020;21:1362-1369
+Addala A, Auzanneau M, Miller K, Maier W, Foster N, Kapellen T, et al. A decade of disparities in diabetes technology use and HbA1c in pediatric type 1 dia- betes: a transatlantic comparison. Diabetes Care 2021;44:133-140
+Kahkoska AR, Shay CM, Crandell J, Dabelea D, Imperatore G, Lawrence JM, et al. Association of race and ethnicity with glycemic control and hemoglobin A1c levels in youth with type 1 diabetes. JAMA netw 2018;1(5). e181851-e.
+Willi SM, Miller KM, DiMeglio LA, Klingensmith GJ, Simmons JH, Tamborlane WV, et al. Racial-ethnic disparities in management and out- comes among children with type 1 diabetes. Pediatrics 2015; 135:424-434
+Agarwal S, Schechter C, Gonzalez J, Long JA. Racialeethnic disparities in diabetes technology use among young adults with type 1 diabetes. Diabetes Technol Ther 2021;23:306-313
+Wheeler BJ, Braund R, Galland B, Mikuscheva A, Wiltshire E, Jefferies C, et al. District health board of residence, ethnicity and socioeconomic status all impact publicly funded insulin pump uptake in New Zealand patients with type 1 diabetes. The New Zealand Medical. Journal (Online) 2019;132:78-89
+Carlson AL, Sherr JL, Shulman DI, Garg SK, Pop-Busui R, Bode BW, et al. Safety and glycemic outcomes during the MiniMedÔ advanced hybrid closed-loop system pivotal trial in adolescents and adults with type 1 diabetes. Diabetes Technol Ther 2022;24:178-189
+Brown SA, Forlenza GP, Bode BW, Pinsker JE, Levy CJ, Criego AB, et al. Multicenter trial of a tubeless, on-body automated insulin delivery system with customizable glycemic targets in pediatric and adult participants with type 1 diabetes. Diabetes Care 2021;44:1630-1640
+Brown SA, Kovatchev BP, Raghinaru D, Lum JW, Buckingham BA, Kudva YC, et al. Six-month randomized, multicenter trial of closed-loop control in type 1 diabetes. N Engl J Med 2019;381:1707-1717
+Hagger V, Hendrieckx C, Sturt J, Skinner TC, Speight J. Diabetes distress among adolescents with type 1 diabetes: a systematic review. Curr Diab Rep 2016;16:1-14
+Hessler DM, Fisher L, Polonsky WH, Masharani U, Strycker LA, Peters AL, et al. Diabetes distress is linked with worsening diabetes management over time in adults with Type 1 diabetes. Diabet Med 2017;34:1228-1234
+Hong KMC, Glick BA, Kamboj MK, Hoffman RP. Glycemic control, depression, diabetes distress among adolescents with type 1 diabetes: effects of sex, race, insurance, and obesity. Acta Diabetol 2021;58:1627-1635
+Boot M, Volkening LK, Butler DA, Laffel LM. The impact of blood glucose and HbA1c goals on glycaemic control in children and adolescents with Type 1 diabetes. Diabet Med 2013;30:333-337
+Lafata JE, Morris HL, Dobie E, Heisler M, Werner RM, Dumenci L. Patient- reported use of collaborative goal setting and glycemic control among patients with diabetes. Patient education and counseling 2013;92:94-99
+Miller CK, Bauman J. Goal setting: an integral component of effective dia- betes care. Curr Diab Rep 2014;14:1-8
+Diabetes Control Complications Trial. Epidemiology of Diabetes Interven- tions and Complications (DCCT/EDIC) Study Research Group Intensive dia- betes treatment and cardiovascular disease in patients with type 1 diabetes. N Engl J Med 2005;353:2643-2653
+Siebenhofer AA, Plank JJ, Berghold AA, Narath MM, Gfrerer RR, Pieber TR. Short acting insulin analogues versus regular human insulin in patients with diabetes mellitus. Cochrane Database Syst Rev 2004;
+Fullerton B, Siebenhofer A, Jeitler K, Horvath K, Semlitsch T, Berghold A, et al. Short-acting insulin analogues versus regular human insulin for adults with type 1 diabetes mellitus. Cochrane Database Syst Rev 1996;2019
+Singh SR, Ahmad F, Lal A, Yu C, Bai Z, Bennett H. Ef cacy and safety of insulin analogues for the management of diabetes mellitus: a meta-analysis. Cmaj 2009;180:385-397
+Danne T, Råstam J, Odendahl R, Näke A, Schimmel U, Szczepanski R, et al. Parental preference of prandial insulin aspart compared with preprandial human insulin in a basalebolus scheme with NPH insulin in a 12-wk crossover study of preschool children with type 1 diabetes. Pediatr Diabetes 2007; 8:278-285
+Garg S, Carmain J, Braddy K, Anderson J, Vignati L, Jennings M, et al. Pre-meal Insulin Analogue Insulin Lispro vs Humulin R Insulin Treatment in Young Subjects with Type 1 Diabetes. Diabet Med 1996; 13:47-52
+Dreyer M, Prager R, Robinson A, Busch K, Ellis G, Souhami E, et al. Ef cacy and safety of insulin glulisine in patients with type 1 diabetes. Hormone and Metabolic Research 2005;37:702-707
+van Bon AC, Bode BW, Sert-Langeron C, DeVries JH, Charpentier G. Insulin glulisine compared to insulin aspart and to insulin lispro administered by continuous subcutaneous insulin infusion in patients with type 1 diabetes: a randomized controlled trial. Diabetes Technol Ther 2011;13:607-614
+Philotheou A, Arslanian S, Blatniczky L, Peterkova V, Souhami E, Danne T. Comparable ef cacy and safety of insulin glulisine and insulin lispro when given as part of a basalebolus insulin regimen in a 26-week trial in pediatric patients with Type 1 diabetes. Diabetes Technol Ther 2011; 13:327-334
+Avgerinos I, Papanastasiou G, Karagiannis T, Michailidis T, Liakos A, Mainou M, et al. Ultra-rapid-acting insulins for adults with diabetes: A systematic review and meta-analysis. Diabetes. Obesity and Metabolism 2021;23:2395-2401
+Bode BW, Iotova V, Kovarenko M, Laffel LM, Rao PV, Deenadayalan S, et al. Ef cacy and Safety of Fast-Acting Insulin Aspart Compared With Insulin Aspart, Both in Combination With Insulin Degludec, in Children and Adolescents With Type 1 Diabetes: the onset 7 Trial. Diabetes Care 2019;42:1255-1262
+Ozer K, Cooper AM, Ahn LP, Waggonner CR, Blevins TC. Fast Acting Insulin Aspart Compared with Insulin Aspart in the Medtronic 670G Hybrid Closed Loop System in Type 1 Diabetes: An Open Label Crossover Study. Diabetes Technol Ther 2021;23:286-292
+Dutta D, Mohindra R, Mahajan K, Sharma M. Performance of Fast-Acting Aspart Insulin as Compared to Aspart Insulin in Insulin Pump for Managing Type 1 Diabetes Mellitus: A Meta-Analysis. Diabetes Metab J 2023;47:72-81
+Stamati A, Karagiannis T, Tsapas A, Christoforidis A. Ef cacy and safety of ultra-rapid insulin analogues in insulin pumps in patients with Type 1 Dia- betes Mellitus: A systematic review and meta-analysis. Diabetes Res Clin Pract 2022;193:110144.
+Boughton CK, Hartnell S, Thabit H, Poettler T, Herzig D, Wilinska ME, et al. Hybrid closed-loop glucose control with faster insulin aspart compared with standard insulin aspart in adults with type 1 diabetes: A double-blind, multicentre, multinational, randomized, crossover study. Diabetes Obes Metab 2021; 23:1389-1396
+Ware J, Allen J, Boughton C, Cezar A, Hartnell S, Wilinska M, et al. Hybrid closed-loop with faster insulin aspart compared with standard insulin aspart in very young children with type 1 diabetes: a double-blind, multicenter, randomized, crossover study. Diabetes Technol Ther 2023;25:2023 02
+Slattery D, Amiel S, Choudhary P. Optimal prandial timing of bolus insulin in diabetes management: a review. Diabet Med 2018;35:306-316
+Rytter K, Madsen KP, Andersen HU, Hommel E, Pedersen-Bjergaard U, Schmidt S, et al. Associations between insulin pump self-management and HbA1c in type 1 diabetes. Diabet Med 2023; 40, e15068
+Mozzillo E, Franceschi R, Di Candia F, Ricci A, Leonardi L, Girardi M, et al. Optimal Prandial Timing of Insulin Bolus in Youths with Type 1 Diabetes: A Systematic Review. J 2022;12:2058
+Tricco AC, Ashoor HM, Antony J, Bouck Z, Rodrigues M, Pham B, et al. Compar- ative Ef cacy and Safety of Ultra-Long-Acting, Long-Acting, Intermediate- Acting, and Biosimilar Insulins for Type 1 Diabetes Mellitus: a Systematic Review and Network Meta-Analysis. J Gen Intern Med 2021;36:2414-2426
+Laranjeira FO, de Andrade KRC, Figueiredo A, Silva EN, Pereira MG. Long- acting insulin analogues for type 1 diabetes: An overview of systematic reviews and meta-analysis of randomized controlled trials. PLoS ONE 2018; 13, e0194801
+Veroniki AA, Seitidis G, Stewart L, Clarke M, Tudur-Smith C, Mavridis D, et al. Comparative ef cacy and complications of long-acting and intermediate- acting insulin regimens for adults with type 1 diabetes: an individual patient data network meta-analysis. BMJ Open 2022;12, e058034
+Hemmingsen B, Metzendorf M-I, Richter B. (Ultra-) long-acting insulin analogues for people with type 1 diabetes mellitus. Cochrane Database Syst Rev 2021;
+Elhabashy SA, Sakr EM, Salah NY. The ef cacy of insulin degludec and insulin glargine over NPH insulin among toddlers and preschoolers with type 1 diabetes using glycemic variability and time in range. Eur J Pediatr 2023; 182:1857-1868
+Martin, Zhou Y, Takagi T, Tian YS. Ef cacy and safety among second- generation and other basal insulins in adult patients with type 1 diabetes: a systematic review and network meta-analysis. Naunyn Schmiedeberg’s Archives of Pharmacology 2021;394:2091-2101
+Bergenstal RM, Bailey TS, Rodbard D, Ziemen M, Guo H, Muehlen-Bartmer I, et al. Comparison of insulin glargine 300 units/mL and 100 units/mL in adults with type 1 diabetes: Continuous glucose monitoring pro les and variability using morning or evening injections. Diabetes Care 2017; 40:554-560
+Danne T, Matsuhisa M, Sussebach C, Goyeau H, Lauand F, Niemoeller E, et al. Lower risk of severe hypoglycaemia with insulin glargine 300 U/mL versus glargine 100 U/mL in participants with type 1 diabetes: A meta-analysis of 6- month phase 3 clinical trials. Diabetes Obes Metab 2020;22:1880-1885
+Brøsen JMB, Agesen RM, Kristensen PL, Alibegovic AC, Andersen HU, Beck- Nielsen H, et al. Effect of insulin degludec versus insulin glargine U100 on nocturnal glycaemia assessed by plasma glucose pro les in people with type 1 diabetes prone to nocturnal severe hypoglycaemia. Diabetes. Obesity and Metabolism 2023;25:1557-1565
+Pedersen-Bjergaard U, Agesen RM, Brøsen JM, Alibegovic AC, Andersen HU, Beck-Nielsen H, et al. Comparison of treatment with insulin degludec and glargine U100 in patients with type 1 diabetes prone to nocturnal severe hypoglycaemia: The HypoDeg randomized, controlled, open-label, crossover trial. Diabetes, Obesity and Metabolism 2022; 24:257-267
+Urakami T, Mine Y, Aoki M, Okuno M, Suzuki J. A randomized crossover study of the ef cacy and safety of switching from insulin glargine to insulin degludec in children with type 1 diabetes. Endocr J 2017; 64:133-140
+Danne T, Tamborlane WV, Malievsky OA, Franco DR, Kawamura T, Demissie M, et al. Ef cacy and Safety of Insulin Glargine 300 Units/mL (Gla- 300) Versus Insulin Glargine 100 Units/mL (Gla-100) in Children and Ado- lescents (6-17 years) With Type 1 Diabetes: results of the EDITION JUNIOR Randomized Controlled Trial. Diabetes Care 2020;43:1512-1519
+Thalange N, Deeb L, Klingensmith G, Franco DR, Bardtrum L, Tutkunkardas D, et al. The rate of hyperglycemia and ketosis with insulin degludec-based treatment compared with insulin detemir in pediatric patients with type 1 diabetes: An analysis of data from two randomized trials. Pediatr Diabetes 2019;20:314-320
+Russell-Jones D, Babazono T, Cailleteau R, Engberg S, Irace C, Kjaersgaard MIS, et al. Once-weekly insulin icodec versus once-daily insulin degludec as part of a basal-bolus regimen in individuals with type 1 diabetes (ONWARDS 6): a phase 3a, randomised, open-label, treat-to-target trial. The Lancet 2023;402:1636-1647
+Yang LJ, Wu TW, Tang CH, Peng TR. Ef cacy and immunogenicity of insulin biosimilar compared to their reference products: a systematic review and meta-analysis. BMC Endocr Disord 2022;22
+Battelino T, Danne T, Bergenstal RM, Amiel SA, Beck R, Biester T, et al. Clinical targets for continuous glucose monitoring data interpretation: recommen- dations from the international consensus on time in range. Diabetes Care 2019;42:1593-1603
+Fang Z, Liu M, Tao J, Li C, Zou F, Zhang W. Ef cacy and safety of closed-loop insulin delivery versus sensor-augmented pump in the treatment of adults with type 1 diabetes: a systematic review and meta-analysis of randomized- controlled trials. J Endocrinol Invest 2022;45:471-481
+Zeng B, Gao L, Yang Q, Jia H, Sun F. Automated Insulin Delivery Systems in Children and Adolescents With Type 1 Diabetes: A Systematic Review and Meta-analysis of Outpatient Randomized Controlled Trials. Diabetes Care 2023; 46:2300-2307
+Considine EG, Sherr JL. Real-world evidence of automated insulin delivery system use. Diabetes Technol Ther 2024;26:53-65
+Brown SA, Kovatchev BP, Raghinaru D, Lum JW, Buckingham BA, Kudva YC, et al. Six-Month Randomized, Multicenter Trial of Closed-Loop Control in Type 1 Diabetes. N Engl J Med 2019;381:1707-1717
+Wadwa RP, Reed ZW, Buckingham BA, DeBoer MD, Ekhlaspour L, Forlenza GP, et al. Trial of Hybrid Closed-Loop Control in Young Children with Type 1 Diabetes. N Engl J Med 2023;388:991-1001
+Garg SK, Grunberger G, Weinstock R, Lawson ML, Hirsch IB, DiMeglio LA, et al. Improved Glycemia with Hybrid Closed-Loop Versus Continuous Sub- cutaneous Insulin Infusion Therapy: results from a Randomized Controlled Trial. Diabetes Technol Ther 2023;25:1-12
+Burnside MJ, Lewis DM, Crocket HR, Meier RA, Williman JA, Sanders OJ, et al. Open-Source Automated Insulin Delivery in Type 1 Diabetes. N Engl J Med 2022;387:869-881
+Roos T, Hermanns N, Groß C, Kulzer B, Haak T, Ehrmann D. Effect of auto- mated insulin delivery systems on person-reported outcomes in people with diabetes: a systematic review and meta-analysis. EClinicalMedicine 2024;76.
+Beck RW, Kanapka LG, Breton MD, Brown SA, Wadwa RP, Buckingham BA, et al. A Meta-Analysis of Randomized Trial Outcomes for the t:slim X2 Insulin Pump with Control-IQ Technology in Youth and Adults from Age 2 to 72. Diabetes Technol Ther 2023;25:329-342
+Crabtree TSJ, Grif n TP, Yap YW, Narendran P, Gallen G, Furlong N, et al. Hybrid Closed-Loop Therapy in Adults With Type 1 Diabetes and Above- Target HbA1c: A Real-world Observational Study. Diabetes Care 2023; 46:1831-1838
+Akturk HK, Snell-Bergeon J, Shah VN. Ef cacy and Safety of Tandem Control IQ Without User-Initiated Boluses in Adults with Uncontrolled Type 1 Dia- betes. Diabetes Technology and Therapeutics 2022; 24:779-783
+Messer LH, Berget C, Forlenza GP. A clinical guide to advanced diabetes devices and closed-loop systems using the CARES paradigm. Diabetes Technol Ther 2019;21:462-469
+Benkhadra K, Alahdab F, Tamhane SU, McCoy RG, Prokop LJ, Murad MH. Continuous subcutaneous insulin infusion versus multiple daily injections in individuals with type 1 diabetes: a systematic review and meta-analysis. Endocrine 2017;55:77-84
+Li AY, So WK, Leung DY. Effectiveness of Continuous Subcutaneous Insulin Infusion on Parental Quality of Life and Glycemic Control Among Children With T1D: Meta-Analysis. Worldviews Evid Based Nurs 2018; 15:394-400
+Qin Y, Yang LH, Huang XL, Chen XH, Yao H. Ef cacy and Safety of Continuous Subcutaneous Insulin Infusion vs. Multiple Daily Injections on Type 1 Dia- betes Children: A Meta-Analysis of Randomized Control Trials. J Clin Res Pediatr Endocrinol 2018; 10:316-323
+Alotaibi A, Al Khalifah R, McAssey K. The ef cacy and safety of insulin pump therapy with predictive low glucose suspend feature in decreasing hypo- glycemia in children with type 1 diabetes mellitus: A systematic review and meta-analysis. Pediatr Diabetes 2020;21:1256-1267
+Bosi E, Choudhary P, de Valk HW, Lablanche S, Castaneda J, de Portu S, et al. Ef cacy and safety of suspend-before-low insulin pump technology in hypoglycaemia-prone adults with type 1 diabetes (SMILE): an open-label randomised controlled trial. Lancet Diabetes Endocrinol 2019;7:462-472
+Bosi E, Choudhary P, de Valk HW, Lablanche S, Castaneda J, de Portu S, et al. Ef cacy and safety of suspend-before-low insulin pump technology in hypoglycaemia-prone adults with type 1 diabetes (SMILE): an open-label randomised controlled trial. The Lancet Diabetes and Endocrinology 2019; 7:462-472
+Pi L, Shi X, Wang Z, Zhou Z. Effect of smartphone apps on glycemic control in young patients with type 1 diabetes: A meta-analysis. Front 2023;11, 1074946
+Qiao YC, Ling W, Pan YH, Chen YL, Zhou D, Huang YM, et al. Ef cacy and safety of pramlintide injection adjunct to insulin therapy in patients with type 1 diabetes mellitus: a systematic review and meta-analysis. Oncotarget 2017;8:66504-66515
+von Herrath M, Bain SC, Bode B, Clausen JO, Coppieters K, Gaysina L, et al. Anti-interleukin-21 antibody and liraglutide for the preservation of b-cell function in adults with recent-onset type 1 diabetes: a randomised, double-18 I.J. Halperin et al. / Can J Diabetes 49 (2025) 5e18 blind, placebo-controlled, phase 2 trial. Lancet Diabetes Endocrinol 2021; 9:212-224
+Pozzilli P, Bosi E, Cirkel D, Harris J, Leech N, Tinahones FJ, et al. Randomized 52-week phase 2 trial of albiglutide versus placebo in adult patients with newly diagnosed type 1 diabetes. J Clin Endocrinol Metab 2020;105:dgaa149
+Cai X, Lin C, Yang W, Nie L, Ji L. Non-Insulin Antidiabetes Treatment in Type 1 Diabetes Mellitus: A Systematic Review and Meta-Analysis. Diabetes Metab J 2021;45:312-325
+Lu J, Tang L, Meng H, Zhao J, Liang Y. Effects of sodium-glucose cotransporter (SGLT) inhibitors in addition to insulin therapy on glucose control and safety outcomes in adults with type 1 diabetes: A meta-analysis of randomized controlled trials. Diabetes Metab Res Rev 2019;35, e3169
+Zou H, Liu L, Guo J, Wang H, Liu S, Xing Y, et al. Sodium-glucose cotransporter inhibitors as add-on therapy in addition to insulin for type 1 diabetes mel- litus: A meta-analysis of randomized controlled trials. J 2021; 12:546-556
+Park J, Ntelis S, Yunasan E, Downton KD, Yip TC, Munir KM, et al. Glucagon- like peptide 1 Analogues as Adjunctive Therapy for Patients with Type 1 Diabetes: an Updated Systematic Review and Meta-analysis. J Clin Endo- crinol Metab 2023; 109:279-292
+Liu Y, Chen H, Li H, Li L, Wu J, Li H. Effect and Safety of Adding Metformin to Insulin Therapy in Treating Adolescents With Type 1 Diabetes Mellitus: An Updated Meta-Analysis of 10 Randomized Controlled Trials. Front Endocrinol (Lausanne) 2022;13, 878585
+Al Khalifah RA, Alnhdi A, Alghar H, Alanazi M, Florez ID. The effect of adding metformin to insulin therapy for type 1 diabetes mellitus children: A sys- tematic review and meta-analysis. Pediatr Diabetes 2017;18:664-673
+Petrie JR, Chaturvedi N, Ford I, Brouwers MC, Greenlaw N, Tillin T, et al. Cardiovascular and metabolic effects of metformin in patients with type 1 diabetes (REMOVAL): a double-blind, randomised, placebo-controlled trial. Lancet Diabetes Endocrinol 2017;5:597-609
+Mathieu C, Zinman B, Hemmingsson JU, Woo V, Colman P, Christiansen E, et al. Ef cacy and safety of liraglutide added to insulin treatment in type 1 diabetes: the ADJUNCT ONE treat-to-target randomized trial. Diabetes Care 2016;39:1702-1710
+Ahren B, Hirsch IB, Pieber TR, Mathieu C, Gomez-Peralta F, Hansen TK, et al. Ef cacy and safety of liraglutide added to capped insulin treatment in sub- jects with type 1 diabetes: the ADJUNCT TWO randomized trial. Diabetes Care 2016;39:1693-1701
+Garg SK, Kaur G, Haider Z, Rodriquez E, Beatson C, Snell-Bergeon J. Ef cacy of semaglutide in overweight and obese patients with type 1 diabetes. Diabetes Technol Ther 2024;26:184-189
+Gough SC, Bode B, Woo V, Rodbard HW, Linjawi S, Poulsen P, et al. Ef cacy and safety of a xed-ratio combination of insulin degludec and liraglutide (IDe- gLira) compared with its components given alone: results of a phase 3, open- label, randomised, 26-week, treat-to-target trial in insulin-naive patients with type 2 diabetes. Lancet Diabetes Endocrinol 2014;2:885-893
+Buse JB, Garg SK, Rosenstock J, Bailey TS, Banks P, Bode BW, et al. Sotagli ozin in Combination With Optimized Insulin Therapy in Adults With Type 1 Diabetes: The North American inTandem1 Study. Diabetes Care 2018; 41:1970-1980
+Danne T, Cariou B, Banks P, Brandle M, Brath H, Franek E, et al. HbA1c and hypoglycemia reductions at 24 and 52 weeks with sotagli ozin in combi- nation with insulin in adults with type 1 diabetes: the European inTandem2 study. Diabetes Care 2018;41:1981-1990
+Rosenstock J, Marquard J, Laffel LM, Neubacher D, Kaspers S, Cherney DZ, et al. Empagli ozin as adjunctive to insulin therapy in type 1 diabetes: the EASE trials. Diabetes Care 2018;41:2560-2569
+Dandona P, Mathieu C, Phillip M, Hansen L, Tschöpe D, Thorén F, et al. Ef cacy and safety of dapagli ozin in patients with inadequately controlled type 1 diabetes: the DEPICT-1 52-week study. Diabetes Care 2018;41:2552-2559
+Mathieu C, Dandona P, Gillard P, Senior P, Hasslacher C, Araki E, et al. Ef cacy and safety of dapagli ozin in patients with inadequately controlled type 1 diabetes (the DEPICT-2 study): 24-week results from a randomized controlled trial. Diabetes Care 2018;41:1938-1946
+Troncone A, Piscopo A, Zanfardino A, Chianese A, Cascella C, Affuso G, et al. Fear of hypoglycemia in parents of children with type 1 diabetes trained for intranasal glucagon use. Journal of Psychosomatic Research 2024;184, 111856
+Goldenberg RM, Gilbert JD, Hramiak IM, Woo VC, Zinman B. Sodium-glucose co-transporter inhibitors, their role in type 1 diabetes treatment and a risk mitigation strategy for preventing diabetic ketoacidosis: the STOP DKA protocol. Diabetes, Obesity and Metabolism 2019;21:2192-2202
+Herold KC, Bundy BN, Long SA, Bluestone JA, DiMeglio LA, Dufort MJ, et al. An Anti-CD3 Antibody, Teplizumab, in Relatives at Risk for Type 1 Diabetes. N Engl J Med 2019;381:603-613
+Sims EK, Bundy BN, Stier K, Serti E, Lim N, Long SA, et al. Teplizumab improves and stabilizes beta cell function in antibody-positive high-risk individuals. Sci Transl Med 2021; 13:03
+Nourelden AZ, Elshanbary AA, El-Sherif L, Benmelouka AY, Rohim HI, Helmy SK, et al. Safety and Ef cacy of Teplizumab for Treatment of Type One Diabetes Mellitus: A Systematic Review and Meta-Analysis. Endocr Metab Immune Disord Drug Targets 2021;21:1895-1904
+Waibel M, Wentworth JM, So M, Couper JJ, Cameron FJ, MacIsaac RJ, Atlas G, for the BANDIT Study Group. Baricitinib and b-cell function in patients with new-onset type 1 diabetes. N Engl J Med 2023; 389:2140-2150
+Forlenza GP, McVean J, Beck RW, Bauza C, Bailey R, Buckingham B, et al. Effect of verapamil on pancreatic beta cell function in newly diagnosed pediatric type 1 diabetes: a randomized clinical trial. Jama 2023;329:990-999
+Shepard JA, Vajda K, Nyer M, Clarke W, Gonder-Frederick L. Understanding the construct of fear of hypoglycemia in pediatric type 1 diabetes. J Pediatr Psychol 2014;39:1115-1125
+Pontiroli AE, Tagliabue E. Intranasal versus injectable glucagon for hypo- glycemia in type 1 diabetes: systematic review and meta-analysis. Acta Diabetol 2020;57:743-749
+Wang Y-P, Bernatchez F, Chouinard-Castonguay S, Tremblay M-C, Vanasse A, Kinnard N, et al. Comparison of Intranasal and Injectable Glucagon Admin- istration Among Pediatric Population Responders. Diabetes Technol Ther 2023; 25:808-816
+Battelino T, Tehranchi R, Bailey T, Dovc K, Melgaard A, Yager Stone J, et al. Dasiglucagon, a next-generation ready-to-use glucagon analog, for treat- ment of severe hypoglycemia in children and adolescents with type 1 dia- betes: Results of a phase 3, randomized controlled trial. Pediatr Diabetes 2021;22:734-741
+Patino-Galarza D, Duque-Lopez A, Cabra-Bautista G, Calvache JA, Florez ID. Fluids in the treatment of diabetic ketoacidosis in children: A systematic review. J Evid Based Med; 2024.
+Jahangir A, Jahangir A, Siddiqui FS, Niazi MRK, Yousaf F, Muhammad M, et al. Normal Saline Versus Low Chloride Solutions in Treatment of Diabetic Ketoacidosis: A Systematic Review of Clinical Trials. Cureus 2022; 14, e21324
+Tamzil R, Yaacob N, Noor NM, Baharuddin KA. Comparing the clinical effects of balanced electrolyte solutions versus normal saline in managing diabetic ketoacidosis: A systematic review and meta-analyses. Turk J Emerg Med 2023;23:131-138
+Yung M, Letton G, Keeley S. Controlled trial of Hartmann’s solution versus 0.9% saline for diabetic ketoacidosis. J Paediatr Child Health 2017;53:12-17
+Williams V, Jayashree M, Nallasamy K, Dayal D, Rawat A. 0.9% saline versus Plasma-Lyte as initial uid in children with diabetic ketoacidosis (SPinK trial): a double-blind randomized controlled trial. Crit Care 2020; 24:1
+Kuppermann N, Ghetti S, Schunk JE, Stoner MJ, Rewers A, McManemy JK, et al. Clinical Trial of Fluid Infusion Rates for Pediatric Diabetic Ketoacidosis. N Engl J Med 2018;378:2275-2287
+Razavi Z, Maher S, Fredmal J. Comparison of subcutaneous insulin aspart and intravenous regular insulin for the treatment of mild and moderate diabetic ketoacidosis in pediatric patients. Endocrine 2018; 61:267-274
+Andrade-Castellanos CA, Colunga-Lozano LE, Delgado-Figueroa N, Gonzalez- Padilla DA. Subcutaneous rapid-acting insulin analogues for diabetic ketoa- cidosis. Cochrane Database Syst Rev 2016;21(1):CD011281.
+Zaharieva DP, Morrison D, Paldus B, Lal RA, Buckingham BA, O’Neal DN. Practical aspects and exercise safety bene ts of automated insulin delivery systems in type 1 diabetes. Diabetes Spectrum 2023; 36:127-136
+de Bock M, Codner E, Craig ME, Huynh T, Maahs DM, Mahmud FH, et al. ISPAD Clinical Practice Consensus Guidelines 2022: Glycemic targets and glucose monitoring for children, adolescents, and young people with dia- betes. Pediatr Diabetes 2022;23:1270
+Warren M, Bode B, Cho JI, Liu R, Tobian J, Hardy T, et al. Improved post- prandial glucose control with ultra rapid lispro versus lispro with continuous subcutaneous insulin infusion in type 1 diabetes: PRONTO-Pump-2. Dia- betes. Obesity and Metabolism 1552;23:1552-1561
+Bode BW, Johnson JA, Hyveled L, Tamer SC, Demissie M. Improved Post- prandial Glycemic Control with Faster-Acting Insulin Aspart in Patients with Type 1 Diabetes Using Continuous Subcutaneous Insulin Infusion. Diabetes Technol Ther 2017;19:25-33
+Ruan Y, Thabit H, Leelarathna L, Hartnell S, Wilinska ME, Tauschmann M, et al. Faster insulin action is associated with improved glycaemic outcomes during closed-loop insulin delivery and sensor-augmented pump therapy in adults with type 1 diabetes. Diabetes Obes Metab 2017; 19:1485-1489
+Talbo MK, Katz A, Hill L, Peters TM, Yale JF, Brazeau AS. Effect of diabetes technologies on the fear of hypoglycaemia among people living with type 1 diabetes: a systematic review and meta-analysis. EClinicalMedicine 2023;62.
+Ng SM, Wright NP, Yardley D, Campbell F, Randell T, Trevelyan N, et al. Real world use of hybrid-closed loop in children and young people with type 1 diabetes mellitus-a National Health Service pilot initiative in England. Diabet Med 202340, e15015
+Phillip M, Nimri R, Bergenstal RM, Barnard-Kelly K, Danne T, Hovorka R, et al. Consensus Recommendations for the Use of Automated Insulin Delivery Technologies in Clinical Practice. Endocr Rev 2023;44:254-280
+McTavish L, Corley B, Weatherall M, Wiltshire E, Krebs J. Weight-based carbohydrate treatment of hypoglycaemia in people with type 1 diabetes using insulin pump therapy: a randomized crossover clinical trial. Diabet Med 2018;35:339-346
+McTavish L, Wiltshire E. Effective treatment of hypoglycemia in children with type 1 diabetes: a randomized controlled clinical trial. Pediatr Diabetes 2011;12:381-387
+Rewers A, Kuppermann N, Stoner MJ, Garro A, Bennett JE, Quayle KS, et al. Effects of Fluid Rehydration Strategy on Correction of Acidosis and Electro- lyte Abnormalities in Children With Diabetic Ketoacidosis. Diabetes Care 2021;44:2061-2068

@@ -1,0 +1,251 @@
+Chapter Headings
+
+Introduction
+Assessment of Overweight and Obesity
+Treatment of Overweight and Obesity
+Healthy Behaviour Interventions
+Pharmacotherapy
+Bariatric Surgery
+Other Relevant Guidelines
+Author Disclosures
+Key Messages
+Sustained weight loss of ≥5% of initial body weight can improve glycemic control and cardiovascular risk factors.
+In people with diabetes and obesity, weight loss and A1C lowering can be achieved with healthy behaviour interventions as the cornerstone of treatment. Weight management medications can improve glycemic and metabolic control in people with diabetes and obesity.
+Bariatric surgery may be considered appropriate for people with diabetes and obesity.
+When selecting the most appropriate antihyperglycemic agent(s) for a person with diabetes, the effect on body weight should be considered.
+Key Messages for People with Diabetes
+When you have diabetes, having overweight or obesity increases your risk for complications.
+Healthy behaviour modifications, including regular physical activity and eating well can help with your blood glucose control and reduce your risk for other health problems associated with diabetes.
+Your diabetes health-care team can help you with weight management. For some people with diabetes, weight management medications and bariatric surgery may be helpful.
+Introduction
+
+Obesity is a chronic health problem that is often progressive and difficult to treat. An estimated 80% to 90% of people with type 2 diabetes have overweight or obesity (1). Obesity is also becoming more prevalent in people with type 1 diabetes; one study reported a sevenfold increase in the last 20 years (2). In addition, intensive insulin therapy and some antihyperglycemic medications are associated with weight gain which, in turn, leads to obesity-related comorbid conditions (3,4). The relationship between increasing body fat accumulation and adverse health outcomes exists throughout the range of overweight and obesity in men and women of all age groups (5). Weight loss has been shown to improve glycemic control by increasing insulin sensitivity and glucose uptake and diminishing hepatic glucose output (6).
+
+Assessment of Overweight and Obesity
+
+Health Canada guidelines recommend that the initial assessment of people with diabetes should include the following measurements: height, weight, calculation of body mass index (BMI) (kg/m2) and waist circumference (WC) (7) (Table 1). Metabolic comorbidities are highly correlated with increasing BMI and WC (8,9). Excessive abdominal adiposity is a strong independent predictor of metabolic comorbidities (10,11). Cut-off values for healthy WC vary among expert guidelines (12,13). Table 2 lists National Cholesterol and Education Program Adult Treatment Panel III (NCEP-ATP III) WC values. The International Diabetes Federation (IDF) has proposed population specific WC cut-off values; however, these guidelines have not been fully validated against the development of clinical events (14) (Table 3).
+
+In people with diabetes and overweight or obesity, the reasons for the previous or current positive energy balance can often be identified. People with diabetes often take medications that are associated with weight gain; these include antihyperglycemic, antihypertensive, pain relief and antidepressant agents (15). Assessing psychological aspects of eating behaviours, such as emotional eating, binge eating, attention deficit and hyperactivity disorder (ADHD), and depression, is also relevant in determining reasons for weight gain (16). Physical parameters that impede activity, such as osteoarthritis or dyspnea, can contribute to obesity (17). Comorbid conditions, such as osteoarthritis and obstructive sleep apnea (OSA), can also impact the ability to lose weight (18).
+
+Table 1
+Canadian guidelines for body weight classification in adults using BMI
+BMI, body mass index.
+Adapted from reference 74
+∗ BMI values are age and gender independent, and may not be correct for all ethnic populations.
+Classification	BMI ∗ category (kg/m2)	Risk of developing health problems
+Underweight	<18.5	Increased
+Healthy weight	18.5–24.9	Least
+Overweight	25.0–29.9	Increased
+Obesity	≥30.0	 
+    Class I	30.0–34.9	High
+    Class II	35.0–39.9	Very High
+    Class III	≥40.0	Extremely High
+Treatment of Overweight and Obesity
+
+The goals of therapy for people with diabetes and overweight or obesity are to achieve optimal glycemic and metabolic control and, ultimately, improve quality of life, morbidity and mortality. Attaining and maintaining a healthy body weight, and preventing weight regain, are key components of optimizing glycemic control in people with diabetes. Often people with obesity and diabetes have greater difficulty with achieving weight loss compared to people with obesity but without diabetes (19). Health-care providers should attempt to minimize use of weight-inducing agents without compromising glycemic control, or switch the person with diabetes to agents not associated with weight gain (15).
+
+For many people with diabetes, prevention of further weight gain is a realistic and sustainable target. A modest weight loss of 5% to 10% of initial body weight can improve insulin sensitivity, glycemic control and blood pressure. Greater amounts of weight loss may be needed to improve OSA and dyslipidemia (20–24). The 2006 Canadian Obesity Guidelines have suggested a weight loss of 2 to 4 kg/month (25). A negative energy balance of approximately 500 kcal/day is needed to achieve this weight loss. Metabolic and physiologic adaptations following weight loss can promote weight regain and make sustained weight loss challenging (26). Adjustment of the caloric deficit may be required as weight loss progresses. In addition, as individuals lose weight, adjustment in antihyperglycemic medications may be required to avoid hypoglycemia (27).
+
+The National Institutes of Health (NIH)-sponsored multicentre Look AHEAD (Action for Health in Diabetes) trial, investigated the effects of lifestyle intervention on changes in weight, fitness and cardiovascular (CV) risk factors and events in people with type 2 diabetes (28). The 8-year data revealed a 4.7% decrease in weight in the intensive lifestyle arm (29). This provided evidence that lifestyle changes can have a positive impact on weight change, fitness level and a decrease in medications, along with a small decrease in glycated hemoglobin (A1C) and other health benefits (29).
+
+Table 2
+Waist circumference (WC) and risk of developing health problems
+WC, waist circumference.
+Adapted from reference 74.
+∗WC cut-offs may be lower in some populations (e.g. older individuals, Asian population [see Table 3]), especially in the presence of the metabolic syndrome (such as hypertriglyceridemia).
+†Increased WC can also be a marker for increased risk, even in persons with healthy weight.
+WC cut-off points*†	Risk of developing health problems
+Men ≥102 cm	Increased
+Women ≥88 cm	Increased
+Table 3
+Ethnic-specific values for waist circumference (WC)
+Adapted from reference 11
+∗NCEP-ATP III guidelines (9,78) and Health Canada (79) define central obesity as WC values ≥102 cm in men and ≥88 cm in women.
+Country or ethnic group	Central obesity as defined by WC
+ 	Men	Women
+Europid ∗	≥94 cm	≥80 cm
+South Asian, Chinese, Japanese	≥90 cm	≥80 cm
+South and Central American	Use South Asian cutoff points until more specific data are available.
+Sub-Saharan African	Use Europid cutoff points until more specific data are available.
+Eastern Mediterranean and Middle Eastern (Arab)	Use Europid cutoff points until more specific data are available.
+Table 4
+Checklist for weight management programs
+Adapted from reference 38
+
+The program assesses and treats comorbid conditions.
+The program recommends healthy behaviour modifications, and pharmacotherapy or surgery for those who qualify.
+The program provides individualized nutritional, physical activity and behavioural programs and counselling.
+Reasonable weight loss goals are set at 1–2 kg/month.
+Cost is not prohibitive.
+There is no requirement to buy products, supplements, vitamins or injections.
+The program does not make unsubstantiated claims.
+The program provides access to a weight maintenance program.
+Healthy Behaviour Interventions
+
+Healthy behaviour interventions are essential components of successful weight management. (30,31). Interventions that combine dietary modification, increased and regular physical activity and behaviour therapy are the most effective at improving health outcomes (32–35). Structured interprofessional programs and group programs have demonstrated better results (34) compared to solo health-care professional-based interventions (36).
+
+Dietary plans for people with diabetes should be evidence based and nutritionally adequate to ensure optimal health. Specific dietary recommendations for weight loss can be found in the Nutrition Therapy chapter, p. S64. Moderate carbohydrate reduction has been beneficial in people with diabetes, demonstrating improvements in high density lipoprotein (HDL) and triglycerides, blood glucose stability, and reductions in diabetes medication requirements (37).
+
+People with obesity and diabetes benefit from advice by qualified professionals on appropriate serving sizes, caloric and carbohydrate intake and how to select nutrient-rich meals, as demonstrated by the Look AHEAD Study (28). Programs and clinics dedicated to weight management may be beneficial, particularly those that adhere to the checklist in Table 4 (38).
+
+Table 5
+Medications approved for the treatment of obesity in type 2 diabetes
+GLP-1, Glucagon-like peptide-1.
+Class	Realtive weight loss	Side effects	Therapeutic considerations	Cost
+Gastrointestinal lipase inhibitor (orlistat) (45)	↓	Loose stools, GI upset, rare liver failure	Oral medication, decreases fat absorption, may require vitamin supplementation	$$$
+GLP-1 receptor agonist (liraglutide 3.0 mg) (42)	↓↓	Nausea, GI upset, rare gallstones and pancreatitis	Subcutaneous injectable, increases satiety	$$$$
+Pharmacotherapy
+
+The effect of antihyperglycemic medication on body weight varies by class of medication. Some antihyperglycemic medications are associated with weight gain (insulin, insulin secretagogues, thiazolidinediones), and the magnitude of weight gain can vary from 4 to 9 kg or more (15,39,40) (see Pharmacologic Glycemic Management of Type 2 Diabetes in Adults chapter, p. S88). Insulin is associated with the most weight gain (41). Metformin, acarbose and DPP-4 inhibitors are typically weight neutral (15). Glucagon-like peptide-1 (GLP-1) receptor agonists are associated with a weight loss of about 3 kg in people with diabetes (42). Sodium-glucose co-transporter 2 (SGLT2) inhibitors are associated with a typical weight loss of 2 to 3 kg (43). People with type 1 diabetes may have a tendency toward slightly higher body weight with use of neutral protamine Hagedorn (NPH) insulin compared to long-acting basal insulin analogues (44).
+
+Orlistat and liraglutide are the only approved medications for chronic weight management in Canada (42,45) (Table 5). When used to treat people with overweight or obesity and type 2 diabetes, both have been demonstrated to improve glycemic control and to reduce the doses of antihyperglycemic agents that promote weight gain (45). For people with type 2 diabetes or prediabetes, pharmacotherapy is indicated for chronic weight management with a BMI ≥27.0 kg/m2, in whom healthy behaviour interventions have been unsuccessful or insufficient for improvement in health. Clinical trials with weight loss agents have confirmed a smaller degree of weight loss in people with diabetes compared to people with obesity without diabetes (42,46,47).
+
+Orlistat leads to greater weight loss when coupled with healthy behaviour interventions (45). It has been shown to be effective at improving glycemic and metabolic control in people with obesity and type 2 diabetes (45,48–50). In people with obesity and IGT, orlistat also improves glucose tolerance and reduces the progression to type 2 diabetes (19,51,52). Potential adverse effects include loose stools and other gastrointestinal side effects that may affect long-term compliance (53). Rare cases of fulminant liver failure have also been reported (54).
+
+Liraglutide is a GLP-1 receptor agonist, which acts to increase satiety and decrease hunger in the brain. While most of the blood glucose lowering benefits of liraglutide are seen at 1.8 mg per day, there is an additional dose dependent weight loss effect up to 3.0 mg per day (42). Liraglutide is indicated at 1.2 or 1.8 mg per day for the treatment of type 2 diabetes, and at 3.0 mg per day for weight management in people with (42) or without type 2 diabetes (46). In people with type 2 diabetes, liraglutide 3.0 mg is effective to facilitate weight loss in addition to improving glycemic control and metabolic parameters, in combination with a lifestyle modification program (42,55,56). In people with prediabetes, liraglutide 3.0 mg is effective to delay progression to type 2 diabetes (46) (see Reducing the Risk of Developing Diabetes chapter, p. S20). Gastrointestinal side effects, including nausea, are generally transient in nature. Gallbladder disease and acute pancreatitis are rare potential complications of treatment (46).
+
+Pharmacotherapy directed at weight management has not been adequately studied in people with type 1 diabetes.
+
+Figure 1
+Gastric sleeve.
+
+Gastric sleeve. A longitudinal (sleeve) resection of the stomach reduces the functional capacity of the stomach and eliminates the ghrelin-rich gastric fundus (80).
+
+Figure 2
+Roux-en-Y gastric bypass.
+
+Roux-en-Y gastric bypass. A surgical stapler is used to create a small gastric pouch. Ingested food bypasses ~95% of the stomach, the entire duodenum and a portion of the jejunum (80).
+
+Figure 3
+Biliopancreatic diversion with duodenal switch.
+
+Biliopancreatic diversion with duodenal switch. The stomach and small intestine are surgically reduced so that nutrients are absorbed only in a 50-cm “common limb” (80).
+
+Bariatric Surgery
+
+Bariatric surgery is a therapeutic option in the management of people with type 2 diabetes and obesity. “Bariatric surgery” is the preferred term over “metabolic surgery”, as the benefits encompass metabolic, mechanical and psychological improvements. These procedures can result in sustained weight loss and significant improvements in obesity-related comorbidities, including control or remission of type 2 diabetes. Surgery is a treatment option for people with BMI ≥40.0 kg/m2 or with BMI 35.0 to 39.9 kg/m2 in the presence of comorbidities, such as type 2 diabetes, who have demonstrated an inability to achieve weight loss maintenance following an adequate trial of healthy behaviour interventions and/or pharmacotherapy. Evaluation for candidacy and appropriateness for surgical procedures includes assessment by an interdisciplinary team with medical, surgical, psychiatric and nutritional expertise (57). The benefits and risks of bariatric surgery must be carefully considered for each individual, and candidates must be prepared to comply with lifelong medical surveillance.
+
+Commonly performed bariatric surgeries include Roux-en-Y gastric bypass (RYGB) (Figure 2), sleeve gastrectomy (Figure 1), and biliopancreatic diversion with or without duodenal switch (BPD/BPD-DS) (Figure 3). These procedures lead to sustained weight loss and improvements in or remission of type 2 diabetes (58–61). The likelihood of improvement in control or remission of type 2 diabetes is higher with Roux-en-Y gastric bypass surgery, sleeve gastrectomy or BPD compared to gastric banding (62–65). The gastric band has largely been abandoned in North America due to less sustained weight loss and metabolic benefits, and high surgical complication rates necessitating band removal (66).
+
+Predictors of likelihood of remission of type 2 diabetes after bariatric surgery include higher preoperative serum C-peptide, younger age, shorter duration of diabetes and lack of need for insulin therapy preoperatively (67,68). People who experience remission of type 2 diabetes with bariatric surgery may experience recurrence of diabetes years later; thus, life-long monitoring and screening for recurrence is important (69). Evidence of the risks and outcomes of bariatric metabolic surgery in people with type 2 diabetes and BMI between 30 to 35 kg/m2 is very limited and cannot be recommended at this time.
+
+Bariatric surgery can prevent the development and progression of albuminuria (70). Studies have shown variable effects of bariatric surgery on diabetic retinopathy (71). One study has shown that bariatric surgery may reduce the risk of myocardial infarction in people with type 2 diabetes (72). Bariatric surgery has not been adequately studied in people with type 1 diabetes (73–76).
+
+Recommendations
+
+For people with overweight or obesity who have or are at risk for diabetes, an interprofessional weight management program is recommended to prevent weight gain and improve CV risk factors [Grade A, Level 1A (24,28)].
+
+Weight management medication may be considered in people with diabetes and overweight or obesity to promote weight loss and improved glycemic control [Grade A, Level 1A (42) for liraglutide; Grade A, Level 1A (45) for orlistat].
+
+In adults with type 2 diabetes and overweight or obesity, the effect of antihyperglycemic agents on body weight should be considered when selecting pharmacotherapy [Grade D, Consensus].
+
+Bariatric surgery may be considered for selected adults with type 2 diabetes and obesity with BMI ≥35.0 when healthy behaviour interventions with or without weight management medication(s) are inadequate in achieving target glycemic control or healthy weight goals [Grade A, Level 1A (58,59,61)].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; BPD/BPD-DS, biliopancreatic diversion with or without duodenal switch; BMI, body mass index; CV, cardiovascular; CVD, cardiovascular disease; IGT, impaired glucose tolerance; LAGB; laparoscopic adjustable gastric banding; MI, myocardial infarction; RYGB, Roux-en-Y gastric bypass; WC, waist circumference.
+
+Other Relevant Guidelines
+
+Chapter 5. Reducing the Risk of Developing Diabetes
+
+Chapter 10. Physical Activity and Diabetes
+
+Chapter 11. Nutrition Therapy
+
+Chapter 13. Pharmacologic Glycemic Management of Type 2 Diabetes in Adults
+
+Literature Review Flow Diagram for Chapter 17: Weight Management in Diabetes
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (81).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Wharton reports personal fees from Novo Nordisk, Janssen, Lilly, Merck, and Valeant, outside the submitted work. Dr. Lau reports grants and personal fees from AstraZeneca, Boehringer Ingelheim, and Novo Nordisk; and personal fees from Valeant, Amgen, Merck, Janssen, Eli Lilly, Sanofi, and SHIRE, outside the submitted work. Dr. Pedersen reports personal fees and non-financial support from Novo Nordisk, personal fees and non-financial support from Janssen, grants, personal fees and non-financial support from Eli Lilly, personal fees from Merck, personal fees and non-financial support from Valeant, grants, personal fees and non-financial support from Astra Zeneca, grants and personal fees from Abbott, grants and personal fees from Boehringer Ingelheim, grants and personal fees from Sanofi, personal fees from Prometic, and personal fees from Pfizer, outside the submitted work. Dr. Sharma reports personal fees from Novo Nordisk, Valeant, Merck, and Berlin Chemie, outside the submitted work.
+
+References
+Wing RR. Weight loss in the management of type 2 diabetes. In: Gerstein HC, Hyanes B, eds. Evidence-based diabetes care. Hamilton: B.C. Decker Inc., 2000, pg. 252–76.
+Conway B, Miller RG, Costacou T, et al. Temporal patterns in overweight and obesity in type 1 diabetes. Diabet Med 2010;27:398–404.
+UK Prospective Diabetes Study (UKPDS) Group. Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). Lancet 1998;352:837–53.
+Ruderman N, Chisholm D, Pi-Sunyer X, et al. The metabolically obese, normalweight individual revisited. Diabetes 1998;47:699–713.
+Stevens J, Cai J, Pamuk ER, et al. The effect of age on the association between body-mass index and mortality. N Engl J Med 1998;338:1–7.
+Markovic TP, Jenkins AB, Campbell LV, et al. The determinants of glycemic responses to diet restriction and weight loss in obesity and NIDDM. Diabetes Care 1998;21:687–94.
+Health Canada. Canadian guidelines for body weight classification in adults. Ottawa: 2003, pg. Report No.: H49-179/2003E. https://preventdisease.com/pdf/weight_book-livres_des_poids_e.pdf.
+Rabkin SW, Chen Y, Leiter L, et al. Risk factor correlates of body mass index. Canadian Heart Health Surveys Research Group. CMAJ 1997;157(Suppl. 1):S26–31.
+World Health Organization. Obesity: Preventing and managing the global epidemic. Report of a WHO consultation. World Health Organ Tech Rep Ser 2000;894:i–xii, 1-253.
+Reeder BA, Senthilselvan A, Despres JP, et al. The association of cardiovascular disease risk factors with abdominal obesity in Canada. Canadian Heart Health Surveys Research Group. CMAJ 1997;157:S39–45.
+Despres JP, Lemieux I, Prud’homme D. Treatment of obesity: Need to focus on high risk abdominally obese patients. BMJ 2001;322:716–20.
+Expert Panel on Detection Evaluation, Treatment of High Blood Cholesterol in Adults. Executive summary of the third report of the National Cholesterol Education Program (NCEP) expert panel on detection, evaluation, and treatment of high blood cholesterol in adults (adult treatment panel III). JAMA 2001;285:2486–97.
+Grundy SM, Cleeman JI, Daniels SR, et al. Diagnosis and management of the metabolic syndrome: An American Heart Association/National Heart, Lung, and Blood Institute scientific statement. Circulation 2005;112:2735–52.
+International Diabetes Federation. The IDF consensus worldwide definition of the metabolic syndrome. Brussels: IDF Communications, 2006. https://www.idf.org/webdata/docs/MetS_def_update2006.pdf.
+Hollander P. Anti-diabetes and anti-obesity medications: Effects on weight in people with diabetes. Diabetes Spectr 2007;20:159–65.
+Gorin AA, Niemeier HM, Hogan P, et al. Binge eating and weight loss outcomes in overweight and obese individuals with type 2 diabetes: Results from the Look AHEAD trial. Arch Gen Psychiatry 2008;65:1447–55.
+Ribisl PM, Lang W, Jaramillo SA, et al. Exercise capacity and cardiovascular/ metabolic characteristics of overweight and obese individuals with type 2 diabetes: The Look AHEAD clinical trial. Diabetes Care 2007;30:2679–84.
+Grunstein RR, Stenlof K, Hedner JA, et al. Two year reduction in sleep apnea symptoms and associated diabetes incidence after weight loss in severe obesity. Sleep 2007;30:703–10.
+Wing RR, Marcus MD, Epstein LH, et al. Type II diabetic subjects lose less weight than their overweight nondiabetic spouses. Diabetes Care 1987;10:563–6.
+Dattilo AM, Kris-Etherton PM. Effects of weight reduction on blood lipids and lipoproteins: A meta-analysis. Am J Clin Nutr 1992;56:320–8.
+Goldstein DJ. Beneficial health effects of modest weight loss. Int J Obes Relat Metab Disord 1992;16:397–415.
+Elmer PJ, Grimm R Jr, Laing B, et al. Lifestyle intervention: Results of the Treatment of Mild Hypertension Study (TOMHS). Prev Med 1995;24:378–88.
+Tuomilehto J, Lindstrom J, Eriksson JG, et al. Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance. N Engl J Med 2001;344:1343–50.
+Knowler WC, Barrett-Connor E, Fowler SE, et al. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med 2002;346:393–403.
+Lau DCW, Douketis JD,Morrison KM, et al. 2006 Canadian clinical practice guidelines on the management and prevention of obesity in adults and children. CMAJ 2007;176:57–9.
+Sumithran P, Prendergast LA, Delbridge E, et al. Long-term persistence of hormonal adaptations to weight loss. N Engl J Med 2011;365:1597–604.
+Ahnis A, Figura A, Hofmann T, et al. Surgically and conservatively treated obese patients differ in psychological factors, regardless of body mass index or obesityrelated co-morbidities: A comparison between groups and an analysis of predictors. PLoS ONE 2015;10:e0117460.
+Look AHEAD Research Group, Wing RR. Long-term effects of a lifestyle intervention on weight and cardiovascular risk factors in individuals with type 2 diabetes mellitus: Four-year results of the Look AHEAD trial. Arch Intern Med 2010;170:1566–75.
+Look Ahead Research Group. Eight-year weight losses with an intensive lifestyle intervention: The look AHEAD study. Obesity (Silver Spring) 2014;22:5–13.
+American Diabetes Association’s (ADA). The American Diabetes Association (ADA) has been actively involved in the development and dissemination of diabetes care standards, guidelines, and related documents for many years. Diabetes Care 2012;35 Suppl 1:S1–2.
+WillettWC, Dietz WH, Colditz GA. Guidelines for healthy weight. N Engl J Med 1999;341:427–34.
+Williamson DF, Thompson TJ, Thun M, et al. Intentional weight loss and mortality among overweight individuals with diabetes. Diabetes Care 2000;23:1499– 504.
+Pavlou KN, Krey S, Steffee WP. Exercise as an adjunct to weight loss and maintenance in moderately obese subjects. Am J Clin Nutr 1989;49:1115–23.
+Wing RR, Hill JO. Successful weight loss maintenance. Annu Rev Nutr 2001;21:323–41.
+Wing RR, Goldstein MG, Acton KJ, et al. Behavioral science research in diabetes: Lifestyle changes related to obesity, eating behavior, and physical activity. Diabetes Care 2001;24:117–23.
+Delahanty LM, Dalton KM, Porneala B, et al. Improving diabetes outcomes through lifestyle change–a randomized controlled trial. Obesity (Silver Spring) 2015;23:1792–9.
+Feinman RD, Pogozelski WK, Astrup A, et al. Dietary carbohydrate restriction as the first approach in diabetes management: Critical review and evidence base. Nutrition 2015;31:1–13.
+Freedhoff Y, Sharma AM. Best weight: A practical guide to office-based obesity management. Edmonton: Canadian Obesity Network, 2010. http://www.obesitynetwork.ca/best-weight.
+Home PD, Bergenstal RM, Bolli GB, et al. Newinsulin glargine 300 units/mL versus glargine 100 units/mL in people with type 1 diabetes: A randomized, phase 3a, open-label clinical trial (EDITION 4). Diabetes Care 2015;38:2217–25.
+Ritzel R, Roussel R, Bolli GB, et al. Patient-level meta-analysis of the EDITION 1, 2 and 3 studies: Glycaemic control and hypoglycaemia with new insulin glargine 300 U/ml versus glargine 100 U/ml in people with type 2 diabetes. Diabetes Obes Metab 2015;17:859–67.
+Lau DCW, Teoh H. Impact of current and emerging glucose-lowering drugs on body weight in type 2 diabetes. Can J Diabetes 2015;39:S148–54.
+Davies MJ, Bergenstal R, Bode B, et al. Efficacy of liraglutide for weight loss among patients with type 2 diabetes: The SCALE diabetes randomized clinical trial. JAMA 2015;314:687–99.
+Nauck MA. Update on developments with SGLT2 inhibitors in the management of type 2 diabetes. Drug Des Devel Ther 2014;8:1335–51.
+De Leeuw I, Vague P, Selam JL, et al. Insulin detemir used in basal-bolus therapy in people with type 1 diabetes is associated with a lower risk of nocturnal hypoglycaemia and less weight gain over 12 months in comparison to NPH insulin. Diabetes Obes Metab 2005;7:73–82.
+Hollander PA, Elbein SC, Hirsch IB, et al. Role of orlistat in the treatment of obese patients with type 2 diabetes. A 1-year randomized double-blind study. Diabetes Care 1998;21:1288–94.
+Pi-Sunyer X, Astrup A, Fujioka K, et al. A randomized, controlled trial of 3.0 mg of liraglutide in weight management. N Engl J Med 2015;373:11–22.
+Lau DC, Teoh H. Current and emerging pharmacotherapies for weight management in prediabetes and diabetes. Can J Diabetes 2015;39(Suppl. 5):S134–41.
+Scheen AJ, Lefebvre PJ. Antiobesity pharmacotherapy in the management of type 2 diabetes. Diabetes Metab Res Rev 2000;16:114–24.
+Finer N, Bloom SR, Frost GS, et al. Sibutramine is effective for weight loss and diabetic control in obesity with type 2 diabetes: A randomised, double-blind, placebo-controlled study. Diabetes Obes Metab 2000;2:105–12.
+Aldekhail NM, Logue J, McLoone P, et al. Effect of orlistat on glycaemic control in overweight and obese patients with type 2 diabetes mellitus: A systematic review and meta-analysis of randomized controlled trials. Obes Rev 2015;16:1071–80.
+Heymsfield SB, Segal KR, Hauptman J, et al. Effects of weight loss with orlistat on glucose tolerance and progression to type 2 diabetes in obese adults. Arch Intern Med 2000;160:1321–6.
+Rolls BJ, Morris EL, Roe LS. Portion size of food affects energy intake in normalweight and overweight men and women. Am J Clin Nutr 2002;76:1207–13.
+Johansson K, Neovius K, DeSantis SM, et al. Discontinuation due to adverse events in randomized trials of orlistat, sibutramine and rimonabant: A metaanalysis. Obes Rev 2009;10:564–75.
+Douglas IJ, Langham J, Bhaskaran K, et al. Orlistat and the risk of acute liver injury: Self controlled case series study in UK Clinical Practice Research Datalink. BMJ 2013;346:f1936.
+Rosenstock J, Rodbard HW, Bain SC, et al. One-year sustained glycemic control and weight reduction in type 2 diabetes after addition of liraglutide to metformin followed by insulin detemir according to HbA1c target. J Diabetes Complications 2013;27:492–500.
+Niswender K, Pi-Sunyer X, Buse J, et al.Weight change with liraglutide and comparator therapies: An analysis of seven phase 3 trials from the liraglutide diabetes development programme. Diabetes Obes Metab 2013;15:42–54.
+Mechanick JI, Youdim A, Jones DB, et al. Clinical practice guidelines for the perioperative nutritional, metabolic, and nonsurgical support of the bariatric surgery patient-2013 update: Cosponsored by American Association of Clinical Endocrinologists, the Obesity Society, and American Society for Metabolic & Bariatric Surgery. Endocr Pract 2013;19:337–72.
+Abbatini F, Rizzello M, Casella G, et al. Long-term effects of laparoscopic sleeve gastrectomy, gastric bypass, and adjustable gastric banding on type 2 diabetes. Surg Endosc 2010;24:1005–10.
+Mingrone G, Panunzi S, De Gaetano A, et al. Bariatric surgery versus conventional medical therapy for type 2 diabetes. N Engl J Med 2012;366:1577–85.
+Ikramuddin S, Billington CJ, Lee WJ, et al. Roux-en-Y gastric bypass for diabetes (the Diabetes Surgery Study): 2-year outcomes of a 5-year, randomised, controlled trial. Lancet Diabetes Endocrinol 2015;3:413–22.
+Schauer PR, Bhatt DL, Kirwan JP, et al. Bariatric surgery versus intensive medical therapy for diabetes - 5-year outcomes. N Engl J Med 2017;376:641–51.
+Wang S, Li P, Sun XF, et al. Comparison between laparoscopic sleeve gastrectomy and laparoscopic adjustable gastric banding for morbid obesity: A metaanalysis. Obes Surg 2013;23:980–6.
+Courcoulas AP, Goodpaster BH, Eagleton JK, et al. Surgical vs medical treatments for type 2 diabetes mellitus: A randomized clinical trial. JAMA Surg 2014;149:707–15.
+Puzziferri N, Roshek TB 3rd, Mayo HG, et al. Long-term follow-up after bariatric surgery: A systematic review. JAMA 2014;312:934–42.
+Mingrone G, Panunzi S, De Gaetano A, et al. Bariatric-metabolic surgery versus conventional medical treatment in obese patients with type 2 diabetes: 5 year follow-up of an open-label, single-centre, randomised controlled trial. Lancet 2015;386:964–73.
+Khorgami Z, Shoar S, Andalib A, et al. Trends in utilization of bariatric surgery, 2010–2014: Sleeve gastrectomy dominates. Surg Obes Relat Dis 2017;13:774–8.
+Wang GF, Yan YX, Xu N, et al. Predictive factors of type 2 diabetes mellitus remission following bariatric surgery: A meta-analysis. Obes Surg 2015;25:199–208.
+Chen Y, Zeng G, Tan J, et al. Impact of roux-en Y gastric bypass surgery on prognostic factors of type 2 diabetes mellitus: Meta-analysis and systematic review. Diabetes Metab Res Rev 2015;31:653–62.
+Sjöström L, Peltonen M, Jacobson P, et al. Association of bariatric surgery with long-term remission of type 2 diabetes and with microvascular and macrovascular complications. JAMA 2014;311:2297–304.
+Jackson S, le Roux CW, Docherty NG. Bariatric surgery and microvascular complications of type 2 diabetes mellitus. Curr Atheroscler Rep 2014;16:453.
+Cheung D, Switzer NJ, Ehmann D, et al. The impact of bariatric surgery on diabetic retinopathy: a systematic review and meta-analysis. Obes Surg 2015;25:1604–9.
+Romeo S, Maglio C, Burza MA, et al. Cardiovascular events after bariatric surgery in obese subjects with type 2 diabetes. Diabetes Care 2012;35:2613–17.
+Mahawar KK, De Alwis N, Carr WR, et al. Bariatric surgery in type 1 diabetes mellitus: A systematic review. Obes Surg 2016;26:196–204.
+Kirwan JP, Aminian A, Kashyap SR, et al. Bariatric surgery in obese patients with type 1 diabetes. Diabetes Care 2016;39:941–8.
+Chow A, Switzer NJ, Dang J, et al. A systematic review and meta-analysis of outcomes for type 1 diabetes after bariatric surgery. J Obes 2016;2016:6170719.
+Ashrafian H, Harling L, Toma T, et al. Type 1 diabetes mellitus and bariatric surgery: A systematic review and meta-analysis. Obes Surg 2016;26:1697–704.
+Prospective Studies Collaboration, Whitlock G, Lewington S, et al. Body-mass index and cause-specific mortality in 900 000 adults: Collaborative analyses of 57 prospective studies. Lancet 2009;373:1083–96.
+Reeder SB. Emerging quantitative magnetic resonance imaging biomarkers of hepatic steatosis. Hepatology 2013;58:1877–80.
+Health Canada. Canadian guidelines for body weight classification in adults. Ottawa: 2015. https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/healthy-weights/canadian-guidelines-body-weight-classificationadults.html. Accessed November 8, 2017.
+Shukla A, Rubino F. Secretion and function of gastrointestinal hormones after bariatric surgery: Their role in type 2 diabetes. Can J Diabetes 2011;35:115–22.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

@@ -1,0 +1,148 @@
+Chapter Headings
+
+Process
+Identifying and Appraising the Evidence
+Guideline Development
+Grading the Recommendations
+Interpreting the Assigned Grade of a Recommendation
+Independent Methodological Review
+External Peer Review
+Disclosure of Conflict of Interest
+Other Relevant Guidelines
+Author Disclosures
+Process
+
+Following the process used to develop previous Diabetes Canada Clinical Practice Guidelines (1), an Executive Committee, Steering Committee and Expert Committee with broad expertise and geographic representation were assembled. In total, 135 volunteers, from diverse practice settings across the country, including professionals from family medicine, endocrinology, internal medicine, cardiology, neurology, nephrology, infectious disease, urology, psychiatry, psychology, obstetrics, ophthalmology, pediatrics, nursing, dietetics, pharmacy, chiropractic, exercise physiology, and others, participated in the guideline development process.
+
+To further support the principles previously adopted to develop evidence-based recommendations, the current iteration of the guidelines engaged the McMaster Evidence Review and Synthesis Centre to systematically search, review and perform a critical appraisal of the literature. An online database (2) was used to enhance within and across chapter communication and documentation of the review of the literature, and to create guideline “memory” for future iterations of Diabetes Canada Clinical Practice Guidelines. Elements covered by the Appraisal of Guidelines for Research and Evaluation (AGREE) II instrument were incorporated into the guideline development process (3).
+
+Each recommendation had to address a clinically important question related to 1 or more of the following: detection, prognosis, prevention or management of diabetes and its sequelae. Health benefits, risks and side effects of interventions were considered in formulating the recommendations. Patient preferences and values were sought from expert panel members living with diabetes and the literature (where available).
+
+Whenever possible, each recommendation had to be justified by the strongest clinically relevant, empirical evidence that could be identified; the citation(s) reporting this evidence had to be noted adjacent to the relevant guideline.
+
+The strength of this evidence, based on prespecified criteria from the epidemiologic literature and other guidelines processes, had to be noted (4–9).
+
+Each recommendation had to be assigned a grade based on the available evidence, its methodological strength and its applicability to the Canadian population.
+
+Each recommendation was reviewed by an Independent Methods Review member and had to be approved by the Steering Committee and Executive Committee, with 100% consensus.
+
+Guidelines based on biological or mechanistic reasoning, expert opinion or consensus had to be explicitly identified and graded as such; harmonization was sought with other Canadian guideline bodies, including the Canadian Cardiovascular Society (CCS), Hypertension Canada and the Canadian Cardiovascular Harmonization of National Guidelines Endeavour (C-CHANGE).
+
+Identifying and Appraising the Evidence
+“The trials we have comprise islands of evidence, linked by shorter and longer bridges of extrapolation spanning oceans of uncertainty…
+The longer the bridge and the farther we are from an island, the shakier the extrapolation…
+More good outcomes trials means more islands, shorter bridges and less uncertainty…
+But there will always be an ocean to span and a bridge to cross.” (Hertzel Gerstein, 2015)
+
+Authors for each chapter were assembled based on their relevant fields of expertise. Each chapter had 1 lead author, 1 or 2 “evidence resource” persons trained or experienced in clinical epidemiology or clinical research methodology, and up to 6 additional authors, as needed. At the outset of the process, committee members from each section of the guidelines attended a workshop on evidence-based practice and guideline development, in order to ensure a consistent approach to the development of recommendations. Committee members identified clinically important questions related to diagnosis, prognosis, prevention and treatment of diabetes and its complications, which were used as a basis for our literature search strategy (outlined below).
+
+Authors were to explicitly define: a) the population to which the question would apply; b) the test, risk factor or intervention being addressed; c) an appropriate reference standard or control population to which the test, intervention or exposure was to be compared; and d) the clinically relevant outcomes being targeted. This information was used to develop specific, clinically relevant questions that were the focus of literature searches. For each question, strategies were developed combining diabetes terms with methodological terms. Two health sciences librarians with expertise in evidence-based practice constructed and peer-reviewed comprehensive searches of the relevant English-language, published, peer-reviewed literature using validated search strategies of electronic databases (MEDLINE, EMBASE, CINAHL, the Cochrane Central Register of Trials, and PsycINFO [where appropriate]). For topics that were covered in the 2013 Clinical Practice Guidelines, the literature searches focused on new evidence published since those guidelines, including literature published in September 2013 or later. For new topics, the search time frame included the literature published since 1990 or earlier where relevant. Updated literature searches were performed at two other intervals throughout the development process.
+
+Once citation duplicates were removed, all references and full-text documents were loaded into DistillerSR (2). Using a priori defined criteria of inclusion and exclusion, all citations were screened at the title and abstract level in duplicate by team members from the evidence centre; full-text screening was completed by a diabetes clinician and methodologist for relevance. All full-text citations and supporting documents were then made available to the chapter authors for review. Authors were asked to review all remaining citations and systematically determine whether the citation would be used for background material, discarded (with justification) or used to support a new or existing recommendation. Each citation that was used to formulate, update or revise a recommendation was critically appraised using standardized tools for treatment, diagnostic or prognostic studies with built-in algorithms to ensure consistent approaches to generating levels of evidence, based on prespecified criteria in Table 1. The level of evidence was then determined by the cited paper's objectives, methodological rigour, susceptibility to bias and generalizability (Table 1). Because they could not be critically appraised, meeting abstracts, narrative review articles, news reports and other sources could not be used to support recommendations. Papers evaluating the cost effectiveness of therapies or diagnostic tests also were not included. Finally, citation flow diagrams depicting the search, review and selection of citations for each chapter, specifically, the number of citations reviewed, removed and requiring new or revised recommendations, are included at the end of each chapter (10).
+
+A number of considerations were made when evaluating the evidence within a given area. For example, people with diabetes are at high risk for several sequelae that are not exclusive to diabetes (e.g. cardiovascular disease, renal failure and erectile dysfunction). As such, some evidence relating to these problems was identified that either excluded, did not report on or did not focus on people with diabetes. Whenever such evidence was identified, a level was assigned using the approach described above. Higher levels were assigned if: a) people with diabetes comprised a predefined subgroup; b) the results in the diabetes subgroup were unlikely to have occurred by chance; and c) the evidence was generated in response to questions that were formulated prior to the analysis of the results. Lower levels (than those indicated in Table 1) were assigned to evidence that did not meet these criteria.
+
+Table 1
+Criteria for assigning levels of evidence to the published studies
+* In cases where such blinding was not possible or was impractical (e.g. inten- sive vs. conventional insulin therapy), the blinding of individuals who assessed and adjudicated study outcomes was felt to be sufficient.
+RCT, randomized controlled trial.
+Level	Criteria
+Studies of diagnosis
+Level 1	
+Independent interpretation of test results (without knowledge of the result of the diagnostic or gold standard)
+Independent interpretation of the diagnostic standard (without knowledge of the test result)
+Selection of people suspected (but not known) to have the disorder
+Reproducible description of both the test and diagnostic standard
+At least 50 patients with and 50 patients without the disorder
+
+Level 2	Meets 4 of the Level 1 criteria
+Level 3	Meets 3 of the Level 1 criteria
+Level 4	Meets 1 or 2 of the Level 1 criteria
+Studies of treatment and prevention
+Level 1A	Systematic overview or meta-analysis of high-quality RCTs
+Comprehensive search for evidence
+Authors avoided bias in selecting articles for inclusion
+Authors assessed each article for validity
+Reports clear conclusions that are supported by the data and appropriate analyses
+OR
+Appropriately designed RCT with adequate power to answer the question posed by the investigators
+Patients were randomly allocated to treatment groups
+Follow up at least 80% complete
+Patients and investigators were blinded to the treatment ∗
+Patients were analyzed in the treatment groups to which they were assigned
+The sample size was large enough to detect the outcome of interest
+
+Level 1B	Non-randomized clinical trial or cohort study with indisputable results
+Level 2	RCT or systematic overview that does not meet Level 1 criteria
+Level 3	Non-randomized clinical trial or cohort study; systematic overview or meta-analysis of level 3 studies
+Level 4	Other
+Studies of prognosis
+Level 1	
+Inception cohort of patients with the condition of interest, but free of the outcome of interest
+Reproducible inclusion/exclusion criteria
+Follow up of at least 80% of subjects
+Statistical adjustment for extraneous prognostic factors (confounders)
+Reproducible description of outcome measures
+
+Level 2	Meets criterion a) above, plus 3 of the other 4 criteria
+Level 3	Meets criterion a) above, plus 2 of the other criteria
+Level 4	Meets criterion a) above, plus 1 of the other criteria
+Guideline Development
+
+Expert Committee members evaluated the relevant literature, and guidelines were developed and initially reviewed by the Expert Committee. In the absence of new evidence since the publication of the 2013 Clinical Practice Guidelines, recommendations from the 2013 document were not changed.
+
+The studies used to develop and support each recommendation are cited beside the level of evidence. In some cases, key citations that influenced the final recommendation were not assigned the same level of evidence, but rather were of varying levels of evidence. In those circumstances, all relevant studies were cited, regardless of the grading assigned to the recommendation. The final grading depended on the totality of evidence, including the relative strengths of the studies from a methodological perspective and the studies' findings. Studies with conflicting outcomes were considered and cited in the final recommendation and were assigned a grade to reflect the uncertainty signalled by conflicting findings. Further details on the grading process are described below.
+
+Finally, several treatment recommendations were based on evidence generated from the use of 1 therapeutic agent from a given class (e.g. 1 of the “statins”). Whenever evidence relating to 1 or more agents from a recognized class of agents was available, the recommendation was written so as to be relevant to the class, but specifically studied therapeutic agents were identified within the recommendation and/or cited reference(s). Only medications with Health Canada Notice of Compliance granted by September 15, 2017 were included in the recommendations.
+
+Table 2
+Criteria for assigning grades of recommendations for clinical practice
+Grade	Criteria
+Grade A	The best evidence was at Level 1
+Grade B	The best evidence was at Level 2
+Grade C	The best evidence was at Level 3
+Grade D	The best evidence was at Level 4 or consensus
+Grading the Recommendations
+
+After formulating new recommendations or modifying existing ones based on new evidence, each recommendation was assigned a grade from A through D (Table 2). The highest possible grade that a recommendation could have was based on the strength of evidence that supported the recommendation (i.e. the highest level of evidence assigned to studies on which the recommendation was based). However, the assigned grading was lowered in some cases; for example, if the evidence was found not to be applicable to the Canadian population or, if based on the consensus of the Steering and Executive Committees, there were additional concerns regarding the recommendation. In some situations, the grading also was lowered for subgroups that were not well represented in the study, or in whom the beneficial effect of an intervention was less clear. Grading also was lowered if the findings from relevant (and equally rigorous) studies on the topic were conflicting. Thus, a recommendation based on Level 1 evidence, deemed to be very applicable to Canadians and supported by strong consensus, was assigned a grade of A. A recommendation not deemed to be applicable to Canadians, or judged to require further supporting evidence, was assigned a lower grade. Where available, the number of patients that would need to be treated in order to prevent 1 clinical event (number needed to treat [NNT]) or to cause an adverse event (number needed to harm [NNH]) was considered in assessing the impact of a particular intervention. The degree to which evidence derived from other populations was felt to be relevant to diabetes also was reflected in the wording and grading of the recommendation. Finally, in the absence of Level 1, 2 or 3 supporting evidence, or if the recommendation was based on the consensus of the Steering and Executive Committees, the highest grade that could be assigned was D.
+
+Interpreting the Assigned Grade of a Recommendation
+
+The grade assigned to each recommendation is closely linked to the methodological rigour and robustness of the relevant clinical research. Therefore, as noted above, a high grade reflects a high degree of confidence that following the recommendation will lead to the desired outcome. Similarly, a lower grade reflects weaker evidence, and a greater possibility that the recommendation will change when more evidence is generated in the future. Of note, the assigned grade contains no subjective information regarding the importance of the recommendation or how strongly members of the committee felt about it; it contains information regarding only the evidence upon which the recommendation is based. Thus, many Grade D recommendations were deemed to be very important to the contemporary management of diabetes, based on clinical experience, case series, physiological evidence and current concepts of disease pathophysiology. However, the paucity of clinical evidence addressing the areas of therapy, prevention, diagnosis or prognosis precluded the assignment of a higher grade.
+
+Clearly, clinicians need to base clinical decisions on the best available relevant evidence that addresses clinical situations. However, they also frequently are faced with having to act in the absence of clinical evidence, and there are many situations where good clinical evidence may be impossible, impractical or too expensive to generate (which implies that it would be impossible to develop Grade A recommendations). Varying grades of recommendations, therefore, reflect varying degrees of certainty regarding the strength of inference that can be drawn from the evidence in support of the recommendation. Therefore, these evidence-based guidelines and their graded recommendations are designed to satisfy 2 important needs: 1) the explicit identification of the best research upon which the recommendation is based, and an assessment of its scientific relevance and quality (captured by the assignment of a level of evidence to each citation); and 2) the explicit assignment of strength of the recommendation based on this evidence (captured by the grade). In this way, they provide a convenient summary of the evidence to facilitate clinicians in the task of “weighting” and incorporating ever-increasing evidence into their daily clinical decision-making. They also facilitate the ability of clinicians, healthcare planners, health-care providers, and society, in general, to critically examine any recommendation and arrive at their own conclusions regarding its appropriateness. Thus, these guidelines facilitate their own scrutiny by others according to the same principles that they use to scrutinize the literature.
+
+It is important to note that the system chosen for grading recommendations differs from the approach used in some other guideline documents in which a treatment or procedure that is not useful/effective and in some cases may be harmful are assigned a grade or class (11). In this Diabetes Canada guidelines document, recommendation to avoid any harmful practices would be graded in the same manner as all other recommendations. However, it should be noted that the authors of these guidelines focused on clinical practices that were thought to be potentially beneficial, and did not seek out evidence regarding the harmfulness of interventions.
+
+Independent Methodological Review
+
+An Independent Methods Review (IMR) committee was established to ensure consistency and rigour in the recommendation development process. The IMR consisted of 9 university-based clinician faculty with advanced training in research methods (2 co-chairs, and 7 reviewing members). The IMR provided methodological expertise and were a resource available to the recommendation authors throughout the development process.
+
+All drafted recommendations and their supporting evidence were appraised and graded by the recommendation authors. The IMR would then provide a secondary critical review of the recommendation and the evidence to ensure the following: 1) There was strong fidelity between the wording of the recommendation and the cited clinical evidence; and 2) Provide an independent appraisal and grade for the cited evidence. Where appropriate, the IMR would suggest rephrasing of recommendations to ensure the recommendation accurately reflected the underpinning evidence. In the event that there was discordance between the author-assigned grade and the IMR-assigned grade, the recommendation was arbitrated by 1 of the IMR co-chairs. All IMR review activities were systematically performed and recorded to ensure procedural quality and transparency.
+
+External Peer Review
+
+In May 2017, a draft document was circulated nationally and internationally for content review by numerous stakeholders and experts in relevant fields, including specialists, community primary care providers, academic departments of family medicine across Canada, and specialty and disease support organizations. This input was then considered by the Expert, Executive and Steering Committees and revisions were made accordingly. Revised recommendations were reviewed and approved by the Executive and Steering Committees. Selected recommendations were presented at a professional and public forum at the Diabetes Canada/Canadian Society of Endocrinology and Metabolism Professional Conference and Annual Meetings in Edmonton, Alberta on November 4, 2017.
+
+Disclosure of Conflict of Interest
+
+Expert Committee members were volunteers and received no remuneration or honoraria for their participation. Members of all committees signed an annual duality of interest form listing all financial interests or relationships with manufacturer(s) of any commercial product(s) and/or provider(s) of commercial services. The most recent 2018 disclosures have been included at the end of each chapter. Dualities of interest were discussed during deliberations where relevant. In the case of a potential duality or outright conflict of interest, committee members removed themselves from discussions.
+
+Other Relevant Guidelines
+Chapter 1. Introduction
+Author Disclosures
+
+Dr. Sherifali reports investigator-initiated funding from AstraZeneca. Dr. Houlden reports grants from Boehringer Ingelheim, Novo Nordisk, and Eli Lilly, outside the submitted work. Dr. Rabi does not have anything to disclose.
+
+References
+Canadian Diabetes Association Clinical Practice Guideline Expert Committee. Canadian Diabetes Association 2013 clinical practice guidelines for the prevention and management of diabetes in Canada. Can J Diabetes 2013;37:S1–212.
+Evidence Partners. Distiller (DistillerSR systematic review software) [computer program]. Ottawa: Evidence Partners, 2017.
+Brouwers M, Kho ME, Browman GP, et al. Appraisal of guidelines for research & evaluation II. AGREE II instrument. Canadian Institute for Health Research (CIHR), 2013.
+Straus SE, McAlister FA. What is the prognosis? In: Gerstein HC, Haynes RB, eds. Evidence-based diabetes care. Hamilton: BC Decker Inc., 2001, pg. 6–12.
+Guyatt G, Rennie D, Meade MO, et al., eds. Users’ guides to the medical literature: A manual for evidence-based clinical practice. 3rd edn. New York: McGrawHill, 2015.
+Jaeschke R, Guyatt GH. How should diagnostic test be chosen and used? In: Gerstein HC, Haynes RB, eds. Evidence-based diabetes care. Hamilton: BC Decker Inc., 2001, pg. 13–23.
+Holbrook AM, Clarke J-A, Raymond C, et al. How should a particular problem be managed? Incorporating evidence about therapies into practice. In: Gerstein HC, Haynes RB, eds. Evidence-based diabetes care. Hamilton: BC Decker Inc., 2001, pg. 24–47.
+Harris SB, Webster-Bogaert SM. Evidence-based clinical practice guidelines. In: Gerstein HC, Haynes RB, eds. Evidence-based diabetes care. Hamilton: BC Decker Inc., 2001, pg. 48–61.
+Goldbloom R, Battista RN. The periodic health examination: 1. Introduction. CMAJ 1986;134:721–3.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.
+Ryden L, Grant PJ, Anker SD, et al. ESC Guidelines on diabetes, pre-diabetes, and cardiovascular diseases developed in collaboration with the EASD: The Task Force on diabetes, pre-diabetes, and cardiovascular diseases of the European Society of Cardiology (ESC) and developed in collaboration with the European Association for the Study of Diabetes (EASD). Eur Heart J 2013;34:3035–87.

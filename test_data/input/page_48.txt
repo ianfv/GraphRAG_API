@@ -1,0 +1,500 @@
+Chapter Headings
+
+Key Messages
+Key Messages for People With Diabetes
+Introduction
+Methodology
+Terminology and Definitions
+e-Delphi Process
+e-Delphi Results
+Literature Review and Generation of New Recommendations
+Approaches to Type 2 Diabetes Remission
+Surgical Interventions
+Health Behavioural Interventions
+Pharmacological Interventions
+Digital Technology Interventions
+Limitations
+Recommendations
+Acknowledgments
+Author Disclosures
+Supplementary Data
+Supplementary Material
+Key Messages
+
+Type 2 diabetes remission is defined as achieving specified glycated hemoglobin (A1C) thresholds without any antihyperglycemic medications for a minimum of 3 months: remission to prediabetes (A1C between 6.0% and 6.4%) and remission to normal glucose concentrations (A1C <6.0%).
+
+The target of remission may be considered as an option for individuals with early type 2 diabetes with overweight or obesity; with inclination and circumstances to engage in weight loss with the goal of de-escalation and/or elimination of antihyperglycemic agents; and without significant eating or mental health disorders, atherosclerotic cardiovascular disease (ASCVD), heart failure (HF) and/or chronic kidney disease (CKD).
+
+Current evidence suggests that type 2 diabetes remission following weight loss may be possible in a subset of these individuals through a variety of interventions, including bariatric surgery and low-calorie meal plans under the supervision of a trained dietitian or other health-care provider (HCP).
+
+Sustained weight loss of ≥15 kg of initial body weight is associated with the greatest probability of type 2 diabetes remission.
+
+Key Messages for People With Diabetes
+
+Remission of type 2 diabetes—i.e. achieving A1C in non-diabetes range after stopping glucose-lowering medication(s)—is possible for some individuals.
+
+Achieving remission is more likely for individuals:
+
+diagnosed with type 2 diabetes for a shorter time (e.g. less than 6 years);
+with overweight or obesity, who are able and inclined to lose weight;
+with blood glucose levels that are not that elevated; and
+who do not take insulin.
+
+Stopping certain glucose-lowering medication(s) with proven benefits on reducing heart and/or kidney disease complications may not be recommended for individuals with type 2 diabetes who have a history of cardiovascular disease and/or kidney disease.
+
+Your HCP or diabetes care team can help you determine if type 2 diabetes remission is appropriate for you. If so, they can help you select the best therapeutic option among the available strategies to give you the best chance of remission, and make appropriate referrals.
+
+Introduction
+
+Historically, type 2 diabetes was, and still often is, viewed as a manageable but progressive disease, with an unavoidable trajectory toward beta-cell failure (1). In the 1990s, case reports started to emerge of individuals with type 2 diabetes achieving non-diabetes range glucose values without antihyperglycemic agents after bariatric surgery. Randomized controlled trials have demonstrated that bariatric surgery can lead to diabetes remission. More recently, trials examining lifestyle-based interventions for type 2 diabetes—specifically, low-calorie dietary interventions—have reported remission in many participants. This has prompted the current clinical practice guideline (CPG) review of the literature and the development of recommendations on diabetes remission.
+
+Overall, beyond the lens of diabetes remission, it remains critical that care for people with diabetes be individualized and tailored to the individual’s preferences, needs and circumstances. People with diabetes should maintain self-efficacy and autonomy as capable individuals in an equitable environment. Sensitivity to the often experienced stigma of diabetes and/or obesity must also be considered. Beyond individual person considerations, HCPs must recognize the effects of colonialism and racism contributing to higher rates of type 2 diabetes and obesity among Indigenous peoples and non-White races/ethnicities, and that an anti-racism and anti-oppression approach must be adopted (2). Food security, sovereignty, access and affordability are important factors in both preventing type 2 diabetes and facilitating its remission, along with access to safe drinking water. HCPs play a role in responding to the Truth and Reconciliation Commission Calls to Action (3). Receiving the best possible diabetes care is paramount and fundamental to achieve equity for all Canadians living with diabetes.
+
+In this chapter, the authors attempt to offer guidance on how to define remission and where the benefit lies with the formulation of evidence-based CPG recommendations. Given that current evidence mainly supports weight loss as a successful remission strategy and that weight loss is not feasible or achievable for many people with lifestyle therapy, for a variety of personal, environmental and systemic reasons, we caution HCPs against framing remission as a “success/failure” dichotomy. We are also cognizant of language and that there is a potential negative impact on the individual if they are not able to achieve or remain in remission, or for those who may need several attempts before attaining remission. The benefits and risks associated with an emphasis on remission have been carefully synthesized as per the methodology of the CPG (4) and are further clarified in the accompanying User’s Guide (5). It must be emphasized that the pre-existing related guideline chapters, including weight management (6), cardiovascular disease and management (7), nutrition (8), physical activity (9), reducing the risk of developing diabetes (10) and pharmacology (11), all remain as fundamental components of type 2 diabetes care and management. In a tailored approach to type 2 diabetes management, an eligible individual with type 2 diabetes should be offered the opportunity for a shared decision-making conversation about the options available because, based on the current evidence, it is unclear whether type 2 diabetes remission confers all the benefits associated with optimized management utilizing antihyperglycemic agents or whether certain medications may offer advantages above and beyond optimized A1C in individuals with type 2 diabetes who do not have ASCVD, HF and/or CKD.
+
+Methodology
+
+The first step in the process of developing this chapter was the recruitment of a multidisciplinary panel of contributing authors, including people with type 2 diabetes who had achieved remission, primary care practitioners, allied health professionals, researchers, specialist clinicians and clinician scientists under the guidance of the Diabetes Canada CPG Steering Committee. From the outset, starting with an initial author group meeting in June 2021, we agreed on 2 primary objectives for the chapter: 1. To develop consensus-based definitions of type 2 diabetes remission that should be applied in the Canadian context; and 2. To develop therapeutic recommendations on type 2 diabetes remission that help HCPs in Canada discuss this relatively new nonpharmacologic option with their patients in a standardized and evidence-based manner.
+
+Terminology and Definitions
+
+The term “remission” is commonly used in oncology to describe the non-detection of cancer after treatment. Inherent in the concept of cancer remission is that recurrence may develop as risk remains. Our author group recognized that the language used to talk about type 2 diabetes remission, as well as the definitions, needed to be carefully selected. We, therefore, embarked on an iterative electronic Delphi (e-Delphi) process to agree on terminology and definitions for type 2 diabetes remission.
+
+In 2021, 4 major diabetes journals published consensus-based remission definitions, authored by representatives from the American Diabetes Association, the European Association for the Study of Diabetes, Diabetes UK, the Endocrine Society and the Diabetes Surgery Summit (12–15). This consensus-based definition required an A1C <6.5% without use of antihyperglycemic medications for at least the 3 prior months.
+
+e-Delphi Process
+
+After review and appraisal of the international panel consensus report (12–15) and related literature (16,17), 3 authors (D.M., N.M. and H.S.B.) from the current Diabetes Canada remission chapter acted as independent moderators to develop online questionnaires to measure the degree of consensus for a set of statements that were believed to summarize and reflect available evidence. For each of these, the process sought to achieve consensus, defined as agreement by a supermajority (two-thirds, i.e. ≥67%) of voting delegates, consistent with other medical consensus statements. The voting committee consisted of the current chapter authors (excluding the 3 independent moderators) and Diabetes Canada CPG Steering Committee members. Voting members who did not agree with proposed statements were asked to state their reasons and propose amendments. Three rounds of e-Delphi questionnaires were administered to test various amendments to the original statements that could increase consensus levels among the voting group. Chapter co-chairs (D.M. and H.S.B.) presented draft conclusions generated through this iterative process at chapter author and CPG Steering Committee meetings.
+
+Table 1
+e-Delphi results for Diabetes Canada terminology and definitions of type 2 diabetes remission
+2hPG, 2-hour plasma glucose; A1C, glycated hemoglobin; FPG, fasting plasma glucose; OGTT, oral glucose tolerance test.Testing must be performed in a laboratory using a validated assay.
+Terminology
+Type 2 diabetes remission – no antihyperglycemic medication for at least 3 consecutive months and achieving an A1C threshold as listed below:
+Remission categories:
+•
+
+remission to normal glucose levels (A1C <6.0%)
+
+•
+
+remission to prediabetes (A1C between 6.0% and 6.4%)
+
+Type 2 diabetes relapse (subsequent A1C ≥6.5%)
+Pharmacologically-managed diabetes (if currently on antihyperglycemic medication/s)
+Lab testing to determine if type 2 diabetes remission criteria are met
+Primary criterion: Meeting A1C thresholds, as listed above.
+If the primary criterion for defining remission cannot be used (e.g. unreliable value), secondary criteria may include: Meeting FPG thresholds on 2 separate occasions (FPG ≤6 mmol/L for remission to normal glucose levels or 6.1 to 6.9 mmol/L for remission to prediabetes) or meeting both OGTT thresholds (both FPG [as above] and 2hPG ≤7.7 mmol/L for remission to normal glucose levels or 7.8 to 11.0 mmol/L for remission to prediabetes)
+Remission lab testing (A1C or, if A1C unreliable, FPG/2-hour OGTT) timeline
+Minimal time interval(s) for lab evaluation of remission status after stopping antihyperglycemic medication(s) or after a new diagnosis of type 2 diabetes: both at 3 months and 6 months
+Frequency of testing after remission criteria have been met to evaluate for persistence of remission vs relapse: at least every 6 months
+e-Delphi Results
+
+The e-Delphi process led to the creation of Diabetes Canada definitions for type 2 diabetes remission, outlined in Table 1. These definitions apply to individuals previously diagnosed with type 2 diabetes based on Diabetes Canada diagnostic criteria (18). We favour the word “remission” over “reversal” or “regression” to signify the potentially temporary nature of glucose improvement, which may or may not impact the long-term deterioration of beta cells. The consensus was to categorize remission of type 2 diabetes based on the achieved A1C level: remission to prediabetes (A1C between 6.0% and 6.4%) and remission to normal glucose concentrations (A1C <6.0%). Both remission subclasses require that an individual in remission not be taking any antihyperglycemic medications for a minimum of 3 months. If, after achieving remission with either definition, the A1C subsequently rises above the specified threshold of 6.4%, the individual with remission would be considered to have relapsed with type 2 diabetes. Furthermore, if antihyperglycemic agents are added back or continued, even if prescribed only for the purpose of cardiovascular and/or renal protection and/or weight control, the individual’s type 2 diabetes would not be considered as being in remission, but would be considered as pharmacologically-managed diabetes, regardless of A1C. A1C was chosen as the primary criteria for defining type 2 diabetes remission; however, if A1C was unreliable in an individual, such as in the context of hemoglobinopathy (as per Diabetes Canada guidelines [18]), then the definition of remission could be based on meeting fasting plasma glucose (FPG) thresholds obtained on 2 separate occasions or meeting both oral glucose tolerance test (OGTT) thresholds (both fasting and 2-hour plasma glucose) on 1 occasion (see Table 1). In terms of A1C testing frequency for initially determining remission, whether for an individual with established type 2 diabetes stopping glucose-lowering medication(s) or after a new diagnosis of type 2 diabetes, we recommend lab evaluation (A1C or, if A1C unreliable, FPG or OGTT) at 3 and 6 months. If, at 6 months, remission criteria have not been met, reinitiation of antihyperglycemic agents should be considered. If remission criteria are met, subsequent A1C testing to monitor for persistence of remission or relapse status should be performed at least every 6 months.
+
+Literature Review and Generation of New Recommendations
+Methodology
+
+The overarching goals and methodologic principles as defined in the 2018 Methodology chapter for the Diabetes Canada CPG (4) were followed for literature review, evidence appraisal and systematic grading of recommendations. Based on their expertise, the author group was subdivided into 4 groups (1 for each intervention): surgical, health behavioural, pharmacological and digital technology. Each subgroup of authors generated questions in the PICO (population, intervention, control and outcomes) format. Based on these questions, a systematic search of the literature was performed for relevant articles published from January 1, 2010, to September 15, 2021. The search was completed by health science librarians from the McMaster Evidence Review and Synthesis Team (MERST), using the MEDLINE and EMBASE databases. The search was limited to studies conducted in humans and generated 4,568 unique citations. As well, any publications that were not found by the search but identified as being relevant to diabetes remission (N=8) were added manually at the title and abstract review stage (N=4,576). MERST reviewed all relevant citations at title, abstract and full-text levels. Relevant citations that could potentially lead to new recommendations (N=43) were identified by the expert author group and critically appraised by a methodologist from MERST to assist with grading the evidence (4).
+
+Using a separate electronically administered survey within the author group, we came to a consensus on what the minimal absolute percent of trial participants would need to remain in remission at 1 year following an intervention for the intervention to be considered in formulating a recommendation. For health behavioural, pharmacological and digital technology interventions, the consensus minimum percentage in remission at 1 year was 20% while, for surgical interventions, the agreed upon percentage was 35%; the difference in proportions between the interventions was based on the authors’ expert opinions that surgical interventions are generally considered to be irreversible in nature and likely to have a higher rate of complications.
+
+With the expectation that these recommendations may shift the clinical care paradigm in Canada by including the option of remission of type 2 diabetes, the author group by consensus decided to formulate recommendations if there was a high level of evidence (Level 2 or above). A simultaneous “User’s Guide” is being published alongside this CPG chapter to provide clinical context and to help dissemination efforts for the novel terminology and recommendations among Canadian HCPs.
+
+The composition of the expert author group and the approach to disclosure and management of conflicts of interest were aligned with the CPG Process Manual (19). The CPG Chair (H.S.B.) oversaw the whole process and sought input and feedback from the CPG Steering Committee periodically throughout the process, as well as upon drafting the chapter preamble and recommendations. The CPG Steering Committee includes diversity in gender, race and ethnicity; different health-care professions and various practice settings; and a person with lived experience of type 1 diabetes. A small group of external reviewers (HCPs and researchers) evaluated the draft chapter and recommendations (see Acknowledgments section). The finalized recommendations were unanimously approved by the CPG Steering Committee.
+
+Approaches to Type 2 Diabetes Remission
+
+Surgical interventions considered all interventions that included a surgery, whether or not they also involved behavioural interventions or pharmacological agents. Pharmacological interventions were classified as those which added 1 or more pharmacological agents to achieve remission, whether or not they also involved behavioural interventions. Health behavioural interventions were those that attempted to change diet and/or physical activity or other health-related behaviours, but that did not include the addition of new pharmacological agents or surgery. Finally, digital technology interventions covered a subset of health behavioural interventions where platforms and tools, such as smartphones/watches, mobile and web/digital applications, glucose-sensing and related technologies, etc, were the central instruments used to achieve diabetes remission, but that did not include new pharmacological agents or surgery. The surgical interventions literature is presented first because of the longer history of remission studies with bariatric procedures relative to other interventions.
+
+Surgical Interventions
+
+Bariatric surgery is a therapeutic option in the management of people with obesity, with or without type 2 diabetes (20–23). Commonly performed bariatric procedures include sleeve gastrectomy (SG), Roux-en-Y gastric bypass (RYGB) and duodenal switch, but recent variants also include mini gastric bypass (Mini-GBP), single anastomosis duodeno-ileal (SADI) bypass, and single anastomosis duodeno-ileal bypass with sleeve gastrectomy (SADI-S). These procedures are further detailed in the “Weight Management in Diabetes” chapter of the 2018 Diabetes Canada CPG, along with associated recommendations (6).
+
+Type 2 diabetes remission with bariatric surgery
+
+In adults with type 2 diabetes and obesity, bariatric surgery is associated with greater type 2 diabetes remission than standard medical care (63–66). In a meta-analysis of 16 studies (including 5 randomized controlled trials [RCTs]) with 6,131 participants and a mean follow-up of 17.3 months, bariatric surgery was associated with 9.8 to 15.8 times higher odds of remission of type 2 diabetes compared to conventional medical therapy (20). Published literature suggests that the remission and relapse rates of type 2 diabetes may vary by the type of bariatric surgery. Several meta-analyses and RCTs suggest that, after 1 to 5 years, RYGB is associated with remission of type 2 diabetes in 30% to 63% of participants (21). However, follow-up studies suggest that at least 35% to 50% of the individuals who initially achieve remission of diabetes may eventually experience relapse (22,23). The median remission period among such individuals following RYGB is 8.3 years (24).
+
+RYGB vs SG
+
+A meta-analysis of 10 RCTs with a minimum of 1-year follow-up by Castellana et al (25) determined higher remission rates for RYGB than for SG (total N=778) at 1 year (60% vs 47%, relative risk [RR]=1.22; 95% confidence interval [CI], 1.06–1.40; p=0.006 ), but, at 5 years, there was no difference in achieving remission between the techniques (43% vs 38%, respectively). A meta-analysis by Borgeraas et al (26) also reported a higher remission rate with RYGB (57%) than with SG (47%) at 1 year, but no differences beyond 2 years. Similarly, a meta-analysis by Madadi et al (27) found that people with type 2 diabetes who underwent SG had lower odds of remission than those who underwent RYGB (odds ratio [OR], 0.71; 95% CI 0.56–0.89]), but the difference decreased beyond 1 year of follow-up. Guraya and Strate (28) updated these reviews looking at laparoscopic surgeries and, from 9 studies, they found no differences for type 2 diabetes remission by laparoscopic RYGB and laparoscopic SG, with an OR of 0.93 (95% CI, 0.64–1.35). The SLEEVEPASS RCT, comparing SG and RYGB in Finland (24), found no difference in type 2 diabetes remission with SG and RYGB (26% and 33%, respectively; p=0.63) at 10 years.
+
+Bariatric surgery and remission of type 2 diabetes in those with body mass index (BMI) <35 kg/m2
+
+In the Muller-Stich et al (29) systematic review and meta-analysis of 5 RCTs involving participants with BMI <35 kg/m2, surgery was associated with a greater type 2 diabetes remission rate (107/221 vs 6/178; OR, 13.0; 95% CI, 4.48–37.41) than non-surgical medical treatment.
+
+Two additional meta-analyses (30,31) to date have included individuals with BMI 30–40 kg/m2, with smaller subsets of those with BMI <35 kg/m2. While 43.3% (n=128) of the participants in the Cohen et al study (31) had a BMI <35 kg/m2, 296 individuals in 4 RCTs in the Sha et al (30) study had BMI values of <35 kg/m2. In the Cohen et al study, RYGB was associated with a greater chance of remission compared to non-surgical treatment (35/124 vs 1/114; OR, 17.48; 95% CI, 4.28–71.35). Sha et al, which compared laparoscopic RYGB to SG, showed both had comparable effect on remission: 54.0% (66/122) in the RYGB group and 56.7% (67/118) in the SG group.
+
+In summary, bariatric surgery for diabetes remission cannot be recommended at this time in those with preoperative BMI 30–35 kg/m2 because of limitations of current evidence on the relative remission rates with different types of bariatric surgery procedures and the balance of potential risks and long-term effects of bariatric surgery in individuals with type 2 diabetes with nonsevere obesity.
+
+Type 2 diabetes relapse with metabolic surgery and predictors of remission/relapse
+
+The Chen et al systematic review (32) suggested that there is increased potential for type 2 diabetes remission in younger people with less severe diabetes (i.e. lower A1C); a smaller waist circumference; higher preoperative high-density lipoprotein; lower preoperative total cholesterol, triglycerides and low-density lipoprotein levels; and fewer complications.
+
+Late relapse has been defined in published literature as a return of glycemic values consistent with type 2 diabetes and/or the need to reinitiate antihyperglycemic medication after 1 year. Aminian et al (22) studied the outcomes of 736 people with type 2 diabetes who underwent RYGB or SG and had ≥5 years' glycemic follow-up. Fifty-eight percent experienced diabetes remission (A1C <6.5%, off medications) in the first year after surgery. However, during the median of 8 years of follow-up, 136 (32%) people experienced late relapse. Predictors of late relapse were a higher preoperative number of antihyperglycemic medications, longer duration of type 2 diabetes before surgery and SG versus RYGB (22).
+
+Conte et al (33) conducted a population-based cohort study from the French national health insurance database, with definitions of diabetes remission and relapse purely based on the interruption or resumption of diabetes-specific medications, respectively. They found that 50% of the cohort was in remission from diabetes after bariatric surgery within a median of 2 to 4 months. Furthermore, diabetes relapse was observed in 13% to 20% within 10 years. Risk factors for relapse were longer duration of diabetes, older age and presence of lipid-lowering therapy. A BMI ≥50 kg/m2 was associated with a higher probability of relapse. The main modifiable factor was the type of surgery, with a potential advantage of RYGB over SG, resulting in more remissions and fewer relapses.
+
+In a retrospective chart review, Elshaer et al (34) reported a diabetes remission rate of 69% at 2 years, which decreased to 36% at 12 years following surgery. The shorter duration of diabetes preoperatively predicted the reduced likelihood of relapse. On univariate analysis, older age, longer preoperative duration of diabetes and use of insulin were associated with less chance of diabetes remission at long-term follow-up. However, on multivariate regression analysis, only the duration of diabetes preoperatively remained significant.
+
+Health Behavioural Interventions
+
+Research on type 2 diabetes remission using health behavioural interventions focused on nutrition and physical activity is emerging. High-quality evidence in this area is limited due to inconsistencies/inadequacies in studies reporting medication changes, predefining type 2 diabetes remission as a primary/secondary outcome and reporting individual participant-level data. Furthermore, no systematic reviews of large RCTs with behavioural interventions with the outcome of remission were identified in the literature search. Nonetheless, 4 key RCTs were identified by the literature search: Diabetes Remission Clinical Trial (DiRECT) (35,36), Diabetes Intervention Accentuating Diet and Enhancing Metabolism-I (DIADEM-I) trial (37), the head-to-head comparison of intensive lifestyle intervention versus conventional multifactorial care in patients with type 2 diabetes (U-TURN) trial (38) and the LookAHEAD (Action for Health in Diabetes) trial (39), which provide evidence on type 2 diabetes remission with health behavioural interventions. A template for intervention description and replication (TIDieR) table (40) outlining the multiple components of the intensive lifestyle interventions in these trials can be found in Supplementary Table 1.
+
+DiRECT was an open-label, cluster-randomized trial conducted in primary care practices in the United Kingdom (UK). Type 2 diabetes remission was the primary endpoint. This trial enrolled 306 adults within a BMI range of 27–45 kg/m2, with fewer than 6 years’ duration of type 2 diabetes, an A1C <12%, who were not on insulin therapy, and had an estimated glomerular filtration rate of ≥30 mL/min/1.732 m2. The average age of participants in DiRECT was 52.9 (standard deviation [SD] 7.6) years in the intervention group and 55.9 (SD 7.3) years in the control group. DiRECT’s active intervention arm started with a total diet replacement to a liquid formula diet (825–853 kcal/day) for 12 to 20 weeks followed by a 2- to 8-week food reintroduction phase and then a weight loss maintenance phase that included instructions to increase physical activity (41). This diet intervention was facilitated by trained primary care staff and had a weight loss target of 15 kg (approximately 15% of initial body weight). Diabetes remission was achieved by 68 (46%) intervention participants compared to 6 (4%) control participants at 1 year (36), with 53 participants (35.6%) in remission at the 2-year follow-up compared to 3 (3.4%) in the control group (adjusted OR, 25.8; 95% CI, 8.3–80.8) (35). Remission in DiRECT was linked to weight loss, with 85% of participants who lost >15 kg achieving remission at 1 year. Over 98% of DiRECT trial participants were White, despite the diversity of the UK population.
+
+Ancillary studies from DiRECT, coupled with prior nonrandomized experimental studies, explored mechanisms for remission of type 2 diabetes (42–45) and suggested that reducing liver and pancreatic fat content (coincident with substantial weight loss when following very-low-calorie diets) may be linked to normalizing blood glucose. Furthermore, the data imply that some residual beta-cell function is required for an individual to achieve type 2 diabetes remission (42,43), supporting the notion that type 2 diabetes remission is more achievable for individuals who are relatively newly diagnosed or who have sufficient beta-cell function. Additionally, a substudy looking at pancreas morphology within DiRECT suggested that pancreas volume increased and pancreas borders were less irregular in those who experienced remission, postulating a reversal of the abnormal pancreas morphology in type 2 diabetes by the weight loss-induced remission.
+
+The DIADEM-I trial was conducted in Qatar and enrolled people with type 2 diabetes of West Asian (Middle Eastern) and North African origin who were within 3 years of diagnosis with a BMI ≥27 kg/m2. This trial excluded those with an estimated glomerular filtration rate of <45 mL/min/1.732 m2. Similar to the DiRECT trial, other excluded conditions in DIADEM-I were fluid overload thought to be caused by HF or liver cirrhosis, arthritis, lactose intolerance, severe psychiatric disorder or uncontrolled depression. The average age of participants in DIADEM-I was 41.9 (SD 5.4) years in the intervention group and 42.3 (SD 5.8) years in the control group. Total meal replacement (800 to 820 kcal/day) was implemented for 12 weeks in the active intervention arm. Following the meal replacement period, there were 12 weeks of food reintroduction focused on maintenance of the new weight. The intervention in DIADEM-I also included physical activity guidance to reduce sedentary time, at first with a step goal of 10,000 steps per day and then gradually adding other activities to reach 150 min/week of exercise of at least moderate intensity and aerobic exercise 3 days/week. One-year remission was 61% (43 of 70) in the intervention arm compared to 12% (9 of 77) in the control arm (OR, 12.03; 95% CI, 5.17–28.03) (37).
+
+The U-TURN trial's primary focus was assessing for equivalence of a health behaviour change intervention, including an intensive exercise component (46,47), with a medication-focused diabetes management strategy. Although not pre-specified as an outcome, remission was examined in a secondary analysis (38). This single-centre RCT recruited people in Denmark with BMI ≥25 kg/m2 within 10 years of diagnosis of type 2 diabetes and an A1C <9%, who were not taking insulin, and who were without diabetic retinopathy, macro-albuminuria (urine albumin-to-creatinine ratio ≥300 mg/g) and nephropathy (plasma creatinine ≥1.47 mg/dL). The U-TURN intervention comprised multiple components targeting a BMI of 25 kg/m2, including an aim of 240 to 420 minutes of structured exercise training per week in the form of 5 to 6 weekly aerobic and combined aerobic and strength-training sessions; increased walking up to a goal of 10,000 steps a day; and a fibre-rich, low-glycemic diet rich in fruit, vegetables (47) and fatty fish that had a hypocaloric period for 16 weeks, with the potential to extend the hypocaloric period to 33 weeks. Importantly, calorie restriction for the dietary intervention in U-TURN was not as low as that targeted in the DiRECT or DIADEM-I trials. Following 33 weeks, the diet was tailored to maintain the achieved body weight. In a secondary analysis comparing the U-TURN intervention to standard care after 24 months (38), 23% of participants (14 of 63) in the intervention versus 7% (2 of 30) in the standard care group met the criteria for type 2 diabetes remission. The OR for type 2 diabetes remission at 2 years was 4.4 (95% CI, 1.0–19.8; p=0.048), despite assuming all lost-to-follow-up participants had relapsed, resulting in a conservative estimate.
+
+The LookAHEAD trial randomized 5,145 participants of African American, American Indian, Asian, Hispanic or White race to an intensive lifestyle intervention with the goal of a 7% body weight reduction and 175 minutes per week of exercise. The LookAHEAD diet comprised 1,200 to 1,800 kcal and included the use of some meal replacements. Although the primary outcome was cardiovascular disease and the trial was stopped for futility, type 2 diabetes remission was an exploratory outcome. Remission rates were higher in the intervention group at year 1 (11.5%) and year 4 (7.3%) than in the control group (2% at both time points).
+
+Low-carbohydrate and very-low-carbohydrate diets, including ketogenic diets, have garnered renewed interest as a treatment strategy for type 2 diabetes, and were discussed in a recent Diabetes Canada position statement (48). A nonrandomized clinical trial supported by commercial entity Virta Health (49,50), which included participants who self-selected to be enrolled, reported type 2 diabetes remission rates at 12 and 24 months in the range of 15% to 20%. This intervention included a digital health application and is discussed in further detail within the digital technology intervention section below. A meta-analysis of 23 trials including 1,357 participants was conducted by Goldenberg et al (51) looking at the efficacy and safety of low-carbohydrate diets and very-low-carbohydrate diets for people with type 2 diabetes. The study reported a relative risk of experiencing remission of 1.24 (0.65 to 2.38) from 5 trials using low-carbohydrate diets, versus low-fat or low-glycemic diets at 6 months, with a low certainty of evidence.
+
+No recommendations are formulated in the current chapter based on the LookAHEAD trial or the cited literature on low-/very-low-carbohydrate diets, as these studies did not meet the predefined methodology of 20% minimum in remission at 1 year and level of evidence (Level 2 or above). While the U-TURN trial met the criteria for Level 2 evidence, a lower grade of recommendation (Grade C) was assigned to the chapter recommendation #6 because the diabetes remission outcome at 24 months in this relatively smaller sized RCT was a secondary analysis.
+
+Pharmacological Interventions
+
+There is a limited body of literature examining the impact of pharmacological interventions with or without lifestyle interventions on inducing type 2 diabetes remission. The underlying rationale, as reviewed in a meta-analysis by Kramer et al (52), is that inducing near-normoglycemia with a short-term intensive antihyperglycemic therapy may allow some beta-cell recovery, which, when coupled with more optimal health behaviours, may result in remission. At the present time, however, there are no trials of sufficient quality to support a recommendation to use pharmacotherapy as a means of inducing type 2 diabetes remission.
+
+A large trial by Weng et al (53) enrolled newly diagnosed type 2 diabetes patients in China in the early 2000s, and compared 2 insulin arms (multiple daily insulin and insulin pump) against gliclazide, metformin or both, all with tight glycemic targets for at least 2 weeks, followed by medication withdrawal, diet and exercise, and remission assessment at 1 year. While 45% to 51% of participants in the insulin arms and 27% in the non-insulin antihyperglycemic arm maintained the investigators’ definition of remission, which was FPG <7.0 mmol/L and 2-h postprandial plasma glucose <10.0 mmol/L, for 1 year, this was based on fasting and post-breakfast plasma glucose levels rather than OGTT or A1C thresholds. Moreover, the trial did not include a control group treated with diet and exercise alone. Finally, this trial’s primary endpoint was based on per protocol analysis, with 14% of participants excluded postrandomization and, thus, provides lower-level evidence insufficient for a recommendation. Recent Canadian studies have adhered to the <6.5% A1C diagnostic threshold for remission and have incorporated more recently developed medications plus lifestyle changes in participants with type 2 diabetes of up to 8 years’ duration. McInnes and colleagues (54) compared 12 weeks of treatment (insulin glargine, metformin and dapagliflozin to target 4 to 5.3 mmol/L FPG) to usual care. Both groups received dietary and physical activity counselling. Those who were deemed to be safe to stop their antihyperglycemic medications were asked to stop them at 12 weeks in both groups, and remission at 24 weeks (primary outcome) did not demonstrate a significant difference, although statistically significant differences emerged at follow-up. McInnes and colleagues (55) used a similar methodology to compare a 12-week intensive treatment with insulin glargine, sitagliptin/metformin and a health behaviour intervention against 12 weeks of standard care, again asking participants to stop their antihyperglycemic medications at 12 weeks, if safe to do so. The 28% reduction in the hazard ratio of relapse that they determined for their primary remission outcome using multiple relapse criteria, including OGTT and A1C, was not statistically significant, although a secondary endpoint using another relapse definition was different between the treatment groups.
+
+Overall, while there are several studies pointing to potential benefits of early pharmacologic therapy combined with lifestyle changes, at present, the evidence is not of sufficient strength to recommend it as a particular strategy for increasing the likelihood of type 2 diabetes remission in adults. Hence, no recommendations are formulated in the current chapter for these interventions.
+
+Digital Technology Interventions
+
+Digital medicine, digital therapeutics or mobile health have been described as an ideal 21st-century complement to health care (56). Deemed particularly helpful in people with chronic disease, digital health tools may have a role in conditions that require people to modify their behaviour. Applied to type 2 diabetes, technology could help facilitate positive behaviours related to food and physical activity, glucose monitoring and taking medications as prescribed (57). Technology leveraging platforms and tools, such as smartphones, mobile and web applications and email, can supplement health care during, and outside of, health-care settings.
+
+While numerous diabetes-focused digital health companies and products exist, only 2 nonrandomized studies met the predefined systematic diabetes remission and technology review criteria, though they did not include remission as the primary endpoint.
+
+One publication by Athinarayanan et al (49), and sponsored by Virta Health Corp (San Francisco, California, United States [US]), was an open-label, nonrandomized controlled study with 262 participants in the continuous care intervention (CCI) group and 87 in the usual care (UC) group. Participants aged 21 to 65 years with a confirmed diagnosis of type 2 diabetes and a BMI >25 kg/m2 self-selected to receive either CCI or UC. The CCI arm was provided with individualized telemedicine support by health coaches and a medical provider to intentionally achieve nutritional ketosis using an individualized low-carbohydrate diet. The CCI participants were given complimentary access to a web-based software app that facilitated telemedicine communication, online resources, an online peer community for social support and biomarker tracking tools (body weight, blood glucose and beta-hydroxybutyrate). Frequency of communication and reporting was personalized over time based on the needs of the participants. Finally, participants could choose whether to receive the continuous care completely virtually (n=126) or supplemented with on-site visits (n=136).
+
+Diabetes complete remission was defined as an A1C below 5.7% without any medications for at least 1 year. Partial remission was achieved if a participant had an A1C between 5.7% and 6.5% without antihyperglycemic medication for at least 1 year. Results at the 2-year mark indicated that remission (partial or complete) was achieved in 17.6% of participants in the CCI group and 2.4% of participants in the UC group (p<0.00012).
+
+Berman et al (58) examined the use of a novel digital therapeutic app paired with specialized human support delivered digitally to effect a shift to a plant-based diet and regular guideline-recommended exercise in patients with self-reported type 2 diabetes (baseline A1C >6.5%). This 12-week, non-blinded, single-arm intervention study recruited participants using Facebook and enrolled 118 people from across the US. They were given US $200 if they completed the entire 12-week program. The app had several features to effect behaviour change and encourage the adoption of plant-based eating, increase activity and optimize engagement with the technology. Health coaching, consisting of 30-minute calls, was scheduled using the app every 2 weeks. Over 80% of the participants self-reported an end-study A1C, with 23% having an A1C <6.5% without antihyperglycemic medications (59).
+
+While health-care technology directed at the consumer is growing exponentially, unfortunately, there is an overall dearth of clinical outcomes-focused RCTs (60), especially for the topic of diabetes remission, as evidenced by the lack of studies identified by the current literature search. Given this dearth of evidence and the limitations described in the 2 articles reviewed above, at this time, no particular digital health solution or tool can be recommended to support Canadians in their goal of diabetes remission.
+
+Figure 1
+A1C targets expanded to include the option of type 2 diabetes remission.
+
+ 
+
+Limitations
+
+Our efforts were limited by gaps and uncertainties in the literature. Our methodology included limited search terms over a specified time period and did not consider the varying definitions of diabetes remission used in the published studies. In addition, the generalizability of the studies to our target multicultural Canadian population may be limited, especially for the cited RCTs with dietary interventions. In an effort to minimize bias, recall or reporting errors, the specific chapter recommendations for bariatric surgery and behavioural interventions were formulated only if supported by a high level of evidence (Level 1 or Level 2 only). Hence, no recommendations are made for pharmacological or digital technology interventions or for interventions that did not meet these prespecified criteria (e.g. low-carbohydrate diets). Finally, no RCTs have evaluated the association of type 2 diabetes remission on longer term (i.e. diabetes-related complications) outcomes, such as cardiovascular events, kidney failure or mortality. Therefore, the estimated benefits of type 2 diabetes remission are related more to achieving A1C levels in the specified range, with some background literature suggesting an association of normal-range A1C levels to reduced risk (61,62).
+
+Recommendations
+Following a thorough discussion outlining the concept of remission and its limitations (see Table 1 and Figure 1, and the “Remission of Type 2 Diabetes: User’s Guide”), a therapeutic goal of diabetes remission may be considered for individuals with type 2 diabetes who are interested in attempting remission; do not have significant eating or mental health disorders; do not have a compelling indication for antihyperglycemic agent(s) for renal or cardiovascular benefit (11); and meet the specified criteria outlined in the intervention-based recommendations #4, #5 and #6, to eliminate the need for antihyperglycemic therapy [Grade D, Consensus].
+The approach to deprescribing antihyperglycemic agents should be individualized and incorporate the principles of minimizing the risk for hypoglycemia and avoiding medications with potential for weight gain/regain [Grade D, Consensus].
+If type 2 diabetes remission criteria are met, A1C (or, if A1C unreliable, FPG or OGTT) should be performed at a minimum interval of every 6 months to assess persistence of diabetes remission or relapse of diabetes [Grade D, Consensus].
+Bariatric Surgery
+
+ 
+
+Bariatric surgery should be recommended to nonpregnant adults with type 2 diabetes and a BMI ≥35 kg/m2 as an option to potentially induce type 2 diabetes remission [Grade A, Level 1A] (26,30,63–66).
+Health Behavioural Interventions
+Low-calorie (∼800 to 850 kcal/day) diets with meal replacement products for 3 to 5 months aimed at achieving >15 kg body weight loss, followed by structured food reintroduction and increased physical activity for weight loss maintenance, should be recommended as an option to potentially induce type 2 diabetes remission to selected nonpregnant adults with a BMI between 27 and 45 kg/m2, type 2 diabetes duration <6 years, A1C <12% and not using insulin [Grade A, Level 1A] (35–37).
+Exercise training (aiming for 240 to 420 min/week of structured physical activity spread over 5 days per week) combined with a calorie-restricted diet to promote modest weight loss (∼5% to 7% of initial body weight) may be recommended as an option to potentially induce type 2 diabetes remission to selected nonpregnant adults with a BMI >25 kg/m2, type 2 diabetes duration <10 years, A1C <9% and not using insulin [Grade C, Level 2] (38).
+Acknowledgments
+
+Thank you to our external reviewers for their insightful feedback and the lending of their time and expertise:
+
+Esra Mohammed-Ameen MBChB, MSc Nutrition; Miriam Berchuk MD, FRCPC; Normand Boulé PhD; Adrian Brown PhD, RD; Tony Chetty MD, FRCPC, MSc; Satya Dash MD, PhD; Barna De MD, FRCPC; Valérie Dionne MSc, NP; Hertzel Gerstein MD, MSc, FRCPC; Ronald Goldenberg MD, FRCPC, FACE; Leon Greeff MBChB, CCFP; Sahar Iqbal MD, MSc, FRCPC, FACP; James Johnson PhD; Tiffany Krahn RD, CDE; Hala Farid Kufaishi HBSc, MD, MSc, FRCPC; Kimberley MacKay RN, NP, MN; Sean McKelvey BSc (Pharm); Michael Mindrum MD, FRCPC; Hadis Mozaffari PhD candidate (Vanier Scholarship – CIHR); Erin Pitkethly BSc (Pharm); Megha Poddar MD, FRCPC, ABOM; Karen Riley RPh, BScPhm, PharmD, BCPS, BCGP, BCACP, CDE; Ronald Sigal MD, MPH, FRCPC.
+
+Thank you to Jill Toffoli for her help editing and preparing the manuscript, in particular, her design work on the tables and figures.
+
+Author Disclosures
+
+H.S.B. reports research funding or trial fees paid to his institutions by Amgen, AstraZeneca, Boehringer Ingelheim, Canadian Institutes of Health Research (CIHR), Ceapro, Eli Lilly, Gilead, Janssen, Kowa Pharmaceuticals Co. Ltd, Madrigal Pharmaceuticals, Merck, Novo Nordisk, Pfizer, Public Health Agency of Canada, Sanofi, and Tricida, outside the submitted work, as well as speaking honoraria from American Diabetes Association, Canadian Hypertension Education Program (CHEP+), Canadian Society of Endocrinology & Metabolism, Endocrine Society, International Diabetes Federation, LMC Physicians Inc., Medscape, Optum, Center for Advanced Clinical Solutions, and Windsor Heart Institute; C.C. has received unrestricted educational grants from Alberta Canola Producers Commission and Results Driven Agriculture Research (Government of Alberta), CIHR, Dairy Farmers of Canada, and Alberta Innovates; M.G. is a consultant for Lexington Medical and co-founder of GT Metabolic Solutions Inc.; J.L. is volunteer Chief Scientific Officer (CSO) for the registered charity the Institute for Personalized Therapeutic Nutrition (IPTN), he holds founders shares in Metabolic Insights Inc., and has peer-reviewed operating grants from CIHR, the Natural Sciences and Engineering Research Council, Canadian Cancer Society, and Australian Spinal Research Foundation, outside the submitted work; D.M. reports research funding to his institution by CIHR, the Kidney Foundation of Canada, Mitacs Inc, NorWest Co-op Community Health, PepsiCo Inc, The Weston Family Foundation, and the Winnipeg Foundation, outside the submitted work; J.K. reports honoraria for advisory boards, speaking, consulting, funded grants and CME development outside of the submitted work from Abbott, Abbvie, AstraZeneca, BD, Boehringer-Ingelheim, Eisai, embecta, Eli Lilly, GSK, Janssen, Novo Nordisk, Miravo Pharm, Moderna, Pfizer Takeda, Sanofi, CPD Network, Teva, GSK and CCRN, MDBriefcase, HIT Global, CPD Network, Academy for Continued Advancement in Healthcare Education, Family Physician Airway Group of Canada, Liv Agency and PPME; S.J. reports consulting and/or speaking honoraria from Abbott, AstraZeneca, Dexcom, Eisai, GlaxoSmithKline, Novo Nordisk, Pfizer and Roche, as well as funded clinical research with Novo Nordisk; S.R. reports consulting fees from Abbott, Novo Nordisk, Bayer, Eli Lilly, Janssen, Canadian Collaborative Network and speaker fees from Abbott, Novo Nordisk, Eli Lilly, Janssen, Sanofi, AstraZeneca and McMaster University; N.M. reports grant support and non-financial support to her research institution from AstraZeneca, Merck and Sanofi related to the submitted work. K.D., C.D. and B.M. have no conflicts to disclose.
+
+Supplementary data
+Supplementary Table 1
+TIDieR tables for the DiRECT, DIADEM-I, U-TURN and LookAHEAD trials
+Lean, 2018; DiRECT
+TIDieR Tool Item	Main Paper	Other Paper(s)
+BRIEF NAME
+Provide the name or a phrase that describes the intervention.	Primary care-led weight management for remission of type 2 diabetes (DiRECT): an open-label, cluster-randomized trial.	The Diabetes Remission Clinical Trial (DiRECT): protocol for a cluster randomised trial.
+WHY
+Describe any rationale, theory, or goal of the elements essential to the intervention.	The DiRECT trial assessed remission of type 2 diabetes during a primary care-led weight-management program.	The Diabetes Remission Clinical Trial (DiRECT) was designed to determine whether a structured, intensive, weight management program, delivered in a routine Primary Care setting, is a viable treatment for achieving durable normoglycemia. Other aims are to understand the mechanistic basis of remission and to identify psychological predictors of response.
+WHAT
+Materials: Describe any physical or informational materials used in the intervention, including those provided to participants or used in intervention delivery or in training of intervention providers.
+Provide information on where the materials can be accessed (e.g., online appendix, URL).	A commercial micronutrient-replete 825–853 kcal/d liquid formula diet (soups and shakes) was provided.
+Physical activity and sleep were objectively measured over 7 days by use of wrist-worn triaxial accelerometers.
+Step counters were provided at the start of food reintroduction.	Soups and shakes for LVED will be provided.
+All participants allocated to the intervention will be provided with printed support materials describing the management plan and support for each phase of the intervention. Those who are physically capable will be advised to increase daily physical activity. Step counters will be provided with the recommendation to reach and maintain their individual sustainable maximum, up to 15,000 steps/day.
+Procedures: Describe each of the procedures, activities, and/or processes used in the intervention, including any enabling or support activities.	Total diet replacement (TDR) phase using a low-energy formula diet (825–853 kcal/day; 59% carbohydrate, 13% fat, 26% protein, 2% fibre) for 3 months (extendable up to 5 months if wished by participant), followed by structured food reintroduction of 2–8 weeks (about 50% carbohydrate, 35% total fat, and 15% protein), and an ongoing structured program with monthly visits for long-term weight loss maintenance. All oral antidiabetic and antihypertensive drugs were discontinued on day 1 of the weight management program, with standard protocols for drug reintroduction under national clinical guidelines.
+Participants were encouraged to maintain their usual physical activities during total diet replacement, but not asked to increase activity at this stage. Step counters were provided at the start of food reintroduction, and physical activity strategies were introduced, to help participants in the intervention group to reach and maintain their individual sustainable maximum—up to 15,000 steps per day. Physical activity and sleep were objectively measured over 7 days by use of wrist-worn triaxial accelerometers; data were assessed with validated calibration and analysis algorithms.	TDR phase (0–12 weeks) A commercial micronutrient-replete 825–853 kcal/d liquid formula diet (soups and shakes) will be provided (Cambridge Weight Plan) to replace usual foods, with ample fluids (2.25 L), for 12 weeks. Oral hypoglycemic agents (OHA), antihypertensive and diuretic drugs will be withdrawn on commencement of TDR, and reintroduced (as per study protocols) if T2DM or hypertension returns. ASA will be continued if prescribed because of a previous MI (prior to the previous 6 months), but discontinued if prescribed solely because of T2DM. Beta-blockers prescribed for the management of angina will be continued. A soluble fibre supplement (Fybogel 2 × 3.5 g/day) will be prescribed to reduce constipation. Participants will return for review 1 week after commencement on the TDR and at 2 weekly intervals thereafter until the commencement of the FR stage. To allow some flexibility for patients whose commitments, or life events, prevent achievement of 15 kg at 12 weeks, or if individuals wish to achieve more weight loss, the TDR phase may continue up to 20 weeks. If BMI falls below 23 kg/m2 during the TDR phase, participants will be moved forward to the FR and weight loss maintenance phases.
+Food reintroduction phase (weeks 12–18)
+The FR phase includes a stepped transition to a food-based diet based on the “Eatwell” guidelines [24] while reducing TDR. To allow flexibility for participants whose confidence varies, the FR phase can be varied between protocol-defined limits of 2–8 weeks before switching to full food-based weight loss maintenance. Participants will monitor weight on a weekly basis and compare this with caloric intake and activity levels. Participants will return for review at 2 weekly intervals throughout the FR phase.
+Weight loss maintenance phase (weeks 19–104)
+Participants will be advised to follow a food-based diet and will be provided with an individually tailored calorie plan.
+1.
+
+After 2 weeks of TDR, if osmotic symptoms (thirst, polyuria) are troublesome or if random capillary glucose is over 20 mmol, check A1C and that weight loss is as anticipated.
+
+2.
+
+If it is not, discuss whether any other help would be helpful with following the low calorie liquid diet.
+
+3.
+
+If weight loss is satisfactory but control is still inadequate, consider introducing an oral hypoglycemic agent.
+
+4.
+
+Start at the lowest dose and increase gradually.
+
+5.
+
+Subsequently, if control remains poor, add further agents.
+
+6.
+
+Urge further weight loss at each visit.
+
+Order for reintroduction of antidiabetic medications:
+1.
+
+Reintroduce metformin (500 mg bd). If this has previously caused GI upset for the individual, use the slow release preparation.
+
+2.
+
+Increase metformin to a usual maximum of 1 g BD over 2–4 weeks.
+
+3.
+
+If a second agent is required, add sitagliptin 100 mg od.
+
+4.
+
+If, after 4 weeks, control is still inadequate, add gliclazide 80 mg od (or other sulphonylurea if previously used, or if preferred).
+
+5.
+
+Increase sulphonylurea dose gradually until glucose control is adequate.
+
+6.
+
+Use current diabetes guidelines if glucose control remains inadequate.
+
+
+WHO PROVIDED
+For each category of intervention provider (e.g., psychologist, nursing assistant), describe their expertise, background and any specific training given.	A nurse or dietitian (as available locally) in each intervention practice was given a total of 8h structured training by the study research dietitians experienced in Counterweight-Plus. Training followed a standard protocol, to minimize variability and maintain fidelity across all practices.
+Mentoring of nurses and dietitians was done by the study research dietitians during each stage of the intervention, with feedback as required.	Trained nurse or dietitian
+HOW
+Describe the modes of delivery (e.g., face-to-face or by some other mechanism, such as internet or telephone) of the intervention and whether it was provided individually or in a group.	Face-to-face	Face-to-face – individual appointments
+WHERE
+Describe the type(s) of location(s) where the intervention occurred, including any necessary infrastructure or relevant features.	All study appointments took place at the participants' own GP practices.	Primary care offices
+WHEN and HOW MUCH
+Describe the number of times the intervention was delivered and over what period of time, including the number of sessions, their schedule, and their duration, intensity or dose.	12 weeks of active intervention.	Participants will return for review 1 week after commencement on TDR and at 2 weekly intervals thereafter until the commencement of the FR stage.
+TAILORING
+If an intervention was planned to be personalized, titrated or adapted, then describe what, why, when and how.	NR	The decision was taken that the DiRECT study would adopt a protocol which included flexibility (within pre-defined ranges) for the duration of the different phases of the intervention. Thus, it was planned that each participant should aim to lose at least 15 kg, (more if possible), but allow some to cease TDR early (if they were finding it difficult) and move on to FR, and others to extend TDR if there had been interruptions to protocol adherence, or they wished to continue longer. Defined windows of flexibility were incorporated into the protocol for each phase of weight management, including pre-planned relapse-management plans for those whose weights began to rise, or whose T2DM
+returned, during the maintenance phase. In a real-life, routine setting, these would be normal and expected components of care.
+MODIFICATION
+If an intervention was modified during the course of the study, describe the changes (what, why, when and how).	NR	Relapse management for weight regain or re-emergence of diabetes.
+If weight regain occurs, or if diabetes is found to have returned (A1C ≥48 mmol/mol) at any time during the 18-month weight loss maintenance stage, ‘rescue plans’ to reverse weight gain will be offered.
+1) Weight regain of >2 kg: offer the use of TDR to replace 1 or 2 main meals per day for 4 weeks, offer orlistat 120 mg tid with each meal.
+2) Weight gain of >4 kg, or to <15 kg below starting weight or if diabetes recurs: offer 4 weeks TDR with fortnightly practice nurse/dietitian review and then a 2–4 week FR (as described above). Individualized dietary advice, based on the Eatwell guidelines, and physical activity targets will be reinforced for weight loss maintenance. Orlistat treatment, as above, will be offered for the remainder of the weight loss maintenance period, with repeat advice to restrict dietary fat.
+
+Relapse management will include an exploration of the reasons for weight regain, and anticipatory support to prevent recurrence.
+HOW WELL
+Planned: If intervention adherence or fidelity was assessed, describe how and by whom, and if any strategies were used to maintain or improve fidelity, describe them.	NR	Practitioner mentoring (nurse or dietitian) will be carried out by the study research dietitians during each stage of the intervention, and feedback provided to practitioners, as required. Variability in primary outcome assessments (body weight, T2DM status) will be minimized by using calibrated equipment and quality-controlled assays of blood glucose and A1C.
+Actual: If intervention adherence or fidelity was assessed, describe the extent to which the intervention was delivered as planned.	NR	NR
+Taheri, 2020, DIADEM-I
+TIDieR Tool Item	Main Paper	Other Paper(s)
+BRIEF NAME
+Provide the name or a phrase that describes the intervention.	Effect of intensive lifestyle intervention on body weight and glycemia in early type 2 diabetes (DIADEM-I).	Diabetes Intervention Accentuating Diet and Enhancing Metabolism (DIADEM-I): a randomized controlled trial to examine the impact of an intensive lifestyle intervention consisting of a low-energy diet and physical activity on body weight and metabolism in early type 2 diabetes mellitus: study protocol for a randomized controlled trial.
+WHY
+Describe any rationale, theory or goal of the elements essential to the intervention.	Type 2 diabetes is affecting people at an increasingly younger age, particularly in the Middle East and in north Africa. Assessed whether an intensive lifestyle intervention would lead to significant weight loss and improved glycemia in young individuals with early diabetes.	Examined the effectiveness of an individualized intensive lifestyle intervention (ILI) combining a low-energy diet (LED) approach and gradual introduction of food with physical activity in younger subjects with early T2DM. Test an intervention that will be successful in weight loss and potential diabetes remission. Remission of diabetes will be defined as:
+HbA1c outside the diabetes range (< 6.5%)
+No pharmacologic therapy for diabetes.
+WHAT
+Materials: Describe any physical or informational materials used in the intervention, including those provided to participants or used in intervention delivery or in training of intervention providers.
+Provide information on where the materials can be accessed (e.g., online appendix, URL).	Meal replacement products were provided at no cost.
+Participants were provided with a wrist-worn accelerometer and were directed to smartphone apps to monitor food intake and activity; however, the data uploaded to these apps were not used in the study.	The study will use a commercially available meal replacement plan – the Cambridge Weight Plan.
+Recipes and meal plans will be provided and the emphasis will be on low-glycemic-index foods.
+To aid self-monitoring, subjects will be provided with a personal activity device.
+Procedures: Describe each of the procedures, activities and/or processes used in the intervention, including any enabling or support activities.	12-week total diet replacement phase, in which they were given formula low-energy (800–820 kcal/day) diet meal replacement products (57% carbohydrate, 14% fat, 26% protein, and 3% fibre; Cambridge Weight Plan, Northants, UK), followed by a 12-week structured food reintroduction phase. Thereafter, participants managed their own energy-restricted food intake and lifestyle changes for 6 months.
+All diabetes medications were discontinued at the start of the intervention. Antihypertensives and lipid-lowering drugs were adjusted or discontinued on the basis of current values for individual participants and clinical judgment.
+Medications were reintroduced on the basis of clinical and biochemical assessments and followed local clinical guidelines. Eating raw vegetables and salad was permitted in the total diet replacement phase, if required. Participants were advised to drink 2 L or more of water daily. If required, a fibre supplement was recommended for constipation. In the total diet replacement and food reintroduction phases, participants were seen by dietitians and personal trainers once every 2 weeks. Thereafter, participants attended the intervention clinic once per month. When food was reintroduced, a regular meal pattern with a similar distribution of macronutrients as the meal replacement products was recommended.
+Participants were advised to aim for low-glycemic index carbohydrates. Physical activity support initially focused on walking (with an aim of at least 10,000 steps per day), followed by the recommendation of increasing unsupervised activity to at least 150 min/week.	Subjects are supported by a trained dietitian. The study will use a commercially available meal replacement plan – the Cambridge Weight Plan.
+The ILI will use 800 kcal as a benchmark. For the first 12 weeks, subjects will be asked to consume mainly meal replacement products, supplemented by low-fat milk, to make total energy of approximately 800 kcal. Subjects will receive the meal replacement products, free of charge. If there is a need for additional snacks because of hunger, subjects will be recommended to eat raw vegetables and salad. For constipation, a common side effect, subjects will be recommended a fibre supplement (psyllium/inulin), if required. They will be advised to drink ≥2L of water daily. From month 4 to month 6 inclusive, subjects will follow a partial meal replacement plan and will be introduced to normal solid foods providing daily energy based on body weight as recommended in the LookAHEAD study. During the food introduction phase, focus will initially be on introducing protein-rich foods, skimmed milk, vegetables and salad. Then, gradually, subjects will establish a 3-meal-per-day eating pattern with support from the dietitian to help them identify appropriate acceptable foods (and portion sizes) to facilitate reintroduction of breakfast, lunch, and evening meal and snacks.
+
+Minimum of 150 min/week of exercise of at least moderate intensity.
+Aerobic exercise 3 days/week with no more than 2 consecutive days between bouts.
+Resistance exercise at least twice weekly on non-consecutive days.
+Gradual rate of progression.
+The initial focus of activity is to reduce sedentariness, and encouragement of walking. For this reason, those unable to walk due to arthritis will be excluded. Walking activity will aim to achieve at least 10,000 steps/day. As subjects progress, other aerobic activities and resistance training will be introduced. The objective is to introduce activities that are enjoyable to subjects, thus ensuring sustainability. Higher physical activity levels will be encouraged during the study for optimal weight loss, weight loss maintenance and diabetes control. Increase in physical activity will be individualized based on progress. Potential benefits of variation in exercise activities will be pointed out.
+WHO PROVIDED
+For each category of intervention provider (e.g., psychologist, nursing assistant), describe their expertise, background and any specific training given.	Participants in the intensive lifestyle intervention group were supported by a team of trained dietitians, personal trainers and physicians, who followed a standard intervention delivery protocol. Participants were not exclusively paired with a specific dietitian, trainer or physician, and they saw several different members of the team throughout the study. The multidisciplinary team discussed individual participants and their progress, allowing uniformity of the intervention. Participants were seen by a physician at baseline and then once every 3 months thereafter.	Phase 1 VLED - Dietician
+Phase 2 - activity - Trained exercise trainer
+The dietitians and physical activity trainers will follow a strict manual of procedures to cover all aspects of behaviour modification support, including individualization to address specific subject challenges and requirements. They will use specific presentations to ensure standardization of delivery.
+HOW
+Describe the modes of delivery (e.g., face-to-face or by some other mechanism, such as internet or telephone) of the intervention and whether it was provided individually or in a group.	Regular face-to-face interactions with trained staff.	Face to face.
+WHERE
+Describe the type(s) of location(s) where the intervention occurred, including any necessary infrastructure or relevant features.	NR	NR
+WHEN and HOW MUCH
+Describe the number of times the intervention was delivered and over what period of time, including the number of sessions, their schedule and their duration, intensity or dose.	NR	
+1.
+
+Low-Energy Diet + Physical Activity Weeks 1–12 Visit every 2 weeks. Dietitian (30 min/visit). Exercise trainer (30 min/visit). Physician review at baseline and on completion of Phase 1.
+
+2.
+
+Partial Low-Energy Diet + Physical Activity Weeks 13–24 Visit every 2 weeks. Dietitian (30 min/visit). Exercise trainer (30 min/visit). Physician review on completion of Phase 2.
+
+3.
+
+Lifestyle change Weeks 25–48. Visit every 4 weeks. Dietitian (30 min/visit). Exercise trainer (30 min/visit). Physician review at 3 months and on completion of Phase 3.
+
+4.
+
+Follow-up Weeks 49–96. Three monthly visits for follow-up. Dietitian (30 min/visit). Exercise trainer (30 min/visit). Physician review at 3-month intervals and completion of Phase 4.
+
+5.
+
+Post Study Minimum 2 years post-study. Review by weight management service. Collection of data via electronic medical records.
+
+
+TAILORING
+If an intervention was planned to be personalized, titrated or adapted, then describe what, why, when and how.	NR	NR
+MODIFICATION
+If an intervention was modified during the course of the study, describe the changes (what, why, when and how).	NR	NR
+HOW WELL
+Planned: If intervention adherence or fidelity was assessed, describe how and by whom, and if any strategies were used to maintain or improve fidelity, describe them.	NR	NR
+Actual: If intervention adherence or fidelity was assessed, describe the extent to which the intervention was delivered as planned.	NR	NR
+Ried-Larsen, 2019, U-TURN
+TIDieR Tool Item	Main Paper	Other Paper(s)
+BRIEF NAME
+Provide the name or a phrase that describes the intervention.	Intensive exercise-based lifestyle intervention, U-TURN	Head-to-head comparison of intensive lifestyle intervention (U-TURN) versus conventional multifactorial care in patients with type 2 diabetes: protocol and rationale for an assessor-blinded, parallel group and randomized trial.
+WHY
+Describe any rationale, theory or goal of the elements essential to the intervention.	Investigated whether an intensive lifestyle intervention induces partial or complete type 2 diabetes (T2D) remission.
+WHAT
+Materials: Describe any physical or informational materials used in the intervention, including those provided to participants or used in intervention delivery or in training of intervention providers.
+Provide information on where the materials can be accessed (e.g., online appendix, URL).	NR	The clinical dietician will offer cooking classes and workshops on how to develop a meal plan and implement the plan.
+Procedures: Describe each of the procedures, activities and/or processes used in the intervention, including any enabling or support activities.	The lifestyle intervention included 5 to 6 weekly aerobic and combined aerobic and strength training sessions (30-60 minutes) and individual dietary plans aiming for body mass index ≤25 kg/m2. No intervention was provided during the 12-month follow-up period.	Resistance training is described with muscle groups, sets and repetitions so that participants from across all groups follow the same training program. The training modality within the aerobic training (e.g., power walking and cycling) and resistance training (e.g., machines and bodyweight) is the only factor that may vary between groups. The modality is decided by the trainers in order to prevent and minimise the frequency and severity of injuries. No running is permitted during phase 1. To reduce the risk of hypoglycemia, the participants are instructed to eat a snack meal just before (100–200 kcal) and after (200 kcal) a training session, and a main meal 2–3 h before a training session. In case of subjective signs of light hypoglycemia (hunger, sweating, increased heart rate, feeling uncomfortable, dizziness and confusion), the participants are instructed to eat either one piece of fruit, drink a glass of juice in combination with a piece of rye bread or crisp bread. in order to increase sleep duration, regular bedtimes and regular waking times are recommended throughout the week aiming at 7–8 h of sleep every night, with an additional requirement of 15–20 min in bed in order to fall asleep. All individuals will be recommended to shut down all electronic devices and dim the light at least 30 min before bedtime. Participants are requested to use the Polar V800 on a daily basis for monitoring sleep duration. The U-TURN intervention participants are included in groups. It also includes educational and informative elements, where the entire intervention group will participate in three 2 h lectures.
+WHO PROVIDED
+For each category of intervention provider (e.g., psychologist, nursing assistant), describe their expertise, background and any specific training given.	NR	Each group will be assigned at least two certified coaches (minimum one physiotherapist) with one trainer being present at a supervised training session. Each week, a training program is delivered from the intervention coordination centre to the coaches.
+Clinical dietician.
+HOW
+Describe the modes of delivery (e.g., face-to-face or by some other mechanism, such as internet or telephone) of the intervention and whether it was provided individually or in a group.	Groups with opportunity for one-on-one with intervention staff if required.	Participants are allowed to contact the clinical dietician by email once/week in case of any issues regarding implementation of or concerns about the meal plan. Group based and assigned a web-based closed-group Facebook page.
+WHERE
+Describe the type(s) of location(s) where the intervention occurred, including any necessary infrastructure or relevant features.	NR	The groups are composed based on the geographical location of the participants’ home address.
+WHEN and HOW MUCH
+Describe the number of times the intervention was delivered and over what period of time including the number of sessions, their schedule, and their duration, intensity or dose.	12 months intervention with follow-up at 24 months: once a week contact with Dietician;
+All participants were invited to individual educational meetings and diabetes control meetings (30 min) with a trained diabetes nurse every third month (a total of four meetings).	All training is performed in groups of 4–8 participants.
+TAILORING
+If an intervention was planned to be personalized, titrated or adapted, then describe what, why, when and how.	NR	Intervention component 1 (training):
+If the participant contacts the therapist in person or by email and expresses concerns about participation in the training intervention.
+Action 1: The participant is offered a motivational interview with the coordination centre to get an overview over the possible challenges, that is, lack of time or worries. An adjusted plan is made and the trainers will follow-up at the supervised training. If the lacking compliance relates to injuries, pain or resistance to training modality, the training modality may be altered, whereas the training intensity will be maintained.
+Action 2: If action 1 is insufficient, the participant is invited to a personal motivational interview with a motivational expert not involved with the daily training.
+Action 3: If actions 1 and 2 are insufficient, 2 training sessions per week are eliminated from the program for 4 weeks. The training session will be gradually reintroduced.
+
+Intervention component 2 (diet):
+If the participant contacts the therapist in person or by email and express concerns about satiety, food preferences or food preparation techniques (by email to dietician or at group counselling).
+Action 1: Participants are interviewed regarding compliance to the meal plan and provided with specific guidelines to practical changes in the plan by the clinical dieticians. For example, to increase adherence to food items increasing satiety or exchange some food items to match preferences.
+Action 2: If action 1 is insufficient and the participant still experiences lack of satiety, then the energy intake is increased in steps of 100 kcal/day until the level of satiety is acceptable by the participant. The process is performed via email with the dietician.
+MODIFICATION
+If an intervention was modified during the course of the study, describe the changes (what, why, when and how).	NR	NR
+HOW WELL
+Planned: If intervention adherence or fidelity was assessed, describe how and by whom and, if any strategies were used to maintain or improve fidelity, describe them.	NR	N/A
+Actual: If intervention adherence or fidelity was assessed, describe the extent to which the intervention was delivered as planned.	NR	N/A
+Gregg, 2012, LookAHEAD
+TIDieR Tool Item	Main Paper	Other Paper(s)
+BRIEF NAME
+Provide the name or a phrase that describes the intervention.	LookAHEAD.	The LookAHEAD study: a description of the lifestyle intervention and the evidence supporting it.
+WHY
+Describe any rationale, theory, or goal of the elements essential to the intervention.	To examine the association of a long-term intensive weight-loss intervention with the frequency of remission from type 2 diabetes to prediabetes or normoglycemia.
+WHAT
+Materials: Describe any physical or informational materials used in the intervention, including those provided to participants or used in intervention delivery or in training of intervention providers.
+Provide information on where the materials can be accessed (e.g., online appendix, URL).	On-line Facebook support group.
+Procedures: Describe each of the procedures activities and/or processes used in the intervention, including any enabling or support activities.	Meal replacements were included, within a diet of 1,200−1500 kcal/d.	The 6-month, 16-session Diabetes Prevention Program (DPP) protocol was modified for LookAHEAD to include group treatment and the changes in diet and activity. Each group session typically introduces 1 or 2 new topics in behavioral weight control, including recording food intake and physical activity, eating at regular times, limiting times and places of eating, and coping with negative thoughts related to overeating. All major topics are accompanied by a homework assignment.
+WHO PROVIDED
+For each category of intervention provider (e.g., psychologist, nursing assistant), describe their expertise, background and any specific training given.	Centers are encouraged to deliver the intervention using a multidisciplinary team that includes a registered dietitian, behavioral psychologist (or other mental health professional), and an exercise specialist. These interventionists are supported by a program coordinator, as well as a physician and diabetes educator (often a nurse). Training, certification and staffing—Each year, lifestyle interventionists from all centers attend a 2-day national training to review implementation of the treatment protocol for the coming year. Interventionists’ fidelity in delivering the protocol is certified yearly based on performance criteria. Each center identifies a senior interventionist who oversees the training of newly hired personnel and is responsible for the continuing annual certification of the site's interventionists. Protocol implementation and participant care are facilitated by each center's holding regular meetings of all treatment staff. Lifestyle Resource Core Interventionists are further supported by a Lifestyle Resource Core (LRC) that is led by members of the Lifestyle Intervention subcommittee (which developed the treatment protocol). The LRC organized the 16 centers into 4 geographic regions, each of which has an LRC team leader. Leaders conduct monthly conference calls to discuss their 4 centers’ performance, to introduce new treatment materials, and to address questions concerning participant care or protocol implementation. Tracking System—Feedback on each center's success in meeting the study's weight and activity goals is provided by a centralized tracking system, managed by the study's coordinating center. Every time participants attend a group or individual visit, their weight and weekly minutes of physical activity (with other data) are recorded in the system. The tracking system can produce progress reports for individual participants. Additional reports provide monthly summaries of each center's mean weight loss, minutes of activity and other outcomes.
+HOW
+Describe the modes of delivery (e.g., face-to-face or by some other mechanism, such as internet or telephone) of the intervention and whether it was provided individually or in a group.	Individual counseling and group sessions	Individual and group sessions
+WHERE
+Describe the type(s) of location(s) where the intervention occurred, including any necessary infrastructure or relevant features.	On-site (research centre) sessions but most of the intervention happened at home.	On-site and at home
+WHEN and HOW MUCH
+Describe the number of times the intervention was delivered and over what period of time including the number of sessions, their schedule and their duration, intensity or dose.	Weekly group and individual counseling in the first 6 months followed by 3 sessions per month for the second 6 months and twice-monthly contact and regular refresher group series and campaigns in years 2 to 4.	The intervention combines group and individual treatment. Participants at each center are assigned to a group of approximately 10−20 persons with whom they attend classes for the entire year. During the first 6 months, they attend group sessions (of 60−75 minutes) for the first 3 weeks of each month. The fourth week they have an individual meeting (20−30 minutes) with their lifestyle counselor, who remains the same staff person throughout the first year (and preferably beyond). Group meetings are not held this week. Monthly individual meetings give participants a chance to review specific questions or problems. They also allow lifestyle counselors to tailor treatment to participants’ individual needs, including those related to cultural or ethnic differences.
+TAILORING
+If an intervention was planned to be personalized, titrated or adapted, then describe what, why, when and how.	NR	Participants who have difficulty adhering to the diet and exercise recommendations, or who lose <1% of weight per month, are eligible for special interventions from the program's toolbox. Interventions are suggested by a series of algorithms, following a detailed assessment of the problem behavior. In the first 6 months, most interventions utilize elements of motivational interviewing and problem-solving skills, as well as additional individual contacts with the lifestyle counselor. Written contracts may be used to identify goals and how, when and where participants will modify their behaviors to achieve them.
+MODIFICATION
+If an intervention was modified during the course of the study, describe the changes (what, why, when and how).	NR	NR
+HOW WELL
+Planned: If intervention adherence or fidelity was assessed, describe how and by whom and, if any strategies were used to maintain or improve fidelity, describe them.	NR	NR
+Actual: If intervention adherence or fidelity was assessed, describe the extent to which the intervention was delivered as planned.	NR	NR
+Supplementary Material
+
+To access the supplementary material accompanying this article, visit the online version of the Canadian Journal of Diabetes at https://www.canadianjournalofdiabetes.com.
+
+References
+DeFronzo RA, Triplitt CL, Abdul-Ghani M, Cersosimo E. Novel agents for the treatment of type 2 diabetes. Diabetes spectrum: A publication of the American Diabetes Association. 2014;27(2):100-112.
+Shaheen, S. Fighting for a hand to hold: Confronting medical colonialism against Indigenous children in Canada. Quebec:McGill-Queen’s University Press, 2020.
+Truth, Canada RCo. Truth and Reconciliation Commission of Canada: Calls to Action: Truth and Reconciliation Commission of Canada; 2015.
+Sherifali D, Rabi DM, McDonald CG, Butalia S, Campbell DJT, Hunt D, et al. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada: Methods. Can J Diabetes. 2018;42:S6-S9.
+Jin S, Bajaj H, Brazeau AS, et al. Remission of type 2 diabetes: User’s guide. Can J Diabetes. 2022;46(8):XX.
+Wharton S, Pedersen SD, Lau DCW, Sharma AM. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada: Weight Management in Diabetes. Can J Diabetes. 2018;42:S124-S129.
+Stone JA, Houlden RL, Lin P, Udell JA, Verma S. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada: Cardiovascular Protection in People With Diabetes. Can J Diabetes. 2018;42:S162-S169.
+Sievenpiper JL, Chan CB, Dworatzek PD, Freeze C, Williams SL. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada: Nutrition Therapy. Can J Diabetes. 2018;42:S64-S79.
+Sigal RJ, Armstrong MJ, Bacon SL, Boule NG, Dasgupta K, Kenny GP, et al. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada: Physical Activity and Diabetes. Can J Diabetes. 2018;42:S54-S63.
+Prebtani APH, Bajaj HS, Goldenberg R, Mullan Y. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada: Reducing the Risk of Developing Diabetes. Can J Diabetes. 2018;42:S20-S26.
+Lipscombe L, Butalia S, Dasgupta K, Eurich DT, MacCallum L, Shah BR, et al. Pharmacologic glycemic management of type 2 diabetes in adults: 2020 update. Canadian Journal of Diabetes. 2020;44(7):575-591.
+Riddle MC, Cefalu WT, Evans PH, Gerstein HC, Nauck MA, Oh WK, et al. Consensus report: Definition and interpretation of remission in type 2 diabetes. Diabetic medicine: A journal of the British Diabetic Association. 2022;39(3):e14669.
+Riddle MC, Cefalu WT, Evans PH, Gerstein HC, Nauck MA, Oh WK, et al. Consensus report: Definition and interpretation of remission in type 2 diabetes. The Journal of Clinical Endocrinology and Metabolism. 2022;107(1):1-9.
+Riddle MC, Cefalu WT, Evans PH, Gerstein HC, Nauck MA, Oh WK, et al. Consensus Report: Definition and interpretation of remission in type 2 diabetes. Diabetes Care. 2021.
+Riddle MC, Cefalu WT, Evans PH, Gerstein HC, Nauck MA, Oh WK, et al. Consensus report: Definition and interpretation of remission in type 2 diabetes. Diabetologia. 2021;64(11):2359-2366.
+Diabetes Australia Position Statement on Type 2 Diabetes Remission. October 2021. Accessed October 5, 2022. https://diabetessociety.com.au/downloads/20211014%202021%20Diabetes%20Australia%20Position%20Statement%20Type%202%20Diabetes%20Remission.pdf
+Captieux M, Prigge R, Wild S, Guthrie B. Defining remission of type 2 diabetes in research studies: A systematic scoping review. PLoS Med 2020;17(10):e1003396.
+Punthakee Z, Goldenberg R, Katz P. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada: Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome. Can J Diabetes. 2018;42:S10-S15.
+Diabetes Canada Clinical Practice Guidelines: Processes Manual 2021 [Available from: https://guidelines.diabetes.ca/cpg/processes-manual.]
+Ribaric G, Buchwald JN, McGlennon TW. Diabetes and weight in comparative studies of bariatric surgery vs conventional medical therapy: A systematic review and meta-analysis. Obes Surg. 2014;24(3):437-455.
+Committee ADAPP. 8. Obesity and Weight Management for the Prevention and Treatment of Type 2 Diabetes: Standards of Medical Care in Diabetes-2022. Diabetes Care. 2021;45(Supplement_1):S113-S124.
+Aminian A, Vidal J, Salminen P, Still CD, Nor Hanipah Z, Sharma G, et al. Late relapse of diabetes after bariatric surgery: Not rare, but not a failure. Diabetes Care. 2020;43(3):534-540.
+Kasama K, Mui W, Lee WJ, Lakdawala M, Naitoh T, Seki Y, et al. IFSO-APC consensus statements 2011. Obes Surg. 2012;22(5):677-684.
+Salminen P, Gronroos S, Helmio M, Hurme S, Juuti A, Juusela R, et al. Effect of Laparoscopic Sleeve Gastrectomy vs Roux-en-Y Gastric Bypass on Weight Loss, Comorbidities, and Reflux at 10 Years in Adult Patients With Obesity: The SLEEVEPASS Randomized Clinical Trial. JAMA Surg. 2022.
+Castellana M, Procino F, Biacchi E, Zupo R, Lampignano L, Castellana F, et al. Roux-en-Y Gastric Bypass vs Sleeve Gastrectomy for Remission of Type 2 Diabetes. The Journal of clinical endocrinology and metabolism. 2021;106(3):922-933.
+Borgeraas H, Hofsoe D, Hertel JK, Hjelmesaeth J. Comparison of the effect of Roux-en-Y gastric bypass and sleeve gastrectomy on remission of type 2 diabetes: A systematic review and meta-analysis of randomized controlled trials. Obesity Reviews. 2020;21(6):e13011.
+Madadi F, Jawad R, Mousati I, Plaeke P, Hubens G. Remission of Type 2 Diabetes and Sleeve Gastrectomy in Morbid Obesity: a Comparative Systematic Review and Meta-analysis. Obes Surg. 2019;29(12):4066-4076.
+Guraya SY, Strate T. Surgical outcome of laparoscopic sleeve gastrectomy and Roux-en-Y gastric bypass for resolution of type 2 diabetes mellitus: A systematic review and meta-analysis. World journal of gastroenterology : WJG. 2020;26(8):865-876.
+Muller-Stich BP, Senft JD, Warschkow R, Kenngott HG, Billeter AT, Vit G, et al. Surgical versus medical treatment of type 2 diabetes mellitus in nonseverely obese patients: a systematic review and meta-analysis. Annals of surgery. 2015;261(3):421-429.
+Sha Y, Huang X, Ke P, Wang B, Yuan H, Yuan W, et al. Laparoscopic Roux-en-Y Gastric Bypass Versus Sleeve Gastrectomy for Type 2 Diabetes Mellitus in Nonseverely Obese Patients: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Obes Surg. 2020;30(5):1660-1670.
+Cohen R, Le Roux CW, Junqueira S, Ribeiro RA, Luque A. Roux-En-Y Gastric Bypass in Type 2 Diabetes Patients with Mild Obesity: a Systematic Review and Meta-analysis. Obes Surg. 2017;27(10):2733-2739.
+Chen Y, Zeng G, Tan J, Tang J, Ma J, Rao B. Impact of roux-en Y gastric bypass surgery on prognostic factors of type 2 diabetes mellitus: meta-analysis and systematic review. Diabetes/metabolism research and reviews. 2015;31(7):653-662.
+Conte C, Lapeyre-Mestre M, Hanaire H, Ritz P. Diabetes Remission and Relapse After Bariatric Surgery: a Nationwide Population-Based Study. Obes Surg. 2020;30(12):4810-4820.
+Elshaer AM, Almerie MQ, Pellen M, Jain P. Relapse of Diabetes After Roux-en-Y Gastric Bypass for Patients With Obesity: 12 Years Follow-up Study. Obes Surg. 2020;30(12):4834-4839.
+Lean MEJ, Leslie WS, Barnes AC, Brosnahan N, Thom G, McCombie L, et al. Durability of a primary care-led weight-management intervention for remission of type 2 diabetes: 2-year results of the DiRECT open-label, cluster-randomised trial. Lancet Diabetes Endocrinol. 2019;7(5):344-355.
+Lean ME, Leslie WS, Barnes AC, Brosnahan N, Thom G, McCombie L, et al. Primary care-led weight management for remission of type 2 diabetes (DiRECT): an open-label, cluster-randomised trial. Lancet. 2018; 391:541-545.
+Taheri S, Zaghloul H, Chagoury O, Elhadad S, Ahmed SH, El Khatib N, et al. Effect of intensive lifestyle intervention on bodyweight and glycaemia in early type 2 diabetes (DIADEM-I): an open-label, parallel-group, randomised controlled trial. Lancet Diabetes Endocrinol. 2020;8(6):477-489.
+Ried-Larsen M, Johansen MY, MacDonald CS, Hansen KB, Christensen R, Wedell-Neergaard AS, et al. Type 2 diabetes remission 1 year after an intensive lifestyle intervention: A secondary analysis of a randomized clinical trial. Diabetes Obes Metab. 2019;21(10):2257-2266.
+Gregg EW, Chen H, Wagenknecht LE, Clark JM, Delahanty LM, Bantle J, et al. Association of an Intensive Lifestyle Intervention With Remission of Type 2 Diabetes. Jama. 2012;308(23):2489-2496.
+Hoffmann TC, Glasziou PP, Boutron I, et al. Better reporting of interventions: Template for intervention description and replication (TIDieR) checklist and guide BMJ 2014; 348 :g1687 doi:10.1136/bmj.g1687.
+Leslie WS, Ford I, Sattar N, Hollingsworth KG, Adamson A, Sniehotta FF, et al. The Diabetes Remission Clinical Trial (DiRECT): protocol for a cluster randomised trial. BMC Fam Pract. 2016;17:20.
+Taylor R, Al-Mrabeh A, Sattar N. Understanding the mechanisms of reversal of type 2 diabetes. Lancet Diabetes Endocrinol. 2019;7(9):726-736.
+Taylor R, Leslie WS, Barnes AC, Brosnahan N, Thom G, McCombie L, et al. Clinical and metabolic features of the randomised controlled Diabetes Remission Clinical Trial (DiRECT) cohort. Diabetologia. 2018;61(3):589-598.
+Taylor R. Calorie restriction and reversal of type 2 diabetes. Expert review of endocrinology & metabolism. 2016;11(6):521-528.
+Taylor R. Type 2 diabetes: Etiology and reversibility. Diabetes care. 2013;36(4):1047-1055.
+Johansen MY, MacDonald CS, Hansen KB, et al. Effect of an Intensive Lifestyle Intervention on Glycemic Control in Patients With Type 2 Diabetes: A Randomized Clinical Trial. JAMA. 2017 Aug 15;318(7):637-646.
+Ried-Larsen M, Christensen R, Hansen KB, et al. Head-to-head comparison of intensive lifestyle intervention (U-TURN) versus conventional multifactorial care in patients with type 2 diabetes: protocol and rationale for an assessor-blinded, parallel group and randomised trial. BMJ Open. 2015 Dec 9;5(12):e009764.
+Diabetes Canada Position Statement on Low-Carbohydrate Diets for Adults With Diabetes: A Rapid Review. Can J Diabetes. 2020;44(4):295-299.
+Athinarayanan SJ, Adams RN, Hallberg SJ, McKenzie AL, Bhanpuri NH, Campbell WW, et al. Long-Term Effects of a Novel Continuous Remote Care Intervention Including Nutritional Ketosis for the Management of Type 2 Diabetes: A 2-Year Non-randomized Clinical Trial. Front Endocrinol (Lausanne). 2019;10:348.
+Hallberg SJ, McKenzie AL, Williams PT, Bhanpuri NH, Peters AL, Campbell WW, et al. Effectiveness and Safety of a Novel Care Model for the Management of Type 2 Diabetes at 1 Year: An Open-Label, Non-Randomized, Controlled Study. Diabetes Ther. 2018.
+Goldenberg JZ, Day A, Brinkworth GD, Sato J, Yamada S, Jonsson T, et al. Efficacy and safety of low and very low carbohydrate diets for type 2 diabetes remission: systematic review and meta-analysis of published and unpublished randomized trial data. Bmj. 2021;372:m4743.
+Kramer CK, Zinman B, Retnakaran R. Short-term intensive insulin therapy in type 2 diabetes mellitus: a systematic review and meta-analysis. Lancet Diabetes Endocrinol. 2013;1(1):28-34.
+Weng J, Li Y, Xu W, Shi L, Zhang Q, Zhu D, et al. Effect of intensive insulin therapy on beta-cell function and glycaemic control in patients with newly diagnosed type 2 diabetes: a multicentre randomised parallel-group trial. Lancet. 2008;371(9626):1753-1760.
+McInnes N, Hall S, Sultan F, Aronson R, Hramiak I, Harris S, et al. Remission of Type 2 Diabetes Following a Short-term Intervention With Insulin Glargine, Metformin, and Dapagliflozin. The Journal of Clinical Endocrinology & Metabolism. 2020;105(8):2532-2540.
+McInnes N, Hall S, Hramiak I, Sigal RJ, Goldenberg R, Gupta N, et al. Remission of Type 2 Diabetes Following a Short-term Intensive Intervention With Insulin Glargine, Sitagliptin, and Metformin: Results of an Open-label Randomized Parallel-Design Trial. Diabetes care. 2022;45(1):178-185.
+Kvedar JC, Fogel AL, Elenko E, Zohar D. Digital medicine's march on chronic disease. Nature biotechnology. 2016;34(3):239-246.
+Tjam EY, Sherifali D, Steinacher N, Hett S. Physiological Outcomes of an Internet Disease Management Program vs. In-person Counselling:A Randomized, Controlled Trial: Can J Diabetes. 2006;30(4):397-405. doi: 10.1016/S1499-2671(06)04008-1. Epub 2012 Dec 10.
+Berman MA, Guthrie NL, Edwards KL, Appelbaum KJ, Njike VY, Eisenberg DM, et al. Change in Glycemic Control With Use of a Digital Therapeutic in Adults With Type 2 Diabetes: Cohort Study. JMIR Diabetes. 2018;3(1):e4.
+Buse JB, Caprio S, Cefalu WT, Ceriello A, Del Prato S, Inzucchi SE, et al. How do we define cure of diabetes? Diabetes care. 2009;32(11):2133-2135.
+Day S, Shah V, Kaganoff S, Powelson S, Mathews SC. Assessing the Clinical Robustness of Digital Health Startups: Cross-sectional Observational Analysis. J Med Internet Res. 2022;24(6):e37677.
+Cavero-Redondo I, Peleteiro B, Alvarez-Bueno C, Rodriguez-Artalejo F, Martinez-Vizcaino V. Glycated haemoglobin A1c as a risk factor of cardiovascular outcomes and all-cause mortality in diabetic and non-diabetic populations: a systematic review and meta-analysis. BMJ open. 2017;7(7):e015949.
+Li F-R, Zhang X-R, Zhong W-F, Li Z-H, Gao X, Kraus VB, et al. Glycated Hemoglobin and All-Cause and Cause-Specific Mortality Among Adults With and Without Diabetes. The Journal of Clinical Endocrinology & Metabolism. 2019;104(8):3345-3354.
+Ding L, Fan Y, Li H, Zhang Y, Qi D, Tang S, et al. Comparative effectiveness of bariatric surgeries in patients with obesity and type 2 diabetes mellitus: A network meta-analysis of randomized controlled trials. Obesity Reviews. 2020;21(8):e13030
+Cui BB, Wang GH, Li PZ, Li WZ, Zhu LY, Zhu SH. Long-term outcomes of Roux-en-Y gastric bypass versus medical therapy for patients with type 2 diabetes: a meta-analysis of randomized controlled trials. Surg Obes Relat Dis. 2021 Jul;17(7):1334-1343. doi: 10.1016/j.soard.2021.03.001. Epub 2021 Mar 9. PMID: 33863632.
+Cresci B, Cosentino C, Monami M, Mannucci E. Metabolic surgery for the treatment of type 2 diabetes: A network meta-analysis of randomized controlled trials. Diabetes Obes Metab. 2020 Aug;22(8):1378-1387. doi: 10.1111/dom.14045. Epub 2020 May 4. PMID: 32243058.
+Khorgami Z, Shoar S, Saber AA, Howard CA, Danaei G, Sclabas GM. Outcomes of Bariatric Surgery Versus Medical Management for Type 2 Diabetes Mellitus: a Meta-Analysis of Randomized Controlled Trials. Obes Surg. 2019 Mar;29(3):964-974. doi: 10.1007/s11695-018-3552-x. PMID: 30402804.

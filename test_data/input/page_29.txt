@@ -1,0 +1,150 @@
+Chapter Headings
+
+Introduction
+Driving Risks Associated with Diabetes
+Commercial Driving
+Roles and Responsibilities of the Driver with Diabetes and the Health-Care Provider
+Mandatory Reporting
+Other Relevant Guidelines
+Relevant Appendix
+Author Disclosures
+Key Messages
+The fitness of people with diabetes to drive should be assessed on an individual basis.
+All drivers with diabetes should undergo a medical examination at least every 2 years to assess fitness to drive. Commercial drivers should undergo an assessment at the time of application for a commercial license and as per provincial requirements thereafter.
+People with diabetes should play an active role in assessing their fitness to drive.
+Health-care professionals should educate people with diabetes about strategies to reduce their risks for hypoglycemia while driving. They should also identify and inform individuals with diabetes at higher risk for motor vehicle accidents.
+Key Messages for People with Diabetes
+If you take insulin and/or an insulin secretagogue and intend to drive:
+Consider measuring your blood glucose level immediately before driving, always keep an emergency supply of fast-acting carbohydrate, such as dextrose tablets, within easy reach inside the vehicle and carry your glucose meter and supplies.
+Consider measuring your blood glucose level immediately before driving, if you develop symptoms of hypoglycemia, and at least every 4 hours while driving. You can also wear a real-time continuous blood glucose monitoring device.
+Consider measuring your blood glucose more frequently if there are factors that may increase your risk of hypoglycemia, such as recent physical activity or a delay in eating or skipping a meal.
+If you have a history of recurrent severe hypoglycemic episodes (i.e. associated with loss of consciousness or needing help from another person) or have hypoglycemia unawareness (lack of early warning symptoms of hypoglycemia, such as tremor, sweatiness and palpitations), you must measure your blood glucose immediately before and at least every 2 hours while driving or wear a real-time continuous blood glucose monitoring device.
+Do not start driving if your blood glucose level is less than 4 mmol/L. If your blood glucose is less than 4 mmol/L, do not start driving until you have ingested 15 grams of carbohydrate, you have retested and your blood glucose is at least 5 mmol/L. It is suggested to wait for 40 minutes as it takes time for judgment and reflexes to the brain to recover fully from hypoglycemia.
+If hypoglycemia develops while driving, stop the vehicle in a safe location and remove the keys from the ignition. Treat the low blood glucose and consider waiting 40 minutes before driving.
+On longer journeys, take regular meals, snacks and periods of rest.
+Immediately notify your health-care provider and your driving licensing body if you experience any episode of severe hypoglycemia while driving or you experience more than 1 episode of severe hypoglycemia while awake but not driving in the past 6 months if you are a private driver, or in the past 12 months if you are a commercial driver.
+Introduction
+
+For many Canadians, driving is an essential part of daily living and is often a requirement of employment. Diabetes can affect driving performance because of chronic complications which impair sensory or motor function (retinopathy, neuropathy, amputation, vascular disease), and because of transient cognitive dysfunction or loss of consciousness from antihyperglycemic medication-induced hypoglycemia (primarily related to insulin or insulin secretagogues). In addition, other medical disorders associated with type 2 diabetes, such as sleep apnea, can have an adverse impact on driving performance. As the presence and extent of these factors vary from person to person, the fitness of people with diabetes to drive should be assessed on an individual basis as per provincial regulations.
+
+Driving Risks Associated with Diabetes
+
+Case-control studies have suggested that drivers with diabetes pose a modestly increased but acceptable and measurable risk of motor vehicle accidents compared to drivers without diabetes, but many studies are limited and of poor quality (1,2). Older studies may no longer be as relevant due to changes in road conditions, vehicles and diabetes management (3).
+
+Unrecognized hypoglycemia is the most relevant driving hazard for drivers with diabetes. A number of studies have examined driving performance with a driving simulator during induced hypoglycemia in individuals with type 1 and 2 diabetes (4). Studies in type 1 diabetes have demonstrated that performance starts to deteriorate at blood glucose (BG) levels below 3.8 mmol/L (5,6). In one study, only 30% of drivers self-treated their low BG, and the treatment occurred only when the BG was ≤2.8 mmol/L (5). Fewer than 25% were aware that their driving performance was impaired (5). The ability of deciding when it is safe to drive may be unreliable or absent in those with hypoglycemia unawareness. During a driving simulator study, only 4% of those with normal hypoglycemia awareness stated that they would drive while hypoglycemic compared to 43% with impaired awareness of hypoglycemia (5). Studies have demonstrated that cognitive function may not recover until 40 minutes or more after restoration of euglycemia (7–10).
+
+Hypoglycemia is not a problem for drivers with diabetes treated with healthy behaviour interventions (diet and physical activity) alone, nor is it a problem for drivers with diabetes treated with most noninsulin antihyperglycemic medications, when used as monotherapy or in combination with each other. Treatment with insulin secretagogues (sulfonylureas, meglitinides) may provoke higher rates of hypoglycemia when used alone or in combination with other noninsulin antihyperglycemic medications (11), including the elderly (12) (see Hypoglycemia chapter, p. S104; Pharmacologic Glycemic Management of Type 2 Diabetes in Adults chapter, p. S88; Diabetes in Older People chapter, p. S283). Studies of rates of motor vehicle accidents in drivers with diabetes have consistently described the highest rates for individuals treated with insulin (12–16).
+
+Factors that have been shown to increase driving risk include previous episodes of severe hypoglycemia within the past 2 years (17–19) with a greater risk in those with lower glycated hemoglobin (A1C) (17,20), previous hypoglycemia while driving (17) and absence of BG monitoring before driving (13,17). Studies have not specifically addressed differences between episodes during waking hours and while asleep. Impaired awareness of hypoglycemia is also a significant risk factor for severe hypoglycemia (19). There is evidence that driving itself is associated with significant metabolic demand and may cause BG to fall (21). These risks may be mitigated by frequent BG testing (22) or use of a real-time continuous glucose monitoring (CGM) device (23). Use of a memory glucose meter is recommended so that measurements can be assessed by the health-care team and by driving authorities, if indicated.
+
+An 11-item questionnaire attempted to identify the at-risk drivers with diabetes (24). Those scoring in the upper quartile reported more driving mishaps than those in the lower quartile. The most discriminating questions regarding accident risk were those that quantified annual mileage, identified a history of hypoglycemia-related vehicle collision, elicited poor self-management of hypoglycemic episodes and screened for the presence of lower limb neuropathy. An Internet-based management program undertaken by drivers with type 1 diabetes reduced the frequency of driving mishaps in high-risk drivers (25).
+
+There are limited data concerning the effects of hyperglycemia on driving, which may depend on how hyperglycemia is defined. In 1 questionnaire-based study, 8% of participants with type 1 diabetes and 40% with type 2 diabetes reported at least 1 episode of disrupted driving associated with hyperglycemia over 1 year (24). No studies have examined the effect of hyperglycemia on driving performance.
+
+Commercial Driving
+
+The risk for commercial vehicle drivers is higher than that for private drivers as the former are on the road many hours of the day or night, thus increasing their time exposure. The consequences of a motor vehicle accident involving a commercial vehicle are also likely to be more serious, particularly if the vehicle carries passengers or dangerous goods. Therefore, higher medical standards are applied for all commercial vehicle drivers (26).
+
+Roles and Responsibilities of the Driver with Diabetes and the Health-Care Provider
+
+People with diabetes should play an active role in assessing their own fitness to drive and should have a duty to report conditions that may potentially impair their ability to drive safely, such as hypoglycemia unawareness and episodes of severe hypoglycemia while driving or while awake but not driving. However, studies have demonstrated limited patient awareness of and adherence to recommendations for safe driving. As few as 15% of adults routinely perform self-monitoring of blood glucose (SMBG) before driving (22,27). A survey in Edinburgh of 202 drivers with insulin-treated diabetes showed only 50% of drivers reported following minimum safe driving recommendations: carrying carbohydrate in the vehicle, measuring glucose before a journey, stopping the vehicle during a hypoglycemic episode and recognizing a low glucose as unsafe to drive (22).
+
+Health-care providers play a critical role in educating people with diabetes on strategies to reduce their risk of hypoglycemia while driving, however, many drivers with diabetes receive little or no advice. In a large multinational study, only 52% of drivers with type 1 diabetes and 27% with type 2 diabetes had discussed driving guidelines with their physician (13). Many health-care professionals have deficiencies in their knowledge about the problems associated with diabetes and driving and how these should be minimized (28). In a Scottish study, only 62% of health-care professionals suggested that insulin-treated drivers should test their blood glucose before driving and 8% did not know that impaired glucose awareness might be a contraindication to driving (27). A study in Finland indicated that among private and commercial drivers treated with insulin with self-reported recurrent severe hypoglycemia, 68% continued to hold a valid driving licence (28).
+
+Table 1
+Canadian regulations for reporting medically unfit drivers
+*For more information regarding reporting processes in Canada, see the Canadian Medical Association Driver's Guide available at https://joule.cma.ca/en/evidence/CMA-drivers-guide.html.
+Province/territory	Reporting*
+Alberta	Discretionary
+British Columbia	Mandatory (only if the driver has been warned of the dangers of driving and still continues to drive)
+Manitoba	Mandatory
+New Brunswick	Mandatory
+Newfoundland and Labrador	Mandatory
+Northwest Territories	Mandatory
+Nova Scotia	Discretionary
+Nunavut	Mandatory
+Ontario	Mandatory
+Prince Edward Island	Mandatory
+Quebec	Discretionary
+Saskatchewan	Mandatory
+Yukon	Mandatory
+Mandatory Reporting
+
+Currently, 10 Canadian provinces and territories have a mandatory reporting system obliging legally qualified medical practitioners to report to the appropriate regulatory body those people who have conditions that impair their driving ability (29) (Table 1). Federal organizations, such as the Canadian Council of Motor Transport Administrators (CCMTA), should have consistent, clear and easily accessible reporting mechanisms for physicians and nurse practitioners; in addition, provincial and territorial ministries of transportation should include information on their websites about diabetes and driving, and which types of people with diabetes should be reported. A study in Ontario showed that a program of medical warnings issued to 100,075 people over a 3-year period for a variety of different medical issues, including alcoholism, epilepsy, dementia, sleep disorders and diabetes, resulted in a 45% reduction in annual accident rates when compared with the period before the warning. People with diabetes who received warnings (n=518,104) had a 41% reduction (from 4.49 to 2.71 events per 1,000 patients per year), similar to the total cohort (30).
+
+Mandatory reporting with the goal of optimizing road safety may inadvertently discourage people from discussing their condition with their physician. In the Czech Republic, where physician reporting is mandatory for diabetes, a survey of 663 people found that 52% would conceal or were undecided whether they would report severe hypoglycemic events to their physician (31). A study in the United Kingdom of 2,779 drivers with insulin-treated diabetes for 15 years or more found that 10.5% self-declarations of severe hypoglycemia or impaired awareness of hypoglycemia were inconsistent with their physician's reporting, and resulted in 8.5% of drivers having their license refused (32). Implementation of stricter European Union legislation on driver licensing resulted in a 55% reduction in reported rates of severe hypoglycemia among a cohort of 309 people with type 1 diabetes in Denmark (33).
+
+Recommendations
+Fitness of people with diabetes to drive should be assessed on an individual basis [Grade D, Consensus]. People with diabetes should take an active role in assessing their ability to drive safely.
+All drivers with diabetes should undergo a comprehensive medical examination at least every 2 years by a physician/nurse practitioner competent in managing people with diabetes. The medical examination should include an assessment of glycemic control; frequency and severity of hypoglycemia; symptomatic awareness of hypoglycemia; and the presence of retinopathy, neuropathy, nephropathy, amputation and CV disease, to identify whether any of these factors could significantly increase the risk of a motor vehicle accident [Grade D, Consensus]. Commercial drivers should also undergo a medical examination at the time of application for a commercial license [Grade D, Consensus].
+Drivers with diabetes treated with insulin secretagogues and/or insulin:
+Should maintain a log of their SMBG measurements either by using a memory-equipped BG meter or electronic record of BG measurement performed at a frequency deemed appropriate by the person with diabetes and their health-care team. For commercial drivers, for initial commercial licence application, the record should include the last 6 months (or since the diagnosis of diabetes if less than 6 months). BG logs should be verifiable on request [Grade D, Consensus].
+Should always have BG monitoring equipment and supplies of rapidly absorbed carbohydrate within easy reach (e.g. attached to the driver's-side visor or in the centre console) [Grade D, Consensus].
+Should consider measuring their BG level immediately before and at least every 4 hours while driving or wear a real-time CGM device [Grade D, Consensus].
+Should not drive when their BG level is <4.0 mmol/L [Grade C, Level 3 (5) for type 1 diabetes; Grade D, Consensus for type 2 diabetes]. If the BG level is <4.0 mmol/L, they should not drive until at least 40 minutes after successful treatment of hypoglycemia has increased their BG level to at least 5.0 mmol/L [Grade C, Level 3 (10) for type 1 diabetes; Grade D, Consensus for type 2 diabetes].
+Must refrain from driving immediately if they experience severe hypoglycemia while driving, and notify their health-care provider as soon as possible (no longer than 72 hours) [Grade D, Consensus].
+Private and commercial drivers with diabetes and hypoglycemia unawareness or history of severe hypoglycemia in the past 12 months must measure their BG level immediately before and at least every 2 hours while driving or wear a real-time CGM device [Grade D, Consensus].
+If any of the following occur, health-care professionals should inform people with diabetes treated with insulin secretagogues and/or insulin to no longer drive, and should report their concerns about the person's fitness to drive to the appropriate driving licensing body:
+Any episode of severe hypoglycemia while driving in the past 12 months [Grade D, Consensus].
+More than 1 episode of severe hypoglycemia while awake but not driving in the past 6 months for private drivers, and in the past 12 months for commercial drivers [Grade D, Consensus].
+
+Abbreviations:
+
+BG, blood glucose; CBG, capillary blood glucose; CGM, continuous glucose monitoring; SMBG, self-monitoring of blood glucose.
+
+Other Relevant Guidelines
+Monitoring Glycemic Control, p. S47
+Glycemic Management in Adults With Type 1 Diabetes, p. S80
+Pharmacologic Glycemic Management of Type 2 Diabetes in Adults, p. S88
+Hypoglycemia, p. S104
+Diabetes in Older People, p. S283
+Relevant Appendix
+Appendix 10. Sample Diabetes and Driving Assessment Form
+
+Literature Review Flow Diagram for Chapter 21: Diabetes and Driving
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (34).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Houlden reports grants from Boehringer Ingelheim, Novo Nordisk, and Eli Lilly, outside the submitted work. Lori Berard has received consulting and/or speaker fees from Bayer, Boehringer Ingelheim, Sanofi, Eli Lilly, Novo Nordisk, Janssen, AstraZeneca, and Merck. Dr. Yale reports grants and personal fees from Eli Lilly Canada, Sanofi, Merck, AstraZeneca, Boehringer Ingelheim, Janssen, and Medtronic; personal fees from Novo Nordisk, Takeda, Abbott, and Bayer; and grants from Mylan, during the conduct of the study. No other authors have anything to disclose.
+
+References
+Stork AD, van Haeften TW, Veneman TF. Diabetes and driving: Desired data, research methods and their pitfalls, current knowledge, and future research. Diabetes Care 2006;29:1942–9.
+Kagan A, Hashemi G, Korner-Bitensky N. Diabetes and fitness to drive: A systematic review of the evidence with a focus on older drivers. Can J Diabetes 2010;34:233–42.
+Inkster B, Frier BM. Diabetes and driving. Diabetes Obes Metab 2013;15:775–83.
+Stork AD, van Haeften TW, Veneman TF. The decision not to drive during hypoglycemia in patients with type 1 and type 2 diabetes according to hypoglycemia awareness. Diabetes Care 2007;30:2822–6.
+Cox DJ, Gonder-Frederick LA, Kovatchev BP, et al. Progressive hypoglycemia’s impact on driving simulation performance. Occurrence, awareness and correction. Diabetes Care 2000;23:163–70.
+Cox DJ, Gonder-Frederick L, Clarke W. Driving decrements in type I diabetes during moderate hypoglycemia. Diabetes 1993;42:239–43.
+Evans ML, Pernet A, Lomas J, et al. Delay in onset of awareness of acute hypoglycemia and of restoration of cognitive performance during recovery. Diabetes Care 2000;23:893–7.
+Blackman JD, Towle VL, Lewis GF, et al. Hypoglycemic thresholds for cognitive dysfunction in humans. Diabetes 1990;39:828–35.
+Gonder-Frederick LA, Cox DJ, Driesen NR, et al. Individual differences in neurobehavioral disruption during mild and moderate hypoglycemia in adults with IDDM. Diabetes 1994;43:1407–12.
+Zammitt NN,Warren RE, Deary IJ, et al. Delayed recovery of cognitive function following hypoglycemia in adults with type 1 diabetes: Effect of impaired awareness of hypoglycemia. Diabetes 2008;57:732–6.
+UK Hypoglycaemia Study Group. Risk of hypoglycaemia in types 1 and 2 diabetes: Effects of treatment modalities and their duration. Diabetologia 2007;50:1140–7.
+Hemmelgarn B, Lévesque LE, Suissa S. Anti-diabetic drug use and the risk of motor vehicle crash in the elderly. Can J Clin Pharmacol 2006;13:e112–20.
+Cox DJ, Penberthy JK, Zrebiec J, et al. Diabetes and driving mishaps: Frequency and correlations from a multinational survey. Diabetes Care 2003;26:2329–34.
+Skurtveit S, Strom H, Skrivarhaug T, et al. Road traffic accident risk in patients with diabetes mellitus receiving blood glucose-lowering drugs. Prospective follow-up study. Diabet Med 2009;26:404–8.
+Lonnen KF, Powell RJ, Taylor D, et al. Road traffic accidents and diabetes: Insulin use does not determine risk. Diabet Med 2008;25:578–84.
+Harsch IA, Stocker S, Radespiel-Troger M, et al. Traffic hypoglycaemias and accidents in patients with diabetes mellitus treated with different antidiabetic regimens. J Intern Med 2002;252:352–60.
+Cox DJ, Ford D, Gonder-Frederick L, et al. Driving mishaps among individuals with type 1 diabetes: A prospective study. Diabetes Care 2009;32:2177–80.
+Signorovitch JE, Macaulay D, Diener M, et al. Hypoglycaemia and accident risk in people with type 2 diabetes mellitus treated with non-insulin antidiabetes drugs. Diabetes Obes Metab 2013;15:335–41.
+Songer TJ, Dorsey RR. High risk characteristics formotor vehicle crashes in persons with diabetes by age. Annu Proc Assoc Adv Automot Med 2006;50:335–51.
+Redelmeier DA, Kenshole AB, Ray JG. Motor vehicle crashes in diabetic patients with tight glycemic control: A population-based case control analysis. PLoS Med 2009;6:e1000192.
+Cox DJ, Gonder-Frederick LA, Kovatchev BP, et al. The metabolic demands of driving for drivers with type 1 diabetes mellitus. Diabetes Metab Res Rev 2002;18:381–5.
+Graveling AJ, Warren RE, Frier BM. Hypoglycaemia and driving in people with insulin-treated diabetes: Adherence to recommendations for avoidance. Diabet Med 2004;21:1014–19.
+Choudhary P, Ramasamy S, Green L, et al. Real-time continuous glucose monitoring significantly reduces severe hypoglycemia in hypoglycemiaunaware patients with type 1 diabetes. Diabetes Care 2013;36:4160–2.
+Cox DJ, Singh H, Lorber D. Diabetes and driving safety: Science, ethics, legality and practice. Am J Med Sci 2013;345:263–5.
+Ingersoll KS, Banton T, Gorlin E, et al. Motivational interviewing support for a behavioral health internet intervention for drivers with type 1 diabetes. Internet Interv 2015;2:103–9.
+Hocking B, Landgren F. New medical standards for drivers. Aust Fam Physician 2003;32:732–6.
+WatsonWA, Currie T, Lemon JS, et al. Driving and insulin-treated diabetes: Who knows the rules and recommendations? Pract Diab Int 2007;24:201–6.
+Honkasalo M, Elonheimo O, Sane T. Many diabetic patients with recurrent severe hypoglycemias hold a valid driving license. A community-based study in insulin-treated patients with diabetes. Traffic Inj Prev 2010;11:258–62.
+CMA Driver’s Guide: determining medical fitness to operate motor vehicles. 9th edition. Joule Inc., 2017. https://joule.cma.ca/en/evidence/CMA-drivers-guide.html. Accessed January 2, 2018.
+Redelmeier DA, Yarnell CJ, Thiruchelvam D, et al. Physicians’ warnings for unfit drivers and the risk of trauma from road crashes. N Engl J Med 2012;367:1228–36.
+Brož J, Brabec M, Janícˇková Žd’árská D, et al. Fear of driving license withdrawal in patients with insulin-treated diabetes mellitus negatively influences their decision to report severe hypoglycemic events to physicians. Patient Prefer Adherence 2015;9:1367–70.
+Rees SDR, Browne A, Major HG, et al. Renewal of driving licences and long duration insulin-treated diabetes: A comparison of medical assessment and self-reporting by drivers. Practical Diabetes 2012;29:117–19.
+Pedersen-Bjergaard U, Faerch L, AllingbjergML, et al. The influence of new European Union driver’s license legislation on reporting of severe hypoglycemia by patients with type 1 diabetes. Diabetes Care 2015;38:29–33.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

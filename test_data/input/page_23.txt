@@ -1,0 +1,348 @@
+Chapter Headings
+
+Introduction
+Screening for and Diagnosis of Diabetes and Hyperglycemia in the Hospital Setting
+Glucose Monitoring in the Hospital Setting
+Glycemic Control in the Non-Critically Ill Patient
+Glycemic Control in the Critically Ill Patient
+Role of Intravenous Insulin
+Role of Subcutaneous Insulin
+Role of Noninsulin Antihyperglycemic Agents
+Role of Medical Nutrition Therapy
+Special Clinical Situations
+Organization of Care
+Safety
+Other Relevant Guidelines
+Author Disclosures
+Key Messages
+Hyperglycemia is common in hospitalized people, even among those without a previous history of diabetes, and is associated with increased in-hospital complications, longer length of stay and mortality.
+Insulin is the most appropriate pharmacologic agent for effectively controlling glycemia in hospital. A proactive approach to glycemic management using scheduled basal, bolus and correction (supplemental) insulin is the preferred method. The use of correction-only (supplemental) insulin, which treats hyperglycemia only after it has occurred, should be discouraged as the sole modality for treating elevated blood glucose levels.
+For the majority of noncritically ill hospitalized people with diabetes, preprandial blood glucose targets should be 5.0 to 8.0 mmol/L, in conjunction with random blood glucose values <10.0 mmol/L, as long as these targets can be safely achieved. For critically ill hospitalized people with diabetes, blood glucose levels should be maintained between 6.0 and 10.0 mmol/L.
+Hypoglycemia is a major barrier to achieving targeted glycemic control in the hospital setting. Health-care institutions should develop protocols for the assessment and treatment of hypoglycemia.
+Key Messages for People with Diabetes
+If your admission to hospital is planned, talk with your health-care providers (e.g. surgeon, anesthetist, primary care provider, diabetes health provider, etc.) before you are admitted in order to develop an in-hospital diabetes care plan that addresses such issues as:
+Who will manage your diabetes in the hospital?
+Will you be able to self-manage your diabetes?
+What adjustments to your diabetes medications or insulin doses may be necessary before and after medical procedures or surgery?
+If you use an insulin pump, are hospital staff familiar with pump therapy?
+Your blood glucose levels may be higher in hospital than your usual target range due to a variety of factors, including the stress of your illness, medications, medical procedures and infections.
+Your diabetes medications may need to be changed during your hospital stay to manage the changes in blood glucose, or if medical conditions develop that make some medications no longer safe to use.
+When you are discharged, make sure that you have written instructions about:
+Changes in your dosage of medications or insulin injections or any new medications or treatments
+How often to check your blood glucose
+Who to contact if you have difficulty managing your blood glucose levels.
+Introduction
+
+Diabetes increases the risk for hospitalization for several reasons, including: cardiovascular (CV) disease, nephropathy, infection, cancer and lower-extremity amputations. In-hospital hyperglycemia is common. A review of medical records of over 2,000 adult patients admitted to a community teaching hospital in the United States (>85% were nonintensive care unit patients) found that hyperglycemia was present in 38% of patients (1). Of these patients, 26% had a known history of diabetes, and 12% had no history of diabetes prior to admission. Diabetes has been reported to be the fourth most common comorbid condition listed on all hospital discharges (2).
+
+Acute illness results in a number of physiological changes (e.g. increases in circulating concentrations of stress hormones) or therapeutic choices (e.g. glucocorticoid use) that can exacerbate hyperglycemia. Hyperglycemia, in turn, causes physiological changes that can exacerbate acute illness, such as decreased immune function and increased oxidative stress. These lead to a complex cycle of worsening illness and poor glucose control (3). Although a growing body of literature supports the need for targeted glycemic control in the hospital setting, blood glucose (BG) continues to be poorly controlled and is frequently overlooked in general medicine and surgery services. This is largely explained by the fact that the majority of hospitalizations for patients with diabetes are not directly related to their metabolic state, thus diabetes management is rarely the primary focus of care. Therefore, glycemic control and other diabetes care issues are often not specifically addressed (4).
+
+Screening for and Diagnosis of Diabetes and Hyperglycemia in the Hospital Setting
+
+A history of diabetes should be elicited in all patients admitted to hospital and, if present, should be clearly identified on the medical record. In view of the high prevalence of inpatient hyperglycemia with associated poor outcomes, an admission BG measurement of all patients would help identify people with diabetes, even in the absence of a prior diagnosis (1,5). In-hospital hyperglycemia is defined as any glucose value >7.8 mmol/L. For hospitalized people with known diabetes, the glycated hemoglobin (A1C) identifies people who may benefit from efforts to improve glycemic control and tailor therapy upon discharge (6,7). In hospitalized people with newly recognized hyperglycemia, an A1C among those with diabetes risk factors or associated comorbidities (e.g. cardiovascular disease [CVD]) (8,9) may help differentiate people with previously undiagnosed diabetes and dysglycemia from those with stress-induced hyperglycemia and provides an opportunity to diagnose and initiate diabetes therapies (10–13). Among people admitted to an intensive care unit (ICU), an A1C drawn at admission allows identification of people with previously unknown diabetes, people at risk of glycemic management challenges and people at an increased risk of mortality (14,15). A1C has been found to be specific for diagnosis of diabetes in the hospital setting, although not as sensitive as in the outpatient setting (13,16). While the threshold for diagnosis of diabetes has not been established for hospitalized people, an A1C criteria of >6.0% has been found to be highly specific for the diagnosis of dysglycemia post-hospitalization (13,17).
+
+Glucose Monitoring in the Hospital Setting
+Bedside blood glucose monitoring
+
+Currently, there are no studies that have examined the effect of the frequency of bedside BG monitoring on the incidence of hyper- or hypoglycemia in the hospital setting. The frequency and timing of bedside BG monitoring can be individualized; however, monitoring is typically performed before meals and at bedtime in people who are eating; every 4 to 6 hours in people who are NPO (nothing by mouth) or receiving continuous enteral feeding; and every 1 to 2 hours for people on continuous intravenous insulin or those who are critically ill. Some bedside BG monitoring is indicated in individuals without known diabetes but receiving treatments known to be associated with hyperglycemia (e.g. glucocorticoids, octreotide, parenteral nutrition and enteral nutrition) (18). The implementation and maintenance of quality control programs by health-care institutions helps to ensure the accuracy of bedside BG monitoring (19,20). The use of glucose meters with bar coding capability has been shown to reduce data entry errors in medical records (21). Data management programs that transfer bedside BG monitoring results into electronic records allow evaluation of hospital-wide glycemic control (22).
+
+Capillary blood glucose (CBG) point of care testing (POCT) should be interpreted with caution in the critically ill patient population. Poor perfusion indices may yield conflicting capillary, arterial and whole BG values using POCT glucose meters (23–25). Venous or arterial samples are preferred when using a POCT meter for this patient population.
+
+Clinical decision support system software integrating CBG POCT can aid in trend analysis, medication dosing, reduce prescription error and reduce length of stay (26). Electronic glucose metric data and web-based reporting systems may pose utility for monitoring glycemic management performance within an organization and enhance opportunities for external benchmarking (27).
+
+Glycemic Control in the Non-Critically Ill Patient
+
+A number of studies have demonstrated that inpatient hyperglycemia is associated with increased morbidity and mortality in noncritically ill hospitalized people (1,28,29). However, due to a paucity of randomized controlled trials on the benefits and risks of “conventional” vs. “tight” glycemic control in noncritically ill hospitalized people, glycemic targets for this population remain undefined. Current recommendations are based mostly on retrospective studies, clinical experience and judgement. Glycemic targets for hospitalized people with diabetes are modestly higher than those routinely advised for outpatients with diabetes given that the hospital setting presents unique challenges for the management of hyperglycemia, such as variations in patient nutritional status and the presence of acute illness. For the majority of noncritically ill hospitalized people, recommended preprandial BG targets are 5.0 to 8.0 mmol/L, in conjunction with random BG values <10.0 mmol/L, as long as these targets can be safely achieved (Table 1). Lower targets may be considered in clinically stable hospitalized people with a prior history of successful tight glycemic control in the outpatient setting, while higher targets may be acceptable in terminally ill people or in those with severe comorbidities. If BG values are ≤3.9 mmol/L, modification of antihyperglycemic therapy is suggested, unless the event is easily explained by other factors (e.g. a missed meal) (18,30).
+
+Table 1
+Recommended glycemic targets for hospitalized people with diabetes*
+CABG, coronary artery bypass grafting.
+*Less stringent targets may be appropriate in terminally ill patients or in people with severe comorbidities (see Targets for Glycemic Control chapter, p. S42).
+†See Management of Acute Coronary Syndromes chapter, p. S190.
+>‡See Diabetes and Pregnancy chapter, p. S255.
+Hospitalized population with diabetes	Blood glucose targets (mmol/L)
+Noncritically ill	Preprandial: 5.0–8.0
+Random: <10.0
+Critically ill	6.0–10.0
+CABG intraoperatively	5.5–11.1
+Perioperatively for other surgeries	5.0–10.0
+Acute coronary syndrome†	7.0–10.0
+Labour and delivery‡	4.0–7.0
+Glycemic Control in the Critically Ill Patient
+
+Acute hyperglycemia in the intensive care setting is not unusual and results from a number of factors, including stress-induced counter-regulatory hormone secretion and the effects of medications administered in the ICU (31). Glycemic targets for people with pre-existing diabetes who are in the critical care setting have not been firmly established. Early trials showed that achieving normoglycemia (4.4 to 6.1 mmol/L) in cardiac surgery patients or patients in postoperative surgical ICU settings reduced mortality (32). However, subsequent trials in mixed populations of critically ill patients did not show a benefit of targeting BG levels of 4.4 to 8.3 mmol/L. A meta-analysis of trials of intensive insulin therapy in the ICU setting suggested benefit of intensive insulin therapy in surgical patients, but not in medical patients (33). Conversely, the Normoglycemia in Intensive Care Evaluation—Survival Using Glucose Algorithm Regulation (NICE-SUGAR) study, the largest trial to date of intensive glucose control in critically ill medical and surgical patients, found an increase in 90-day all-cause mortality (hazard ratio [HR] 1.14; 95% confidence interval [CI] 1.02–1.28; p=0.02) amongst participants randomized to the intensive glycemic control arm that targeted BG levels of 4.5 to 6.0 mmol/L (34). Furthermore, intensive insulin therapy has been associated with an increased risk of hypoglycemia in the ICU setting (33). Therefore, maintaining a BG level <10.0 mmol/L in critically ill hospitalized people with diabetes is considered a safe target (Table 1). The lower limit for the BG target is less well established but generally should remain >6.0 mmol/L in order to minimize the risks of both hypoglycemia and mortality. The use of insulin infusion protocols with proven efficacy and safety minimizes the risk of hypoglycemia (35–38).
+
+Role of Intravenous Insulin
+
+There are few occasions when intravenous insulin is required, as most people with type 1 or type 2 diabetes admitted to general medical wards can be treated with subcutaneous insulin. Intravenous insulin, however, may be appropriate for people who are critically ill (with appropriate BG targets), people who are not eating and in those with hyperglycemia and metabolic decompensation (e.g. diabetic ketoacidosis [DKA] and hyperosmolar hyperglycemic state [HHS]) (see Hyperglycemic Emergencies in Adults chapter, p. S109). The evidence to date suggests there is no benefit to intravenous insulin over subcutaneous insulin post-acute stroke (3,39).
+
+Health-care staff education is a critical component of the implementation of an intravenous insulin infusion protocol. Intravenous insulin protocols should take into account the patient's current and previous BG levels (as well as the rate of change in BG), and the patient's usual insulin dose. Several published insulin infusion protocols appear to be both safe and effective, with low rates of hypoglycemia; however, most of these protocols have only been validated in the ICU setting, where the nurse-to-patient ratio is higher than on medical and surgical wards (3,36). BG determinations can be performed every 1 to 2 hours until BG has stabilized. With the exception of the treatment of hyperglycemic emergencies (e.g. DKA and HHS), consideration should be given to concurrently providing people receiving intravenous insulin with some form of glucose (e.g. intravenous glucose or through parenteral or enteral feeding).
+
+Transition from IV insulin to SC insulin therapy
+
+Hospitalized people with type 1 and type 2 diabetes may be transitioned to scheduled subcutaneous insulin therapy from intravenous insulin. Short- or rapid- or fast-acting insulin can be administered 1 to 2 hours before discontinuation of the intravenous insulin to maintain effective blood levels of insulin. If intermediate- or long-acting insulin is used, it can be given 2 to 3 hours prior to intravenous insulin discontinuation. People without a history of diabetes, who have hyperglycemia requiring more than 2 units of intravenous insulin per hour, likely require insulin therapy and can be considered for transition to scheduled subcutaneous insulin therapy.
+
+The initial dose and distribution of subcutaneous insulin at the time of transition can be determined by extrapolating the intravenous insulin requirement over the preceding 6- to 8-hour period to a 24-hour period. Administering 60% to 80% of the total daily calculated dose as basal insulin has been demonstrated to be safe and efficacious in surgical patients (40). Dividing the total daily dose as a combination of basal and bolus insulin has been demonstrated to be safe and efficacious in medically ill patients (40,41).
+
+Perioperative glycemic control
+
+The management of individuals with diabetes at the time of surgery poses a number of challenges. Acute hyperglycemia is common secondary to the physiological stress associated with surgery. Pre-existing diabetes-related complications and comorbidities may also influence clinical outcomes. Acute hyperglycemia has been shown to adversely affect immune function (42) and wound healing (43) in animal models. Observational studies have shown that hyperglycemia increases the risk of postoperative infections (44,45), renal allograft rejection (46), and is associated with increased health-care resource utilization (47).
+
+Cardiovascular surgery
+
+In people undergoing coronary artery bypass grafting (CABG), a pre-existing diagnosis of diabetes has been identified as a risk factor for postoperative sternal wound infections, delirium, renal dysfunction, respiratory insufficiency and prolonged hospital stays (48–50). Intraoperative hyperglycemia during cardiopulmonary bypass has been associated with increased morbidity and mortality rates in individuals with and without diabetes (51–53). A systematic review of randomized controlled trials supports the use of intravenous insulin infusion targeting a blood glucose of 5.5 to 11.1 mmol/L over correction (supplemental) subcutaneous insulin for perioperative glycemic control in CV surgery patients (Table 1). This was demonstrated by a marked reduction in surgical site infections (odds ratio 0.13) (54).
+
+Minor and moderate surgery
+
+The perioperative glycemic targets for minor or moderate surgeries are less clear. Older studies comparing different methods of achieving glycemic control during minor and moderate surgeries did not demonstrate any adverse effects of maintaining perioperative BG levels between 5.0 to 11.0 mmol/L (55–57). Attention has been placed on the relationship between postoperative hyperglycemia and surgical site infections. While the association was well documented, the impact and risks of intensive management was less clear. A recent meta-analysis of 15 randomized controlled trials demonstrated that intensive perioperative glycemic control (BG target of <8.3 mmol/L) resulted in decreased odds of surgical site infections when compared to conventional control (BG target of <12 mmol/L). The risk of hypoglycemia was increased but there was no increased risk of stroke or death. The included studies looked at the intraoperative and immediate postoperative period and used intravenous insulin to achieve intensive targets. The included studies were mostly cardiac and gastrointestinal and were found to have a moderate risk of bias (58).
+
+Rapid institution of perioperative glucose control must be carefully considered in patients with poorly controlled type 2 diabetes undergoing monocular phacoemulsification cataract surgery with moderate to severe nonproliferative diabetic retinopathy because of the possible increased risk of postoperative progression of retinopathy and maculopathy (59). The outcome of vitrectomy, however, does not appear to be influenced by perioperative control (60).
+
+Given the data supporting tighter perioperative glycemic control during major surgeries and the compelling data showing the adverse effects of hyperglycemia, it is reasonable to target glycemic levels between 5.0 to 10.0 mmol/L for minor and moderate surgeries in patients with known diabetes (Table 1). The best way to achieve these targets in the postoperative patient is with a basal bolus insulin regimen (61,62). This approach has been shown to reduce postoperative complications, including wound infections. Despite this knowledge, surgical patients are often treated with correction (supplemental) rapid-acting insulin alone (63) which may not adequately control BG.
+
+The benefits of improved perioperative glycemic control must be weighed against the risk of perioperative hypoglycemia. Anesthetic agents and postoperative analgesia may alter the patient's level of consciousness and awareness of hypoglycemia. The risk of hypoglycemia can be reduced by frequent BG monitoring and carefully designed management protocols.
+
+Role of Subcutaneous Insulin
+
+In general, insulin is the preferred treatment for hyperglycemia in hospitalized people with diabetes (35). People with type 1 diabetes must be maintained on insulin therapy at all times to prevent DKA. Scheduled subcutaneous insulin administration that consists of basal, bolus (prandial) and correction (supplemental) insulin components is the preferred method for achieving and maintaining glucose control in noncritically ill hospitalized people with diabetes or stress hyperglycemia who are eating (35,64). Bolus insulin can be withheld or reduced in people who are not eating regularly; however, basal insulin should not be withheld. Stable people can usually be maintained on their home insulin regimen with adjustments made to accommodate for differences in meals and activity levels, the effects of illness and the effects of other medications. In the hospital setting, rapid-acting insulin analogues are the preferred subcutaneous bolus and correction insulins (65). Insulin programs that only react to, or correct for, hyperglycemia have been demonstrated to be associated with higher rates of hyperglycemia (61,66–69). Insulin is often required temporarily in hospital, even in people with type 2 diabetes not previously treated with insulin. In these insulin-naive people, there is evidence demonstrating the superiority of basal-bolus-correction insulin regimens (61,66).
+
+A number of protocols have been published as part of studies (61,66,69–72). These studies have typically started insulin-naive people on 0.4 to 0.5 units of insulin per kilogram of body weight per day, with 40% to 50% of the total daily dose (TDD) given as basal insulin (detemir, glargine, neutral protamine Hagedorn [NPH]) and the balance given as bolus (rapid- or short-acting) insulin divided equally before each meal (i.e. breakfast, lunch and dinner); correction doses of the bolus insulin are provided if BG values are above target. Daily review of the person's BG measurements and modification of insulin doses, as required, facilitates the achievement of target blood glucose measurements.
+
+When comparing effective protocols, the following was observed. One study compared basal-bolus (plus correction) insulin with glargine and glulisine vs. premixed insulin (30/70) (73). The study, although small (a total of 72 patients), had to be stopped early because of a tripling of the rate of hypoglycemia, BG <3.8 mmol/L, in the premixed insulin group. Average BG levels were not different, but rates of hypoglycemia were. Another study (74) found no difference in BG levels or rates of hypoglycemia when comparing insulin glargine vs. detemir, when used as the basal insulin in a basal-bolus program. Yet another study (71) found that using a weight-based algorithm to titrate insulin glargine resulted in obtaining target BG levels faster than a glucose-based algorithm, with no difference in the rates of hypoglycemia.
+
+More recently, a study compared a basal-bolus (plus correction) insulin regimen with a program that was basal plus correction (69). The basal-bolus group had slightly lower BG through the day, which was not statistically significant, with no difference in FBG or in rates of hypoglycemia. Taken together with the earlier studies from this group (61,66), it would appear that successful management of in-hospital diabetes requires early and aggressive administration of basal insulin combined with bolus insulin, typically in the form of rapid-acting insulin analogue, similar to the approach used in the outpatient setting.
+
+Role of Noninsulin Antihyperglycemic Agents
+
+To date, no large studies have investigated the use of non-insulin antihyperglycemic agents on outcomes in hospitalized people with diabetes. There are often short- and/or long-term contraindications to the use of noninsulin antihyperglycemic agents in the hospital setting, such as irregular eating, acute or chronic renal failure, and exposure to intravenous contrast dye (75). Stable hospitalized people with diabetes without these contraindications can often have their home antihyperglycemic medications continued while in the hospital. However, if contraindications develop or if glycemic control is inadequate, these drugs should be discontinued and consideration given to starting the patient on a basal-bolus-supplemental insulin regimen. The advantages and disadvantages of various noninsulin antihyperglycemic therapies in hospital are discussed in detail in a recent review article (76).
+
+A recent randomized but unblinded study compared sitagliptin plus basal (and correctional) insulin with a more traditional basal-bolus-correctional insulin program in hospitalized people with diabetes (77). The glycemic outcomes were similar between the 2 groups; however, the basal-bolus-correctional group had a higher mean glucose than similarly insulin-treated subjects in other studies (61,66). This less-aggressive treatment may explain the lack of difference between the sitagliptin and the bolus insulin groups.
+
+Role of Medical Nutrition Therapy
+
+Medical nutrition therapy including nutritional assessment and individualized meal planning is an essential component of inpatient glycemic management programs. A consistent carbohydrate meal planning system may facilitate glycemic control in hospitalized people and facilitate matching prandial insulin doses to the amount of carbohydrate consumed (61,66,75,78–80).
+
+Special Clinical Situations
+Hospitalized people with diabetes receiving enteral or parenteral feedings
+
+In hospitalized people with diabetes receiving parenteral nutrition, insulin can be administered in the following ways: as scheduled regular insulin dosing added directly to the parenteral solution; or as scheduled intermediate- or long-acting subcutaneous insulin doses (81). A separate intravenous infusion of regular insulin may be an alternative method to achieve glycemic control in critical care (82). For scheduled subcutaneous insulin dosing or regular insulin added directly to parenteral solutions, the selected starting insulin dose may be based on the current estimated TDD of insulin, the composition of the parenteral nutrition solution and the patient's weight (81). Considering the patient's individual clinical situation is important when determining insulin dosing. Subcutaneous correction (supplemental) insulin may be used in addition to scheduled insulin dosing and dose adjustments made to scheduled insulin should be adjusted based on the BG pattern.
+
+For hospitalized people with diabetes on enteral feeding regimens, there are few prospective studies examining insulin management. In 1 randomized controlled trial, low-dose basal glargine insulin with regular insulin correction dosing was compared against regular insulin correction (supplemental) insulin dosing with the addition of NPH in the presence of persistent hyperglycemia and demonstrated similar efficacy for glycemic control (83). The type of feed solution and duration of feed (cyclical vs. continuous) should be considered. People with diabetes receiving bolus enteral feeds may be treated in the same manner as people who are eating meals. Approximately 50% of the TDD can be provided as basal insulin and 50% as bolus insulin, which is administered in divided doses to match feed times (75). Correction (supplemental) insulin can be administered, as needed; added to the same bolus insulin. An insulin with a shorter half-life, such as NPH, may be preferred for intermediate duration feeding schedules (i.e. overnight), while regular or rapid-acting insulin may be more appropriate to manage hyperglycemia induced by bolus feeding schedules.
+
+In the event that the parenteral or enteral nutrition is unexpectedly interrupted, intravenous dextrose may be required to prevent hypoglycemia depending on the last dose and type of insulin administered. When parenteral or enteral feeding schedules are adjusted in terms of carbohydrate content or duration, the insulin type and dose will need to be re-assessed.
+
+Hospitalized people with diabetes receiving corticosteroid therapy
+
+Hyperglycemia is a common complication of corticosteroid therapy, with a prevalence between 20% and 50% among people without a previous history of diabetes (84). Although the optimal management of hyperglycemia in people receiving high-dose oral corticosteroids has not been clearly defined, glycemic monitoring for 48 hours after initiation of steroids may be considered for people with or without a history of diabetes (35,84). For management of hyperglycemia, treatment with a basal-bolus with correction insulin regimen was more effective and safer than a correction (supplemental) insulin-only regimen (85), although addition of NPH (dosed variably from once a day at time of glucocorticoid administration to every 6 hours depending on glucocorticoid used) was not demonstrated to improve glycemic outcomes (86,87).
+
+Self-management of diabetes in hospital
+
+Although data for self-management in the hospitalized setting is limited, self-management in hospital may be appropriate for people who are mentally competent and desire more autonomy over their diabetes. The majority of evidence pertains to continuous subcutaneous insulin infusion (CSII) therapy, where continuation of patient-managed insulin delivery has been associated with reduced episodes of severe hyperglycemia and hypoglycemia (88) and high levels of patient satisfaction (89). In general, any person requiring insulin therapy who is self-managing diabetes in the hospital setting should be able to physically self-administer insulin and perform self-monitoring of blood glucose (SMBG) independently, be familiar with the recommended insulin routine, understand sick-day management guidelines and utilize a flowsheet to facilitate communication of BG results and insulin dosing between the patient and health-care providers. The person with diabetes and the health-care provider, in consultation with nursing staff, must agree that patient self-management is an appropriate strategy while hospitalized. Hospitals should have policies and procedures for the assessment of suitability for self-management.
+
+Hospitalized people with diabetes using CSII
+
+Although the data are limited, it appears that CSII can be safely continued in the hospital setting under certain circumstances (90). People maintained on CSII may have decreased length of stay (90); however, this may reflect the severity of illness rather than a glycemic control advantage. People maintained on CSII may have less hypoglycemia than those managed by the admitting clinician. People on CSII are encouraged to continue this form of therapy whenever safe and feasible in hospital. Successful published inpatient protocols include assessment of pump specific self-management skills (i.e. how to adjust their basal rate, administer a bolus dose, insert an infusion set, fill a reservoir, suspend the pump and correct a CBG result outside their target range), pre-printed orders, flow sheets and patient consents (88,91,92). If the patient cannot demonstrate and/or describe the above-mentioned actions and desires to continue CSII, appropriate education and supports can be provided. If appropriate supports are not available, CSII may be discontinued and a basal-bolus-subcutaneous insulin regimen or intravenous insulin infusion may be initiated.
+
+An increasing number of people are being maintained on CSII during short elective surgical procedures without any reported adverse events (93), necessitating close collaboration between anesthesia and diabetes management teams. Different pump manufacturers will recommend discontinuing pumps for certain hospital-based procedures (e.g. radiology, cautery, external beam radiation). To promote a collaborative relationship between the hospital staff and the patient, and to ensure patient safety, hospitals must have clear policies and procedures in place to guide the use of CSII in the inpatient setting (92). Documents that stipulate contraindications for continued CSII, procedures to guide medical management of CSII and a consent form outlining the inpatient terms of use (92) support the safe use of CSII use in hospital. Specific algorithms and order sets for management of CSII peri-operatively and during labour and delivery have been published (93,94).
+
+Organization of Care
+
+Institution-wide programs to improve glycemic control in the inpatient setting include the formation of a multidisciplinary steering committee, professional development programs focused on inpatient diabetes management (95,96), policies to assess and monitor the quality of glycemic management, interprofessional team-based care (including comprehensive patient education and discharge planning) as well as standardized order sets, protocols and algorithms for diabetes care within the institution. Implementation of such a program can result in improvements in in-hospital glycemic control (97,98).
+
+Algorithms, order sets and decision support
+
+Order sets for basal-bolus-correction insulin regimens, insulin management algorithms (70,96,99–102), and computerized order entry systems (101,103) have been shown to improve glycemic control and/or reduce adverse outcomes in hospitalized people with diabetes. Computerized and mobile decision support systems (that provide suggestions for insulin dosing) have also been used and have been associated with lower mean BG levels (26,104–106); hypoglycemia can be an unintended consequence of tighter glycemic control (70,105).
+
+Interprofessional team-based approach
+
+The timely consultation of glycemic management teams has also been found to improve the quality of care provided, reduce the length of hospital stay and lower costs (107,108), although differences in glycemic control were minimal (109). Deployment of nurses (110,111), nurse practitioners and physician assistants (112) with specialty training has been associated with greater use of basal-bolus insulin therapy and lower mean BG levels. A provincial survey of over 2,000 people with diabetes admitted to hospital found that people were more likely to be satisfied with their diabetes care in hospital if they had confidence that the team was knowledgeable about diabetes, presented a consistent message and acknowledged them in their diabetes care (113).
+
+Comprehensive patient education
+
+Programs that include self-management education, such as assessment of barriers and goal setting, have also been associated with improvements in glycemic control (97,111).
+
+Metrics for evaluating inpatient glycemic management programs
+
+Institutional implementation of hospital glycemic management programs require metrics to monitor progress, assess safety, length of stay and identify opportunities for improvement (27). Implementation of inpatient hyperglycemia quality improvement programs evaluated with real-time metrics have been shown to improve glycemic control and safety of insulin ordering (97,114). To date, metrics for monitoring glycemic control programs in hospitals have not been established (115). This lack of standardization limits the ability for benchmarking and comparison of different quality-improvement programs and protocols. Further study into the development and implementation of appropriate standardized metrics for hospital glycemic management programs is warranted.
+
+Transition from hospital to home
+
+Interventions that ensure continuity of care, such as arranging continuation of care after discharge (97), telephone follow up and communication with primary providers at discharge (111), have been associated with a post-discharge reduction in A1C (111). Providing people with diabetes and their family or caregivers with written and oral instructions regarding their diabetes management at the time of hospital discharge will facilitate transition to community care. Comprehensive instructions may include recommendations for timing and frequency of home glucose monitoring; identification and management of hypoglycemia; a reconciled medication list, including insulin and other antihyperglycemic medications; and identification and contact information for health-care providers responsible for ongoing diabetes care and adjustment of glucose-lowering medications. Communication of the need for potential adjustments in insulin therapy that may accompany adjustments of other medications prescribed at the time of discharge, such as corticosteroids or octreotide, to people with diabetes and their primary care providers is important.
+
+Safety
+Hypoglycemia
+
+Hypoglycemia remains a major barrier to achieving optimal glycemic control in hospitalized people with diabetes. Standardized treatment protocols that address mild, moderate and severe hypoglycemia may help mitigate this risk. Education of healthcare workers about factors that increase the risk of hypoglycemia, such as sudden reduction in oral intake, discontinuation of parenteral or enteral nutrition, unexpected transfer from the nursing unit after rapid-acting insulin administration or a reduction in corticosteroid dose (78) are important steps to reduce the risk of hypoglycemia.
+
+Insulin administration errors
+
+Insulin is considered a high-alert medication and can be associated with risk of harm and severe adverse events. A systems approach that includes pre-printed, approved, unambiguous standard orders for insulin administration and/or a computerized order entry system may help reduce errors in insulin ordering (22).
+
+Recommendations
+An A1C should be measured if not done in the 3 months prior to admission on:
+All hospitalized people with a history of diabetes to identify individuals that would benefit from glycemic optimization [Grade D, Consensus]
+All hospitalized people with newly diagnosed hyperglycemia or those with diabetes risk factors to identify individuals at risk for ongoing dysglycemia [Grade C, Level 3 (16)]
+Repeat screening should be performed 6 to 8 weeks post-hospital discharge for individuals with an A1C 6.0–6.4% [Grade D, Consensus]
+In-hospital CBG monitoring should be initiated for individuals with an A1C ≥6.5% [Grade D, Consensus].
+The frequency and timing of bedside CBG monitoring should be individualized for all in-hospital people with diabetes. Monitoring should typically be performed:
+Before meals and at bedtime in people who are eating [Grade D, Consensus]
+Every 4 to 6 hours in people who are NPO or receiving continuous enteral feeding [Grade D, Consensus]
+Every 1 to 2 hours for people on continuous intravenous insulin or those who are critically ill [Grade D, Consensus].
+Provided that their medical conditions, dietary intake and glycemic control are stable, people with diabetes should be maintained on their pre-hospitalization noninsulin antihyperglycemic agents or insulin regimens [Grade D, Consensus].
+For hospitalized people with diabetes treated with insulin, a proactive approach that includes basal, bolus and correction (supplemental) insulin, along with pattern management, should be used to reduce adverse events and improve glycemic control, instead of only correcting high BG with short- or rapid-acting insulin [Grade A, Level 1A (61,66,102)].
+For the majority of noncritically ill hospitalized people with diabetes, preprandial BG targets should be 5.0 to 8.0 mmol/L in conjunction with random BG values <10.0 mmol/L, as long as these targets can be safely achieved [Grade D, Consensus].
+For most medical/surgical critically ill hospitalized people with diabetes with hyperglycemia, a continuous intravenous insulin infusion should be used to maintain BG <10.0 mmol/L [Grade B, Level 2 (34)] and >6.0 mmol/L [Grade D, Consensus].
+For people with diabetes undergoing CABG, a continuous intravenous insulin infusion protocol targeting intraoperative glycemic levels between 5.5 and 11.1 mmol/L should be used, rather than subcutaneous insulin, to prevent postoperative infections [Grade A, Level 1A (54)].
+In hospitalized people with diabetes requiring insulin therapy, protocols using basal insulin with/without bolus insulin should be used for postoperative glycemic management [Grade B, Level 2 (61)].
+In hospitalized people with diabetes, hypoglycemia should be minimized. Protocols for hypoglycemia avoidance, recognition and management should be implemented with nurse-initiated treatment, including glucagon for severe hypoglycemia when intravenous access is not readily available [Grade D, Consensus]. Hospitalized people with diabetes at risk of hypoglycemia should have ready access to an appropriate source of glucose (oral or IV) at all times, particularly when NPO or during diagnostic procedures [Grade D, Consensus].
+Programs consisting of the following elements should be implemented for optimal inpatient diabetes care:
+Interprofessional team-based approach [Grade B, Level 2 (107,108,112)]
+Health-care professional development regarding in-hospital diabetes management [Grade D, Level 4 (95)]
+Algorithms, order sets and decision support [Grade C, Level 3 (26,99,105)].
+Comprehensive quality assurance initiatives, including institution-wide BG monitoring systems, inpatient education, and transition/continuity of care and discharge planning [Grade D, Consensus].
+
+Abbreviations:
+
+BG, blood glucose; CBG, capillary blood glucose; CABG, coronary artery bypass grafting; CSII, continuous subcutaneous insulin infusion; ICU, intensive care unit; NPH, neutral protamine Hagedorn; POC, point of care; TDD, total daily dose.
+
+Other Relevant Guidelines
+
+Chapter 12. Glycemic Management in Adults With Type 1 Diabetes
+
+Chapter 13. Pharmacologic Glycemic Management of Type 2 Diabetes in Adults
+
+Chapter 15. Hyperglycemic Emergencies in Adults
+
+Chapter 27. Management of Acute Coronary Syndromes
+
+Chapter 28. Treatment of Diabetes in People With Heart Failure
+
+Literature Review Flow Diagram for Chapter 16: In-Hospital Management of Diabetes
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (116).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Halperin reports personal fees from Dexcom, Novo Nordisk, and QHR technologies, outside the submitted work. Dr. Miller reports personal fees from Eli Lilly, Novo Nordisk, Sanofi, and AstraZeneca; and grants and personal fees from Boehringer Ingelheim, Janssen, Merck, outside the submitted work. Sarah Moore reports personal fees from Diabetes Care Alliance (Boehringer Ingelheim Eli Lilly Alliance), and Merck Canada, outside the submitted work. No other authors have anything to disclose.
+
+References
+Umpierrez GE, Isaacs SD, Bazargan N, et al. Hyperglycemia: An independent marker of in-hospital mortality in patients with undiagnosed diabetes. J Clin Endocrinol Metab 2002;87:978–82.
+Vasa F. Systematic strategies for improved outcomes for the hyperglycemic hospitalized patient with diabetes mellitus. Am J Cardiol 2005;96:41e–6e.
+Inzucchi SE. Clinical practice. Management of hyperglycemia in the hospital setting. N Engl J Med 2006;355:1903–11.
+Roman SH, Chassin MR. Windows of opportunity to improve diabetes care when patients with diabetes are hospitalized for other conditions. Diabetes Care 2001;24:1371–6.
+Sud M, Wang X, Austin PC, et al. Presentation blood glucose and death, hospitalization, and future diabetes risk in patients with acute heart failure syndromes. Eur Heart J 2015;36:924–31.
+Umpierrez GE, Reyes D, Smiley D, et al. Hospital discharge algorithm based on admission HbA1c for the management of patients with type 2 diabetes. Diabetes Care 2014;37:2934–9.
+Perez A, Reales P, Barahona MJ, et al. Efficacy and feasibility of basal-bolus insulin regimens and a discharge-strategy in hospitalised patients with type 2 diabetes-the HOSMIDIA study. Int J Clin Pract 2014;68:1264–71.
+Ochoa PS, Terrell BT, Vega JA, et al. Identification of previously undiagnosed diabetes and prediabetes in the inpatient setting using risk factor and hemoglobin A1C screening. Ann Pharmacother 2014;48:1434–9.
+Simpson AJ, Krowka R, Kerrigan JL, et al. Opportunistic pathology-based screening for diabetes. BMJ Open 2013 (in press).
+Norhammar A, Tenerz A, Nilsson G, et al. Glucose metabolism in patients with acute myocardial infarction and no previous diagnosis of diabetes mellitus: A prospective study. Lancet 2002;359:2140–4.
+O’Sullivan EP, Duignan J, O’Shea P, et al. Evaluating hyperglycaemia in the hospitalised patient: Towards an improved system for classification and treatment. Ir J Med Sci 2014;183:65–9.
+Miller DB. Glycemic targets in hospital and barriers to attaining them. Can J Diabetes 2014;38:74–8.
+Greci LS, Kailasam M, Malkani S, et al. Utility of HbA(1c) levels for diabetes case finding in hospitalized patients with hyperglycemia. Diabetes Care 2003;26:1064–8.
+Carpenter DL, Gregg SR, Xu K, et al. Prevalence and impact of unknown diabetes in the ICU. Crit Care Med 2015;43:e541–50.
+Kompoti M, Michalia M, Salma V, et al. Glycated hemoglobin at admission in the intensive care unit: Clinical implications and prognostic relevance. J Crit Care 2015;30:150–5.
+Manley SE, O’Brien KT, Quinlan D, et al. Can HbA1c detect undiagnosed diabetes in acute medical hospital admissions? Diabetes Res Clin Pract 2016;115:106–14.
+Malcolm JC, Kocourek J, Keely E, et al. Implementation of a screening program to detect previously undiagnosed dysglycemia in hospitalized patients. Can J Diabetes 2014;38:79–84.
+Umpierrez GE, Hellman R, Korytkowski MT, et al. Management of hyperglycemia in hospitalized patients in non-critical care setting: An endocrine society clinical practice guideline. J Clin Endocrinol Metab 2012;97:16–38.
+Lewandrowski K, Cheek R, Nathan DM, et al. Implementation of capillary blood glucose monitoring in a teaching hospital and determination of program requirements to maintain quality testing. Am J Med 1992;93:419–26.
+Rumley AG. Improving the quality of near-patient blood glucose measurement. Ann Clin Biochem 1997;34(Pt 3):281–6.
+Boyd JC, Bruns DE. Quality specifications for glucose meters: Assessment by simulation modeling of errors in insulin dose. Clin Chem 2001;47:209–14.
+Bates DW, Leape LL, Cullen DJ, et al. Effect of computerized physician order entry and a team intervention on prevention of serious medication errors. JAMA 1998;280:1311–16.
+Desachy A, Vuagnat AC, Ghazali AD, et al. Accuracy of bedside glucometry in critically ill patients: Influence of clinical characteristics and perfusion index. Mayo Clin Proc 2008;83:400–5.
+Critchell CD, Savarese V, Callahan A, et al. Accuracy of bedside capillary blood glucose measurements in critically ill patients. Intensive Care Med 2007;33:2079–84.
+Petersen JR, Graves DF, Tacker DH, et al. Comparison of POCT and central laboratory blood glucose results using arterial, capillary, and venous samples from MICU patients on a tight glycemic protocol. Clin Chim Acta 2008;396:10–13.
+Nirantharakumar K, Chen YF, Marshall T, et al. Clinical decision support systems in the care of inpatients with diabetes in non-critical care setting: Systematic review. Diabet Med 2012;29:698–708.
+Maynard G, Schnipper JL, Messler J, et al. Design and implementation of a webbased reporting and benchmarking center for inpatient glucometrics. J Diabetes Sci Technol 2014;8:630–40.
+Baker EH, Janaway CH, Philips BJ, et al. Hyperglycaemia is associated with poor outcomes in patients admitted to hospital with acute exacerbations of chronic obstructive pulmonary disease. Thorax 2006;61:284–9.
+McAlister FA, Majumdar SR, Blitz S, et al. The relation between hyperglycemia and outcomes in 2,471 patients admitted to the hospital with communityacquired pneumonia. Diabetes Care 2005;28:810–15.
+American Diabetes Association. 13. Diabetes care in the hospital. Diabetes Care 2016;39:S99–104.
+Lewis KS, Kane-Gill SL, Bobek MB, et al. Intensive insulin therapy for critically ill patients. Ann Pharmacother 2004;38:1243–51.
+van den Berghe G,Wouters P,Weekers F, et al. Intensive insulin therapy in critically ill patients. N Engl J Med 2001;345:1359–67.
+Griesdale DE, de Souza RJ, van Dam RM, et al. Intensive insulin therapy and mortality among critically ill patients: A meta-analysis including NICE-SUGAR study data. CMAJ 2009;180:821–7.
+NICE-SUGAR Study Investigators, Finfer S, Chittock DR, et al. Intensive versus conventional glucose control in critically ill patients. N Engl J Med 2009;360:1283–97.
+Moghissi ES, Korytkowski MT, DiNardo M, et al. American Association of Clinical Endocrinologists and American Diabetes Association consensus statement on inpatient glycemic control. Endocr Pract 2009;15:353–69.
+Goldberg PA, Siegel MD, Sherwin RS, et al. Implementation of a safe and effective insulin infusion protocol in a medical intensive care unit. Diabetes Care 2004;27:461–7.
+Rea RS, Donihi AC, BobeckM, et al. Implementing an intravenous insulin infusion protocol in the intensive care unit. Am J Health Syst Pharm 2007;64:385–95.
+Nazer LH, Chow SL, Moghissi ES. Insulin infusion protocols for critically ill patients: A highlight of differences and similarities. Endocr Pract 2007;13:137–46.
+Ntaios G, Papavasileiou V, Bargiota A, et al. Intravenous insulin treatment in acute stroke: A systematic review and meta-analysis of randomized controlled trials. Int J Stroke 2014;9:489–93.
+Schmeltz LR, DeSantis AJ, Schmidt K, et al. Conversion of intravenous insulin infusions to subcutaneously administered insulin glargine in patientswith hyperglycemia. Endocr Pract 2006;12:641–50.
+Bode BW, Braithwaite SS, Steed RD, et al. Intravenous insulin infusion therapy: Indications, methods, and transition to subcutaneous insulin therapy. Endocr Pract 2004;10(Suppl. 2):71–80.
+Kwoun MO, Ling PR, Lydon E, et al. Immunologic effects of acute hyperglycemia in nondiabetic rats. JPEN J Parenter Enteral Nutr 1997;21:91–5.
+Verhofstad MH, Hendriks T. Complete prevention of impaired anastomotic healing in diabetic rats requires preoperative blood glucose control. Br J Surg 1996;83:1717–21.
+Golden SH, Peart-Vigilance C, Kao WH, et al. Perioperative glycemic control and the risk of infectious complications in a cohort of adults with diabetes. Diabetes Care 1999;22:1408–14.
+McAlister FA, Man J, Bistritz L, et al. Diabetes and coronary artery bypass surgery: An examination of perioperative glycemic control and outcomes. Diabetes Care 2003;26:1518–24.
+Thomas MC, Mathew TH, Russ GR, et al. Early peri-operative glycaemic control and allograft rejection in patients with diabetes mellitus: A pilot study. Transplantation 2001;72:1321–4.
+Estrada CA, Young JA, Nifong LW, et al. Outcomes and perioperative hyperglycemia in patients with or without diabetes mellitus undergoing coronary artery bypass grafting. Ann Thorac Surg 2003;75:1392–9.
+Brandt M, Harder K, Walluscheck KP, et al. Coronary artery bypass surgery in diabetic patients. J Card Surg 2004;19:36–40.
+Bucerius J, Gummert JF,Walther T, et al. Diabetes in patients undergoing coronary artery bypass grafting. Impact on perioperative outcome. Z Kardiol 2005;94:575–82.
+Bucerius J, Gummert JF,Walther T, et al. Impact of diabetes mellitus on cardiac surgery outcome. Thorac Cardiovasc Surg 2003;51:11–16.
+Doenst T,Wijeysundera D, Karkouti K, et al. Hyperglycemia during cardiopulmonary bypass is an independent risk factor for mortality in patients undergoing cardiac surgery. J Thorac Cardiovasc Surg 2005;130:1144.
+Gandhi GY, Nuttall GA, Abel MD, et al. Intraoperative hyperglycemia and perioperative outcomes in cardiac surgery patients. Mayo Clin Proc 2005;80:862–6.
+Ouattara A, Lecomte P, Le Manach Y, et al. Poor intraoperative blood glucose control is associated with a worsened hospital outcome after cardiac surgery in diabetic patients. Anesthesiology 2005;103:687–94.
+Boreland L, Scott-Hudson M, Hetherington K, et al. The effectiveness of tight glycemic control on decreasing surgical site infections and readmission rates in adult patients with diabetes undergoing cardiac surgery: A systematic review. Heart Lung 2015;44:430–40.
+Raucoules-Aime M, Lugrin D, Boussofara M, et al. Intraoperative glycaemic control in non-insulin-dependent and insulin-dependent diabetes. Br J Anaesth 1994;73:443–9.
+Hemmerling TM, Schmid MC, Schmidt J, et al. Comparison of a continuous glucose-insulin-potassium infusion versus intermittent bolus application of insulin on perioperative glucose control and hormone status in insulintreated type 2 diabetics. J Clin Anesth 2001;13:293–300.
+Christiansen CL, Schurizek BA, Malling B, et al. Insulin treatment of the insulindependent diabetic patient undergoing minor surgery. Continuous intravenous infusion compared with subcutaneous administration. Anaesthesia 1988;43:533–7.
+de Vries FE, Gans SL, Solomkin JS, et al. Meta-analysis of lower perioperative blood glucose target levels for reduction of surgical-site infection. Br J Surg 2017;104:e95–105.
+Suto C, Hori S, Kato S, et al. Effect of perioperative glycemic control in progression of diabetic retinopathy and maculopathy. Arch Ophthalmol 2006;124:38–45.
+Kamio S, Kawasaki R, Yamashita H. Influence of systemic conditions and glycemic control on complications of vitrectomy for diabetic retinopathy. Folia Ophthalmologica Japonica 2004;55:105–9, (Japanese).
+Umpierrez GE, Smiley D, Jacobs S, et al. Randomized study of basal-bolus insulin therapy in the inpatient management of patients with type 2 diabetes undergoing general surgery (RABBIT 2 Surgery). Diabetes Care 2011;34:256–61.
+Huang QX, Lou FC, Wang P, et al. Basal insulin therapy strategy is superior to premixed insulin therapy in the perioperative period blood glucose management. Chin Med J 2013;126:4030–6.
+Coan KE, Schlinkert AB, Beck BR, et al. Clinical inertia during postoperative management of diabetes mellitus: Relationship between hyperglycemia and insulin therapy intensification. J Diabetes Sci Technol 2013;7:880–7.
+Yogi-Morren D, Lansang MC. Management of patients with type 1 diabetes in the hospital topical collection on hospital management of diabetes. Curr Diab Rep 2014;14:458.
+Meyer C, Boron A, Plummer E, et al. Glulisine versus human regular insulin in combination with glargine in noncritically ill hospitalized patients with type 2 diabetes: A randomized double-blind study. Diabetes Care 2010;33:2496–501.
+Umpierrez GE, Smiley D, Zisman A, et al. Randomized study of basal-bolus insulin therapy in the inpatient management of patients with type 2 diabetes (RABBIT 2 Trial). Diabetes Care 2007;3:2181–6.
+Lee YY, Lin YM, Leu WJ, et al. Sliding-scale insulin used for blood glucose control:A meta-analysis of randomized controlled trials. Metabolism 2015;64:1183–92.
+Thomann R, Schütz P, Muller B, et al. Evaluation of an algorithm for intensive subcutaneous insulin therapy in noncritically ill hospitalised patients with hyperglycaemia in a randomised controlled trial. Swiss Med Wkly 2013;143:
+Umpierrez GE, Smiley D, Hermayer K, et al. Randomized study comparing a Basal-bolus with a basal plus correction insulin regimen for the hospital management of medical and surgical patients with type 2 diabetes: Basal plus trial. Diabetes Care 2013;36:2169–74.
+Mader JK, Neubauer KM, Schaupp L, et al. Efficacy, usability and sequence of operations of a workflow-integrated algorithm for basal-bolus insulin therapy in hospitalized type 2 diabetes patients. Diabetes Obes Metab 2014;16:137–46.
+Li X, Du T, Li W, et al. Efficacy and safety of weight-based insulin glargine dose titration regimen compared with glucose level- and current dose-based regimens in hospitalized patients with type 2 diabetes: A randomized, controlled study. Clin Ther 2014;36:1269–75.
+Inagaki N, Goda M, Yokota S, et al. Effects of baseline blood pressure and lowdensity lipoprotein cholesterol on safety and efficacy of canagliflozin in Japanese patients with type 2 diabetes mellitus. Adv Ther 2015;32:1085–103.
+Bellido V, Suarez L, Rodriguez MG, et al. Comparison of basal-bolus and premixed insulin regimens in hospitalized patients with type 2 diabetes. Diabetes Care 2015;38:2211–16.
+Zhang T, Lin M, Li W, et al. Comparison of the efficacy and safety of insulin detemir and insulin glargine in hospitalized patients with type 2 diabetes: A randomized crossover trial. Adv Ther 2016;33:178–85.
+Wesorick D, O’Malley C, Rushakoff R, et al. Management of diabetes and hyperglycemia in the hospital: A practical guide to subcutaneous insulin use in the non-critically ill, adult patient. J Hosp Med 2008;3:17–28.
+Mendez CE, Umpierrez GE. Pharmacotherapy for hyperglycemia in noncritically ill hospitalized patients. Diabetes Spectr 2014;27:180–8.
+Pasquel FJ, Gianchandani R, Rubin DJ, et al. Efficacy of sitagliptin for the hospital management of general medicine and surgery patients with type 2 diabetes (Sita-Hospital): A multicentre, prospective, open-label, non-inferiority randomised trial. Lancet Diabetes Endocrinol 2017;5:125–33.
+Clement S, Braithwaite SS, Magee MF, et al. Management of diabetes and hyperglycemia in hospitals. Diabetes Care 2004;27:553–91.
+Umpierrez GE, Palacio A, Smiley D. Sliding scale insulin use: Myth or insanity? Am J Med 2007;120:563–7.
+Curll M, Dinardo M, Noschese M, et al. Menu selection, glycaemic control and satisfaction with standard and patient-controlled consistent carbohydrate meal plans in hospitalised patients with diabetes. Qual Saf Health Care 2010;19:355–9.
+Jakoby MG, Nannapaneni N. An insulin protocol for management of hyperglycemia in patients receiving parenteral nutrition is superior to ad hoc management. JPEN J Parenter Enteral Nutr 2012;36:183–8.
+Sajbel TA, Dutro MP, Radway PR. Use of separate insulin infusions with total parenteral nutrition. JPEN J Parenter Enteral Nutr 1987;11:97–9.
+Korytkowski MT, Salata RJ, Koerbel GL, et al. Insulin therapy and glycemic control in hospitalized patients with diabetes during enteral nutrition therapy: A randomized controlled clinical trial. Diabetes Care 2009;32:594–6.
+Donihi AC, Raval D, Saul M, et al. Prevalence and predictors of corticosteroidrelated hyperglycemia in hospitalized patients. Endocr Pract 2006;12:358–62.
+Gosmanov AR, Goorha S, Stelts S, et al. Management of hyperglycemia in diabetic patients with hematologic malignancies during dexamethasone therapy. Endocr Pract 2013;19:231–5.
+Ruiz de Adana MS, Colomo N, Maldonado-Araque C, et al. Randomized clinical trial of the efficacy and safety of insulin glargine vs. NPH insulin as basal insulin for the treatment of glucocorticoid induced hyperglycemia using continuous glucose monitoring in hospitalized patients with type 2 diabetes and respiratory disease. Diabetes Res Clin Pract 2015;110:158–65.
+Grommesh B, Lausch MJ, Vannelli AJ, et al. Hospital insulin protocol aims for glucose control in glucocorticoid-induced hyperglycemia. Endocr Pract 2016;22:180–9.
+Cook CB, Beer KA, Seifert KM, et al. Transitioning insulin pump therapy from the outpatient to the inpatient setting: A review of 6 years’ experience with 253 cases. J Diabetes Sci Technol 2012;6:995–1002.
+Noschese ML, DiNardo MM, Donihi AC, et al. Patient outcomes after implementation of a protocol for inpatient insulin pump therapy. Endocr Pract 2009;15:415–24.
+Anstey J, Yassaee A, Solomon A. Clinical outcomes of adult inpatients treated with continuous subcutaneous insulin infusion for diabetes mellitus: A systematic review. Diabet Med 2015;32:1279–88.
+Leonhardi BJ, Boyle ME, Beer KA, et al. Use of continuous subcutaneous insulin infusion (insulin pump) therapy in the hospital: A review of one institution’s experience. J Diabetes Sci Technol 2008;2:948–62.
+Bailon RM, Partlow BJ, Miller-Cage V, et al. Continuous subcutaneous insulin infusion (insulin pump) therapy can be safely used in the hospital in select patients. Endocr Pract 2009;15:24–9.
+Corney SM, Dukatz T, Rosenblatt S, et al. Comparison of insulin pump therapy (continuous subcutaneous insulin infusion) to alternative methods for perioperative glycemic management in patients with planned postoperative admissions. J Diabetes Sci Technol 2012;6:1003–15.
+Fresa R, Visalli N, Di Blasi V, et al. Experiences of continuous subcutaneous insulin infusion in pregnant women with type 1 diabetes during delivery from four Italian centers: A retrospective observational study. Diabetes Technol Ther 2013;15:328–34.
+Moghissi ES, Inzucchi SE, Mann KV, et al. Hyperglycemia grand rounds: Descriptive findings of outcomes from a continuing education intervention to improve glycemic control and prevent hypoglycemia in the hospital setting. Hosp Pract (1995) 2015;43:270–6.
+Schnipper JL, Ndumele CD, Liang CL, et al. Effects of a subcutaneous insulin protocol, clinical education, and computerized order set on the quality of inpatient management of hyperglycemia: Results of a clinical trial. J Hosp Med 2009;4:16–27.
+Bar-Dayan Y, Landau Z, Boaz M, et al. Inpatient hyperglycaemia improvement quality program. Int J Clin Pract 2014;68:495–502.
+Munoz M, Pronovost P, Dintzis J, et al. Implementing and evaluating a multicomponent inpatient diabetes management program: Putting research into practice. Jt Comm J Qual Patient Saf 2012;38:195–206.
+Maynard G, Lee J, Phillips G, et al. Improved inpatient use of basal insulin, reduced hypoglycemia, and improved glycemic control: Effect of structured subcutaneous insulin orders and an insulin management algorithm. J Hosp Med 2009;4:3–15.
+Noschese M, Donihi AC, Koerbel G, et al. Effect of a diabetes order set on glycaemic management and control in the hospital. Qual Saf Health Care 2008;17:464–8.
+Wexler DJ, Shrader P, Burns SM, et al. Effectiveness of a computerized insulin order template in general medical inpatients with type 2 diabetes: A cluster randomized trial. Diabetes Care 2010;33:2181–3.
+Christensen MB, Gotfredsen A, Nørgaard K. Efficacy of basal-bolus insulin regimens in the inpatient management of non-critically ill patients with type 2 diabetes: A systematic review and meta-analysis. Diabetes Metab Res Rev 2017;33.
+Schnipper JL, Liang CL, Ndumele CD, et al. Effects of a computerized order set on the inpatient management of hyperglycemia: A cluster-randomized controlled trial. Endocr Pract 2010;16:209–18.
+Neubauer KM, Mader JK, Holl B, et al. Standardized glycemic management with a computerized workflow and decision support systemfor hospitalized patients with type 2 diabetes on different wards. Diabetes Technol Ther 2015;17:685– 92.
+Lin SD, Tu ST, Lin MJ, et al. A workable model for the management of hyperglycemia in non-critically ill patients in an Asian population. Postgrad Med 2015;127:796–800.
+Aloi J, Bode BW, Ullal J, et al. Comparison of an electronic glycemic management system versus provider-managed subcutaneous basal bolus insulin therapy in the hospital setting. J Diabetes Sci Technol 2016;11:12–16.
+Levetan CS, Salas JR, Wilets IF, et al. Impact of endocrine and diabetes team consultation on hospital length of stay for patients with diabetes. Am J Med 1995;99:22–8.
+Koproski J, Pretto Z, Poretsky L. Effects of an intervention by a diabetes team in hospitalized patients with diabetes. Diabetes Care 1997;20: 1553–5.
+Moraes MA, Rodrigues J, Cremonesi M, et al. Management of diabetes by a healthcare team in a cardiology unit: A randomized controlled trial. Clinics 2013;68:1400–7.
+Sampson MJ, Crowle T, Dhatariya K, et al. Trends in bed occupancy for inpatients with diabetes before and after the introduction of a diabetes inpatient specialist nurse service. Diabet Med 2006;23:1008–15.
+Dungan K, Lyons S, Manu K, et al. An individualized inpatient diabetes education and hospital transition program for poorly controlled hospitalized patients with diabetes. Endocr Pract 2014;20:1265–73.
+Mackey PA, Boyle ME,Walo PM, et al. Care directed by a specialty-trained nurse practioner or physician assistant can overcome clinical inertia in management of inpatient diabetes. Endocr Pract 2014;20:112–19.
+Rodger ED. Diabetic patients survey of in-hospital experience. Edmonton: Albertal Health Services, 2015. http://www.albertahealthservices.ca/assets/about/scn/ahs-scn-don-inpatient-diabetes-survey-results.pdf.
+Thompson R, Schreuder AB, Wisse B, et al. Improving insulin ordering safely: The development of an inpatient glycemic control program. J Hosp Med 2009;4:E30–5.
+Cook CB, Wellik KE, Kongable GL, et al. Assessing inpatient glycemic control: What are the next steps? J Diabetes Sci Technol 2012;6:421–7.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

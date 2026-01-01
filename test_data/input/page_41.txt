@@ -1,0 +1,294 @@
+Chapter Headings
+
+Introduction
+Risk Assessment
+Preventive Care and Treatment
+Other Relevant Guidelines
+Relevant Appendices
+Author Disclosures
+Key Messages
+Lower extremity complications are a major cause of morbidity and mortality in people with diabetes.
+The treatment of foot ulcers in people who have diabetes requires an interprofessional approach that addresses glycemic control, infection, off-loading of high-pressure areas, lower-extremity vascular status and local wound care.
+Antibiotic therapy is not required for uninfected neuropathic foot ulcers.
+Proprietary adjunctive wound dressings and technologies, including antimicrobial dressings, lack sufficient evidence to support routine use in the treatment of neuropathic ulcers.
+Key Messages for People with Diabetes
+Diabetes can cause nerve damage (also known as “diabetic peripheral neuropathy”) and poor blood flow or circulation to the legs and feet (also known as “peripheral arterial disease”).
+As a result, people with diabetes are less likely to feel a foot injury, such as a blister or cut. Diabetes can make these injuries more difficult to heal. Unnoticed and untreated, even small foot injuries can quickly become infected, potentially leading to serious complications.
+A good daily foot care routine may help keep your feet healthy:
+Examine your feet and legs daily
+Care for your nails regularly
+Apply moisturizing lotion if your feet are dry (but not between the toes)
+Wear properly fitting footwear
+Test your bath water with your hand before you step in, to make sure the water is not too hot
+If you have any corns (thick or hard skin on toes), calluses (thick skin on bottom of feet), ingrown toenails, warts, splinters or other wounds, have them treated by your doctor or other foot care specialist (such as a foot care nurse, podiatrist or chiropodist). Do not try to treat them yourself.
+If you have any swelling, warmth, redness or pain in your legs or feet, see your health-care provider or foot specialist right away.
+Introduction
+
+Foot complications are a major cause of morbidity and mortality in people who have diabetes, and contribute to increased health care use and costs (1–7). People with diabetes who have peripheral neuropathy and peripheral arterial disease are at risk of developing foot ulcers and infection that may lead to lower-extremity amputation (8–11). The frequency of amputation is much higher in people with diabetes than people without diabetes (12,13). This is especially true in developed nations, such as Canada, where adults with diabetes have 20-fold greater likelihood of being hospitalized for nontraumatic lower limb amputation than adults without diabetes (14). In the United States, the frequency of lower-extremity amputation decreased by 28.8% from 2000 to 2010, but the use of other orthopedic treatments for diabetic foot ulcers increased by 143% during this period (15). Preventive measures, foot care education, and early and aggressive treatment of diabetic foot problems are important components of diabetes care.
+
+Risk Assessment
+
+Risk factors for developing foot ulcers in people with diabetes include peripheral neuropathy, previous ulcer or amputation, structural deformity, limited joint mobility, peripheral arterial disease, microvascular complications, increased levels of glycated hemoglobin (A1C) and onychomycosis (16,17). Loss of sensation to the 10 g Semmes-Weinstein monofilament at the plantar surface of the foot is a significant and independent predictor of future foot ulcer and lower-extremity amputation (18–20).
+
+Several wound classifications have been developed to provide objective assessment of foot ulcer severity. The simple Wagner classification is used commonly: Wagner Grade 0, skin intact; Grade 1, superficial ulcer; Grade 2, ulcer extending to tendon, capsule or bone; Grade 3, deep ulcer with osteomyelitis or abscess; Grade 4, gangrene of toes or forefoot; Grade 5, gangrene of midfoot or hindfoot. The University of Texas Diabetic Wound Classification System has been validated as a predictor of serious outcomes in people with diabetes who have foot ulcers (21,22) (Table 1).
+
+In people who have ischemia, the distribution of peripheral arterial disease is greater in the arterial tree below the knee in people with diabetes compared with people without diabetes (23). Noninvasive assessments for peripheral arterial disease in people with diabetes include the blood pressure (BP) ankle-brachial index (ratio of ankle to brachial systolic BP), systolic toe pressure by photoplethysmography, transcutaneous oximetry and Doppler arterial flow studies (24,25). Although the ankle-brachial index in some clinical settings is a readily available and easy-to-perform technique, it may underestimate the degree of peripheral arterial obstruction because of medial arterial wall calcification in lower-extremity arteries (26,27). Photoplethysmography assesses the intensity of light reflected from the skin surface and red blood cells, which is indicative of arteriolar pulse flow; measurement of systolic toe pressure by photoplethysmography may be more accurate than ankle-brachial index in determining the presence of arterial disease in people with diabetes (28).
+
+It is important to recognize the potential limitations inherent with noninvasive diagnostic tests for peripheral arterial disease (29,30). Other studies that are available for the evaluation of lower-limb ischemia that do not require arterial access include intra-arterial digital subtraction contrast arteriography, magnetic resonance angiography and computed tomographic angiography, but these studies may be complicated by contrast-induced renal failure or gadolinium-associated nephrogenic systemic fibrosis (31–35). Consultation with a specialist in vascular medicine or surgery should be undertaken as soon as possible for people who have suspected lower extremity ischemia (30,36).
+
+The foot examination is important and should include footwear assessment (19,37,38) (Table 2). Assessment of skin temperature is important because increased warmth may indicate the presence of inflammation or acute Charcot neuroarthropathy in a foot that has lost protective sensation (39–41). In addition, erythema and swelling may be indicators of cellulitis or Charcot neuroarthropathy (42,43). The clinical and radiographic differentiation between acute Charcot foot and infection may be difficult (44). Plain radiographs have low sensitivity and specificity in differentiating osteomyelitis from Charcot changes. Magnetic resonance imaging (MRI) of the foot may help clarify this differential diagnosis, but no diagnostic imaging studies are definitive, and the results of all imaging studies must be interpreted carefully and correlated with the clinical presentation (45,46).
+
+Table 1
+University of Texas Diabetic Wound Classification System
+*Adapted from reference 21.
+Stage	Grade
+ 	0	I	II	III
+A (no infection or ischemia)	Pre- or post-ulcerative lesion completely epithelialized	Superficial wound not involving tendon, capsule, or bone	Wound penetrating to tendon or capsule	Wound penetrating to bone or joint
+B	Infection	Infection	Infection	Infection
+C	Ischemia	Ischemia	Ischemia	Ischemia
+D	Infection and ischemia	Infection and ischemia	Infection and ischemia	Infection and ischemia
+Table 2
+Key elements of the lower extremity physical examination*
+*Adapted from references 19 and 38 to 43.
+**See Appendix 12. Monofilament Testing in the Diabetic Foot.
+Element	Parameter
+Inspection	
+Gait
+Foot morphology (Charcot arthropathy, bony prominences)
+Toe morphology (clawtoe, hammertoe, number of toes)
+Skin: blisters, abrasions, calluses, subkeratotic hematomas or hemorrhage, ulcers, absence of hair, toe nail problems, edema, abnormal color
+Status of nails
+Foot hygiene (cleanliness, tinea pedis)
+
+Palpation	
+Pedal pulses
+Temperature (increased or decreased warmth)
+
+Protective sensation	
+Sensation to 10 g monofilament**
+
+Footwear	
+Exterior: signs of wear, penetrating objects
+Interior: signs of wear, orthotics, foreign bodies
+Preventive Care and Treatment
+
+Preventive measures against the risk of amputation include regular foot examination, evaluation of amputation risk, regular callus debridement, patient education, professionally fitted therapeutic footwear to reduce plantar pressure and accommodate foot deformities, and early detection and treatment of diabetic foot ulcers (47,48). Many studies that have assessed interventions to prevent and treat diabetic foot ulcers have had limited quality of supportive evidence because of problems in study design and methods (49,50). However, the treatment of foot ulcers typically is most effective with an interprofessional approach and includes measures to improve glycemic control, decrease mechanical pressure with off-loading, treat infection, ensure adequate lower-extremity arterial inflow and provide local wound care (51–55).
+
+Specific recommendations about wound dressing types cannot be made for typical diabetic foot ulcers because there is insufficient evidence to support any type of dressing over another (56–60). The essentials of good wound care include maintaining an optimal wound environment, off-loading pressure from the ulcer and regular debridement of nonviable tissue (58,61,62); wound dressings that maintain a physiologically moist wound environment should be selected. There are insufficient data to support the use of specific dressing types or antimicrobial dressings in the routine treatment of diabetic foot wounds (48,51–59). There is also insufficient evidence to make any recommendation about the role of suction wound dressings (referred to as “negative pressure wound therapy”) in the routine treatment of neuropathic wounds, but there is some evidence in favour of suction wound dressings for more advanced diabetic foot ulcers or after extensive debridement (58,61,63–66). Other adjunctive measures for wound healing, such as topical growth factors and dermal substitutes, have been evaluated for the treatment of diabetic foot ulcers, but the studies have been limited in sample size, duration and follow up, and the results are not sufficiently conclusive to support the use of these therapies (57,58,67–70).
+
+Pressure off-loading may be achieved with temporary footwear until the ulcer heals and the tissues of the foot stabilize. Removable and nonremovable walker boots and total contact casts are effective in decreasing pressure at plantar surface ulcers (71–76). Although total contact casts are effective in supporting the healing of noninfected, nonischemic plantar surface neuropathic ulcers, total contact casting requires careful patient selection and personnel who have specialized training to minimize the risk of developing iatrogenic complications (74,75,77–79). When bony foot deformity prevents the fitting of appropriate footwear or off-loading of pressure-related ulcers, consultation with a surgeon skilled in foot surgery may be considered to evaluate and treat the deformity (80–82).
+
+Table 3
+MRSA, methicillin-resistant Staphylococcus aureus; SMX-TMP, sulfamethoxazole-trimethoprim.
+*Modified and used with permission from reference 90.
+†The agents suggested in this section are for empiric therapy prior to the availability of final culture and susceptibility results. Knowledge of local epidemiology and antimicrobial resistance profiles must also guide therapeutic choices.
+‡Many of the agents identified in this table do not have Health Canada approval specifically for treatment of diabetic foot infections, including osteomyelitis, but may have an indication for the treatment of skin and soft tissue infections or antimicrobial activity against typical pathogens encountered in osteomyelitis of the diabetic foot.
+§Duration of therapy is based on clinical response. However, typical treatment courses for skin and soft tissue infections range from 7 (mild) to 21 (severe) days, and the treatment of osteomyelitis may require 4 to 6 weeks of parenteral or several months of oral antimicrobial therapy. Whenever possible, it is desirable to switch to oral antimicrobial therapy to avoid complications from parenteral administration.
+A1C, glycated hemoglobin; SMBG, self-monitoring of blood glucose.
+Infection Severity	Antimicrobial Agent†,‡,§
+Localized infections:
+Neither limb nor life threatening
+Usually associated with cellulitis surrounding an ulcer
+Purulent debris may be present at the base of the ulcer
+Usual organisms: aerobic gram-positive cocci (S. aureus and β-hemolytic streptococci)
+Frequently treated with outpatient oral antimicrobial therapy	
+Cloxacillin
+Amoxicillin-clavulanic acid
+Cephalexin
+SMX-TMP
+Clindamycin
+Doxycycline
+
+More extensive infections:
+Includes more severe infections, including more extensive cellulitis, plantar abscess and deep space infections
+The choice of oral or parenteral should be guided by the extent of the infection and the patient's overall clinical status
+Initial antimicrobial therapy against staphylococci, streptococci, anaerobes and common Enterobacteriaceae species
+Empiric treatment targeting P. aeruginosa is generally unnecessary unless risk factors present (e.g. history of foot soaking, severe or chronic infection)
+Patients who are not toxic may be treated with debridement and oral antimicrobial therapy
+Patients who are ill or toxic despite moderate local signs are treated as having a severe infection:
+Limb or life threatening
+Frequently polymicrobial
+Immediate hospitalization, early surgical debridement and parenteral antimicrobial therapy
+If MRSA is present or suspected, consider adding vancomycin, linezolid or daptomycin
+	Oral Options
+SMX-TMP plus metronidazole or clindamycin
+Ciprofloxacin or levofloxacin plus clindamycin or metronidazole
+Amoxicillin-clavulanic acid
+Moxifloxacin
+Linezolid
+
+Parenteral Options
+Cefoxitin
+1st, 2nd or 3rd generation cephalosporin plus metronidazole
+Piperacillin-tazobactam
+Clindamycin plus 3rd generation cephalosporin
+Carbapenem
+
+Osteomyelitis:
+Treat with intravenous therapy or long-term oral antimicrobial therapy using agents that are well absorbed from the gastrointestinal tract and have good distribution to bone and tissue
+Surgical debridement indicated to remove necrotic debris, abscess or sequestrum
+Therapy should be based on culture results whenever possible
+If MRSA is present or suspected, consider adding vancomycin, linezolid or daptomycin
+	Oral Options
+Cloxacillin
+Cephalexin
+SMX-TMP
+Clindamycin
+Amoxicillin-clavulanic acid
+Linezolid
+Doxycycline
+SMX-TMP plus metronidazole or clindamycin
+Levofloxacin or ciprofloxacin plus metronidazole or clindamycin
+
+Parenteral Options
+Piperacillin-tazobactam
+Clindamycin po/iv plus 3rd generation cephalosporin
+Carbapenem
+
+Treatment of the acute Charcot foot requires immobilization of the foot, typically for several months, in a total contact cast, removable walker boot or custom orthosis until consolidation occurs (63). Surgical stabilization may be indicated for Charcot arthropathy associated with marked instability, deformity or nonhealing ulcers. Although bisphosphonates have been considered for the treatment of Charcot arthropathy, further studies are necessary to fully evaluate these agents and other medical therapies in the routine treatment of Charcot arthropathy (83–89).
+
+Infection may complicate foot ulcers and may progress rapidly to become limb and/or life threatening (90). When infections begin, the most frequent pathogens typically include Staphylococcus aureus, Streptococcus pyogenes (group A streptococcus) and Streptococcus agalactiae (group B streptococcus). With persistent infection and the presence of devitalized tissue, gram-negative and anaerobic pathogens may cause polymicrobial infection (36,91). Specimens for culture from the surface of wounds are unreliable, and specimens from deeper tissues obtained by debridement are more likely to determine the correct bacterial pathogens for antimicrobial therapy (92–96). Initial therapy typically includes empiric, broad-spectrum antibiotics, and subsequent antibiotic selection is tailored to the sensitivity results of cultured specimens. With the exception of a few antimicrobial agents that have a specific indication for the treatment of diabetic foot infections, most agents available for use are selected for their antibacterial spectrum (36,95–97). Guidelines are available for antimicrobial choices in the empiric treatment of diabetic foot infections (Table 3) (98).
+
+Achieving target glycemic control may be associated with decreased amputation frequency (99). Poor glycemic control may be associated with immunopathy and blunted cellular response to infection. Many people (50%) who have diabetes and a major limb infection may not have fever or leukocytosis at presentation (100). Deep infections require prompt surgical debridement and appropriate antibiotic therapy (36,101).
+
+In medically suitable individuals who have peripheral arterial disease and a history of ulceration or amputation, distal limb revascularization may improve long-term limb salvage. Endovascular techniques with angioplasty and stenting for infrainguinal arteries may be effective to achieve limb salvage, but the long-term success is less in people with diabetes than people without diabetes (83,102). A specific evidence-based recommendation about the type of revascularization technique cannot be made, and the preferred method is based on the judgment of the vascular surgeon, in consideration of medical and surgical risks (29,30).
+
+There is limited evidence to confirm an added benefit of hyperbaric oxygen therapy in reducing the indication for amputation or improving wound healing in individuals with diabetes. Therefore, hyperbaric oxygen therapy is not recommended for the routine treatment of infected or noninfected neuropathic or ischemic foot ulcers.
+
+Recommendations
+Health-care providers should perform foot examinations to identify people with diabetes at risk for ulcers and lower-extremity amputation [Grade C, Level 3 (9,18)] at least annually and at more frequent intervals in high-risk people [Grade D, Level 4 (1)]. The examination should include assessment for neuropathy, skin changes (e.g. calluses, ulcers, infection), peripheral arterial disease (e.g. pedal pulses and skin temperature) and structural abnormalities (e.g. range of motion of ankles and toe joints, bony deformities) [Grade D, Level 4 (1)].
+People with diabetes who are at high risk of developing foot ulcers should receive foot care education (including counseling to avoid foot trauma) and professionally fitted footwear [Grade D, Consensus]. When foot complications occur, early referral to a health-care professional trained in foot care is recommended [Grade C, Level 3 (37,48,49)].
+People with diabetes who develop a foot ulcer or show signs of infection even in the absence of pain should be treated promptly by an interprofessional health-care team when available with expertise in the treatment of foot ulcers to prevent recurrent foot ulcers and amputation [Grade C, Level 3 (52)].
+There is insufficient evidence to recommend any specific dressing type for typical diabetic foot ulcers [Grade C, Level 3 (103)]. Debridement of nonviable tissue [Grade A, Level 1A (104)] and general principles of wound care include the provision of a physiologically moist wound environment, and off-loading the ulcer [Grade D, Consensus].
+There is insufficient evidence to recommend the routine use of adjunctive wound-healing therapies (e.g. topical growth factors, granulocyte colony-stimulating factors or dermal substitutes) for typical diabetic foot ulcers. Provided that all other modifiable factors (e.g. pressure off-loading, infection, foot deformity) have been addressed, adjunctive wound-healing therapies may be considered for nonhealing, nonischemic wounds [Grade A, Level 1 (69,70)].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; BG, blood glucose, BP, blood pressure; MRI; magnetic resonance imaging.
+
+Other Relevant Guidelines
+Targets for Glycemic Control, p. S42
+Neuropathy, p. S217
+Relevant Appendices
+Appendix 12. Monofilament Testing in the Diabetic Foot
+Appendix 13. Diabetes and Foot Care: A Checklist
+Appendix 14. Diabetic Foot Ulcers—Essentials of Management
+
+Literature Review Flow Diagram for Chapter 32: Foot Care
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (105).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+No authors have anything to disclose.
+
+References
+Boulton AJM, Armstrong DG, Albert SF, et al. Comprehensive foot examination and risk assessment: A report of the task force of the foot care interest group of the American Diabetes Association, with endorsement by the American Association of Clinical Endocrinologists. Diabetes Care 2008;31:1679–85.
+Davis WA, Norman PE, Bruce DG, et al. Predictors, consequences and costs of diabetes-related lower extremity amputation complicating type 2 diabetes: The Fremantle Diabetes Study. Diabetologia 2006;49:2634–41.
+O’Brien JA, Patrick AR, Caro JJ. Cost of managing complications resulting from type 2 diabetes mellitus in Canada. BMC Health Serv Res 2003;3:7.
+McEwen LN, Ylitalo KR, Munson M, et al. Foot complications and mortality: results fromTranslating Research Into Action for Diabetes (TRIAD). J AmPodiatr Med Assoc 2016;106:7–14.
+Skrepnek GH, Mills JL Sr, Armstrong DG. A diabetic emergency one million feet long: Disparities and burdens of illness among diabetic foot ulcer cases within emergency departments in the United States, 2006–2010. PLoS One 2015;10:e0134914.
+Brownrigg JR, Davey J, Holt PJ, et al. The association of ulceration of the foot with cardiovascular and all-cause mortality in patients with diabetes: A meta-analysis. Diabetologia 2012;55:2906–12.
+Morbach S, Furchert H, Gröblinghoff U, et al. Long-term prognosis of diabetic foot patients and their limbs: Amputation and death over the course of a decade. Diabetes Care 2012;35:2021–7.
+Reiber GE, Vileikyte L, Boyko EJ, et al. Causal pathways for incident lower-extremity ulcers in patients with diabetes from two settings. Diabetes Care 1999;22:157–62.
+Crawford F, Inkster M, Kleijnen J, et al. Predicting foot ulcers in patients with diabetes: A systematic review and meta-analysis. QJM 2007;100:65–86.
+Faglia E, Clerici G, Clerissi J, et al. Long-term prognosis of diabetic patients with critical limb ischemia: A population-based cohort study. Diabetes Care 2009;32:822–7.
+Bruun C, Siersma V, Guassora AD, et al. Amputations and foot ulcers in patients newly diagnosed with type 2 diabetes mellitus and observed for 19 years. The role of age, gender and co-morbidity. Diabet Med 2013;30:964–72.
+Fosse S, Hartemann-Heurtier A, Jacqueminet S, et al. Incidence and characteristics of lower limb amputations in people with diabetes. Diabet Med 2009;26:391–6.
+Ikonen TS, Sund R, Venermo M, et al. Fewer major amputations among individuals with diabetes in Finland in 1997–2007: A population-based study. Diabetes Care 2010;33:2598–603.
+Chronic Disease Surveillance and Monitoring Division. Diabetes in Canada: Facts and figures froma public health perspective. Ottawa (ON): Public Health Agency of Canada, 2011. Report No.: HP35-25/2011E. http://www.phac-aspc.gc.ca/cd-mc/publications/diabetes-diabete/facts-figures-faits-chiffres-2011/pdf/facts-figures-faits-chiffres-eng.pdf.
+Belatti DA, Phisitkul P. Declines in lower extremity amputation in the US Medicare population, 2000–2010. Foot Ankle Int 2013;34:923–31.
+Boyko EJ, Ahroni JH, Stensel V, et al. A prospective study of risk factors for diabetic foot ulcer. The Seattle Diabetic Foot Study. Diabetes Care 1999;22:1036– 42.
+Fernando DJ, Masson EA, Veves A, et al. Relationship of limited joint mobility to abnormal foot pressures and diabetic foot ulceration. Diabetes Care 1991;14:8–11.
+Feng Y, Schlösser FJ, Sumpio BE. The SemmesWeinstein monofilament examination is a significant predictor of the risk of foot ulceration and amputation in patients with diabetes mellitus. J Vasc Surg 2011;53:220–6, e1-5.
+Schaper NC, Van Netten JJ, Apelqvist J, et al. Prevention and management of foot problems in diabetes: A Summary Guidance for Daily Practice 2015, based on the IWGDF Guidance Documents. Diabetes Metab Res Rev 2016;32:7–15.
+Crawford F, Cezard G, Chappell FM, et al. A systematic review and individual patient data meta-analysis of prognostic factors for foot ulceration in people with diabetes: The international research collaboration for the prediction of diabetic foot ulcerations (PODUS). Health Technol Assess 2015;19:1–210.
+Armstrong DG, Lavery LA, Harkless LB. Validation of a diabetic wound classification system. The contribution of depth, infection, and ischemia to risk of amputation. Diabetes Care 1998;21:855–9.
+Oyibo SO, Jude EB, Tarawneh I, et al. A comparison of two diabetic foot ulcer classification systems: The Wagner and the University of Texas wound classification systems. Diabetes Care 2001;24:84–8.
+Jude EB, Oyibo SO, Chalmers N, et al. Peripheral arterial disease in diabetic and nondiabetic patients: A comparison of severity and outcome. Diabetes Care 2001;24:1433–7.
+Kalani M, Brismar K, Fagrell B, et al. Transcutaneous oxygen tension and toe blood pressure as predictors for outcome of diabetic foot ulcers. Diabetes Care 1999;22:147–51.
+Faglia E, Caravaggi C, Marchetti R, et al. Screening for peripheral arterial disease by means of the ankle-brachial index in newly diagnosed type 2 diabetic patients. Diabet Med 2005;22:1310–4.
+Aerden D, Massaad D, von Kemp K, et al. The ankle–brachial index and the diabetic foot: A troublesome marriage. Ann Vasc Surg 2011;25:770–7.
+Brownrigg JR, Hinchliffe RJ, Apelqvist J, et al. Effectiveness of bedside investigations to diagnose peripheral artery disease among people with diabetes mellitus: A systematic review. Diabetes Metab Res Rev 2016;32:119–27.
+Williams DT, Harding KG, Price P. An evaluation of the efficacy of methods used in screening for lower-limb arterial disease in diabetes. Diabetes Care 2005;28:2206–10.
+Hinchliffe RJ, Brownrigg JR, Andros G, et al. Effectiveness of revascularization of the ulcerated foot in patients with diabetes and peripheral artery disease: A systematic review. Diabetes Metab Res Rev 2016;32:136–44.
+Hinchliffe RJ, Brownrigg JRW, Apelqvist J, et al. IWGDF guidance on the diagnosis, prognosis and management of peripheral artery disease in patients with foot ulcers in diabetes. Diabetes Metab Res Rev 2016;32:37–44.
+Brillet PY, Vayssairat M, Tassart M, et al. Gadolinium-enhanced MR angiography as first-line preoperative imaging in high-risk patients with lower limb ischemia. J Vasc Interv Radiol 2003;14:1139–45.
+Lapeyre M, Kobeiter H, Desgranges P, et al. Assessment of critical limb ischemia in patients with diabetes: Comparison of MR angiography and digital subtraction angiography. AJR Am J Roentgenol 2005;185:1641–50.
+Met R, Bipat S, Legemate DA, et al. Diagnostic performance of computed tomography angiography in peripheral arterial disease: A systematic review and metaanalysis. JAMA 2009;301:415–24.
+Pedersen M. Safety update on the possible causal relationship between gadolinium-containing MRI agents and nephrogenic systemic fibrosis. J Magn Reson Imaging 2007;25:881–3.
+Centers for Disease Control and Prevention (CDC). Nephrogenic fibrosing dermopathy associated with exposure to gadolinium-containing contrast agents– St. Louis, Missouri, 2002–2006. MMWR Morb Mortal Wkly Rep 2007;56:137–41.
+Lipsky BA, Berendt AR, Cornia PB, et al. 2012 Infectious Diseases Society of America clinical practice guideline for the diagnosis and treatment of diabetic foot infections. Clin Infect Dis 2012;54:e132–73.
+McCabe CJ, Stevenson RC, Dolan AM. Evaluation of a diabetic foot screening and protection programme. Diabet Med 1998;15:80–4.
+Miller JD, Carter E, Shih J, et al. How to do a 3-minute diabetic foot exam. J Fam Pract 2014;63:646–56.
+Lavery LA, Higgins KR, Lanctot DR, et al. Preventing diabetic foot ulcer recurrence in high-risk patients: Use of temperature monitoring as a self-assessment tool. Diabetes Care 2007;30:14–20.
+Armstrong DG, Lavery LA. Monitoring healing of acute Charcot’s arthropathy with infrared dermal thermometry. J Rehabil Res Dev 1997;34:317–21.
+Yu GV, Hudson JR. Evaluation and treatment of stage 0 Charcot’s neuroarthropathy of the foot and ankle. J Am Podiatr Med Assoc 2002;92:210–20.
+Frykberg RG, Zgonis T, Armstrong DG, et al. Diabetic foot disorders. A clinical practice guideline (2006 revision). J Foot Ankle Surg 2006;45:S1–66.
+Ledermann HP, Morrison WB. Differential diagnosis of pedal osteomyelitis and diabetic neuroarthropathy: MR Imaging. Semin Musculoskelet Radiol 2005;9:272–83.
+Embil JM, Trepman E. A case of diabetic Charcot arthropathy of the foot and ankle. Nat Rev Endocrinol 2009;5:577–81.
+Ahmadi ME, Morrison WB, Carrino JA, et al. Neuropathic arthropathy of the foot with and without superimposed osteomyelitis: MR imaging characteristics. Radiology 2006;238:622–31.
+Leone A, Cassar-Pullicino VN, Semprini A, et al. Neuropathic osteoarthropathy with and without superimposed osteomyelitis in patients with a diabetic foot. Skeletal Radiol 2016;45:735–54.
+Apelqvist J, Bakker K, van Houtum WH, et al. Practical guidelines on the management and prevention of the diabetic foot: Based upon the International Consensus on the Diabetic Foot (2007) Prepared by the InternationalWorking Group on the Diabetic Foot. Diabetes Metab Res Rev 2008;24:S181–7.
+Valk GD, Kriegsman DM, Assendelft WJ. Patient education for preventing diabetic foot ulceration. A systematic review. Endocrinol Metab Clin North Am 2002;31:633–58.
+Arad Y, Fonseca V, Peters A, et al. Beyond the monofilament for the insensate diabetic foot: A systematic review of randomized trials to prevent the occurrence of plantar foot ulcers in patients with diabetes. Diabetes Care 2011;34:1041–6.
+Bus SA, Valk GD, van Deursen RW, et al. The effectiveness of footwear and offloading interventions to prevent and heal foot ulcers and reduce plantar pressure in diabetes: A systematic review. Diabetes Metab Res Rev 2008; 24:S162–80.
+Margolis DJ, Kantor J, Berlin JA. Healing of diabetic neuropathic foot ulcers receiving standard treatment. A meta-analysis. Diabetes Care 1999;22:692–5.
+Dargis V, Pantelejeva O, Jonushaite A, et al. Benefits of a multidisciplinary approach in the management of recurrent diabetic foot ulceration in Lithuania: A prospective study. Diabetes Care 1999;22:1428–31.
+Aydin K, Isildak M, Karakaya J, et al. Change in amputation predictors in diabetic foot disease: Effect of multidisciplinary approach. Endocrine 2010;38:87–92.
+Martínez-Gómez DA, Moreno-Carrillo MA, Campillo-Soto A, et al. Reduction in diabetic amputations over 15 years in a defined Spain population. Benefits of a critical pathway approach and multidisciplinary team work. Rev Esp Quimioter 2014;27:170–9.
+De Corrado G, Repetti E, Latina A, et al. A multidisciplinary foot care team approach can lower the incidence of diabetic foot ulcers and amputation: Results of the Asti study at 12 years. G It Diabetol Metab 2013;33:90–7, [Article in Italian].
+Wu L, Norman G, Dumville JC, et al. Dressings for treating foot ulcers in people with diabetes: An overview of systematic reviews. Cochrane Database Syst Rev 2015;(7):CD010471.
+Game FL, Apelqvist J, Attinger C, et al. Effectiveness of interventions to enhance healing of chronic ulcers of the foot in diabetes: A systematic review. Diabetes Metab Res Rev 2016;32:154–68.
+Game FL, Attinger C, Hartemann A, et al. IWGDF guidance on use of interventions to enhance the healing of chronic ulcers of the foot in diabetes. Diabetes Metab Res Rev 2016;32:75–83.
+Dumville JC, O’Meara S, Deshpande S, et al. Alginate dressings for healing diabetic foot ulcers. Cochrane Database Syst Rev 2013;(6):CD009110.
+Dumville JC, Deshpande S, O’Meara S, et al. Foam dressings for healing diabetic foot ulcers. Cochrane Database Syst Rev 2013;(6):CD009111.
+Armstrong DG, Lavery LA, Diabetic Foot Study Consortium. Negative pressure wound therapy after partial diabetic foot amputation: A multicentre, randomised controlled trial. Lancet 2005;366:1704–10.
+Edwards J, Stapley S. Debridement of diabetic foot ulcers. Cochrane Database Syst Rev 2010;(1):CD003556.
+Molines L, Darmon P, Raccah D. Charcot’s foot: Newest findings on its pathophysiology, diagnosis and treatment. Diabetes Metab 2010;36:251–5.
+Health Technology Inquiry Service. Negative pressure therapy for patients infected wounds: A review of the clinical and cost-effectiveness evidence and recommendations for use. Ottawa: Canadian Agency for Drugs and Technologies in Health (CADTH), 2010. https://www.cadth.ca/media/pdf/l0194_negative_pressure_therapy_htis-2.pdf.
+Gregor S, Maegele M, Sauerland S, et al. Negative pressure wound therapy: A vacuum of evidence? Arch Surg 2008;143:189–96.
+Blume PA, Walters J, Payne W, et al. Comparison of negative pressure wound therapy using vacuum-assisted closure with advanced moist wound therapy in the treatment of diabetic foot ulcers: A multicenter randomized controlled trial. Diabetes Care 2008;31:631–6.
+Marti-Carvajal AJ, Gluud C, Nicola S, et al. Growth factors for treating diabetic foot ulcers. Cochrane Database Syst Rev 2015;(10):CD008548.
+Santema TB, Poyck PP, Ubbink DT. Skin grafting and tissue replacement for treating foot ulcers in people with diabetes. Cochrane Database Syst Rev 2016;(2):CD011255.
+Buchberger B, Follmann M, Freyer D, et al. The importance of growth factors for the treatment of chronic wounds in the case of diabetic foot ulcers. GMS Health Technol Assess 2010;6:Doc12.
+Cruciani M, Lipsky BA, Mengoli C, et al. Granulocyte-colony stimulating factors as adjunctive therapy for diabetic foot infections. Cochrane Database Syst Rev 2013;(8):CD006810.
+Armstrong DG, Lavery LA, Wu S, et al. Evaluation of removable and irremovable cast walkers in the healing of diabetic foot wounds: A randomized controlled trial. Diabetes Care 2005;28:551–4.
+Armstrong DG, Nguyen HC, Lavery LA, et al. Off-loading the diabetic foot wound: A randomized clinical trial. Diabetes Care 2001;24:1019–22.
+Katz IA, Harlan A, Miranda-Palma B, et al. A randomized trial of two irremovable off-loading devices in the management of plantar neuropathic diabetic foot ulcers. Diabetes Care 2005;28:555–9.
+Bus SA, Armstrong DG, van Deursen RW, et al. IWGDF guidance on footwear and offloading interventions to prevent and heal foot ulcers in patients with diabetes. Diabetes Metab Res Rev 2016;32:25–36.
+Bus SA, van Deursen RW, Armstrong DG, et al. Footwear and offloading interventions to prevent and heal foot ulcers and reduce plantar pressure in patients with diabetes: A systematic review. Diabetes Metab Res Rev 2016;32:99–118.
+Elraiyah T, Prutsky G, Domecq JP, et al. A systematic review and metaanalysis of off-loading methods for diabetic foot ulcers. J Vasc Surg 2016; 63:59S–68S, e1-2.
+Nabuurs-Franssen MH, Sleegers R, Huijberts MS, et al. Total contact casting of the diabetic foot in daily practice: A prospective follow-up study. Diabetes Care 2005;28:243–7.
+Guyton GP. An analysis of iatrogenic complications from the total contact cast. Foot Ankle Int 2005;26:903–7.
+de Oliveira AL, Moore Z. Treatment of the diabetic foot by offloading: A systematic review. J Wound Care 2015;24:560,562–70.
+Singh N, Armstrong DG, Lipsky BA. Preventing foot ulcers in patients with diabetes. JAMA 2005;293:217–28.
+Blume PA, Paragas LK, Sumpio BE, et al. Single-stage surgical treatment of noninfected diabetic foot ulcers. Plast Reconstr Surg 2002;109:601–9.
+Sayner LR, Rosenblum BI, Giurini JM. Elective surgery of the diabetic foot. Clin Podiatr Med Surg 2003;20:783–92.
+Dick F, Diehm N, Galimanis A, et al. Surgical or endovascular revascularization in patients with critical limb ischemia: Influence of diabetes mellitus on clinical outcome. J Vasc Surg 2007;45:751–61.
+Löndahl M, Katzman P, Nilsson A, et al. Hyperbaric oxygen therapy facilitates healing of chronic foot ulcers in patients with diabetes. Diabetes Care 2010;33:998–1003.
+Löndahl M, Fagher K, Katzman P. What is the role of hyperbaric oxygen in the management of diabetic foot disease? Curr Diab Rep 2011;11:285–93.
+Trepman E, Nihal A, Pinzur MS. Current topics review: Charcot neuroarthropathy of the foot and ankle. Foot Ankle Int 2005;26:46–63.
+Jude EB, Selby PL, Burgess J, et al. Bisphosphonates in the treatment of Charcot neuroarthropathy: A double-blind randomised controlled trial. Diabetologia 2001;44:2032–7.
+Pitocco D, Ruotolo V, Caputo S, et al. Six-month treatment with alendronate in acute Charcot neuroarthropathy: A randomized controlled trial. Diabetes Care 2005;28:1214–15.
+Richard JL, Almasri M, Schuldiner S. Treatment of acute Charcot foot with bisphosphonates: A systematic review of the literature. Diabetologia 2012;55:1258–64.
+Lavery LA, Armstrong DG, Wunderlich RP, et al. Risk factors for foot infections in individuals with diabetes. Diabetes Care 2006;29:1288–93.
+Rao N, Lipsky BA. Optimising antimicrobial therapy in diabetic foot infections. Drugs 2007;67:195–214.
+Perry CR, Pearson RL, Miller GA. Accuracy of cultures of material from swabbing of the superficial aspect of the wound and needle biopsy in the preoperative assessment of osteomyelitis. J Bone Joint Surg Am1991;73:745–9.
+Senneville E, Melliez H, Beltrand E, et al. Culture of percutaneous bone biopsy specimens for diagnosis of diabetic foot osteomyelitis: Concordance with ulcer swab cultures. Clin Infect Dis 2006;42:57–62.
+Slater RA, Lazarovitch T, Boldur I, et al. Swab cultures accurately identify bacterial pathogens in diabetic foot wounds not involving bone. Diabet Med 2004;21:705–9.
+Lipsky BA, Aragón-Sánchez J, Diggle M, et al. IWGDF guidance on the diagnosis and management of foot infections in persons with diabetes. Diabetes Metab Res Rev 2016;32:45–74.
+Peters EJ, Lipsky BA, Aragón-Sánchez J, et al. Interventions in the management of infection in the foot in diabetes: A systematic review. Diabetes Metab Res Rev 2016;32:145–53.
+Embil JM, Trepman E. Diabetic foot infections. In: Gray J, ed. Therapeutic choices. 6th edn. Ottawa: Canadian Pharmacists Association, 2011, pg. 1448–62.
+Embil JM, Trepman E. Diabetic foot infections. In: Jovaisas B, ed. Compendium of therapeutic choices (CTC7). 7th edn. Ottawa: Canadian Pharmacists Association, 2011, pg. 1332–43.
+Hasan R, Firwana B, Elraiyah T, et al. A systematic review and meta-analysis of glycemic control for the prevention of diabetic foot syndrome. J Vasc Surg 2016;63:22S–8S, e1-2.
+Eneroth M, Apelqvist J, Stenström A. Clinical characteristics and outcome in diabetic patients with deep foot infections. Foot Ankle Int 1997;18:716–22.
+Tan JS, Friedman NM, Hazelton-Miller C, et al. Can aggressive treatment of diabetic foot infections reduce the need for above-ankle amputation? Clin Infect Dis 1996;23:286–91.
+Abularrage CJ, Conrad MF, Hackney LA, et al. Long-term outcomes of diabetic patients undergoing endovascular infrainguinal interventions. J Vasc Surg 2010;52:314–22, e1-4.
+Vermeulen H, Ubbink D, Goossens A, et al. Dressings and topical agents for surgical wounds healing by secondary intention. Cochrane Database Syst Rev 2004;(2):CD003554.
+Elraiyah T, Domecq JP, Prutsky G, et al. A systematic review and metaanalysis of débridement methods for chronic diabetic foot ulcers. J Vasc Surg 2016;63:37S–45S, e2.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

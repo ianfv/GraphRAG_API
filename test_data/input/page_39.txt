@@ -1,0 +1,247 @@
+Chapter Headings
+
+Introduction
+Definition and Pathogenesis
+Screening
+Delay of Onset and Progression
+Treatment
+Other Relevant Guidelines
+Author Disclosures
+Key Messages
+Regular screening is important for early detection of treatable diabetic retinopathy. Screening intervals for diabetic retinopathy vary according to the individual's age and type of diabetes.
+Optimal glycemic control reduces the onset and progression of sight-threatening diabetic retinopathy.
+Local intraocular pharmacological therapies have the potential to improve vision and reduce the level of retinopathy.
+Key Messages for People with Diabetes
+Diabetic retinopathy involves changes to retinal blood vessels that can cause them to bleed or leak fluid, distorting vision.
+With good glycemic control, regular eye exams and early treatment, the risk of vision loss is reduced.
+Diabetic retinopathy often goes unnoticed until vision loss occurs; therefore, people with diabetes should get a comprehensive dilated eye exam regularly. Discuss the recommended frequency with your diabetes healthcare team and experienced vision care professionals (optometrists or ophthalmologists).
+Diabetic retinopathy can be treated with several therapies used alone or in combination.
+Introduction
+
+Diabetic retinopathy is the most common cause of incident blindness (legal) in people of working age (1). The Eye Diseases Prevalence Research Group determined the crude prevalence rate of retinopathy in the adult population with diabetes of the United States to be 40.3%; sight-threatening retinopathy occurred at a rate of 8.2% (1). Previous data showed the prevalence rate of proliferative retinopathy to be 23% in people with type 1 diabetes, 14% in people with type 2 diabetes on insulin therapy and 3% in people receiving noninsulin antihyperglycemic therapies (2). Macular edema occurs in 11%, 15% and 4% of these groups, respectively (3). Higher prevalence rates have been noted in Indigenous populations in Canada (4,5).
+
+Visual loss is associated with significant morbidity, including increased falls, hip fracture and a 4-fold increase in mortality (6). Among individuals with type 1 diabetes, limb amputation and visual loss due to diabetic retinopathy are independent predictors of early death (7).
+
+Definition and Pathogenesis
+
+Diabetic retinopathy is clinically defined, diagnosed and treated based on the extent of retinal vascular disease detected by ophthalmoscopy. Three distinct forms of diabetic retinopathy are described: 1) macular edema, which includes diffuse or focal vascular leakage at the macula; 2) progressive accumulation of microvascular change that includes microaneurysms, intraretinal hemorrhage, vascular tortuosity and vascular malformation (together known as nonproliferative diabetic retinopathy) that ultimately leads to abnormal vessel growth on the optic disc or retina (proliferative diabetic retinopathy); and 3) retinal capillary nonperfusion, a form of vascular closure detected on retinal angiography, which is recognized as a potential complication associated with diabetes that can cause blindness and currently has no treatment (albeit ameliorated by ranibizumab therapy) (8).
+
+Screening
+
+Sight-threatening diabetic retinopathy includes severe nonproliferative diabetic retinopathy, proliferative diabetic retinopathy or foveal threatening diabetic macular edema (DME) evaluated either clinically and/or by optical coherence tomography (OCT) modalities. Clinically significant diabetic macular edema (CSME) is a strictly defined term determined by subjective biomicroscopy assessment of retinal thickening of the area and distance from the foveal centre (the centre of the macula responsible for high-acuity vision), with or without hard exudates (9). Use of OCT technology more accurately measures and quantifies retinal thickening threatening the foveal centre; this imaging modality has encouraged the terminology “centre-involving” DME to guide therapeutic decisions.
+
+Since therapies are available for sight-threatening diabetic retinopathy, which reduce the risk of blindness, ophthalmic screening strategies are necessary to identify treatable disease (9–13). Screening can be performed with dilated ophthalmoscopy, fundus imaging (photography—preferably standard 7 field or wide field imaging +/- macular OCT) combined with telehealth systems by qualified vision care professionals (ideally optometrists or ophthalmologists). With improved multimodal treatment options, including intraocular injectable pharmaceuticals, laser modalities and microsurgical advances, appropriate screening, careful retinopathy grading and timely referral for management cannot be overemphasized to prevent treatable vision loss.
+
+Screening recommendations take into account the differences in incidence and prevalence of retinopathy observed in type 1 and type 2 diabetes, and in children and adults (Table 1) (14–19).
+
+Diabetic retinopathy rarely develops in children with type 1 diabetes <10 years of age regardless of the duration of diabetes (18). Among people <15 years of age, irrespective of age of onset of diabetes, the prevalence of mild nonproliferative retinopathy was 2%, and none had sight-threatening diabetic retinopathy (10,18). However, the prevalence rate increases sharply after 5 years' duration of diabetes in postpubertal individuals with type 1 diabetes (18). In the Wisconsin Epidemiology Study of Diabetic Retinopathy 4-year incidence study, no person <17 years of age developed proliferative retinopathy or macular edema (16,20,21). Screening frequency for retinopathy has been extensively evaluated through post-hoc statistical modelling of the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Study (DCCT/EDIC), and results suggest that frequency can be individualized based on retinopathy stage and current A1C level. However, modification of current recommendations for annual screening will require confirmation in an independent study and demonstration that these findings can be translated into practice safely and effectively. Controversy, therefore, exists on whether the ideal approach to screening is a population-wide screening program with regular intervals or the development of personalized protocols.
+
+In people with type 2 diabetes, retinopathy may be present in 21% to 39% soon after clinical diagnosis, but is sight-threatening in only about 3% (3,17,19,22). In the United Kingdom Prospective Diabetes Study (UKPDS), few participants without retinopathy at diagnosis of diabetes had disease progression to the point of requiring retinal photocoagulation (laser treatment) in the following 3 to 6 years (23). More recently, progression rates of diabetic retinopathy were prospectively evaluated (14,15,24). The Liverpool Diabetic Eye Study reported the 1-year cumulative incidence of sight-threatening diabetic retinopathy in individuals with type 1 or type 2 diabetes who, at baseline, had no diabetic retinopathy, had background retinopathy or had mild preproliferative retinopathy. In people with type 1 diabetes, the incidence in these groups was 0.3%, 3.6% and 13.5%, respectively (14) and, in type 2 diabetes individuals, it was 0.3%, 5.0% and 15.0%, respectively (15). Although the incidence of sight-threatening diabetic retinopathy in the group without baseline diabetic retinopathy is low (14,15,23,24), there have been no studies comparing various screening intervals in their effectiveness to reduce the risk of vision loss (25).
+
+Telemedicine programs relying on fundus photography are widely used in Canada and internationally for the identification and triage of people with diabetic retinopathy (26). This has been greatly facilitated by the advent of high-resolution ultra-wide field imaging (UWFI). The Joslin Vision Network, an ocular telehealth program at the Joslin Diabetes Center, demonstrated that UWFI employed by trained certified imagers adhering to defined imaging and grading protocols, accurately evaluated images for the presence of diabetic retinopathy or diabetic retinopathy that required referral for prompt ophthalmic care, with a sensitivity and negative predictive value approaching 1.0 (27). Furthermore, UWFI technology has permitted the identification of peripheral diabetic retinal lesions, missed by standard 7-field fundus photography, that more accurately identifies the severity level of diabetic retinopathy and the risk of retinopathy progression over 4 years (28).
+
+Table 1
+Screening for retinopathy
+BP, blood pressure.
+*See Targets for Glycemic Control chapter, p. S42; Hypertension chapter, p. S186; Dyslipidemia chapter, p. S178
+When to initiate screening
+Type 1 diabetes: 5 years after diagnosis in all individuals ≥15 years
+Type 2 diabetes: children, adolescents and adults at diagnosis
+Screening methods
+7-standard field, stereoscopic-colour fundus photography with interpretation by a trained reader (gold standard)
+Direct ophthalmoscopy or indirect slit-lamp fundoscopy through dilated pupil
+Digital fundus photography
+If retinopathy is present
+Diagnose retinopathy severity and establish appropriate monitoring intervals (1 year or less)
+Treat sight-threatening retinopathy with laser, pharmacological or surgical therapy
+Review glycemic, BP and lipid control, and adjust therapy to reach targets as per guidelines*
+Screen for other diabetes complications
+If retinopathy is not present
+Type 1 diabetes: rescreen annually
+Type 2 diabetes: rescreen every 1 to 2 years
+Review glycemic, BP and lipid control, and adjust therapy to reach targets as per guidelines*
+Screen for other diabetes complications
+Delay of Onset and Progression
+
+Risk factors for the development or progression of diabetic retinopathy are longer duration of diabetes, elevated A1C, increased blood pressure (BP), dyslipidemia, anemia, pregnancy (with type 1 diabetes), proteinuria and severe retinopathy itself (1,16–19,21,29–34) (see Diabetes and Pregnancy chapter, p. S255).
+
+Glycemic control
+
+Optimizing glycemic control, targeting an A1C ≤7%, is recommended to slow the development and progression of diabetic retinopathy (see Targets for Glycemic Control chapter, p. S42). The DCCT and the UKPDS demonstrated that intensive glycemic control (A1C <7%) reduced both the development and progression of retinopathy (35–37), with the beneficial effects of intensive glycemic control persisting for up to 10 years after completion of the initial trials (38,39). Two studies examined the effect of more aggressive BG (blood glucose) lowering (A1C <6.5%) in people with established type 2 diabetes (duration 6 to 10 years). In the Action to Control Cardiovascular Risk in Diabetes (ACCORD) Eye study, intensive glycemic control was associated with a lower rate of retinopathy progression than standard therapy (40,41), while in the Action in Diabetes and Vascular Disease: Preterax and Diamicron MR Controlled Evaluation (ADVANCE) Retinal Measurements study (AdRem), intensive glycemic control did not significantly reduce development or progression of retinopathy (42). In type 1 diabetes, rapid improvement of glycemia may be associated with transient early worsening of retinopathy, but this effect is offset by long-term benefits (43).
+
+BP control
+
+BP control is an important component of risk factor modification in diabetes and reduces the risk of retinopathy progression (see Treatment of Hypertension chapter, p. S186). The UKPDS showed that, among people with newly diagnosed type 2 diabetes, BP control (target BP <150/85 mmHg, actual BP 144/82 mmHg) resulted in a significant reduction in retinopathy progression, as well as a decrease in significant visual loss and requirement for laser therapy compared to less control (target BP <180/105 mmHg, actual mean BP 154/87 mmHg) (44). The ACCORD and ADVANCE studies examined more aggressive BP lowering in people with established type 2 diabetes. In both these studies, where mean BP was <140/80 mmHg in both the active intervention and control groups, active treatment did not show additional benefit vs. standard therapy. However, in the ADVANCE study data set, analysis of visit-to-visit variability of systolic BP and maximum systolic BP were predictive of diabetic retinopathy complications independent of mean BP (45). In contrast, in type 1 diabetes, the DCCT trial did not show variability of BP as a risk factor for diabetic retinopathy (46).
+
+Although a number of clinical trials have examined the effect(s) of renin angiotensin aldosterone system (RAAS) blockade on retinopathy progression or development among normotensive people with diabetes, the results have generally been conflicting or inconclusive. In the Renin-Angiotensin System Study (RASS), involving 223 normotensive, normoalbuminuric participants with type 1 diabetes, neither the angiotensin-converting enzyme (ACE) inhibitor, enalapril, or the angiotensin receptor blocker (ARB), losartan, reduced retinopathy progression independent of BP change (47). The Diabetic Retinopathy Candesartan Trials (DIRECT) program, involving 5,231 participants, evaluated the effect of the angiotension II type 1 ARB candesartan 32 mg daily on the incidence of retinopathy in participants with type 1 diabetes (DIRECT-Prevent 1) (48) and on the progression of retinopathy in participants with either type 1 diabetes (DIRECT-Protect 1) (48) or type 2 diabetes (DIRECT-Protect 2) (49). The DIRECT studies did not meet their primary endpoints, although there was an overall change toward less severe retinopathy with candesartan (48,49).
+
+In view of the conflicting data, a systematic review and meta-analysis was carried out to evaluate the effect(s) of RAAS inhibition on diabetic retinopathy, and to compare between ACE inhibitors and ARBs (50). The study included 21 randomized controlled clinical trials and 13,823 participants. Results of these analyses suggest that RAAS inhibition was associated with reduced risk of incidence and progression of diabetic retinopathy, and that ACE inhibitors were better than ARBs at reducing these risks. However, the study did not evaluate the effect(s) of RAAS inhibition in participants with multiple medical comorbidities (the subgroup of participants that are more likely to benefit from RAAS blockade), or the optimal dosage and duration of specific RAAS inhibitors. Thus, while BP lowering (including use of RAAS blockers) reduces retinopathy rates and is an important component of cardiovascular (CV) protection (see Cardiovascular Protection in People with Diabetes chapter, p. S162), there is insufficient evidence to recommend specific routes of RAAS blockade as primary prevention for retinopathy for all normotensive people with diabetes.
+
+Lipid-lowering therapy
+
+Dyslipidemia is an independent risk factor for retinal hard exudates and CSME in type 1 diabetes (24,51). While statin-based lipid-lowering therapies are an integral part of CV protection in diabetes, the role of these agents in preventing the development or progression of retinopathy has not been established (37,52). The role of the peroxisome proliferator-activated receptor-alpha agonist fenofibrate has been assessed in 2 large-scale randomized controlled trials. In the Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study, fenofibrate 200 mg daily reduced both the requirement for laser therapy (a pre-specified tertiary endpoint) and retinopathy progression among people with pre-existing retinopathy (53). In the ACCORD Eye study, the addition of fenofibrate 160 mg daily to simvastatin was associated with a 40% reduction in the primary outcome of retinopathy progression over 4 years (40,41). From the study's control and event rates, the number of people needed to treat with combination statin and fenofibrate therapy to prevent 1 retinopathy progression event is estimated at 27 over the 4-year period. The mechanism for any beneficial effect of fenofibrate in diabetic retinopathy has not been established. Active treatment with fenofibrate was associated with an increase in high-density lipoprotein cholesterol (HDL-C) and decrease in serum triglycerides in ACCORD Eye (40,41); however, in the FIELD study, any beneficial effect of fenofibrate was independent of plasma lipid concentrations (53). Thus, the addition of fenofibrate to statin therapy could be considered in people with type 2 diabetes to slow the progression of established retinopathy.
+
+Antiplatelet therapy
+
+Systematic review suggests that acetylsalicylic acid (ASA) therapy neither decreases or increases the incidence or progression of diabetic retinopathy (54). Correspondingly, ASA use does not appear to be associated with an increase in risk of vitreous hemorrhage or DME (55,56).
+
+Treatment
+
+Treatment modalities for diabetic retinopathy include retinal photocoagulation, intraocular injection of pharmacological agents and vitreoretinal surgery.
+
+Laser therapy
+
+As determined in the Diabetic Retinopathy Study (DRS) and the Early Treatment Diabetic Retinopathy Study (ETDRS), panretinal laser photocoagulation to the retinal periphery reduces severe visual loss and reduces legal blindness by 90% in people with severe nonproliferative or proliferative retinopathy (10–12). As determined by the ETDRS, focal laser treatment to the macula for CSME reduces the incidence of moderate visual loss by 50% (9). Long-term follow-up studies to the original laser photocoagulation trials confirm its benefit over several decades (57).
+
+Local (intraocular) pharmacological intervention
+
+The cytokine, vascular endothelial growth factor (VEGF), is a potent vascular permeability and angiogenic factor. Increased VEGF expression has been demonstrated to play a pivotal role in the development of diabetic retinopathy and, in particular, DME. Treatment of centre-involving DME with intravitreal anti-VEGF agents has been associated with improved vision and reduction of macular edema (thickening), unlike focal macular laser where the effect is to reduce the probability of further vision loss. Thus, anti-VEGF drugs have become first-line therapy in the management of centre-involving DME, and focal macular laser continues to be used when central vision is not involved. Three anti-VEGF agents are available, namely, ranibizumab, aflibercept and off-label use of bevacizumab.
+
+Two masked, phase III, randomized clinical trials, A Study of Ranibizumab Injection in Subjects With Clinically Significant Macular Edema (ME) With Center Involvement Secondary to Diabetes Mellitus (RISE) and A Study of Ranibizumab Injection in Subjects With Clinically Significant Macular Edema (ME) With Center Involvement Secondary to Diabetes Mellitus (RIDE), using monthly ranibizumab, a humanized recombinant anti-VEGF antibody fragment, with or without prompt laser, improved visual acuity compared against sham over the 2 years of study (58). In the RISE trial, 44% and 39% of participants receiving 0.3 or 0.5 mg ranibizumab, respectively, gained 15 letters or more (3 lines) of acuity vs. 18% of those in the control arm. In the RIDE study, 33% or 45% of participants gained 15 letters or more at doses of 0.3 or 0.5 mg, respectively. RISE and RIDE open-label extension trials showed visual acuity gains and safety profiles were maintained with a marked reduction in subsequent treatment frequency (59).
+
+Furthermore, 1-year results of a phase III clinical trial, Ranibizumab Monotherapy or Combined with Laser versus Laser Monotherapy for Diabetic Macular Edema (RESTORE), using an initial loading dose of 3 monthly injections of 0.5 mg ranibizumab, and as-needed treatment thereafter, likewise demonstrated improvement in the primary and secondary outcome measures of best corrected visual acuity and reduction in central macular thickness. In all studies, the effect(s) of ranibizumab were consistent when used as monotherapy or in conjunction with macular photocoagulation. In the RESTORE study, 37% to 43% of ranibizumab-treated participants improved vision by 10 letters or more compared to 16% with focal macular laser (60). Three-year extension results maintained similar outcomes (61).
+
+Similar positive results were obtained by the Diabetic Retinopathy Clinical Research Network (DRCR.net) (Protocol I - 5-year results) using flexible ranibizumab plus prompt or deferred laser treatment algorithms (62,63).
+
+Aflibercept is a recombinant fusion protein comprised of the highest-affinity binding site from VEGF receptor 1 and 2, fused to the constant region (Fc) of immunoglobulin G1, and binds or traps VEGF and PlGF (Placental Growth Factor). Two masked phase III randomized clinical trials, Study of Intravitreal Aflibercept Injection in Patients With Diabetic Macular Edema (VISTA DME) and Intravitreal Aflibercept Injection in Vision Impairment Due to DME (VIVID-DME), evaluated aflibercept at 2 different dosing intervals (2q4 and 2q8) vs. macular laser photocoagulation. The 52-week visual and anatomic superiority of aflibercept over laser control was sustained through week 100, with similar efficacy in the 2q4 and 2q8 groups. Mean BCVA gain from baseline to week 100 with aflibercept 2q4, 2q8 and laser control was 11.5, 11.1 and 0.9 letters (p<0.0001) in VISTA and 11.4, 9.4 and 0.7 letters (p<0.0001) in VIVID, respectively (64).
+
+A similar outcome was noted when comparing intraocular injection of bevacizumab (a full-length antibody against VEGF) to macular laser. Two-year results of A Prospective Randomized Trial of Intravitreal Bevacizumab or Laser Therapy in the Management of Diabetic Macular Edema (BOLT), a phase 3 clinical trial, demonstrated a gain of at least 15 letters or more in 32% of participants receiving 1.25 mg bevacizumab compared to 4% in the control arm (65). However, unlike ranibizumab and aflibercept, intraocular injection of bevacizumab in diabetic retinopathy constitutes off-label use of the drug in Canada.
+
+A head-to-head randomized clinical trial, Diabetic Retinopathy Clinical Research Network Protocol T study, was carried out comparing the 3 anti-VEGF agents—aflibercept, bevacizumab and ranibizumab—in the treatment of centre-involving DME. All 3 agents demonstrated improvement of visual acuity and reduction in central macular thickness both at year 1 (66) and year 2. Superiority of aflibercept was noted in the group of participants with worse baseline visual acuity. This superiority of aflibercept at year 2 with gains of 18.1 letters in aflibercept, 13.3 letters in bevacizumab and 16.1 letters in ranibizumab groups at 2 years (aflibercept vs. bevacizumab, p=0.02, aflibercept vs. ranibizumab, p=0.18, and ranibizumab vs. bevacizumab, p=0.18).
+
+Steroids are an alternate class of drug utilized in the management of DME. Injectable agents include triamcinolone, dexamethasone and fluocinolone.
+
+Intravitreal injection of triamcinolone combined with prompt macular laser was as effective as ranibizumab in a single subgroup of people characterized by previous cataract surgery (62).
+
+The Macular Edema: Assessment of Implantable Dexamethasone in Diabetes (MEAD) study group showed positive visual results with the dexamethasone (DEX) implant over a 3-year follow-up period. The percentage of participants with ≥15-letter improvement in BCVA from baseline at study end was greater with DEX implant 0.7 mg (22.2%) and DEX implant 0.35 mg (18.4%) than sham (12.0%, p≤0.018) (67).
+
+The fluocinolone implant for DME has been studied (68,69) and more recently was studied vs. sham in the Fluocinolone Acetonide for Macular Edema (FAME) study, a phase III clinical trial consisting of 2 3-year pivotal trials. The percentage of participants with improvement from baseline letter score of 15 or more at month 24 was 28.7% and 28.6% in the low- and high-dose insert groups, respectively, compared with 16.2% in the sham group (p=0.002 for each) (70).
+
+However, treatments with intraocular steroids are associated with increased rates of glaucoma and cataract formation.
+
+Randomized-controlled trials evaluating anti-VEGF therapy for the treatment of centre-involving DME have noted improved diabetic retinopathy severity scale (DRSS). Progression of DRSS severity has been associated with an increased risk of development of proliferative diabetic retinopathy and DME (71). In nonproliferative diabetic retinopathy, ranibizumab (RISE/RIDE phase IV trial) demonstrated ≥2 step improvement in DRSS at year 3 (p=0.0003). Similarly, with aflibercept, a significant proportion of eyes demonstrated ≥2 step improvement in DRSS in the VISTA trial (p=0.0001) and VIVID trial (p=0.0004) (64). In proliferative diabetic retinopathy, ranibizumab demonstrated to be not inferior to PRP (panretinal photocoagulation) with 47% of eyes demonstrating ≥2 step improvement in DRSS (72). Thus, future randomized controlled trials may further evaluate DRSS as a primary endpoint in the prevention or regression of diabetic retinopathy.
+
+Surgical intervention
+
+Vitreoretinal surgery in diabetes is necessary for retinopathy complicated with non-clearing vitreous bleeding, persistent neovascularization (especially post PRP laser +/- VEGF injectables) and vitreoretinal traction, especially with retinal detachment threatening the macula. The Diabetic Retinopathy Vitrectomy Study (DRVS) Group evaluated the benefit of early vitrectomy (<6 months) in the treatment of severe vitreous hemorrhage (73) and very severe proliferative diabetic retinopathy (74). People with type 1 diabetes of <20 years' duration and severe vitreous hemorrhage were more likely to achieve good vision with early vitrectomy compared to conventional management (73). Similarly, early vitrectomy was associated with higher chance of visual recovery in people with either type 1 or 2 diabetes with very severe proliferative diabetic retinopathy (74). More recent surgical advances and instrumentation in vitrectomy since the DRVS trials have demonstrated reduced side effects with more consistent favourable visual outcomes, thus supporting vitrectomy in advanced proliferative diabetic retinopathy (75). Furthermore, these advances have expanded surgical indications to include earlier vitrectomy for diffuse macular edema, particularly with vitreomacular traction (76). It is worth noting that the use of perioperative ASA (77–79) and warfarin therapy (80) for persons undergoing ophthalmic surgery does not appear to raise the risk of hemorrhagic complications.
+
+Overall, the last few years have seen significant advances in systemic, local and surgical treatments of diabetic eye disease, with significantly improved visual outcome. Most notably, long-term follow up to early laser studies confirm their sustained efficacy in preserving vision (57). Pharmacologic therapies, especially VEGF and steroid agents, demonstrate both preservation and recovery of vision in persons with DME. Despite these successes, it is important to encourage people with even moderate visual loss to seek assistance from community services that provide spectacle correction, enhanced magnification, vision aids and measures to encourage independence and ongoing quality of life (81,82).
+
+Recommendations
+In individuals ≥15 years of age with type 1 diabetes, screening and evaluation for retinopathy should be performed annually by an experienced vision care professional (optometrist or ophthalmologist) starting 5 years after the onset of diabetes [Grade A, Level 1 (16,18)] (for screening recommendation for children and adolescents <15 years with type 1 diabetes, see Type 1 Diabetes in Children and Adolescents chapter, p. S234; for screening recommendations for pregnant women, see Diabetes and Pregnancy chapter, p. S255).
+In individuals with type 2 diabetes, screening and evaluation for diabetic retinopathy should be performed by an experienced vision care professional (optometrist or ophthalmologist) at the time of diagnosis of diabetes [Grade A, Level 1 (17,20)]. The interval for follow-up assessments should be tailored to the severity of the retinopathy [Grade D, Consensus]. In those with no or minimal retinopathy, the recommended interval is 1–2 years [Grade A, Level 1 (17,20)] (for screening recommendations for children and adolescents with type 2 diabetes, see Type 2 Diabetes in Children and Adolescents chapter, p. S247).
+Screening for diabetic retinopathy should be performed by an experienced vision care professional (optometrist or ophthalmologist), either in person or through interpretation of retinal photographs taken through dilated pupils [Grade A, Level 1 (13)] or undilated pupils with high-resolution ultra-wide field imaging [Grade D, Consensus].
+Results of eye examinations and the follow-up interval and plan should be clearly communicated to all members of the diabetes health-care team to promote optimal care [Grade D, Consensus].
+To prevent the onset and delay the progression of diabetic retinopathy, people with diabetes should be treated to achieve optimal control of BG [Grade A, Level 1A (35,38) for type 1 diabetes; Grade A, Level 1A (36,40,41) for type 2 diabetes] and BP [Grade A, Level 1A (36,44) for type 2 diabetes; Grade D, Consensus for type 1 diabetes].
+Although not recommended for CVD prevention or treatment, fenofibrate, in addition to statin therapy, may be used in people with type 2 diabetes to slow the progression of established retinopathy [Grade A, Level 1A (40,41,53)].
+Individuals with sight-threatening diabetic retinopathy should be assessed by a qualified ophthalmologist and/or retina specialist [Grade D, Consensus]. Pharmacological intervention [Grade A, Level 1A (9,11,73,74)], laser therapy and/or vitrectomy [Grade A, Level 1A (58,60,68,69)] may be used to manage the diabetic retinopathy.
+Visually disabled people should be referred for low-vision evaluation and rehabilitation [Grade D, Consensus].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; ACE; angiotensin-converting enzyme; ARB; angiotensin receptor blocker; BP, blood pressure; CV, cardiovascular; CVD, cardiovascular disease; CSME; clinically significant macular edema; DHC, diabetes health-care; DME, diabetic macular edema; DRSS, diabetic retinopathy severity scale; HDL-C; high-density lipoprotein cholesterol; OCT; optical coherence tomography; PlGF; placental growth factor; PRP, panretinal photocoagulation; RAAS; renin angiotensin aldosterone system; VEGF; vascular endothelial growth factor.
+
+Other Relevant Guidelines
+Targets for Glycemic Control, p. S42
+Dyslipidemia, p. S178
+Treatment of Hypertension, p. S186
+Type 1 Diabetes in Children and Adolescents, p. S234
+Type 2 Diabetes in Children and Adolescents, p. S247
+Diabetes and Pregnancy, p. S255
+
+Literature Review Flow Diagram for Chapter 30: Retinopathy
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (83).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Altomare has nothing to disclose. Dr. Lovshin reports grants from Sanofi Canada and Merck Canada; personal fees from Novo Nordisk, AstraZenca, and Eli Lilly, outside the submitted work.
+
+References
+Diabetes Control and Complications Trial Research Group. Effect of pregnancy on microvascular complications in the diabetes control and complications trial. The diabetes control and complications trial research group. Diabetes Care 2000;23:1084–91.
+Klein R, Klein BE, Moss SE. Epidemiology of proliferative diabetic retinopathy. Diabetes Care 1992;15:1875–91.
+Klein R, Klein BE, Moss SE, et al. The Wisconsin epidemiologic study of diabetic retinopathy. IV. Diabetic macular edema. Ophthalmology 1984;91:1464– 74.
+Kaur H, Maberley D, Chang A, et al. The current status of diabetes care, diabetic retinopathy screening and eye-care in British Columbia’s First Nations Communities. Int J Circumpolar Health 2004;63:277–85.
+Maberley D, Walker H, Koushik A, et al. Screening for diabetic retinopathy in James Bay, Ontario: A cost-effectiveness analysis. CMAJ 2003;168:160–4.
+Vu HT, Keeffe JE, McCarty CA, et al. Impact of unilateral and bilateral vision loss on quality of life. Br J Ophthalmol 2005;89:360–3.
+CusickM, Meleth AD, Agron E, et al. Associations of mortality and diabetes complications in patients with type 1 and type 2 diabetes: Early treatment diabetic retinopathy study report no. 27. Diabetes Care 2005;28:617–25.
+Campochiaro PA, Wykoff CC, Shapiro H, et al. Neutralization of vascular endothelial growth factor slows progression of retinal nonperfusion in patients with diabetic macular edema. Ophthalmology 2014;121:1783–9.
+Early Treatment Diabetic Retinopathy Study research group. Photocoagulation for diabetic macular edema. Early treatment diabetic retinopathy study report number 1. Arch Ophthalmol 1985;103:1796–806.
+Ferris FL 3rd. How effective are treatments for diabetic retinopathy? JAMA 1993;269:1290–1.
+Photocoagulation treatment of proliferative diabetic retinopathy: The second report of diabetic retinopathy study findings. Ophthalmology 1978;85:82– 106.
+Ferris F. Early photocoagulation in patients with either type I or type II diabetes. Trans Am Ophthalmol Soc 1996;94:505–37.
+Buxton MJ, Sculpher MJ, Ferguson BA, et al. Screening for treatable diabetic retinopathy: A comparison of different methods. Diabet Med 1991;8:371–7.
+Younis N, Broadbent DM, Harding SP, et al. Incidence of sight-threatening retinopathy in type 1 diabetes in a systematic screening programme. Diabet Med 2003;20:758–65.
+Younis N, Broadbent DM, Vora JP, et al. Incidence of sight-threatening retinopathy in patients with type 2 diabetes in the liverpool diabetic eye study: A cohort study. Lancet 2003;361:195–200.
+Klein R, Klein BE, Moss SE, et al. The Wisconsin epidemiologic study of diabetic retinopathy. IX. Four-year incidence and progression of diabetic retinopathy when age at diagnosis is less than 30 years. Arch Ophthalmol 1989;107:237–43.
+Klein R, Klein BE, Moss SE, et al. The Wisconsin epidemiologic study of diabetic retinopathy. X. Four-year incidence and progression of diabetic retinopathy when age at diagnosis is 30 years or more. Arch Ophthalmol 1989;107:244–9.
+Klein R, Klein BE, Moss SE, et al. The Wisconsin epidemiologic study of diabetic retinopathy. II. Prevalence and risk of diabetic retinopathy when age at diagnosis is less than 30 years. Arch Ophthalmol 1984;102:520–6.
+Klein R, Klein BE, Moss SE, et al. The Wisconsin epidemiologic study of diabetic retinopathy. III. Prevalence and risk of diabetic retinopathy when age at diagnosis is 30 or more years. Arch Ophthalmol 1984;102:527–32.
+Klein R, Klein BE, Moss SE, et al. The wisconsin epidemiologic study of diabetic retinopathy. VII. Diabetic nonproliferative retinal lesions. Ophthalmology 1987;94:1389–400.
+Klein R, Moss SE, Klein BE, et al. The Wisconsin epidemiologic study of diabetic retinopathy. XI. The incidence of macular edema. Ophthalmology 1989;96:1501–10.
+Kohner EM, Aldington SJ, Stratton IM, et al. United Kingdom prospective diabetes study, 30: Diabetic retinopathy at diagnosis of non-insulin-dependent diabetes mellitus and associated risk factors. Arch Ophthalmol 1998;116:297– 303.
+Kohner EM, Stratton IM, Aldington SJ, et al. Relationship between the severity of retinopathy and progression to photocoagulation in patients with type 2 diabetes mellitus in the UKPDS (UKPDS 52). Diabet Med 2001;18:178–84.
+Maguire A, Chan A, Cusumano J, et al. The case for biennial retinopathy screening in children and adolescents. Diabetes Care 2005;28:509–13.
+Klein R. Screening interval for retinopathy in type 2 diabetes. Lancet 2003;361:190–1.
+Whited JD. Accuracy and reliability of teleophthalmology for diagnosing diabetic retinopathy and macular edema: A reviewof the literature. Diabetes Technol Ther 2006;8:102–11.
+Silva PS, Cavallerano JD, Tolson AM, et al. Real-time ultrawide field image evaluation of retinopathy in a diabetes telemedicine program. Diabetes Care 2015;38:1643–9.
+Silva PS, Cavallerano JD, Haddad NM, et al. Peripheral lesions identified on ultrawide field imaging predict increased risk of diabetic retinopathy progression over 4 years. Ophthalmology 2015;122:949–56.
+Klein R, Klein BE, Moss SE, et al. The Wisconsin epidemiologic study of diabetic retinopathy: XVII. The 14-year incidence and progression of diabetic retinopathy and associated risk factors in type 1 diabetes. Ophthalmology 1998;105:1801–15.
+Davis MD, Fisher MR, Gangnon RE, et al. Risk factors for high-risk proliferative diabetic retinopathy and severe visual loss: Early treatment diabetic retinopathy study report #18. Invest Ophthalmol Vis Sci 1998;39:233–52.
+Klein BE, Moss SE, Klein R. Effect of pregnancy on progression of diabetic retinopathy. Diabetes Care 1990;13:34–40.
+Chew EY, Klein ML, Ferris FL 3rd, et al. Association of elevated serum lipid levels with retinal hard exudate in diabetic retinopathy. Early Treatment Diabetic Retinopathy Study (ETDRS) Report 22. Arch Ophthalmol 1996;114:1079–84.
+Qiao Q, Keinanen-Kiukaanniemi S, Läärä E. The relationship between hemoglobin levels and diabetic retinopathy. J Clin Epidemiol 1997;50:153–8.
+Chew EY, Mills JL, Metzger BE, et al. Metabolic control and progression of retinopathy. The diabetes in early pregnancy study. National Institute of Child Health and Human Development Diabetes in early pregnancy study. Diabetes Care 1995;18:631–7.
+Diabetes Control and Complications Trial Research Group, Nathan DM, Genuth S, et al. The effect of intensive treatment of diabetes on the development andp rogression of long-term complications in insulin-dependent diabetes mellitus. The diabetes control and complications trial research group. N Engl J Med 1993;329:977–86.
+UK Prospective Diabetes Study (UKPDS) Group. Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). Lancet 1998;352:837–53.
+Mohamed Q, Gillies MC,Wong TY. Management of diabetic retinopathy: A systematic review. JAMA 2007;298:902–16.
+White NH, Sun W, Cleary PA, et al. Prolonged effect of intensive therapy on the risk of retinopathy complications in patients with type 1 diabetes mellitus: 10 years after the diabetes control and complications trial. Arch Ophthalmol 2008;126:1707–15.
+Holman RR, Paul SK, Bethel MA, et al. 10-year follow-up of intensive glucose control in type 2 diabetes. N Engl J Med 2008;359:1577–89.
+ACCORD Study Group, ACCORD Eye Study Group, ChewEY, et al. Effects ofmedical therapies on retinopathy progression in type 2 diabetes. N Engl J Med 2010;363:233–44.
+Chew EY, Davis MD, Danis RP, et al. The effects of medical management on the progression of diabetic retinopathy in persons with type 2 diabetes: The Action to Control Cardiovascular Risk in Diabetes (ACCORD) Eye Study. Ophthalmology 2014;121:2443–51.
+Beulens JW, Patel A, Vingerling JR, et al. Effects of blood pressure lowering and intensive glucose control on the incidence and progression of retinopathy in patients with type 2 diabetes mellitus: A randomised controlled trial. Diabetologia 2009;52:2027–36.
+Early worsening of diabetic retinopathy in the diabetes control and complications trial. Arch Ophthalmol 1998;116:874–86.
+UK Prospective Diabetes Study (UKPDS) Group. Tight blood pressure control and risk of macrovascular andmicrovascular complications in type 2 diabetes: UKPDS38. BMJ 1998;317:703–13.
+Hata J, Arima H, Rothwell PM, et al. Effects of visit-to-visit variability in systolic blood pressure on macrovascular and microvascular complications in patients with type 2 diabetes mellitus: The ADVANCE trial. Circulation 2013;128:1325– 34.
+Kilpatrick ES, Rigby AS, Atkin SL. The role of blood pressure variability in the development of nephropathy in type 1 diabetes. Diabetes Care 2010;33:2442–7.
+Mauer M, Zinman B, Gardiner R, et al. Renal and retinal effects of enalapril and losartan in type 1 diabetes. N Engl J Med 2009;361:40–51.
+Chaturvedi N, PortaM, Klein R, et al. Effect of candesartan on prevention (DIRECTPrevent 1) and progression (DIRECT-Protect 1) of retinopathy in type 1 diabetes: Randomised, placebo-controlled trials. Lancet 2008;372:1394–402.
+Sjølie AK, Klein R, PortaM, et al. Effect of candesartan on progression and regression of retinopathy in type 2 diabetes (DIRECT-Protect 2): A randomised placebocontrolled trial. Lancet 2008;372:1385–93.
+Wang B, Wang F, Zhang Y, et al. Effects of RAS inhibitors on diabetic retinopathy: A systematic review and meta-analysis. Lancet Diabetes Endocrinol 2015;3:263–74.
+Miljanovic B, Glynn RJ, Nathan DM, et al. A prospective study of serum lipids and risk of diabetic macular edema in type 1 diabetes. Diabetes 2004;53:2883–92.
+Colhoun HM, Betteridge DJ, Durrington PN, et al. Primary prevention of cardiovascular disease with atorvastatin in type 2 diabetes in the Collaborative Atorvastatin Diabetes Study (CARDS): Multicentre randomised placebocontrolled trial. Lancet 2004;364:685–96.
+Keech AC, Mitchell P, Summanen PA, et al. Effect of fenofibrate on the need for laser treatment for diabetic retinopathy (FIELD study): A randomised controlled trial. Lancet 2007;370:1687–97.
+Bergerhoff K, Clar C, Richter B. Aspirin in diabetic retinopathy. A systematic review. Endocrinol Metab Clin North Am 2002;31:779–93.
+Aiello LP, Cahill MT, Wong JS. Systemic considerations in the management of diabetic retinopathy. Am J Ophthalmol 2001;132:760–76.
+Genest J, Frohlich J, Fodor G, et al. Recommendations for the management of dyslipidemia and the prevention of cardiovascular disease: Summary of the 2003 update. CMAJ 2003;169:921–4.
+Chew EY, Ferris FL 3rd, Csaky KG, et al. The long-term effects of laser photocoagulation treatment in patients with diabetic retinopathy: The early treatment diabetic retinopathy follow-up study. Ophthalmology 2003;110:1683–9.
+Nguyen QD, Brown DM, Marcus DM, et al. Ranibizumab for diabetic macular edema: Results from 2 phase III randomized trials: RISE and RIDE. Ophthalmology 2012;119:789–801.
+Boyer DS, Nguyen QD, Brown DM, et al. Outcomes with as-needed ranibizumab after initial monthly therapy: Long-term outcomes of the phase III RIDE and RISE trials. Ophthalmology 2015;122:2504–13, e1.
+Mitchell P, Bandello F, Schmidt-Erfurth U, et al. The RESTORE study: Ranibizumab monotherapy or combined with laser versus laser monotherapy for diabetic macular edema. Ophthalmology 2011;118:615–25.
+Schmidt-Erfurth U, Lang GE, Holz FG, et al. Three-year outcomes of individualized ranibizumab treatment in patients with diabetic macular edema: The RESTORE extension study. Ophthalmology 2014;121:1045–53.
+Elman MJ, Bressler NM, Qin H, et al. Expanded 2-year follow-up of ranibizumab plus prompt or deferred laser or triamcinolone plus prompt laser for diabetic macular edema. Ophthalmology 2011;118:609–14.
+Elman MJ, Ayala A, Bressler NM, et al. Intravitreal Ranibizumab for diabetic macular edema with prompt versus deferred laser treatment: 5-year randomized trial results. Ophthalmology 2015;122:375–81.
+Brown DM, Schmidt-Erfurth U, Do DV, et al. Intravitreal aflibercept for diabetic macular edema: 100-week results from the VISTA and VIVID studies. Ophthalmology 2015;122:2044–52.
+Rajendram R, Fraser-Bell S, Kaines A, et al. A 2-year prospective randomized controlled trial of intravitreal Bevacizumab or Laser Therapy (BOLT) in the management of diabetic macular edema: 24-month data: Report 3. Arch Ophthalmol 2012;130:972–9.
+Wells JA, Glassman AR, Ayala AR, et al. Aflibercept, bevacizumab, or ranibizumab for diabetic macular edema. N Engl J Med 2015;372:1193–203.
+Boyer DS, Yoon YH, Belfort R Jr, et al. Three-year, randomized, sham-controlled trial of dexamethasone intravitreal implant in patients with diabetic macular edema. Ophthalmology 2014;121:1904–14.
+Pearson PA, Comstock TL, Ip M, et al. Fluocinolone acetonide intravitreal implant for diabetic macular edema: A 3-year multicenter, randomized, controlled clinical trial. Ophthalmology 2011;118:1580–7.
+Campochiaro PA, Brown DM, Pearson A, et al. Long-term benefit of sustaineddelivery fluocinolone acetonide vitreous inserts for diabetic macular edema. Ophthalmology 2011;118:626–35, e2.
+Campochiaro PA, Brown DM, Pearson A, et al. Sustained delivery fluocinolone acetonide vitreous inserts provide benefit for at least 3 years in patients with diabetic macular edema. Ophthalmology 2012;119:2125–32.
+Klein R, Meuer SM, Moss SE, et al. Retinal microaneurysm counts and 10-year progression of diabetic retinopathy. Arch Ophthalmol 1995;113:1386–91.
+Writing Committee for the Diabetic Retinopathy Clinical Research Network, Gross JG, Glassman AR, et al. Panretinal photocoagulation vs intravitreous ranibizumab for proliferative diabetic retinopathy: A randomized clinical trial. JAMA 2015;314:2137–46.
+Early vitrectomy for severe vitreous hemorrhage in diabetic retinopathy. Fouryear results of a randomized trial: Diabetic retinopathy vitrectomy study report 5. Arch Ophthalmol 1990;108:958–64.
+The Diabetic Retinopathy Vitrectomy Study Research Group. Early vitrectomy for severe proliferative diabetic retinopathy in eyes with useful vision. Results of a randomized trial–diabetic retinopathy vitrectomy study report 3. Ophthalmology 1988;95:1307–20.
+Smiddy WE, Flynn HW Jr. Vitrectomy in the management of diabetic retinopathy. Surv Ophthalmol 1999;43:491–507.
+El-Asrar AM, Al-Mezaine HS, Ola MS. Changing paradigms in the treatment of diabetic retinopathy. Curr Opin Ophthalmol 2009;20:532–8.
+Early Treatment Diabetic Retinopathy Study Research Group. Effects of aspirin treatment on diabetic retinopathy. ETDRS report number 8. Ophthalmology 1991;98:757–65.
+Chew EY, Klein ML, Murphy RP, et al. Effects of aspirin on vitreous/preretinal hemorrhage in patients with diabetes mellitus. Early treatment diabetic retinopathy study report no. 20. Arch Ophthalmol 1995;113:52–5.
+Chew EY, Benson WE, Remaley NA, et al. Results after lens extraction in patients with diabetic retinopathy: Early treatment diabetic retinopathy study report number 25. Arch Ophthalmol 1999;117:1600–6.
+Brown JS, Mahmoud TH. Anticoagulation and clinically significant postoperative vitreous hemorrhage in diabetic vitrectomy. Retina 2011;31:1983–7.
+Fonda GE. Optical treatment of residual vision in diabetic retinopathy. Ophthalmology 1994;101:84–8.
+Bernbaum M, Albert SG. Referring patients with diabetes and vision loss for rehabilitation: who is responsible? Diabetes Care 1996;19:175–7.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med 2009;6:e1000097.

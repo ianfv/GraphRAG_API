@@ -1,0 +1,198 @@
+Chapter Headings
+
+Introduction
+Pancreas Transplantation
+Islet Transplantation
+Risks Associated with Pancreas and Islet Transplantation
+Islet Autotransplantation after Pancreatectomy
+Post-Transplant Diabetes Mellitus—Diagnosis and Treatment
+Transplantation in People with Pre-Existing Diabetes
+Other Relevant Guidelines
+Author Disclosures
+Key Messages
+For people with diabetes and end stage renal disease, kidney transplantation improves long-term outcomes compared with dialysis.
+For people with type 1 diabetes and end stage renal disease, simultaneous pancreas-kidney transplantation can improve kidney graft survival and result in prolonged insulin independence.
+For people with type 1 diabetes, pancreas or islet allotransplantation improves glycemic control, prevents severe hypoglycemia even in the absence of complete insulin independence, but with the risks of long-term immunosuppression.
+In people undergoing total pancreatectomy for benign pancreatic disease, islet autotransplantation can prevent or ameliorate labile diabetes.
+Post-transplant diabetes is common after solid organ transplantation and is associated with increased risk for mortality, cardiovascular disease and graft loss.
+Key Messages for People with Diabetes
+Diabetes sometimes damages kidneys so badly that they no longer work. When kidneys fail, one option is a kidney transplant.
+For certain people with type 1 diabetes, pancreas or islet transplants may help stabilize blood glucose levels.
+Your diabetes health-care team can discuss the benefits and risks of these procedures with you.
+Introduction
+
+Restoring endogenous insulin secretion by whole pancreas or islet transplantation has been established as an alternative to insulin injection therapy in select individuals with type 1 diabetes (1,2). Both pancreas and islet transplantation can result in insulin independence and glucose stability, especially in the setting of glucose lability or frequent, severe hypoglycemia. Unfortunately, the absence of prospective randomized controlled trials makes it challenging to draw firm conclusions about the overall efficacy and safety of these therapies compared with exogenous insulin treatment. Also, the limited number of specialized islet and pancreas transplantation centres and the relatively small number of donor pancreases limit the availability of these treatments.
+
+More broadly, diabetes is an important clinical issue in solid organ transplantation. Diabetes is the leading indication for kidney transplants (3) and is a common comorbidity in people listed for other solid organ transplants. New cases of diabetes developing after solid organ transplantation—post-transplant diabetes mellitus (PTDM)—are common and associated with reduced patient and graft survival. There is uncertainty about many aspects of PTDM, including diagnostic criteria, screening, glycemic targets and which glucose-lowering therapies are safest and most effective after transplant (4). Nevertheless, some general recommendations regarding the role of pancreas and islet transplantation, and the diagnosis and management of PTDM, may be made based on a growing body of data and/or current clinical experience.
+
+Table 1
+Reported graft survival rates according to type of pancreas transplantation (6)
+PAK, pancreas after kidney; PTA, pancreas transplant alone; SPK, simultaneous pancreas kidney.
+Transplant type	1 year	5 year	10 year	15 year
+SPK	91.3%	69%	62%	40%
+PAK	86%	45%	36%	11%
+PTA	85.7%	54%	32%	 
+Pancreas Transplantation
+
+Pancreas transplantation can result in complete independence from exogenous insulin in the majority of cases (5). As shown in Table 1, worldwide, non-controlled 1-, 5- and 10-year mean pancreas graft and patient survival rates differ slightly among the 3 major types of transplantations (6). Long-term pancreas graft survival declines with time, with a median graft survival of 9 years and <10% survival at 21 years (7). Chronic graft failure is the most common reason for transplant loss (8). Glycemic control and glycated hemoglobin (A1C) are markedly improved after successful pancreas transplantation, with most recipients achieving normal glucose tolerance, albeit with hyperinsulinemia (9,10). Improvements in the histological changes of diabetic nephropathy have been reported 5 to 10 years post-transplantation (11,12).
+
+Long-term patient and kidney graft survival improves with simultaneous pancreas kidney (SPK) transplant (13–15). Improvement and/or stabilization of diabetic retinopathy has been demonstrated (16). Peripheral sensory and motor neuropathies also appear to improve after pancreas transplantation (17,18), but these findings are inconsistent and may take years to achieve (19–21). Pancreas transplantation appears to improve cardiovascular (CV) function, carotid intimal medial thickness, blood pressure (BP) and lipid parameters (22–24). Nonrandomized trials suggest a reduction in CV mortality (25,26). Finally, diabetes-related quality of life appears to improve after pancreas transplantation (27).
+
+Islet Transplantation
+Islet allotransplantation
+
+Islet allotransplantation involves the infusion of islets isolated from a deceased donor pancreas via the portal vein into the liver (28). Islet transplant alone in people with severe hypoglycemia and impaired awareness of hypoglycemia, despite optimal medical therapy, results in stable, near-normal glycemic control (A1C, glycemic variability) and protection from severe hypoglycemia (29). Similar benefits are seen for islet transplant simultaneously with, or after, kidney transplant compared with intensive insulin therapy (30). Islet transplant usually leads to insulin independence in most recipients, but often requires more than 1 islet infusion (31). Over time, long-term insulin independence rates decline, but recent studies suggest 5-year insulin independence rates up to 60% (32) compared with 10% in early reports (33). Higher proportions maintain long-term graft function, evidenced by sustained secretion of C-peptide, which facilitates improved glycemic control and protection from hypoglycemia despite resuming insulin therapy (29,34,35).
+
+Small, studies suggest stabilization of microvascular complications (36) with islet allotransplantation. Also, successful islet transplantation can improve quality of life (37) and reduces the fear of hypoglycemia (38). Adverse effects of immunosuppressive agents, however, can have a negative impact on quality of life (39).
+
+Risks Associated with Pancreas and Islet Transplantation
+
+Pancreas transplantation represents major abdominal surgery and is associated with significant perioperative risks, including graft thrombosis, hemorrhage, pancreatitis, wound infection, peripancreatic abscesses and duodenal stump leakage (40,41). Islet transplantation is a minimally invasive procedure and is associated with fewer procedural risks, which may include intraperitoneal hemorrhage or branch portal vein thrombosis, but these complications are infrequent at experienced centres (<10% of procedures) and usually self-limited (33,42). Both pancreas and islet transplantation require long-term immunosuppression, which is associated with a number of risks and side effects (43,44). Medication side effects are generally mild and often respond to dose or agent adjustment. Although rare, life-threatening opportunistic infections and malignancies have been reported (42,43). These risks must be carefully weighed against the potential benefits of transplantation for each individual. See Table 2 for a detailed comparison of pancreas vs. islet transplantation.
+
+Table 2
+Comparison of beta-cell replacement modalities
+A1C, glycated hemoglobin; CV, cardiovascular; ESRD, end-stage renal disease; IAK, islet after kidney; PAK, pancreas after kidney; SIK, simultaneous islet and kidney; SPK, simultaneous pancreas-kidney.
+*More than 1 islet infusion may be required. More reliable and durable insulin independence is more likely with pancreas transplant.
+†Retinopathy and neuropathy may be stabilized or improved.
+‡Steroids are avoided in islet transplantation, but may be used in whole pancreas transplantation.
+§No additional risk from immunosuppression.
+ 	Islet	Pancreas
+Outcomes
+Reduce or eliminate hypoglycemia	Yes	Yes
+Improve A1C	Yes	Yes
+Insulin independence	Yes*	Yes*
+Effect on diabetes-related complications
+Microvascular	May be stabilized or improved†	May be stabilized or improved
+CV	Not known	May be improved
+Risks
+Procedural risks	Minor procedural risk	Major surgical risk
+Immunosuppression	Similar agents,‡ life-long immunosuppression	Similar agents,‡ life-long immunosuppression
+Other considerations
+ESRD	Consider SIK or IAK	Consider SPK
+Functioning renal transplant	Consider IAK if glycemic lability or hypoglycemia§	Consider PAK if glycemic lability or hypoglycemia§
+Islet Autotransplantation after Pancreatectomy
+
+Total pancreatectomy, most commonly performed for chronic painful pancreatitis, often results in labile, insulin-requiring diabetes with a high risk of hypoglycemia. Partial pancreatectomy (e.g. distal pancreatectomy for benign tumours) can also result in diabetes, albeit with a lower risk for hypoglycemia. In both total and partial pancreatectomy for benign pancreatic disease, islets can be isolated from the resected pancreas and returned to the person by infusion into the portal vein or the peritoneal cavity (45,46).
+
+Islet autotransplantation does not require immunosuppression and has minimal additional operative risks. Islet autotransplantation after total pancreatectomy can prevent diabetes with no increase in mortality (47) and can result in durable insulin independence (48). Islet autotransplantation after partial pancreatectomy can also prevent diabetes and provides superior metabolic function, which may be particularly important in subjects at high risk for diabetes (49,50). The metabolic benefits of islet autotransplantation depend on the islet yield, which is generally lower than from deceased donors, but more than 50% of people undergoing total pancreatectomy will have meaningful glycemic benefit (51). Few centres in Canada have facilities to perform islet autotransplantation.
+
+Post-Transplant Diabetes Mellitus—Diagnosis and Treatment
+
+Post-transplant diabetes mellitus (PTDM), previously known as new-onset diabetes after transplantation (NODAT), refers to newly diagnosed diabetes mellitus in a clinically stable person after solid organ transplantation (4). Transient hyperglycemia, which will generally have resolved within 3 months post-transplant is common and may require short-term treatment (4). Insulin is effective and may be the preferred agent in the acute setting or with marked hyperglycemia. A sensitive and practical method to screen for hyperglycemia in the initial 6-week post-transplant period in people taking corticosteroids is to measure capillary blood glucose (CBG) levels after lunch (i.e. 4 pm) (52).
+
+PTDM is associated with reduced patient and graft survival and increased risk for CVD, infection and other complications of transplant (53). Risk factors for PTDM include recognized risk factors for type 2 diabetes (e.g. age, central obesity, metabolic syndrome, family history of type 2 diabetes), but also some specifically related to transplantation (hepatitis C, cytomegalovirus [CMV], corticosteroid dose, choice of immunosuppressive medications) (53). Pre-transplant screening can identify people at high risk for developing diabetes (54), but is not performed routinely in most transplant centres (4).
+
+PTDM is diagnosed using standard glycemic thresholds (see Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome chapter, p. S10) when clinically stable (i.e. not in the first 3 months post-transplant) (4). Although the 2-hour oral glucose tolerance test (OGTT) is a more sensitive diagnostic test than A1C, it may be less practical than other methods, but fasting plasma glucose (FPG) is the least sensitive test (55–57). After 3 months post-transplantation, A1C ≥6.5% can be used for diagnosis in stable organ transplant recipients (52,58).
+
+Insulin is a common and effective antihyperglycemic therapy that is often initiated in hospital. While insulin has risks for both hypoglycemia and weight gain, it may be the preferred agent in the acute setting, particularly in the face of high-dose steroids with marked hyperglycemia (see In-Hospital Management of Diabetes chapter, p. S115).
+
+To date, there have been no large trials of antihyperglycemic therapies for the treatment of PTDM. Some small studies have shown efficacy of dipeptidyl peptidase (DPP)-4 inhibitors (59,60) and less weight gain in a small trial vs. insulin glargine (61). However, there is not enough evidence to support specific recommendations regarding choice of antihyperglycemic therapy. Nevertheless, there are a number of issues, which may be considered when selecting glucose lowering therapies, similar to recommendations in the Pharmacologic Glycemic Management of Type 2 Diabetes in Adults chapter, p. S88.
+
+Antihyperglycemic agents that do not promote weight gain would generally be preferred since steroids and weight gain are important risk factors for PTDM. Metformin would seem a sensible first-line agent, assuming adequate renal reserve and hepatic function. Adequate renal reserve would be required for a glucagon-like polypeptide (GLP)-1 receptor agonist or sodium-glucose cotransporter-2 (SGLT2) inhibitor to be considered. However, in immunosuppressed patients, the risks of genitourinary infection with SGLT2 inhibitors should be carefully considered (see Pharmacologic Glycemic Management of Type 2 Diabetes in Adults chapter, p. S88).
+
+Insulin secretagogues have risks of hypoglycemia and weight gain, and have inferior durability (which is often attributed to accelerated progression of beta cell decline) (62). Avoiding use of insulin secretagogues in people at increased risk for hypoglycemia (transplant recipients with impaired hepatic or renal function) or in pancreas transplant recipients with graft dysfunction seems prudent.
+
+Transplantation in People with Pre-Existing Diabetes
+
+People with pre-existing diabetes often experience hyperglycemia following transplantation and may need additional anti-hyperglycemic therapy. Insulin may be required, at least temporarily. No controlled studies have examined treatment strategies for glycemic management after transplantation in people with pre-existing diabetes (4).
+
+Recommendations
+Individuals with type 1 diabetes and ESRD who are being considered for kidney transplantation should also be considered for simultaneous pancreas-kidney transplantation [Grade C, Level 3 (25,41)].
+Individuals with type 1 diabetes with inadequate glycemic control characterized by marked glycemic lability and/or severe hypoglycemia despite best efforts to optimize glycemic control and who have a) preserved renal function or b) who have had a successful kidney transplant may be considered for islet allotransplantation [Grade C, Level 3 (29,30)] or pancreas transplantation [Grade C, Level 3 (26) for pancreas after kidney; Grade D, Level 4 (44) for pancreas transplant alone].
+Individuals undergoing total pancreatectomy for benign pancreatic disease may be considered for islet autotransplantation to prevent the development of diabetes where suitable facilities are accessible [Grade D, Level 4 (47)].
+Individuals undergoing solid organ transplant should be screened for diabetes and CV risk factors prior to transplant [Grade D, Consensus] and should be screened for PTDM after transplant using:
+A1C at 3 months, 12 months and then annually, or with an OGTT if A1C not reliable (see Table 1 in the Monitoring Glycemic Control chapter, p. S47) [Grade C, Level 3 (52,58)]
+A 2-hour OGTT or post-lunch capillary blood glucose in the first 3 months after transplant [Grade C, Level 3 (52)].
+Individuals with PTDM should:
+Be treated to individualized glycemic targets [Grade D, Consensus]
+Receive healthy behaviour interventions similar to those recommended for people with type 2 diabetes [Grade D, Consensus]
+Receive antihyperglycemic agents that do not provoke weight gain, whenever possible, unless contraindicated [Grade D, Consensus]
+Avoid insulin secretagogues if they have renal impairment or poorly functioning pancreas transplant [Grade D, Consensus]
+Receive insulin for metabolic decompensation or symptomatic/severe hyperglycemia [Grade D, Consensus].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; BG; blood glucose; BP, blood pressure; CBG; capillary blood glucose; CV, cardiovascular; ESRD, end stage renal disease; FPG; fasting plasma glucose; NODAT, new onset diabetes after transplantation; OGTT, oral glucose tolerance test; PTDM, post-transplant diabetes mellitus; SPK transplant, simultaneous pancreas kidney transplant.
+
+Other Relevant Guidelines
+Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome, p. S10
+Monitoring Glycemic Control, p. S47
+Pharmacologic Glycemic Management of Type 2 Diabetes in Adults, p. S88
+In-Hospital Management of Diabetes, p. S115
+
+Literature Review Flow Diagram for Chapter 20: Diabetes and Transplantation
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (63).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Senior reports personal fees from Abbott, Boehringer Ingelheim, Eli Lilly, Janssen, Merck, mdBriefCase, and Master Clinician Alliance; grants and personal fees from Novo Nordisk, Sanofi, and AstraZeneca; grants from Prometic and Viacyte, all outside the submitted work; and is the Medical Director of the Clinical Islet Transplant Program at the University of Alberta Hospital, Edmonton, AB. Dr. AlMehthel reports personal fees from Novo Nordisk, outside the submitted work. Dr. Paty reports personal fees from Novo Nordisk, Merck, Boehringer Ingelheim, AstraZeneca, Janssen, Abbott, and Sanofi. No other author has anything to disclose.
+
+References
+White SA, Shaw JA, Sutherland DE. Pancreas transplantation. Lancet 2009;373:1808–17.
+Halban PA, German MS, Kahn SE, et al. Current status of islet cell replacement and regeneration therapy. J Clin Endocrinol Metab 2010;95:1034–43.
+U.S. Renal Data System. USRDS 2013 annual data report: Atlas of chronic kidney disease and end-stage renal disease in the United States. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases, 2013. https://www.usrds.org/atlas13.aspx.
+Sharif A, Hecking M, de Vries AP, et al. Proceedings from an international consensus meeting on posttransplantation diabetes mellitus: Recommendations and future directions. Am J Transplant 2014;14:1992–2000.
+Robertson RP, Abid M, Sutherland DE, et al. Glucose homeostasis and insulin secretion in human recipients of pancreas transplantation. Diabetes 1989;38:97–8.
+Waki K, Terasaki PI, Kadowaki T. Long-term pancreas allograft survival in simultaneous pancreas-kidney transplantation by era: UNOS registry analysis. Diabetes Care 2010;33:1789–91.
+Everly MJ. Pancreas transplantation in the United States: An analysis of the UNOS registry. Clin Transpl 2009;75–81:
+Schulz T, Pries A, Caliebe A, et al. Long-term survival after simultaneous pancreaskidney transplantation with primary function of at least one year–a singlecenter experience. Ann Transplant 2014;19:106–11.
+Robertson RP, Sutherland DE, Kendall DM, et al. Metabolic characterization of long-term successful pancreas transplants in type I diabetes. J Investig Med 1996;44:549–55.
+Lauria MW, Figueiro JM, Machado LJ, et al. Metabolic long-term follow-up of functioning simultaneous pancreas-kidney transplantation versus pancreas transplantation alone: Insights and limitations. Transplantation 2010;89:83–7.
+Fioretto P, Steffes MW, Sutherland DE, et al. Reversal of lesions of diabetic nephropathy after pancreas transplantation. N Engl J Med 1998;339:69–75.
+Fioretto P, Sutherland DE, Najafian B, et al. Remodeling of renal interstitial and tubular lesions in pancreas transplant recipients. Kidney Int 2006;69:907–12.
+Morath C, Zeier M, Dohler B, et al. Metabolic control improves long-term renal allograft and patient survival in type 1 diabetes. J AmSoc Nephrol 2008;19:1557–63.
+Lindahl JP, Hartmann A, Horneland R, et al. Improved patient survival with simultaneous pancreas and kidney transplantation in recipients with diabetic endstage renal disease. Diabetologia 2013;56:1364–71.
+Margreiter C, Resch T, Oberhuber R, et al. Combined pancreas-kidney transplantation for patients with end-stage nephropathy caused by type-2 diabetes mellitus. Transplantation 2013;95:1030–6.
+Giannarelli R, Coppelli A, Sartini MS, et al. Pancreas transplant alone has beneficial effects on retinopathy in type 1 diabetic patients. Diabetologia 2006;49:2977–82.
+Mehra S, Tavakoli M, Kallinikos PA, et al. Corneal confocal microscopy detects early nerve regeneration after pancreas transplantation in patients with type 1 diabetes. Diabetes Care 2007;30:2608–12.
+Kennedy WR, Navarro X, Goetz FC, et al. Effects of pancreatic transplantation on diabetic neuropathy. N Engl J Med 1990;322:1031–7.
+Solders G, Tyden G, Persson A, et al. Improvement of nerve conduction in diabetic neuropathy. A follow-up study 4 yr after combined pancreatic and renal transplantation. Diabetes 1992;41:946–51.
+Tydén G, Bolinder J, Solders G, et al. Improved survival in patients with insulindependent diabetes mellitus and end-stage diabetic nephropathy 10 years after combined pancreas and kidney transplantation. Transplantation 1999;67:645–8.
+Boucek P, Havrdova T, Voska L, et al. Epidermal innervation in type 1 diabetic patients: A 2.5-year prospective study after simultaneous pancreas/kidney transplantation. Diabetes Care 2008;31:1611–12.
+Coppelli A, Giannarelli R, Mariotti R, et al. Pancreas transplant alone determines early improvement of cardiovascular risk factors and cardiac function in type 1 diabetic patients. Transplantation 2003;76:974–6.
+Larsen JL, Colling CW, Ratanasuwan T, et al. Pancreas transplantation improves vascular disease in patients with type 1 diabetes. Diabetes Care 2004;27:1706–11.
+Luan FL, Miles CD, Cibrik DM, et al. Impact of simultaneous pancreas and kidney transplantation on cardiovascular risk factors in patients with type 1 diabetes mellitus. Transplantation 2007;84:541–4.
+Lindahl JP, Jenssen T, Hartmann A. Long-term outcomes after organ transplantation in diabetic end-stage renal disease. Diabetes Res Clin Pract 2014;105:14–21.
+van Dellen D, Worthington J, Mitu-Pretorian OM, et al. Mortality in diabetes: Pancreas transplantation is associated with significant survival benefit. Nephrol Dial Transplant 2013;28:1315–22.
+Martins LS, Outerelo C, Malheiro J, et al. Health-related quality of lifemay improve after transplantation in pancreas-kidney recipients. Clin Transplant 2015;29:242–51.
+Robertson RP. Islet transplantation as a treatment for diabetes—a work in progress. N Engl J Med 2004;350:694–705.
+Hering BJ, Clarke WR, Bridges ND, et al. Phase 3 trial of transplantation of human islets in type 1 diabetes complicated by severe hypoglycemia. Diabetes Care 2016;39:1230–40.
+Gerber PA, Locher R, Zuellig RA, et al. Glycemia, hypoglycemia, and costs of simultaneous islet-kidney or islet after kidney transplantation versus intensive insulin therapy and waiting list for islet transplantation. Transplantation 2015;99:2174–80.
+Al-Adra DP, Gill RS, Imes S, et al. Single-donor islet transplantation and long-term insulin independence in select patients with type 1 diabetes mellitus. Transplantation 2014;98:1007–12.
+Qi M, Kinzer K, Danielson KK, et al. Five-year follow-up of patients with type 1 diabetes transplanted with allogeneic islets: The UIC experience. Acta Diabetol 2014;51:833–43.
+Ryan EA, Paty BW, Senior PA, et al. Five-year follow-up after clinical islet transplantation. Diabetes 2005;54:2060–9.
+Barton FB, Rickels MR, Alejandro R, et al. Improvement in outcomes of clinical islet transplantation: 1999–2010. Diabetes Care 2012;35:1436–45.
+Vantyghem M-C, Raverdy V, Balavoine A-S, et al. Continuous glucose monitoring after islet transplantation in Type 1 diabetes: An excellent graft function (β-Score greater than 7) is required to abrogate hyperglycemia, whereas a minimal function is necessary to suppress severe hypoglycemia (β-Score greater than 3). J Clin Endocrinol Metab 2012;97:E2078–83.
+Thompson DM, Meloche M, Ao Z, et al. Reduced progression of diabetic microvascular complications with islet cell transplantation compared with intensive medical therapy. Transplantation 2011;91:373–8.
+Benhamou PY, Milliat-Guittard L,Wojtusciszyn A, et al. Quality of life after islet transplantation: Data from the GRAGIL 1 and 2 trials. Diabet Med 2009;26:617–21.
+Poggioli R, Faradji RN, Ponte G, et al. Quality of life after islet transplantation. Am J Transplant 2006;6:371–8.
+Speight J, Reaney MD, Woodcock AJ, et al. Patient-reported outcomes following islet cell or pancreas transplantation (alone or after kidney) in type 1 diabetes: A systematic review. Diabet Med 2010;27:812–22.
+Troppmann C. Complications after pancreas transplantation. Curr Opin Organ Transplant 2010;15:112–18.
+Chan CM, Chim TMY, Leung KC, et al. Simultaneous pancreas and kidney transplantation as the standard surgical treatment for diabetes mellitus patients with end-stage renal disease. Hong Kong Med J 2016;22:62–9.
+Alejandro R, Barton FB, Hering BJ, et al. 2008 update from the collaborative islet transplant registry. Transplantation 2008;86:1783–8.
+Gruessner RW, Sutherland DE, Gruessner AC. Mortality assessment for pancreas transplants. Am J Transplant 2004;4:2018–26.
+Moassesfar S, Masharani U, Frassetto LA, et al. A comparative analysis of the safety, efficacy, and cost of islet versus pancreas transplantation in nonuremic patients with type 1 diabetes. Am J Transplant 2016;16:518–26.
+Robertson RP, Lanz KJ, Sutherland DE, et al. Prevention of diabetes for up to 13 years by autoislet transplantation after pancreatectomy for chronic pancreatitis. Diabetes 2001;50:47–50.
+Bellin MD, Sutherland DE. Pediatric islet autotransplantation: Indication, technique, and outcome. Curr Diab Rep 2010;10:326–31.
+Wu Q, Zhang M, Qin Y, et al. Systematic review and meta-analysis of islet autotransplantation after total pancreatectomy in chronic pancreatitis patients. Endocr J 2015;62:227–34.
+Wilson GC, Sutton JM, Abbott DE, et al. LongTerm outcomes after total pancreatectomy and islet cell autotransplantation is it a durable operation? Ann Surg 2014;260:659–67.
+Jin SM, Oh SH, Kim SK, et al. Diabetes-free survival in patients who underwent islet autotransplantation after 50% to 60% distal partial pancreatectomy for benign pancreatic tumors. Transplantation 2013;95:1396–403.
+Yoon JW, Jung HS, Jang JY, et al. Improved insulin secretion by autologous islet transplantation, compared to oral antidiabetic agents, after distal pancreatectomy. Cell Transplant 2015;24:1615–26.
+Bellin MD, Beilman GJ, Dunn TB, et al. Islet autotransplantation to preserve beta cell mass in selected patients with chronic pancreatitis and diabetes mellitus undergoing total pancreatectomy. Pancreas 2013;42:317–21.
+Yates CJ, Fourlanos S, Colman PG, et al. Screening for new-onset diabetes after kidney transplantation: Limitations of fasting glucose and advantages of afternoon glucose and glycated hemoglobin. Transplantation 2013;96:726–31.
+Shivaswamy V, Boerner B, Larsen J. Post-transplant diabetes mellitus: Causes, treatment, and impact on outcomes. Endocr Rev 2016;37:37–61.
+Chakkera HA, Chang YH, Ayub A, et al. Validation of a pretransplant risk score for new-onset diabetes after kidney transplantation. Diabetes Care 2013;36:2881–6.
+Valderhaug TG, Jenssen T, Hartmann A, et al. Fasting plasma glucose and glycosylated hemoglobin in the screening for diabetes mellitus after renal transplantation. Transplantation 2009;88:429–34.
+Sharif A, Moore RH, Baboolal K. The use of oral glucose tolerance tests to risk stratify for new-onset diabetes after transplantation: An underdiagnosed phenomenon. Transplantation 2006;82:1667–72.
+Armstrong KA, Prins JB, Beller EM, et al. Should an oral glucose tolerance test be performed routinely in all renal transplant recipients? Clin J Am Soc Nephrol 2006;1:100–8.
+Shabir S, Jham S, Harper L, et al. Validity of glycated haemoglobin to diagnose new onset diabetes after transplantation. Transpl Int 2013;26:315–21.
+Strom Halden TA, Asberg A, Vik K, et al. Short-term efficacy and safety of sitagliptin treatment in long-term stable renal recipients with new-onset diabetes after transplantation. Nephrol Dial Transplant 2014;29:926–33.
+Haidinger M,Werzowa J, Hecking M, et al. Efficacy and safety of vildagliptin in new-onset diabetes after kidney transplantation–a randomized, double-blind, placebo-controlled trial. Am J Transplant 2014;14:115–23.
+Soliman AR, Fathy A, Khashab S, et al. Sitagliptin might be a favorable antiobesity drug for new onset diabetes after a renal transplant. Exp Clin Transplant 2013;11:494–8.
+Viberti G, Kahn SE, Greene DA, et al. A diabetes outcome progression trial (ADOPT): An international multicenter study of the comparative efficacy of rosiglitazone, glyburide, and metformin in recently diagnosed type 2 diabetes. Diabetes Care 2002;25:1737–43.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

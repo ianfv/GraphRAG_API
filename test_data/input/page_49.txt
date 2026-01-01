@@ -1,0 +1,556 @@
+Chapter Headings
+
+Introduction
+Resources
+Case Studies
+Acknowledgments
+Introduction
+
+While the “Remission of Type 2 Diabetes” chapter within the Diabetes Canada Clinical Practice Guidelines provides a synthesis of the evidence regarding diabetes remission, this accompanying user’s guide is intended to provide practical support to the health-care provider (HCP) to apply this evidence in clinical practice.
+
+Recent studies show that remission of type 2 diabetes may be possible in a subset of individuals using a variety of interventions, including bariatric surgery (1,2), and low-calorie diets with (3,4) or without (5-7) large increases in physical activity. Of note, remission is not synonymous with cure. Rather, the term remission is chosen to reflect the often temporary resolution of hyperglycemia and subsequent possible relapse with progression of type 2 diabetes.
+
+Remission may not be a reality for many people with type 2 diabetes. Of the studies that demonstrated remission:
+Remission resulted pursuant to the person requiring a sustained commitment to engage in a substantial intervention—i.e. either bariatric surgery (1,2) and/or a low-calorie diet (with either strict adherence to liquid-only formula intake for several months [5-7], and/or combined with structured regular physical activity [3,4]).
+In the controlled investigative context (which is often more successful than real-life experience):
+The remission rate for bariatric surgery varied from 30% to 63% (after 1 to 5 years) (2), with 35% to 50% of people who were initially in remission of type 2 diabetes eventually experiencing relapse (8,9) on average at 8.3 years (data quoted post Roux-en-Y gastric bypass surgery) (10).
+One year after using a low-calorie (∼800-850 kcal/day) diet, almost half of people were in remission; and, at 2 years, approximately 1 out of every 3 people remained in remission (6).
+Two years after a lifestyle intervention comprising structured exercise training that aimed for 240 to 420 min/week over 5 days with an energy-restricted diet to promote ∼5% to 7% weight loss, about 1 out of 4 people were in remission of type 2 diabetes (4).
+
+However, because the possibility of remission exists for some people, an ethical dilemma presents when caring for an adult with type 2 diabetes. What discussion would we have with the person who asks us about diabetes remission? Or, perhaps even more complex, with whom should we, as HCPs, start the conversation about diabetes remission? How do we continue to provide compassionate care, without discrimination, racism, oppression and stigma, particularly pertaining to body size, when discussing a management plan for type 2 diabetes, that may or may not include diabetes remission? It was in response to these questions that the resources within this User’s Guide were created.
+
+Figure 1 illustrates remission in the context of the overall management approaches recommended for a person with type 2 diabetes, with the background of decline in beta-cell function over time. This schematic overlays the various stages of diabetes management, including prevention and diagnosis, and highlights the potentially optimal timeframe for the consideration of remission. Prevention of type 2 diabetes is emphasized across the lifespan of an individual (11), particularly for those at increased risk (see Table 1 in the 2018 “Screening For Diabetes in Adults” chapter) (12). However, at the time of type 2 diabetes diagnosis (see Table 3 in the 2018 “Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome” chapter) (13), there may already be substantially reduced pancreatic beta-cell function. Beginning at diagnosis, evidence-informed strategies are applied to reduce the progression of diabetes complications (see the ABCDES3 tool in the Diabetes Canada Quick Reference Guide) (14), including the setting of individualized targets (see Figure 1 in the “Remission of Type 2 Diabetes” chapter) (15). With respect to remission, Figure 1 serves to support conversations with people affected by type 2 diabetes to explain the need for preserved pancreatic beta-cell function and why remission is more likely for those people who have been diagnosed with type 2 diabetes for a shorter time (specifically, if attempting remission with the low-calorie diet approach, study participants had diabetes duration of less than 6 years [6]).
+
+Remission is a journey, not a destination. It may take a person several turns in the road before they are able to arrive at and maintain remission, and some may never get to remission. As such, it is important that the person be supported throughout (and beyond) the remission management approach by a collaborative diabetes care team, which may include a primary care provider (e.g. family doctor or nurse practitioner), dietitian, pharmacist, nurse, physical activity trainer, counsellor and endocrinologist, in addition to nurturing family and social supports.
+
+Figure 1
+Potential goals and approaches for type 2 diabetes.
+
+ 
+
+Resources
+
+The following resources were developed with the intention of supporting conversations about diabetes remission:
+
+The Capability, Opportunity, Motivation, Behaviour (COM-B) Model, Figure 2
+
+Behaviour is the result of capability, opportunity and motivation. HCPs could review the domains with a person with type 2 diabetes to help determine the suitability for remission and/or to identify which domain(s) the person needs reinforcing to support the person in their management plan for remission.
+
+5As Adapted for Remission of Type 2 Diabetes, Figure 3
+A counselling framework for shared decision-making
+This resource is intended to support conversations about remission of type 2 diabetes that are either:
+ASKed and initiated by the person affected by type 2 diabetes, OR
+ASKed and initiated by the HCP; with consideration of the ethical dilemma—“with whom should we be initiating remission conversations?”
+Shared Decision-Making Checklist for Remission of Type 2 Diabetes, Figure 4
+This resource is intended to serve as a checklist for the HCP to support shared decision-making conversations while informing the person considering remission of type 2 diabetes.
+Low-Calorie Diet for Remission of Type 2 Diabetes, Figure 5
+HCPs could use this resource to outline the level of commitment required by a person over a prolonged time period (potentially over their lifetime) to arrive at and maintain remission of type 2 diabetes through the low-calore diet approach. Using this resource to support early conversations may help to manage expectations, enhance self-efficacy, minimize the potential for emotional distress or stigma, as well as reduce the chances of negative outcomes if remission does not result (e.g. feelings of failure, increased stigma).
+Designed to show possible options for liquid foods (followed by a slow re-integration of solid foods) for people interested in pursuing a low-calorie diet approach to remission.
+This resource is adapted from the low-calorie (∼800-850 kcal/day) diet used in the Diabetes Remission Clinical Trial (DiRECT) (6). This trial:
+Enrolled nonpregnant adults with type 2 diabetes with a body mass index (BMI) 27-45 kg/m2 with less than 6 years duration and less than 12% glycated hemoglobin (A1C), who were not on insulin therapy, with an estimated glomerular filtration rate of ≥30 mL/min/1.732 m2.
+Resulted in about half of study participants in remission at 1 year, with just over 1 in 3 participants in remission at the 2-year follow-up.
+Note that DiRECT is a United Kingdom (UK) study allowing a ∼800-850 kcal/day diet. This study’s intervention was adapted for Canadian use due to the Canadian Food Inspection Agency setting a minimum daily caloric intake of at least 900 calories in full meal replacement products (16).
+Frequently Asked Questions (FAQs)
+Case Studies
+
+FAQs
+
+Is remission possible?
+
+Recent studies show that remission of type 2 diabetes may be possible in a subset of individuals using a variety of interventions, including bariatric surgery (1,2), and low-calorie diets with (3,4) or without increased physical activity (5-7) (see FAQ, “Who may be a good candidate for remission of type 2 diabetes?”). Because the studies demonstrate that remission of type 2 diabetes is achieved through interventions that require a substantial, prolonged commitment, relapse is possible. As such, careful assessment must be given to people living with eating and/or mental health disorders, and concurrent medical conditions should be addressed when considering discussions regarding remission of type 2 diabetes. Remission is a journey, not a destination. It may take a person several tries before they are able to arrive at and maintain remission, and some may never get to remission. For these reasons, it is important that the person be supported throughout (and beyond) the remission management approach by a collaborative diabetes care team.
+
+Is remission equal to a cure/reversal?
+
+Remission is not a cure. Rather, it is temporary resolution of hyperglycemia that is frequently temporary, with subsequent possible relapse and progression of type 2 diabetes. Remission can be considered as an approach to the management of type 2 diabetes and/or can be incorporated in a management plan for type 2 diabetes, which would include deprescribing any existing antihyperglycemic therapies and incorporating therapies that can induce remission. Remission, in itself, is not a SMART (Specific, Measurable, Achievable, Realistic and Timely) goal, and HCPs are reminded to support people with inclination and circumstances for remission with the development of SMART goals for remission-inducing interventions through shared decision-making. For example, in preparation for starting phase 1 of the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5), a SMART goal might be: Before my follow-up appointment with my diabetes care team, I will purchase and taste test 3 of the 6 suitable meal replacement shakes available in Canada.
+
+What are the potential benefits of remission?
+
+As no randomized controlled trials have evaluated the association of type 2 diabetes remission on hard outcomes, such as cardiovascular events, kidney failure or mortality, the estimated benefits of type 2 diabetes remission are related more to having target A1C levels in the normal range with or without sustained weight loss with no available evidence on improving health outcomes at present. Consistent within the guidelines, and as demonstrated in Figure 1 in Diabetes Canada's “Remission of Type 2 Diabetes” chapter, studies show that adults with type 2 diabetes who target an A1C ≤6.5% will benefit from a reduced risk of chronic kidney disease and retinopathy. This benefit is expected regardless of the person’s management plan, i.e., whether through remission or through pharmacologically-managed type 2 diabetes. Similarly, through remission, if initial body weight was reduced by 5% to 10%, studies show beneficial effects on health such as improved insulin sensitivity, hypertension and dyslipidemia management (17-19). For more information, please see the FAQs, “What is the difference between being in remission of type 2 diabetes and being pharmacologically-managed with the safe achievement of near-normoglycemia?” and “What is success? If a person has the intention for remission of type 2 diabetes and is unable to stop their antihyperglycemic medications and/or have or maintain A1C targets in the remission range, is this failure?”
+
+Specific to the absence of antihyperglycemic medications, the potential clinical benefits of remission may include reduced cost of medication and no concern about medication side effects/interactions. Further, from a psychosocial perspective, it is postulated that remission may offer people with type 2 diabetes hope, choice and encourage self-efficacy.
+
+Because remission may be a temporary state of uncertain (and wide-ranging) duration, the potential benefits of remission are likely to be highly variable between individuals. The long-term benefits of remission are currently unknown.
+
+What are the potential harms of setting a management plan of remission?
+
+By definition, to be in remission of type 2 diabetes, a person should not be taking any antihyperglycemic pharmacotherapy that is indicated in the management of type 2 diabetes. Theoretically, there is the potential for harm if a person in a high-risk population—i.e. an individual with established atherosclerotic cardiovascular disease (ASCVD), chronic kidney disease (CKD), heart failure (HF) and/or over 60 years old with 2 or more cardiovascular (CV) risk factors—chose to refuse cardiorenal protective medications. Because people at high risk would benefit from organ-protective medications, they should continue these antihyperglycemic medications, even in normoglycemia, see recommendation #1 of the Diabetes Canada “Remission of Type 2 Diabetes” chapter (15).
+
+Remission of type 2 diabetes generally requires a substantial commitment for the individual to engage in a prolonged health behavioural intervention. As such, there is potential negative impact on the person if they are not able to realize and/or sustain the management plan of remission. This risk of relapse—i.e. return of glucose levels above diabetes thresholds, with or without weight regain—presents potentially profound psychosocial harms, including stigma, reduced self-efficacy and depression.
+
+In an attempt to minimize potential harms to a person who has the intention for remission of type 2 diabetes, HCPs are encouraged to be cognizant of language. Please refer to the “Language Matters—A Diabetes Consensus Statement” (20) and consider using the communication and shared decision-making tools provided in this User’s Guide. HCPs supporting people with a management plan of remission of type 2 diabetes are encouraged to develop processes for recall and follow-up appointments to ensure timely review and assessment of care plans.
+
+Who may be a good candidate for remission of type 2 diabetes?
+
+Remission is more likely for individuals with early type 2 diabetes (e.g. current studies using the low-calorie diet approach enrolled people with duration of type 2 diabetes less than 6 years); with overweight or obesity; with inclination and circumstances to engage in weight loss; and who are not using insulin therapy. Careful assessment must be given to people living with eating and/or mental health disorders, and concurrent medical conditions should be addressed when considering remission of type 2 diabetes. Remission, involving the absence of all antihyperglycemic medications, would not be recommended for individuals living with diabetes with concurrent ASCVD, HF and/or CKD or for people over 60 years old with 2 or more CV risk factors because specific antihyperglycemic agent(s) are indicated for renal or CV protection in these scenarios, even in normoglycemia. See recommendation #1 of the Diabetes Canada “Remission of Type 2 Diabetes” chapter (15) and recommendations #9 and #10 of the Diabetes Canada “Pharmacologic Glycemic Management of Type 2 Diabetes in Adults: 2020 Update” (21).
+
+What are the options for a management plan of remission of type 2 diabetes?
+
+There are currently 3 therapeutic approaches which have demonstrated remission of type 2 diabetes: bariatric surgery (1,2), a low-calorie (∼800-850 kcal/day) total dietary/meal replacement diet (6,7) and a structured exercise program combined with a calorie-restricted diet (4,22). Figure 5 is an example of a low-calorie diet approach to remission of type 2 diabetes, whereas an example of a structured exercise program combined with a calorie-restricted diet can be found in the paper by Ried-Larsen et al (22). Of note, HCPs should manage people’s expectations as, within these studies, typically for health behavioural interventions, only half, or less, of participants had an outcome of remission, whereas the remission rates post bariatric surgery appear to be generally more favourable in the published literature.
+
+The best predictors of remission are a shorter duration of type 2 diabetes and sustained weight loss of ≥15 kg of initial body weight. Thus, other health behavioural interventions that result in significant and prolonged weight loss could theoretically induce remission of type 2 diabetes. However, no recommendations are formulated in the Diabetes Canada “Remission of Type 2 Diabetes” chapter based on Mediterranean or low-/very-low-carbohydrate diets, as these studies did not meet the predefined level of evidence.
+
+What is the difference between low-energy, low-calorie and low-carbohydrate diets?
+
+The 2 behavioural intervention trials, DiRECT (6) and the Diabetes Intervention Accentuating Diet and Enhancing Metabolism-I (DIADEM-I) trial (7)—which have the strongest evidence for remission, to date—used low-energy diets involving meal replacement products in their study protocol. As energy is measured in calories, DiRECT and DIADEM-I are, by definition, low-calorie diets.
+
+We ingest energy from macronutrients: carbohydrates, protein and fat. Although the better-quality research focused on meal replacement shakes used in clinical trials, there are growing accounts of people adopting low-carbohydrate meal plans (with or without a reduction in caloric content) as an approach to type 2 diabetes remission. Although, no recommendations regarding low- or very-low carbohydrate diets are formulated in the Diabetes Canada “Remission of Type 2 Diabetes” chapter (due to the studies not meeting the predefined level of evidence), the Diabetes Canada low-carbohydrate position statement did recognize that low-carbohydrate food patterns support weight loss, improve achievement of glycemic targets and/or reduce the need for antihyperglycemic therapies (23).
+
+If the DiRECT trial protocol used a low-calorie diet of ∼800-850 kcal/day, why doesn’t the Diabetes Canada “Remission of Type 2 Diabetes: User’s Guide” use the same protocol?
+
+DiRECT is a UK study with a protocol of a ∼800-850 kcal/day diet in phase 1 (6). This study’s intervention was adapted for Canadian use in the User’s Guide due to the Canadian Food Inspection Agency setting a minimum daily caloric intake of at least 900 calories for full meal replacements (16). Figure 5 outlines this adapted approach.
+
+What is the difference between being in remission of type 2 diabetes and being pharmacologically-managed with the safe achievement of near-normoglycemia?
+
+In both scenarios, the person would have achieved glycemic targets. However, in the case of the person with pharmacologically-managed type 2 diabetes, as opposed to remission, the person would remain on antihyperglycemic pharmacotherapy.
+
+Using the ABCDES3 tool (14) as a guide, the HCP can support a person in a multi-factorial management plan to prevent or delay diabetes complications. If, in both scenarios—the person in remission and the person pharmacologically-managed with the safe achievement of near-normoglycemia—the A1C was ≤6.5%, then studies show, as demonstrated in Figure 1 of the “Remission of Type 2 Diabetes” chapter (15), that individuals would have successfully taken action to reduce their risk of complications, particularly CKD and retinopathy. Similarly, if Blood pressure (BP) and Cholesterol targets are met, then individuals in both scenarios have modified these risk factors and reduced their risk of complications of diabetes. Finally, if individuals in both scenarios remain on indicated Drugs for cardiovascular protection (particularly, the person trying for remission does not discontinue medications indicated for cardiorenal protection), then, again, the evidence demonstrates that individuals have supported themselves in applying multi-factorial management to prevent/delay complications. The ABCDES3 tool (14) can be used to support the person living with (remission of) type 2 diabetes to minimize all modifiable risk factors, thereby reducing and/or delaying diabetes complications.
+
+Perhaps, the “Potential Goals and Approaches for Type 2 Diabetes” (Figure 1) best demonstrates what is known and not known about the differences in these 2 management approaches. Beyond diagnosis of type 2 diabetes, we know that we can prevent and delay complications by applying a multi-factorial management approach—i.e. the ABCDES3 tool (14). However, it is unknown which intervention, if any, will slow the rate of pancreatic beta-cell decline—i.e. Do antihyperglycemic therapies preserve the pancreatic beta cell more than remission or vice versa? This concept is depicted in Figure 1 with a constant downward slope of beta-cell decline.
+
+Once a person has their type 2 diabetes in remission and has stopped all of their antihyperglycemic medications, should we also discontinue the antihypertensives and cholesterol-lowering medications?
+
+The approach to management with antihypertensive and cholesterol-lowering medications remains consistent throughout the management of a person with type 2 diabetes (with or without remission).
+
+First, if BP and cholesterol values are above target, then antihypertensives (24) and cholesterol-lowering medications (25) remain indicated and should be continued and/or advanced to achieve the recommended targets. Note that angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) therapy is recommended as initial management of hypertension for people with CV disease or CKD, including albuminuria, or with CV risk factors in addition to diabetes.
+
+Second, if BP and cholesterol values are at target, then antihypertensives and statin therapy should be continued, if indicated for CV and renal protection (see the Diabetes Canada 2020 Quick Reference Guide: Which cardiovascular non-antihyperglycemic medications are indicated for my patient?) (26). Despite a person’s remission status, both ACE inhibitors (or ARB) and statins are indicated for cardiorenal protection for:
+
+secondary prevention—i.e. in people with a history of established ASCVD
+primary prevention in the following populations:
+concurrent microvascular disease (retinopathy, CKD and neuropathy)
+age ≥55 years old with CV risk factors (TC >5.2 mmol/L, HDL-C <0.9 mmol/L, hypertension, albuminuria, smoking)
+
+With respect to ACE inhibitor or ARB therapy for CV and renal protection in the primary prevention of a person 55 years and older with BP values at target, the HCP may have to use clinical judgment, taking into consideration individualized risk-benefit analysis, personal preferences and medication tolerability.
+
+Additionally, statin therapy is indicated for cardiorenal protection for:
+
+primary prevention in the following populations:
+people 40 years of age or older
+people 30 years of age or older living with diabetes for more than 15 years
+if indicated pursuant to the Canadian Cardiovascular Society Lipid Guidelines
+
+What is success? If a person has the intention for remission of type 2 diabetes and is unable to stop their antihyperglycemic medications and/or have or maintain A1C targets in the remission range, is this failure?
+
+With the intent of providing compassionate care, without discrimination, racism, oppression and stigma, particularly pertaining to body size, HCPs are generally cautioned to avoid any connotation to success and, by extension, failure, when discussing remission of type 2 diabetes. Being cognizant of the impact of language on a person’s health outcomes, HCPs are encouraged to apply the Diabetes Canada “Language Matters—A Diabetes Consensus Statement” in practice (20). When engaging a person in shared decision-making conversations about remission of type 2 diabetes, HCPs can use the resources provided in this User’s Guide, such as the COM-B model, to identify and develop a person’s domains to increase self-efficacy. The “5As” and the “Shared Decision-Making Checklist” were also developed to support safe conversations about remission.
+
+Providing potential harms of remission are mitigated (see FAQ “What are the potential harms of setting a management plan of remission?”), the journey of remission may have many health benefits, even if remission is not actually realized. When a person is able to lower their A1C without increasing the risk of hypoglycemia, achieving an A1C closer to target thresholds, this may reduce the risk of diabetes complications (27,28). Similarly, through the approach of remission, if the person were to experience modest weight loss—i.e. 5% to 10% of initial body weight—that person may benefit from a substantial improvement in insulin sensitivity, hypertension and dyslipidemia management, and achievement of glycemic targets (17-19).
+
+Should HCPs use these new definitions to fill out insurance forms: life, travel, etc.?
+
+Remission of type 2 diabetes is not a cure, nor is it a “diagnosis”. HCPs need to exercise caution when completing insurance forms and when considering the term “type 2 diabetes in remission,” particularly as this may be a temporary state with a high-relapse rate. However, anecdotal experience has observed some individuals who have maintained remission for several decades. It is vital for HCPs to advocate for people affected by diabetes and to use the term “remission” where professional judgment determines it is appropriate. It is also important for individuals with type 2 diabetes in remission to stay connected with their diabetes care team for ongoing support and monitoring for timely evaluation and implementation of a relapse management plan.
+
+Figure 2
+Capability, Opportunity, Motivation, Behaviour (COM-B) Model.
+
+ 
+
+Figure 3
+5As adapted for remission of type 2 diabetes
+
+ 
+
+Figure 4
+Shared decision-making checklist for remission of type 2 diabetes
+
+ 
+
+Figure 5
+Low-calorie diet for remission of type 2 diabetes
+
+ 
+
+Case Studies
+
+The following 3 cases provide examples of people you may encounter in your practice who show either a high, intermediate or low potential for remission. Each case illustrates how to use the tools provided in this guide, and gives examples of how to discuss remission with people with type 2 diabetes, as well as suggested management paths.
+
+CASE #1
+
+Mary is a 50-year-old female. Her case suggests a HIGH potential for remission of type 2 diabetes.
+
+Notes:
+
+Diagnosed with type 2 diabetes 3 years ago
+Past medical history:
+hypertension
+dyslipidemia
+Pertinent negatives:
+no ASCVD, CHF or CKD
+no retinopathy
+no foot-related complications
+Current medications:
+metformin 500 mg PO BID
+perindopril 4 mg PO daily
+rosuvastatin 5 mg PO qhs
+Works as a receptionist, typically with long hours and high stress
+Activity level is currently sedentary
+Investigations:
+A1C 8% (up from 7% 6 months ago)
+uACR normal
+LDL 1.8 mmol/L
+Physical examination:
+BMI: 30 kg/m2
+BP: 120/80 mmHg
+
+Scenario:
+
+Mary arrives at her routine diabetes visit. To date, there has been no previous discussion of remission.
+
+Question #1.
+
+What are the considerations when initiating a discussion about remission of type 2 diabetes with Mary?
+
+You recall the key messages of the Diabetes Canada “Remission of Type 2 Diabetes” chapter (15) which indicate Mary may be a successful candidate for remission of type 2 diabetes, given that she:
+is a nonpregnant adult
+has had type 2 diabetes for a shorter duration
+has excess body weight
+does not have ASCVD, HF or CKD
+is younger than 60 years old and therefore, independent of the presence of CV risk factors, cardiorenal protective medications would not be indicated
+
+Question #2.
+
+Now that you have decided to proceed with the discussion, how would you initiate the conversation?
+
+Using the 5As tool (Figure 3), you begin by “ASKing” permission to discuss the topic. Mary agrees to proceed, as she is interested to understand whether she may be able to reduce or even eliminate her antihyperglycemic medication.
+Mary has several questions about remission and you decide to use the “Shared Decision-Making Checklist for Remission of Type 2 Diabetes” (Figure 4) to support the conversation. Mary understands the probable rates of remission and relapse when you review them with her and confirms that she does not have a history of disordered eating.
+You then proceed to use the COM-B model (Figure 2) during the next step of the 5As tool, “Assess.” Mary identifies she would be highly motivated to follow the recommendations to accomplish her goal because once she “sets her mind to it, she can do anything.” And while she identifies work “stress” as a potential barrier during further reflection, she feels confident that she will be able to manage and even reduce this, if needed, by making some changes at work. Negative screening for anxiety or depression on further evaluation.
+
+Question #3.
+
+What advice would you provide as a management plan?
+
+You review with Mary that there is limited evidence on remission with bariatric surgery in those with a preoperative BMI <35 kg/m2. As such, you proceed to explore the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5), and advise Mary to actually not yet increase her exercise or activity levels dramatically from current levels at this time. You refer her to a dietitian to initiate phase 1. While Mary agrees to see the dietitian for follow-up initially after week 1 and then every 2 weeks after, you plan to see Mary again in 3 months for follow-up and provide her with a requisition to repeat her A1C prior to follow-up.
+You consider deprescribing antihyperglycemic agent(s) as per the recommendation #2 from the “Remission of Type 2 Diabetes” chapter (15), but because Mary is taking metformin monotherapy, which has a low risk for hypoglycemia and weight gain, you suggest to continue this medication dose unchanged.
+
+Scenario: 3 months later
+
+Mary has completed phase 1 of the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5).
+
+Question #1.
+
+What do you do next?
+
+You decide you need more information, and further assess the current situation. You begin by reviewing Mary’s experience during phase 1 and learn that, while there were periods of difficulty, Mary remained highly motivated as she saw her capillary blood glucose (CBG) improve and other physical changes occur. She acknowledged how helpful her dietitian was in helping guide her during this phase.
+
+Notes:
+
+Physical examination:
+Weight loss 10% of initial starting weight
+BP: 100/60 mmHg, with occasional episodes of orthostatic hypotension
+Investigation:
+A1C 6.5%
+
+Question #2.
+
+In a shared-care decision discussion, Mary decides she would like to continue to pursue remission and asks what to do next.
+
+Discontinue metformin
+You suggest she initiate phase 2 of the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5) and continue working with her dietitian.
+At this point, she could also gradually increase her activity from currently sedentary to 150 minutes of aerobic exercise and resistance training 2 times/week (29). Mary identifies that she would also like to find a coach to help her with this as she has previously tried to be active but finds it very difficult to sustain this behaviour on her own. Together, you identify an appropriately trained exercise professional, such as a registered kinesiologist or CSE-qualified clinical exercise physiologist, to help her learn how to initiate, and safely progress, her exercise regime during this phase.
+As Mary is less than 55 years of age without a specific indication for CV or renal benefit from the ACE inhibitor/ARB, Mary’s perindopril is discontinued (30).
+Mary is over 40 years old and may benefit from a statin, even with cholesterol levels at target, for cardiorenal protection. Mary’s statin is continued (30).
+Mary agrees to continue to see the dietitian for follow-up every 2 weeks, and to follow up with you in 3 months. You give Mary a requisition to repeat her A1C prior to the next 3-month appointment.
+
+Scenario: 3 months later
+
+Mary has completed phase 2 and has moved into the maintenance phase of the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5) 1 month ago.
+
+Notes:
+
+Physical examination:
+Weight down 18% of initial starting weight
+BP: 110/60 mm Hg, with resolution of orthostatic hypotension
+Investigation:
+A1C 5.5%
+
+Question.
+
+Is Mary’s type 2 diabetes in remission?
+
+As per the Diabetes Canada definition of remission (15), Mary's diabetes will be considered as being in remission to normal glucose levels if an additional A1C at 6 months after stopping all antihyperglycemic medications is <6%. You discuss the results and how she is feeling overall and psychologically. You also ask whether she feels it will be possible to maintain and sustain her management plan for her type 2 diabetes.
+
+Scenario: 6 months later
+
+Mary returns for a follow-up appointment 6 months after stopping metformin.
+
+Notes:
+
+Physical examination:
+Maintained weight loss of 18% of initial starting weight
+Investigation:
+A1C 5.6%
+
+Question #1.
+
+Mary asks whether she has cured her diabetes?
+
+You remind her that her diabetes is in remission, and that remission is not a cure. She is currently in phase 3 of the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5) and will need to be vigilant about her calorie and protein intake and exercise levels. If weight and/or A1C rises, she may need to consider starting a relapse management phase. See Figure 5 for an example of a relapse management plan. Mary agrees. She understands her current diabetes status, and wants to stay in close contact with her diabetes care team (e.g. dietitian and kinesiologist) at monthly intervals for now. She is okay to continue her rosuvastatin for vascular protection as the current evidence is unclear on the long-term vascular effects of remission. She has found that her activity, especially brisk walking outside, has helped tremendously with her stress management and plans to continue walking even during the winter months.
+
+Question #2.
+
+What is your follow-up plan now?
+
+You provide Mary with an A1C requisition for 3 and 6 months and plan to see her again in 6 months. If her A1C remains <6%, you will continue to repeat her A1C every 6 months thereafter.
+
+CASE #2
+
+Farah is a 55-year-old female. In this case, it is advised to proceed with CAUTION when considering remission of type 2 diabetes.
+
+Notes:
+
+Diagnosed with type 2 diabetes 20 years ago
+Past medical history:
+hypertension
+dyslipidemia
+osteoarthritis
+Pertinent negatives:
+no ASCVD, CHF or CKD
+no foot-related complications
+Current medications:
+metformin 1,000 mg PO BID
+perindopril/indapamide 4/1.25 mg PO daily
+rosuvastatin 10 mg PO qhs
+naproxen 250 mg PO BID PRN
+insulin glargine U-100 40 units SC once daily
+insulin glulisine 18 units SC ac breakfast, lunch and supper
+Works part-time as a librarian and enjoys volunteering weekly at a local hospital
+Activity level:
+moderately intense walking for 30 minutes, 3 times/week
+resistance band full-body strength training 1 to 2 times/week
+Investigations:
+A1C 7.2% (stable for 1 year)
+uACR normal.
+LDL 2.0 mmol/L
+Physical examination:
+BMI: 42 kg/m2
+BP: 120/80 mmHg
+
+Scenario:
+
+Farah arrives at her routine diabetes visit. She is frustrated and tired of injecting insulin 4 times daily. She is asking today if she can stop all of her insulin injections.
+
+Question.
+
+What are the considerations when initiating a discussion about remission of type 2 diabetes with Farah?
+
+You recall “Potential Goals and Approaches for Type 2 Diabetes” (Figure 1) and appreciate that remission is more likely in people with a shorter duration of diabetes when there is preserved beta-cell function. You ask if you may share this figure with her, and express your concerns that she may be beyond the optimal window of time for diabetes remission; however, you also acknowledge her desire to reduce the frequency of her insulin injections.
+You engage Farah in shared decision-making. You discuss the options that have evidence to demonstrate remission of type 2 diabetes, including a behavioural interventional approach of diet and exercise, as well as bariatric/metabolic surgery. You also assess her capability, opportunity, motivation and behaviour using the COM-B model (Figure 2). Farah has tried several different eating patterns over the years and does not wish to engage in a low- or very-low-carbohydrate diet, nor does she feel that the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5) is the best approach for her at this time.
+She is interested in learning more about bariatric or metabolic surgery as she feels this could also help to improve her osteoarthritis, as well as her diabetes.
+After reviewing the “Shared Decision-Making Checklist for Remission of Type 2 Diabetes” (Figure 4) with her, you refer Farah for bariatric surgery.
+As there is a wait list for this procedure, you also discuss the option of starting a GLP1-RA to help support weight loss and right away reduce all insulin doses by 20% to help avoid hypoglycemia (31).
+You ask her to repeat her A1C in 3 months, and return to the clinic at that time for follow-up.
+
+Scenario:
+
+Farah returns 3 months later. She has increased her GLP1-RA as directed and is tolerating it well, but is worried as she is experiencing occasional post-meal mild to moderate hypoglycemia with adrenergic symptoms, which she treats appropriately. She has met with the bariatric team, and has decided to proceed with surgery which has been scheduled 3 months from today. Farah also expresses an interest in increasing her activity levels as her osteoarthritis has improved substantially.
+
+Notes:
+
+A1C 6.5%, LDL 1.8 mmol/L
+Current medications:
+metformin 1,000 mg PO BID
+perindopril/indapamide 4/1.25 mg PO daily
+rosuvastatin 10 mg PO qhs
+naproxen 250 mg PO BID PRN
+insulin glargine U-100 36 units SC once daily
+insulin glulisine 14 units SC ac breakfast, lunch and supper
+semaglutide 1.0 mg SC weekly
+Physical examination:
+Total body weight reduction of 5%
+BP: 126/76 mmHg
+
+Question #1.
+
+What medication adjustments would you consider as next steps?
+
+Discontinue perindopril/indapamide and naproxen
+Start perindopril 8 mg once daily (32). Note that Farah does not need further BP-lowering effects (BP 126/76 mmHg) and, therefore, the diuretic, indapamide, can be discontinued. However, due to Farah’s treated dyslipidemia and hypertension, Farah would benefit from continuing an ACE inhibitor at a dose that has demonstrated vascular protection—i.e. perindopril 8 mg PO daily (33).
+Reduce insulin glulisine to 10 units with meals, with instruction to further decrease if hypoglycemia occurs.
+
+Question #2.
+
+How would you counsel Farah in regards to her exercise? She also asks if there are any “apps” you could recommend that may help her put her type 2 diabetes in remission.
+
+She is currently engaging in 90 minutes of moderately intense aerobic exercise/week plus 1 to 2 sessions of resistance training. You advise her that she could increase her aerobic duration to 150 minutes or more as per the Diabetes Canada clinical practice exercise guidelines (29).
+You remind her that she may need to further reduce her insulin due to exercise to prevent hypoglycemia.
+While technology has been developed to facilitate positive behaviours related to food and physical activity, glucose monitoring and medication taking (34), no digital health solution has as yet been proven to support people in type 2 diabetes remission.
+Together, you agree on a follow-up appointment following her surgery in 4 months.
+
+Scenario:
+
+Farah returns 1 month following successful bariatric surgery. Her bariatric team has discontinued all prandial insulin and her GLP1-RA.
+
+Notes:
+
+Current medications:
+she remains on metformin
+she has reduced her insulin glargine U-100 to 25 units once daily
+Physical examination:
+fasting morning blood glucose range 4-6 mmol/L
+BP 116/70 mmHg
+Investigations:
+A1C 6.2%.
+You discuss the benefits of achieving pharmacologically-managed diabetes with an A1C target of ≤6.5% with a reduction of insulin injections. Farah is thrilled that she has managed to reduce the complexity and frequency of insulin injections. She wishes to continue to pursue the remission of type 2 diabetes approach, while understanding that she may not be able to stop all her antihyperglycemic agents. She will continue to down titrate her basal insulin dose to maintain blood glucose levels in her target range, and avoid hypoglycemia, particularly if body weight decreases.
+Together, you agree to continue to monitor her A1C, BP and lipids routinely.
+
+Question.
+
+Farah asks about her BP and cholesterol medication. She is not experiencing any symptoms of low BP, but is wondering if she needs the perindopril now that her BP is normal.
+
+Farah is 55 years old with pharmacologically-managed type 2 diabetes with an A1C target ≤6.5 %, 1-month post bariatric surgery. You explain to Farah that people who are 55 years or older with at least 1 CV risk factor could benefit from an ACE inhibitor (or ARB) for protection of their heart and kidneys, even when their BP is normal (28). Through shared decision-making, it is agreed that Farah will continue to be on the perindopril as she is tolerating the ACE inhibitor with adequate BP. BP will continue to be monitored. If, in follow-up, Farah experiences symptoms of orthostatic hypotension, the ACE inhibitor may be reduced or even discontinued based on an individualized benefit:risk assessment.
+With respect to the statin, Farah is older than 40 years and the statin is indicated for cardiorenal benefit at this time (30).
+
+CASE #3
+
+Surinder is a 42-year-old male. His case suggests that remission with elimination of antihyperglycemic agents is NOT RECOMMENDED, but pharmacologically-managed type 2 diabetes with an A1C target of ≤6.5%—without needing to add further antihyperglycemic agents—may be considered given his co-morbidities.
+
+Notes:
+
+Diagnosed with type 2 diabetes 10 years ago
+Past medical history:
+recent myocardial infarction (MI) with established ASCVD, chronic heart failure (CHF), hypertension and dyslipidemia
+Pertinent negatives:
+no CKD or retinopathy
+no foot-related complications
+Current medications:
+metformin 1,000 mg PO BID
+empagliflozin 25 mg PO daily
+ASA 81 mg PO daily
+perindopril 4 mg PO daily
+atorvastatin 80 mg PO daily
+Works as a self-employed carpenter. No drug coverage.
+Activity level is moderate, mostly consisting of walking and lifting heavy objects during work hours.
+Investigations:
+A1C 8% (elevated from 7% 6 months ago)
+uACR normal
+LDL 1.8 mmol/L
+Triglycerides normal
+Physical Examination:
+BMI: 30 kg/m2
+BP: 130/80 mmHg
+
+Scenario:
+
+Surinder arrives at his routine diabetes visit. To date, there has been no discussion of remission, but he has read about this in a news article and would like to discuss the topic with you today.
+
+Question #1.
+
+How do you answer Surinder’s question?
+
+Given he has initiated the conversation, you decide to utilize the “Shared Decision-Making Checklist for Remission of Type 2 Diabetes” (Figure 4) to guide the conversation. You discuss that, while remission as per the Diabetes Canada ”Remission of Type 2 Diabetes” chapter (15) is not recommended due to his MI and HF histories, given the proven benefit of sodium-glucose cotransporter-2 (SGLT2) inhibitors for reducing risk of major adverse cardiac events (MACE) and hospitalization of HF (21), there may be the possibility of pharmacologically-managed type 2 diabetes with an A1C target of ≤6.5 or 7% without needing to add further antihyperglycemic agents. You ask if this management approach is of interest. Surinder answers “yes.”
+You proceed to use the 5As tool (Figure 3). Surinder explains his main desire is not to increase and, if feasible, to reduce the cost of medication given he does not have drug coverage, but also to be a healthy father for his young family. His partner is very supportive of his health wishes. He identifies areas of concern, namely he is not sure if he is able to exercise more than he currently does and, while he is currently healthy from a psychological perspective, he has struggled with depression in the past. You note that his A1C has risen in the last 6 months.
+
+Question #2.
+
+How do you proceed in advising Surinder on next steps?
+
+All medications remain unchanged.
+Discussing the intervention options, together you decide that he would like to proceed with a modified version of the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5). This will entail bypassing phase 1 and rather proceeding to phase 2 as Surinder would like to continue to enjoy 1 meal at home with his family in the evenings. You review weight loss targets, as well as challenges that may arise during this phase. Surinder has public health insurance with limited access to a full diabetes care team, and you identify this as a potential challenge. You decide to see him back sooner in 1 month to see how he is doing with the plan.
+
+Scenario:
+
+Surinder returns after 1 month. He has lost some weight and, while he has been able to mostly follow the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5) phase 2 plan, he has had occasional setbacks, especially on the weekends. He still wants to continue, but worries he may not realize his desired outcome.
+
+Question.
+
+How do you proceed?
+
+Using the COM-B model (Figure 2), a shared-care decision-making model to guide the discussion, you help Surinder self-assess to identify the domains that need building to adopt his desired health behaviour. As Surinder experiences his setbacks generally on the weekends, you develop Surinder’s motivation through reinforcement (recognizing what is working well for him); you support opportunity through discussing social influences (planning for weekend social situations); and you grow capability by exploring attention and decision processes (discussing options to mitigate his challenges).
+Surinder feels supported in his management plan and agrees to continue to implement phase 2 for another 2 months. You provide him with an A1C requisition for completion prior to his next follow-up.
+
+Scenario:
+
+Surinder has now completed 3 months of phase 2 of the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5).
+
+Notes:
+
+Physical examination:
+weight loss of 5% total body weight
+BP: 116/74 mmHg
+Investigation:
+A1C 7%
+
+Question.
+
+Surinder is very curious to know—Is his type 2 diabetes in remission?
+
+You remind him as per your initial shared decision-making discussion that remission is not recommended due to his co-morbidities, but rather pharmacologically-managed diabetes with an A1C target of ≤6.5% or 7% (14) without needing to add further antihyperglycemic agents is an appropriate management approach.
+Surinder agrees to transition to the maintenance phase of the “Low-Calorie Diet for Remission of Type 2 Diabetes” (Figure 5). Surinder identifies that he is feeling better and has more energy and, as such, has started riding his bicycle on the weekend for 30 minutes each day at a moderate intensity with his eldest son. They are enjoying this time together immensely.
+
+Scenario:
+
+Surinder returns 3 months later (6 months after initiating the diabetes remission conversation).
+
+Notes:
+
+Physical examination:
+Total weight loss is 8%
+BP normal
+Investigations:
+A1C is now 6.4%
+LDL 1.2 mmol
+triglycerides normal
+Current medications:
+empagliflozin 25 mg PO daily
+metformin 1,000 mg BID
+ASA 81 mg PO daily
+perindopril 4 mg PO daily
+atorvastatin 80 mg PO daily
+
+Question #1.
+
+Surinder asks about his BP and cholesterol medication. He is not experiencing any symptoms of low BP, but is wondering if he needs the perindopril now that his BP is normal.
+
+Due to Surinder’s comorbidities with a history of ASCVD and CHF, the ACE inhibitor is indicated for cardiorenal protection (32). Of note, consideration should be given to increasing Surinder’s perindopril to 8 mg PO daily, the dose that demonstrated vascular protection (33).
+Also to note, Surinder is 42 years old (less than 55 years old). If Surinder did not have established ASCVD, CHF or CV risk factors (TG >5.2 mmol/L, HDL-C <0.9 mmol/L, smoking, hypertension), or microvascular disease, an ACE inhibitor/ARB therapy would be indicated strictly for BP management, and could, therefore, have been considered for discontinuation.
+Surinder is 42 years old (≥40 years old) and has a history of ASCVD. Even though Surinder’s cholesterol is at target, he meets 2 indications (age and ASCVD) to continue on a statin for CV protection.
+
+Question #2.
+
+What’s next for Surinder?
+
+You determine Surinder is extremely happy with his progress. While his overall medication-related expenses have not reduced, he is feeling much better both physically and psychologically and is now able to work full-time hours with improved energy. This has benefited his entire family. He feels optimistic and hopeful that he will be able to prevent further complications from type 2 diabetes.
+While Surinder’s path to pharmacologically-managed diabetes with an A1C target of ≤6.5% cannot be considered remission, Surinder has improved his metabolic CV risk factors.
+You provide him with a renewal of his current medications, as well as a lab requisition to repeat his A1C at 3 months and all other routine blood work in a timely manner.
+Acknowledgments
+
+The authors are particularly grateful for the organizational, communication and editorial skills of Tracy Barnes, who has contributed extensively to the quality of this manuscript. Thank you also to Jill Toffoli for her help editing and preparing the manuscript, in particular, her design work on the tables and figures.
+
+Author Disclosures
+
+S.J. reports consulting and/or speaking honoraria from Abbott, AstraZeneca, Dexcom, Eisai, GlaxoSmithKline, Novo Nordisk, Pfizer and Roche, as well as funded clinical research with Novo Nordisk; H.S.B. reports research funding or trial fees paid to his institutions by Amgen, AstraZeneca, Boehringer Ingelheim, Canadian Institutes of Health Research (CIHR), Ceapro, Eli Lilly, Gilead, Janssen, Kowa Pharmaceuticals Co. Ltd, Madrigal Pharmaceuticals, Merck, Novo Nordisk, Pfizer, Public Health Agency of Canada, Sanofi, and Tricida, outside the submitted work, as well as speaking honoraria from American Diabetes Association, Canadian Hypertension Education Program (CHEP+), Canadian Society of Endocrinology & Metabolism (CSEM), Endocrine Society, International Diabetes Federation, LMC Physicians Inc., Medscape, Optum, Center for Advanced Clinical Solutions, and Windsor Heart Institute; A.-S.B. reports speaker fees from Dexcom Canada and holds research funds from CIHR, JDRF, Société Francophone du Diabète, Diabète Québec, Fonds de recherches du Québec en Santé; D.M. reports research funding to his institution by CIHR, the Kidney Foundation of Canada, Mitacs Inc, NorWest Co-op Community Health, PepsiCo Inc, The Weston Family Foundation, and the Winnipeg Foundation, outside the submitted work; M.V. reports ad boards and consultations with Abbvie, Abbott, Bausch Health, Lifescan, Lyceum, Novo Nordisk, Roche and Sanofi, speaking fees for Abbott, Abbvie, Bausch Health, Lifescan, Lilly, Merck, Novo Nordisk, Pfizer, Roche and Sanofi, and investigator-driven research funding from Novo Nordisk, Bausch Health and Abbott; S.M.R. reports consulting fees from Abbott, Novo Nordisk, Bayer, Eli Lilly, Janssen and the Canadian Collaborative Network and speaker fees from Abbott, Novo Nordisk, Eli Lilly, Janssen, Sanofi, AstraZeneca and McMaster University; B.M. has no conflicts to disclose.
+
+References
+Ribaric G, Buchwald JN, McGlennon TW. Diabetes and weight in comparative studies of bariatric surgery vs conventional medical therapy: a systematic review and meta-analysis. Obes Surg. 2014;24(3):437-455.
+Committee ADAPP. 8. Obesity and Weight Management for the Prevention and Treatment of Type 2 Diabetes: Standards of Medical Care in Diabetes-2022. Diabetes care. 2021;45(Supplement_1):S113-S124.
+Gregg EW, Chen H, Wagenknecht LE, Clark JM, Delahanty LM, Bantle J, et al. Association of an Intensive Lifestyle Intervention With Remission of Type 2 Diabetes. Jama. 2012;3083):2489-2496.
+Ried-Larsen M, Johansen MY, MacDonald CS, Hansen KB, Christensen R, Wedell-Neergaard AS, et al. Type 2 diabetes remission 1 year after an intensive lifestyle intervention: A secondary analysis of a randomized clinical trial. Diabetes Obes Metab. 2019;21(10):2257-2266.
+Lean MEJ, Leslie WS, Barnes AC, Brosnahan N, Thom G, McCombie L, et al. Durability of a primary care-led weight-management intervention for remission of type 2 diabetes: 2-year results of the DiRECT open-label, cluster-randomised trial. Lancet Diabetes Endocrinol. 2019;7(5):344-355.
+Lean ME, Leslie WS, Barnes AC, Brosnahan N, Thom G, McCombie L, et al. Primary care-led weight management for remission of type 2 diabetes (DiRECT): an open-label, cluster-randomised trial. Lancet. 2018; 391:541-512017.
+Taheri S, Zaghloul H, Chagoury O, Elhadad S, Ahmed SH, El Khatib N, et al. Effect of intensive lifestyle intervention on bodyweight and glycaemia in early type 2 diabetes (DIADEM-I): an open-label, parallel-group, randomised controlled trial. Lancet Diabetes Endocrinol. 2020;8(6):477-489.
+Aminian A, Vidal J, Salminen P, Still CD, Nor Hanipah Z, Sharma G, et al. Late Relapse of Diabetes After Bariatric Surgery: Not Rare, but Not a Failure. Diabetes care. 2020;43(3):534-540.
+Kasama K, Mui W, Lee WJ, Lakdawala M, Naitoh T, Seki Y, et al. IFSO-APC consensus statements 2011. Obes Surg. 2012;22(5):677-684.
+Salminen P, Gronroos S, Helmio M, Hurme S, Juuti A, Juusela R, et al. Effect of Laparoscopic Sleeve Gastrectomy vs Roux-en-Y Gastric Bypass on Weight Loss, Comorbidities, and Reflux at 10 Years in Adult Patients With Obesity: The SLEEVEPASS Randomized Clinical Trial. JAMA Surg. 2022.
+Prebtani APH, Bajaj HS, Goldenberg R, et al. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada. Reducing the Risk of Developing Diabetes. Can J Diabetes 2018;42(Suppl 1):20-26.
+Ekoe JM, Goldenberg R, Katz P. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada. Screening for Diabetes in Adults. Can J Diabetes 2018;42(Suppl 1):16-19.
+Punthakee Z, Goldenberg R, Katz P. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada. Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome. Can J Diabetes 2018;42(Suppl 1):10-15.
+Diabetes Canada Updated 2020 Clinical Practice Guidelines Quick Reference Guide: ABCDES Diabetes Care: http://guidelines.diabetes.ca/CDACPG/media/documents/CPG/CPG_Quick_Reference_Guide_PRINT_EN_2021.pdf
+Mackay D, Bajaj HS, et al. Remission of Type 2 Diabetes. Can J Diabetes 2022; XXXX.
+Canadian Food Inspection Agency. Food Labels. Labelling Requirements for Food for Special Dietary Use. Accessed October 3. https://inspection.canada.ca/food-labels/labelling/industry/foods-for-special-dietary-use/eng/1393627685223/1393637610720?chap=5
+Tuomilehto J, Lindstrom J, Eriksson JG, et al. Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired glucose tolerance. N Engl J Med 2001;344:1343-1350.
+KnowlerWC, Barrett-Connor E, Fowler SE, et al. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med 2002;346:393-403.
+The Look Ahead Research Group, Wing RR. Long term effects of a lifestyle intervention on weight and cardiovascular risk factors in individuals with type 2 diabetes: Four year results of the Look AHEAD trial. Arch Intern Med 2010;170:1566-1575.
+Banasiak K, Cleary D, Bajurny V, et al. Language Matters - A Diabetes Canada Consensus Statement. Can J Diabetes 2020;44(5):370-373.
+Lipscombe L, Butalia S, Dasgupta K, et al. Pharmacologic Glycemic Management of Type 2 Diabetes in Adults: 2020 Update. Can J Diabetes, 2020;44(7):575-591.
+Ried-Larsen M, Christensen R, Hansen KB, et al. Head-to-head comparison of intensive lifestyle intervention (U-TURN) versus conventional multifactorial care in patients with type 2 diabetes: protocol and rationale for an assessor-blinded, parallel group and randomised trial. BMJ Open. 2015;5(12):e009764. Published 2015 Dec 9. https://doi.org/10.1136/bmjopen-2015-009764.
+Diabetes Canada. Diabetes Canada Position Statement on Low-Carbohydrate Diets for Adults With Diabetes: A Rapid Review. Can J Diabetes. 2020;44:295-299.
+Tobe S, Gilbert RE, Jones C, et al. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada.Treatment of Hypertension. Can J Diabetes 2018;42(Suppl 1):186-189.
+Mancini GBJ, Hegele RA, Leiter LA. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada. Dyslipidemia. Can J Diabetes 2018;42(Suppl 1):178-185.
+Diabetes Canada Updated 2020 Clinical Practice Guidelines Quick Reference Guide: Which cardiovascular non-antihyperglycemic medications are indicated for my patient? http://guidelines.diabetes.ca/CDACPG/media/documents/CPG/CPG_Quick_Reference_Guide_PRINT_EN_2021.pdf
+Cavero-Redondo I, Peleteiro B, Alvarez-Bueno C, Rodriguez-Artalejo F, Martinez-Vizcaino V. Glycated haemoglobin A1C as a risk factor of cardiovascular outcomes and all-cause mortality in diabetic and non-diabetic populations: A systematic review and meta-analysis. BMJ Open. 2017;7(7):e015949.
+Li F-R, Zhang X-R, Zhong W-F, Li Z-H, Gao X, Kraus VB, et al. Glycated Hemoglobin and All-Cause and Cause-Specific Mortality Among Adults With and Without Diabetes. The Journal of Clinical Endocrinology & Metabolism. 2019;104(8):3345-3354.
+Sigal RJ, Armstrong MJ, Bacon SL, et al. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada. Physical Activity and Diabetes. Can J Diabetes 2018;42(Suppl 1):54-63.
+Stone JA, Houlden RL, Lin P, et al. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada. Cardiovascular Protection in People With Diabetes. Can J Diabetes 2018;42(Suppl 1):162-169.
+Lipscombe L, Booth G, Butalia S, et al. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada. Pharmacologic Glycemic Management of Type 2 Diabetes in Adults. Can J Diabetes 2018;42(Suppl 1):88-103.
+Diabetes Canada: Prescription for Cardiovascular Protection with Diabetes: http://guidelines.diabetes.ca/docs/resources/prescription-for-cardiovascular-protection-with-diabetes.pdf
+Daly CA, Fox KM, Remme WJ, et al. The effect of perindopril on cardiovascular morbidity and mortality in patients with diabetes in the EUROPA study: Results from the PERSUADE substudy. Eur Heart J 2005;26:1369-1378.
+Tjam EY, Sherifali D, Steinacher N, Hett S. Physiological Outcomes of an Internet Disease Management Program vs. In-person Counselling: A Randomized, Controlled Trial: Can J Diabetes. 2006;30(4):397-405.

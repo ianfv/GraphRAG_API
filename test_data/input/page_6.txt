@@ -1,0 +1,364 @@
+Chapter Headings
+
+Introduction
+CCM in Diabetes
+Components of the CCM that Improve Care
+Multicomponent Quality Improvement Initiatives
+Telehealth
+Other Relevant Guidelines
+Relevant Appendix
+Author Disclosures
+Key Messages
+Diabetes care should be:
+Organized around the person living with diabetes and their supports. The person with diabetes should be an active participant in their own care, be involved in shared-care decision making and self-manage to their full abilities.
+Facilitated by a proactive, interprofessional team with training in diabetes and the ability to provide ongoing self-management education and support.
+Organized within the context of the expanded chronic care model and delivered using as many of the components of the model as possible (in particular, self-management education and support; interprofessional team-based care with expansion of professional roles; collaboration with the primary care provider and monitoring with medication adjustment and case management).
+Structured, evidence based and supported by clinical information and decision support systems that include patient registries, clinician and patient reminders, facilitated relay of information, audits, feedback and benchmarking.
+Any of the above strategies may be facilitated with telehealth technologies.
+Key Messages for People Living with Diabetes
+Know the members of your diabetes team and stay connected with them.
+Remember you are the most important member of the team.
+Be prepared to learn how to care for your diabetes on a daily basis. Also, be ready to share in decision making regarding how you will care for your diabetes and health.
+Prepare for visits with your diabetes health-care team:
+Have laboratory tests done prior to the visit so the results will be available to review at the visit.
+Be prepared to set and update your personal goals for caring for your diabetes and health. Be prepared to share any issues that may affect your ability to care for your diabetes on a daily basis, including any fears or anxiety you may have.
+Bring your medication bottles or an up-to-date medication list, including nonprescription drugs and supplements. Also, bring your glucose meter and insulin pen device if you use one.
+Bring or upload your most recent glucose monitoring results as well as other health behaviour records (e.g. food and exercise diary), as well as a health-care diary in which you have recorded important health events (e.g. visits with health-care providers, surgeries, illnesses, vaccinations).
+Share the information you learn during your visits with your diabetes health-care team with all of your health-care providers and diabetes team members.
+If travel distance or time is a barrier to your care, ask your team about telehealth (telephone, web-based or virtual) diabetes support and visits.
+Helpful Hints Box: Organization of Care
+
+Recognize: Consider diabetes risk factors for all of your patients and screen appropriately for diabetes.
+
+Register: Develop a registry for all of your patients with diabetes.
+
+Resource: Support self-management through the use of interprofessional teams which could include the primary care provider, diabetes educator, dietitian, nurse, pharmacist and other specialists.
+
+Relay: Facilitate information sharing between the person with diabetes and the team for coordinated care and timely management changes.
+
+Recall: Develop a system to remind your patients and caregivers of timely review and reassessment.
+
+Introduction
+
+In Canada, there is a care gap between the clinical goals outlined in evidence-based guidelines for diabetes management and actual clinical practice (1,2). Since almost 80% of the medical care of people with diabetes takes place in primary care, there has been a growing recognition that the redesign of this practice setting needs to focus on inclusion of the 6 essential components of the chronic care model (CCM) (3–6). The CCM provides an organizational framework that identifies the essential components of the system, practice and community that encourage high-quality chronic disease care and creates quality-improvement (QI) opportunities to guide practice redesign to meet these evidence-based components. These components facilitate planning and coordination among health-care providers while helping people with diabetes play an informed and active role in managing their own care (7).
+
+QI is an interprofessional, systems-focused, data-driven method of understanding and improving the efficiency, effectiveness and reliability of health processes and outcomes of care (8). Although self-management with the support of the interprofessional diabetes health-care team is integral to diabetes care, evidence suggests that the CCM, which includes components beyond the person with diabetes and health-care provider, provides a useful framework for the optimal care of persons with diabetes (6,7,9–12). This chapter reflects the importance of the CCM design, delivery and organization of diabetes care. To assist the readers in increasing their understanding and application of the CCM framework in their daily practice, the terminology and QI strategies have been re-organized under the 4 main components of the CCM (Table 1).
+
+The chronic care model and organization of diabetes care
+
+In many ways, optimal diabetes care delivery reflects the essential components of the CCM (Figure 1). This model aims to transform the care of people with chronic illnesses from acute and reactive to proactive, planned and population-based. Early studies have shown that the following interventions improved care in the chronically ill: educating and supporting the patient; team-based care; increasing the health-care provider's skills and use of registry-based information systems (9,10,13). The current CCM has expanded on this evidence to include the following 6 components that work together to strengthen the provider-patient relationship and improve health outcomes: 1) delivery system design; 2) self-management support; 3) decision support; 4) clinical information systems; 5) the community; and 6) health systems.
+
+Systematic reviews have found that primary care practices are able to successfully implement the CCM (6,7). Furthermore, incorporating most or all of the CCM components has been associated with improved quality of care and disease outcomes in people with various chronic illnesses, including diabetes (6,7,10,12–16). A systematic review and meta-analysis of QI strategies on the management of diabetes concluded that interventions targeting the system of chronic disease management, along with patient-mediated QI strategies, should be an important component of interventions aimed at improving care. Although some of the improvements were modest, it may be that, when the QI components are used together in a multi-faceted approach, there is a synergistic and additive effect, as noted in the above studies (11,12,17–19).
+
+CCM in Diabetes
+
+Review of the various CCM components and their effectiveness indicate that the more components reflected in the practice, the better the outcomes [see multi-component QI initiatives] (10,12,15,18–21). Organizations that provide diabetes care in accordance with the CCM provide better quality care than organizations that were less likely to use components of this model (22). Furthermore, the degree to which care delivered in a primary care setting conforms to the CCM has been shown to be an important predictor of the 10-year risk of coronary heart disease (CHD) in people with type 2 diabetes (23). Initially, it appeared as if only process outcomes, such as behaviours of patients and caregivers, are improved with the CCM; however, with longer-term use of the model in clinical practice, improvements in other outcomes were noted, such as reductions in glycated hemoglobin (A1C) and low-density lipoprotein cholesterol (LDL-C) levels (12,24). A large, 2-arm, cluster-randomized QI trial, using all 6 dimensions of the CCM, found significant improvements in A1C and LDL-C and an increase in the use of statins and antiplatelet therapy among people with diabetes (5). A meta-analysis of randomized controlled trials assessing the effectiveness of disease management programs for improving glycemic control found significant reductions in A1C with programs that included the fundamental elements of the CCM (25). Other trials found that use of the CCM improved cardiovascular (CV) risk factors in people with diabetes (23,26). One large-scale analysis of a nationwide disease management program, using the CCM and based in primary care, reduced overall mortality as well as drug and hospital costs (27).
+
+A recent systematic review of which type of QI intervention improves outcomes noted that the percentage of studies that have used all 4 components of the CCM has risen from 29% to 57% from those published before 2003 to those published up to 2011. Like other reviews, this review found that the more components used from the CCM, the better the outcomes (12,18,19,28). The Assessment of Chronic Illness Care (ACIC) is a practical assessment as well as a research tool that can help health-care teams strategically involve themselves in a structured way to assess and identify gaps to develop into a more robust CCM (29).
+
+Table 1
+Definition of terms (13,17,21,29,85)
+A1C, glycated hemoglobin; SMBG, self-monitoring of blood glucose.
+Chronic care model (CCM)	The CCM is an organizational approach to caring for people with chronic diseases as well as a quality-improvement strategy, the components of which are evidence based. These components facilitate planning and coordination among providers, while helping people play an informed role in managing their own care. This model has evolved from the Wagner original (1999) to the Expanded Care Model (85).
+Components of CCM	
+Delivery systems designs
+Self-management support
+Decision support
+Clinical information
+The community
+Health systems
+
+Quality-improvement strategies	First contact and ongoing healthcare: family physicians, general practitioners and nurse practitioners
+Components of CCM	Definitions/examples of subcomponent
+Delivery system design
+Making systematic changes to primary care practices and health systems to improve the quality, efficiency and effectiveness of patient care.	Case management
+A structured, multifaceted intervention that supports the practitioner/patient relationship and plan of care; emphasizes prevention of exacerbations and complications utilizing evidence-based practice guidelines and patient empowerment strategies. May include education, coaching, treatment adjustment, monitoring and care coordination, often by a nurse, pharmacist or dietitian.
+Structured care
+Regular clinical follow up using evidence-based guidelines.
+Shared care
+Joint participation of primary care provider [first contact and ongoing health care: family physician, general practitioner or nurse practitioner] and specialty care physician in the planned delivery of care, informed by an enhanced information exchange over and above routine discharge and referral notices. Shared care can also refer to the sharing of responsibility for care between the person with diabetes and provider or team.
+Team changes
+Changes to the structure of a primary health-care team, such as adding a team member or shared care, such as a physician, nurse specialist or pharmacist, using an interprofessional team in primary routine management, expansion of professional role (e.g. nurse or pharmacist has a more active role in monitoring or adjusting medications).
+Team-based care
+Care by a multidisciplinary and interprofessional team with specific training in diabetes.
+Continuous quality improvement
+Techniques for examining and measuring clinical processes, designing interventions, testing their impacts and then assessing the need for further improvement.
+Self-management support
+Self-management support is defined as activities that support the implementation and maintenance of behaviours for ongoing diabetes self-management. Such activities may include education, behaviour modification, psychosocial and/or clinical support, including internal and community resources, such as disease management programs with patient reminders, monitoring and feedback, and peer-led support/interest groups.	Self-management education
+A systematic intervention that involves active participation by the person with diabetes in self-monitoring (physiologic processes) and/or decision making (managing). See Self-Management Education and Support chapter, p. S36).
+Patient education
+General and disease specific.
+Decision support
+Integration of evidence-based guidelines into the flow of clinical practice.	Audit and feedback
+Summary of provider or group performance on clinical or process indicators delivered to clinicians to increase awareness of performance.
+Benchmarking
+Feedback on the performance of a person with diabetes or physician, which is ranked against that of a peer group.
+Clinician education
+May include didactic, academic detailing, online, customized cases with feedback.
+Evidence–based guidelines
+Adherence to guidelines may be facilitated by embedding into electronic medical records with reminders (see below) or with the use of clinical flow sheets.
+Clinical information systems
+The part of an information system that helps organize patient and population data to facilitate efficient and effective care. May provide timely reminders for providers and patients, identify relevant sub-populations for proactive care, facilitate individual patient care planning, share information with patients and providers to coordinate care or monitor performance of practice team and care system.	Clinician reminders
+Paper-based or electronic system to prompt health-care professionals to recall patient-specific information (e.g. A1C) or do a specific task (e.g. foot exam).
+Electronic medical records
+Facilitated relay of information to clinician
+Clinical information collected from patients and sent to clinicians, by means other than the existing medical record (e.g. electronic or web-based methods) through which the patient provides self-care data. In general, most effective when the person receiving the information has prescribing, ordering or medication-adjusting abilities. In general, the person with diabetes should be facilitating the relay but may come from other team members.
+Patient registry
+A list of people sharing a common characteristic, such as diabetes. May be paper-based, but increasingly is electronic, from a simple spreadsheet to one embedded in an electronic health record. Allows for recording and tracking of care.
+Patient reminders
+Any effort to remind people about upcoming appointments or aspects of self-care (e.g. glucose monitoring).
+
+Figure 1
+The expanded chronic care model: integrating population health promotion. Used with permission from reference 85.
+
+Components of the CCM that Improve Care
+Delivery system design
+
+The team. The most important member of the diabetes health-care team is the person living with diabetes. Current evidence continues to support the importance of a multidisciplinary and interprofessional team with specific training in diabetes within the primary care setting (13,17,25). The team should work collaboratively with the primary care provider, or ideally have primary care imbedded in the team. These health-care providers should be supported by a diabetes specialist, with this support being either direct as an interdisciplinary team member, or indirect through shared care or educational support (5,17,30). In adults with type 2 diabetes, this care model has been associated with improvements in A1C, blood pressure (BP), lipids and care processes compared to care that is delivered by a specialist or primary care physician alone (5,30–34). Community-based intermediate care clinics, led by a specialist nurse and supported by a consultant or primary care physician specially trained in diabetes, achieved significant improvements in glycemic control, BP and LDL-cholesterol in people with poorly controlled type 2 diabetes compared to routine primary care. The odds of achieving all 3 targets was 1.5 times greater in the intervention group, but statistically was marginally insignificant (30). A reduction in preventable, diabetes-related emergency room visits also has been noted when the team includes a nurse trained in diabetes care who follows detailed treatment algorithms (32). In Canada, observational data from primary care networks, whose approach is to improve access and coordinate care, suggest that patients who are part of interprofessional teams have better outcomes and fewer hospital visits than patients who are not (35,36).
+
+Team membership beyond physicians may be extensive and should include disciplines that have been shown to improve a variety of clinical outcomes, including nurses (33,37–40), nurse practitioners (41), dietitians (42), pharmacists (43–45) and providers of psychological support (46). Diabetes educators, of any health-care profession, continue to be integral members of the team. A systematic review (33) and meta-analysis (37) found that case management led by specialist nurses or dietitians improved both glycemic control and CV risk factors. Another study found improved BP outcomes with nurse-led interventions vs. usual care, particularly when nurses followed algorithms and were able to prescribe (38). In addition, a large randomized controlled trial found that nurse-led, guideline-based, collaborative-care management was associated with improvements in A1C, lipids, BP and depression in people with depression and type 2 diabetes and/or CHD (39,40). Practices with nurse practitioners were also found to have better diabetes process measures than those with physicians alone or those employing only physician assistants (41). Small-group or individualized nutrition counselling by a registered dietitian with expertise in diabetes management is another important element of team-based care. A variety of individual and community health-care support systems, particularly psychological support, can also improve glycemic control (46).
+
+A meta-analysis involving people with both type 1 and type 2 diabetes showed a significant 0.76% decrease in A1C (47) as well as improved adherence and quality of life (QOL) and reductions in adverse drug reactions and LDL-C with collaborative pharmacist intervention (43). A Canadian randomized trial that added a pharmacist to primary care teams showed a significant reduction in BP for people with type 2 diabetes (44). A systematic review of pharmacist-led disease management found resource use was generally the same as usual care, improved medication use and adherence and attainment of clinical goals such as A1C, BP and LDL-C (45).
+
+Roles within the team and case management.Flexibility in the operation of the team is important. Team changes, such as adding a team member, active participation of professionals from more than 1 discipline and role expansion, have been associated with improved clinical outcomes (13,17,25,48). The greatest body of evidence for improved clinical outcomes in diabetes is with promotion of self-management, team changes and case management (5,13,17,25,34,48–50). A systematic review and meta-analysis of Ql strategies showed that the application of the following QI strategies improved outcomes, such as A1C, BP and cholesterol, as well as process outcomes, medication use and screening for complications: promotion of self-management, team changes, case management, education of the person with diabetes, facilitated relay, electronic patient registries, patient reminders, audits and feed-back, and clinician reminders (17) (Table 1). The effectiveness of different QI strategies may vary based on the baseline A1C with QI targeting clinicians only beneficial when the baseline A1C control is poor (17). In practice, many of these QI strategies occur in concert with one another through the use of interprofessional teams. Another recent systematic review showed that education of the person with diabetes, support and provider role changes, along with telehealth, are the QIs most associated with improvements in glycemic and CV risk factor control (48).
+
+Another meta-analysis that defined case management as using at least 2 of the following 5 components—patient education, coaching, treatment adjustment (where the manager is able to start or modify treatment with or without prior approval from the primary care physician), monitoring, care coordination (where the manager reminds the person with diabetes about upcoming appointments or important aspects of self-care and informs the physician about complications, treatment adjustments or therapeutic recommendations)—found that a high frequency of contact with the person with diabetes and the ability of a case manager to start or modify treatment with or without prior approval from the primary care physician had the greatest impact on A1C lowering. Case management programs also were more effective for people with poor glycemic control (A1C >8%) at baseline (25). Another recent review of systematic reviews and randomized trials using nurse case managers found that the more advanced the skills from training and experience, the better the outcomes compared to primary care nurses with minimal training. Furthermore, the outcomes when these nurse case managers were used was equivalent or better than primary care providers (40). Other disease management strategies that have been associated with positive outcomes are the delegation of prescribing authority and the monitoring of complications using decision support tools (33,34,38).
+
+The primary care provider, who is usually a family physician, has a unique role on the team, particularly with regard to providing continuity of care. They are often the principal medical contact for the person with diabetes and have a comprehensive overview of all health issues and social supports (51). Within primary care, there is some evidence that group medical visits may be effective in improving glycemic control (52,53).
+
+Some people with diabetes require ongoing, specialized care, such as children, emerging adults (age 14 to 29 years) and pregnant women (54–60). There is also evidence that specialized care may be more beneficial in people with type 1 diabetes (61,62). In the CCM, collaborative, shared care is the ideal approach to organizing care for individuals with diabetes. Collaborative care for adults with depression and type 2 diabetes, largely in the form of nurse-led case management, in short-to-medium term, has shown significant improvement in both depression and glycemic outcomes (63). A recent population-based study showed that early endocrinologist care among medically complex people with diabetes was associated with a lower incidence of CV events and all-cause death (64). Studies have supported the shared care model (65) and have shown that specialist input into specialized diabetes teams at the interface of primary and secondary care improves outcomes (5,30,66).
+
+Self-management support
+
+Self-management support (SMS) is an umbrella term used by the CCM model, which includes self-management education, and is the cornerstone of diabetes care in the CCM, enabling the person with diabetes to take a more active role in problem solving and personalized goal setting (17,48) (see Self-Management Education and Support chapter, p. S36).
+
+Decision support
+
+Decision support or a clinical decision support system (CDSS), which provides health-care practitioners with best-practice information at the point of care to help support decision making, has been shown to improve outcomes. Evidence-based guideline interventions, particularly those that used interactive computer technology to provide recommendations and immediate feedback of personally tailored information, were shown to be the most effective in improving outcomes of people with diabetes (67). A randomized trial using electronic medical record (EMR) decision support in primary care found improvement in A1C (68), and a cluster randomized trial of a Ql program found that the provision of a clear treatment protocol—supported by tailored postgraduate education of the primary care physician and case management support by an endocrinologist—substantially improved the overall quality of diabetes care provided, as well as major diabetes-related outcomes (66). Incorporation of evidence-based treatment algorithms has been shown in several studies to be an integral part of diabetes case management (13,33,38,41). The use of simple decision support tools, such as clinical flow sheets, has been associated with improved adherence to clinical practice guidelines (69). Clinical outcomes improve with CDSS when combined with both feedback and case management; for example, insulin adjustment algorithms for people with type 2 diabetes (18,70,71). Audits and feedback lead to improvements in professional practice (72). This is particularly effective when combined with benchmarking (73).
+
+Clinical information systems
+
+Clinical information systems (CIS) that allow for a population-based approach to diabetes assessment and management, such as electronic health (medical) records (EMRs) and electronic patient registries, have been shown to have a positive impact on evidence-based diabetes care (17,29,74–78). Practice-level clinical registries give an overview of an entire practice, which may assist in the delivery and monitoring of patient care. In addition to providing clinical information at the time of a patient encounter, CIS can also help promote timely management and reduce the tendency toward clinical inertia (79). Provincial and national registries are also essential for benchmarking, tracking diabetes trends, determining the effect of QI programs and resource planning. A large study based on observational data support the premise that federal policies in the United States encouraging the meaningful use of EMRs, may improve the quality of diabetes care, with sites using EMRs achieving better outcomes than those that were paper-based (78). Another study showed that, among people with diabetes, the use of an outpatient EMR was associated with a reduction of emergency visits and hospitalizations (80).
+
+Physician and patient reminders, which generally require a CIS, have also shown benefit (17,66). Patient reminders can include interventions that facilitate scheduling, attendance or availability to provider of patient information integral to the visit (e.g. self-monitoring of blood glucose [SMBG]). In a systematic review, interventions of benefit were, for scheduling: phone calls, letters, text and patient portal; for attendance: letter, phone calls, SMS, email reminders, and financial incentives; and for visit information: web-based programs (case management), phone calls, SMS, mail reminders, decision support systems linked to guidelines, and registries integrated with EMR and health records (76). Facilitated relay of information to clinicians, which has been shown to improve care, may include electronic or web-based methods through which people with diabetes provide self-care data for the clinician to review. Generally, it is the person with diabetes who is facilitating the relay. Ideally, this should occur in case management with a team member who has prescribing or ordering authority (17,76).
+
+Community
+
+Environmental factors, such as food and housing security, the ability to lead an active lifestyle, as well as access to care and social supports, also impact diabetes outcomes. Community partnerships should be considered as a means of obtaining better care for people with diabetes. For example, in addition to the diabetes health-care team, peer- or lay leader-led self-management groups have been shown to be beneficial in persons with type 2 diabetes (83,84).
+
+Health systems
+
+Support for diabetes care at the level of the health-care system, such as the national and provincial systems, is essential. A number of provinces have adopted an expanded CCM (85) that includes health promotion and disease prevention (86). Many provinces and health regions also have developed diabetes strategies, diabetes service frameworks and support diabetes collaboratives. Some trials on diabetes-specific collaboratives have been shown to improve clinical outcomes (26,66,87).
+
+Provider incentives represent another area of health system support. Some provinces have added incentive billing codes for the care of people with diabetes so that health-care providers can be financially compensated for the use of evidence-based flow sheets as well as time spent collaborating with the person with diabetes for disease planning (88). Pay-for-performance programs, which encourage the achievement of goals through reimbursement, are more commonly used outside of Canada. To date, these programs have had mixed results (89–91). A recent review of systematic reviews of QI strategies stated that they were unable to find any high-quality systematic reviews on financial incentives and the quality of diabetes care (48). Various payment systems have been studied, but it is still unclear which of these improve diabetes outcomes (92,93). Incentives to physicians to enroll people with diabetes and provide care within a nationwide disease management program appear to improve quality of care (27), as does infrastructure incentive payments that encourage the CCM (16). A meta-analysis that included physician incentives as a QI has shown mixed results for improved outcomes. Capitation payments and the addition of team-based care has shown moderate improvements in processes related to diabetes care (94); however, pay-for-performance programs introduced in the United Kingdom had limited effect on outcomes (17,95).
+
+Multicomponent Quality Improvement Initiatives
+
+Many studies of QI have used multiple strategies (17). Those that intervened on the entire system of chronic disease management produced the greatest effect (e.g. case management, team changes, registries, facilitated relay, continuous QI) and were not dependent on starting A1C. A number of reviews have attempted to determine which QI interventions have the best evidence for improved outcomes (12,18,19). Systematic reviews suggest that multifaceted interventions, using a variety of clinicians in a structured way with organizational support, yield the best results (12,18,19). One review that looked specifically at interventions aimed at primary care providers described multiple component interventions as those ranging from “electronic coaching, staff training, algorithm-driven care, reminders, alerts and audits all in different combinations to the targeting of multidisciplinary teams, including case managers, general practitioners, pharmacists, community health workers and dietitians.” This analysis did not show as much benefit when targeting the health professionals alone. Educational interventions to physicians alone did not yield any positive results but, when delivered as interactive education with simulated participants and feedback, decreased A1C (18). One review showed mixed results for pharmacists, with improvement in A1C seen when the pharmacist intervention was multicomponent, including: counselling, patient education, telephone coaching, management and regular reviews to support SMBG, adherence support and reminders of checks for diabetes complications (18).
+
+A meta-analysis of QIs found to be of benefit in rural areas, showed only 20% of the interventions that included a single strategy had high impact on improvement of self-management, while this increased to 80% with 2 strategies and to 100% of those including 3 strategies or more (p<0.05) (19). The same trend was seen with clinical outcomes with 10% effective if 1 strategy, 20% if 2 and 50% if 3 or more.
+
+Structured care typically includes multiple QI interventions. For example, the Diabetes Care in General Practice (DCGP) study, with 19 years of follow up, was a multicentre, cluster-randomized 6-year trial using a multitude of QI with SMS in the form of goal setting, clinical information with registries and regular follow up, decision support in the use of guidelines, delivery system design with the use of interprofessional teams with feedback and medical education, and showed a decrease in all diabetes-related endpoints, fatal and nonfatal MIs (81). The Diabetes Shared Care Program was a retrospective cohort study of 120,000 people with diabetes randomly assigned to an integrated model of care that used multicomponent QIs vs. usual care and demonstrated a lower risk of CV events, stroke and all-cause mortality in the intervention group (82).
+
+Table 2
+Examples of Telehealth Interventions and Technologies used in Diabetes Care*
+SNS, social networking services.
+*Adapted from reference (97).
+Simple Interventions
+Telemonitoring
+Telediagnosis / consultation
+Complex Interventions
+Telemonitoriing +/- e-learning, telediagnosis, SNS
+Telehealth Technology Used
+Single technology-direct transmission, smart phone, teleconference (phone or video) website-internet, pager, personal digital assistant
+Multiple technologies-direct transmission +/- smart phone, teleconference, website, internet
+Users of Telehealth Technologies
+Persons with diabetes +/- nurses, physicians, nutritionist, other specialists
+Physicians +/- eye care technicians
+Telehealth
+
+Telehealth (also called telemedicine or telecare) is the provision of health care remotely by means of a variety of telecommunication tools, including telephones, smartphones and mobile wireless devices, with or without a video connection (96). Although not a specific component of the CCM, telehealth technologies may help facilitate many of the QI strategies (97). In case management, the frequency of contact has been shown to be important and telehealth may facilitate this (25). This may be particularly beneficial in rural settings with limited access (19,98). A mixed systematic review that looked at quantitative as well as qualitative studies in telehealth showed that telehealth technologies in type 2 diabetes produce a variety of outcomes, including improved health status, such as reduced A1C, increased quality of care (guideline adherence), decreased health service use cost and increased patient satisfaction and knowledge. This review defined the multiple telehealth technologies from simple interventions (e.g. telemonitoring) to more complex (97) (Table 2). No single technology appears to be superior, but tailoring of the technology for the patient and implementation, as well as user interface, appears to improve adoption and outcomes (96,97). Another systematic review of information technology found that telehealth in both type 1 and type 2 diabetes populations is a more effective intervention in reducing A1C compared with other information technology strategies (99). Two other systematic reviews and meta-analysis of randomized controlled trials involving both type 1 and type 2 showed meaningful reduction in A1C (100,101). In general, A1C improvement is most likely to occur when telehealth systems allow for medication adjustment (100). Another review found the effect on A1C to be greater in type 2 and argued that this was because the average age was higher and benefited from increased frequency of remote monitoring (101,102). It made no difference if the intervention had been done by the nurse or physician (103). There was a trend of a decreasing effect in glycemic control over time, suggesting that contact with the person with diabetes may need to intensify to minimize a trend of decreasing intervention impact over time. As with many other QI strategies, improvement in glycemic control when using telehealth was better when the starting A1C was higher (>8.0%) (103,104).
+
+Social networking services (SNS) which allow the user to set up an online profile and interact with a defined list of other users, thereby engaging with an online community, has been shown in a meta-analysis of randomized controlled trials to improve glycemic control (105). SNS has not typically been included in telehealth, but these studies present a novel way of using SNS to include direct access to a health-care professional and real-time feedback. This review found SNS more effective when compared to usual care in improving systolic and diastolic BP, triglycerides (TG) and total cholesterol and, particularly in type 2 diabetes, reducing A1C. This may be because SNS is better suited to target modifiable lifestyle risk factors, which are more associated with type 2 diabetes. Systematic reviews have found that telehealth is 1 of 3 QI strategies with consistent evidence for improvement in glycemia and CV risk factors in people with diabetes (48). In addition to telemonitoring of health data, such as glucose readings or BP and disease management, telehealth technologies may be used for conferencing or education of team members and teleconsultation with specialists. Benefits are noted regardless of whether the teleconsultation is asynchronous or synchronous (106,107).
+
+Recommendations
+Diabetes care should:
+Be organized around the person living with diabetes (and their supports). The person living with diabetes should be an active participant in their own care and shared-care decision making; and self-manage to their full abilities; and
+Be facilitated by a proactive, interprofessional team with specific training in diabetes. The team should be able to provide ongoing self-management education and support, and incorporate as many components of the CCM as possible [Grade A, Level 1A (11,12) for type 2 diabetes; Grade C, Level 3 (27) for type 1 diabetes for both (a) and (b)].
+The following quality-improvement strategies should be used alone or in combination to reduce A1C and improve 1 or more of the following: BP, LDL-C, adherence to recommended diabetes complication screening:
+Promotion of self-management [Grade A, Level 1A (17,48)]
+Team changes [Grade A, Level 1A (17,48)]
+Case management [Grade A, Level 1A (17,25,76)]
+Patient education [Grade A, Level 1A (17,48)]
+Facilitated relay of clinical information [Grade A, Level 1A (17,76)]
+Electronic patient registries [Grade A, Level 1A (17,76)]
+Patient reminders [Grade A, Level 1A (17,76)]
+Audit and feedback/benchmarking [Grade A, Level 1A (17,73)]
+Clinician education [Grade A, Level 1A (17,18)]
+Clinician reminders (with or without decision support) [Grade A, Level 1A (17,70)]
+Clinical decision support systems (processes of care only and clinical outcomes when combined with feedback, case management) [Grade A, Level 1A (70,71)]
+Structured care [Grade A, Level 1A (12,81)]
+Multicomponent QI strategies [Grade A, Level 1A (12,18,19)].
+An interprofessional team with specific training in diabetes and supported by specialist input should be integrated within diabetes care delivery models in the primary care [Grade A, Level 1A (17,25)] and specialist care [Grade D, Consensus] settings.
+The role of the diabetes case manager should be enhanced, in cooperation with the collaborating physician [Grade A, Level 1A (17,25)], to include interventions led by a nurse [Grade A, Level 1A (37,38,40)], pharmacist [Grade B, Level 2 (45,47)] or registered dietitian [Grade B, Level 2 (42)] to improve coordination of care and facilitate timely changes to diabetes management.
+The following individuals should work with an interprofessional team with specialized training in these areas of diabetes as part of a collaborative, shared care approach:
+Children with diabetes [Grade D, Level 4 (54)]
+Adolescents and emerging adults (age 14–29 years) with type 1 diabetes as part of a structured transitional program [Grade C, Level 3 (108)]
+People with type 1 diabetes [Grade C, Level 3 (61)]
+Women with pre-existing diabetes who require preconception counselling and prenatal counselling [Grade C, Level 3 (55–57,59,60) and women with gestational diabetes [Grade D, Consensus].
+Referral to an interprofessional team with specialized training may be considered for:
+Individuals with type 2 diabetes who are consistently not meeting cardiometabolic targets [Grade A, Level 1 (30)]
+Adults with depression and diabetes for collaborative care and, in particular, nurse case management for improvement in depression and glycemic control [Grade A, Level 1A (63)].
+Telehealth technologies may be used to:
+Improve self-management in underserviced communities [Grade B, Level 2 (98)]
+Facilitate consultation with specialized teams as part of a shared-care model [Grade A, Level 1A (106)]
+Improve clinical outcomes in type 2 diabetes, including a decrease in A1C, an increase in quality of care (i.e. guideline adherence), a decrease in health service use and cost, and an increase in patient satisfaction and knowledge [Grade A, Level 1A (97,103,105)]
+
+Improve glycemic and CV risk factor control in type 1 and type 2 diabetes [Grade A, Level 1 (100,101,103)].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; BMI, body mass index; BP, blood pressure; CCM, chronic care model; CV, cardiovascular disease; LDL-C, low-density lipoprotein; QOL, quality of life; SMBG, self-monitoring of blood glucose; SNS, social networking services.
+
+Other Relevant Guidelines
+
+Self-Management Education and Support, p. S36
+
+Diabetes and Mental Health p. S130
+
+Type 1 Diabetes in Children and Adolescents, p. S234
+
+Type 2 Diabetes in Children and Adolescents, p. S247
+
+Diabetes and Pregnancy, p. S255
+
+Type 2 Diabetes and Indigenous Peoples, p. S296
+
+Relevant Appendix
+
+ 
+
+Appendix 3. Sample Diabetes Patient Care Flow Sheet for Adults
+
+Literature Review Flow Diagram for Chapter 6: Organization of Diabetes Care
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (109).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Clement reports personal fees for speaking and CME development from Novo Nordisk; personal fees from Eli Lilly, Sanofi, AstraZeneca, Boehringer Ingelheim, Abbott, and Janssen Pharma, outside the submitted work. Susie Jin reports personal fees and other support from Abbott, Janssen, and Sanofi Canada; personal fees from Ascensia Diabetes Care, Astra, Lilly; and other support from Novo Nordisk Canada Inc., outside the submitted work. Dr. Sherifali has received investigator-initiated funding from AstraZeneca. No other author has anything to disclose.
+
+References
+Harris SB, Ekoe JM, Zdanowicz Y, et al. Glycemic control and morbidity in the Canadian primary care setting (results of the diabetes in Canada evaluation study). Diabetes Res Clin Pract 2005;70:90–7.
+Braga MFB, Casanova A, Teoh H, et al. Treatment gaps in the management of cardiovascular risk factors in patients with type 2 diabetes in Canada. Can J Cardiol 2010;26:297–302.
+Jaakkimainen L, Shah B, Kopp A. Sources of physician care for people with diabetes. Toronto: Institute for Clinical Evaluative Sciences, 2003.https://www.ices.on.ca/Publications/Atlases-and-Reports/2003/Diabetes-in-Ontario.aspx.
+Jaana M, Paré G. Home telemonitoring of patients with diabetes: A systematic assessment of observed effects. J Eval Clin Pract 2007;13:242–53.
+Borgermans L, Goderis G, Van Den Broeke C, et al. Interdisciplinary diabetes care teams operating on the interface between primary and specialty care are associated with improved outcomes of care: Findings from the Leuven Diabetes Project. BMC Health Serv Res 2009;9:179.
+Stellefson M, Dipnarine K, Stopka C. The chronic care model and diabetes management in US primary care settings: A systematic review. Prev Chronic Dis 2013;10:E26.
+Coleman K, Austin BT, Brach C, et al. Evidence on the Chronic Care Model in the new millennium. Health Aff (Millwood) 2009;28:75–85.
+Seid M, Lotstein D, Williams VL, et al. Quality improvement: Implications for public health preparedness. Santa Monica: RAND Corporation, 2006. http://www.rand.org/content/dam/rand/pubs/technical_reports/2006/RAND_TR316.pdf.
+Wagner EH, Austin BT, VonKorff M. Organizing care for patients with chronic illness. Millbank Q 1996;74:511–44.
+Renders CM, Valk GD, Griffin S, et al. Interventions to improve the management of diabetes mellitus in primary care, outpatient and community settings. Cochrane Database Syst Rev 2001;(1):CD001481.
+Baptista DR, Wiens A, Pontarolo R, et al. The chronic care model for type 2 diabetes: A systematic review. Diabetol Metab Syndr 2016;8:7.
+Busetto L, Luijkx KG, Elissen AM, et al. Intervention types and outcomes of integrated care for diabetes mellitus type 2: A systematic review. J Eval Clin Pract 2016;22:299–310.
+Shojania KG, Ranji SR, McDonald KM, et al. Effects of quality improvement strategies for type 2 diabetes on glycemic control: Ameta-regression analysis. JAMA 2006;296:427–40.
+Minkman M, Ahaus K, Huijsman R. Performance improvement based on integrated quality management models: What evidence do we have? A systematic literature review. Int J Qual Health Care 2007;19:90–104.
+Piatt GA, Orchard TJ, Emerson S, et al. Translating the chronic care model into the community: Results from a randomized controlled trial of a multifaceted diabetes care intervention. Diabetes Care 2006;29:811–17.
+Gabbay RA, Bailit MH, Mauger DT, et al. Multipayer patient-centered medical home implementation guided by the chronic care model. Jt Comm J Qual Patient Saf 2011;37:265–73.
+Tricco AC, Ivers NM, Grimshaw JM, et al. Effectiveness of quality improvement strategies on the management of diabetes: A systematic review and metaanalysis. Lancet 2012;379:2252-61.
+Seidu S, Walker NS, Bodicoat DH, et al. A systematic review of interventions targeting primary care or community based professionals on cardio-metabolic risk factor control in people with diabetes. Diabetes Res Clin Pract 2016;113:1-13.
+Ricci-Cabello I, Ruiz-Perez I, Rojas-Garcia A, et al. Improving diabetes care in rural areas: A systematic review and meta-analysis of quality improvement interventions in OECD countries. PLoS ONE 2013;8:e84464.
+Bodenheimer T,Wagner EH, Grumbach K. Improving primary care for patients with chronic illness: The chronic care model, Part 2. JAMA 2002;288:1909-14.
+Busetto L, Luijkx KG, Elissen AM, et al. Context, mechanisms and outcomes of integrated care for diabetes mellitus type 2: A systematic review. BMC Health Serv Res 2016;16:18.
+Fleming B, Silver A, Ocepek-Welikson K, et al. The relationship between organizational systems and clinical quality in diabetes care. Am J Manag Care 2004;10:934-44.
+Parchman ML, Zeber JE, Romero RR, et al. Risk of coronary artery disease in type 2 diabetes and the delivery of care consistent with the chronic care model in primary care settings: A STARNet study. Med Care 2007;45:1129-34.
+Chin MH, Drum ML, Guillen M, et al. Improving and sustaining diabetes care in community health centers with the health disparities collaboratives. Med Care 2007;45:1135-43.
+Pimouguet C, Le GoffM, Thiebaut R, et al. Effectiveness of disease-management programs for improving diabetes care: A meta-analysis. CMAJ 2011;183:e115-27.
+Vargas RB, Mangione CM, Asch S, et al. Can a chronic care model collaborative reduce heart disease risk in patients with diabetes? J Gen Intern Med 2007;22:215-22.
+Stock S, Drabik A, Büscher G, et al. German diabetes management programs improve quality of care and curb costs. Health Aff (Millwood) 2010;29:2197-205.
+Elissen AM, Steuten LM, Lemmens LC, et al. Meta-analysis of the effectiveness of chronic care management for diabetes: Investigating heterogeneity in outcomes. J Eval Clin Pract 2013;19:753–62.
+MacColl Center for Health Care Innovation. Improving chronic illness care. Seattle: Group Health Research Institute, 2006. http://www.improvingchroniccare.org/.
+Wilson A, O’Hare JP, Hardy A, et al. Evaluation of the clinical and cost effectiveness of Intermediate Care Clinics for Diabetes (ICCD): A multicentre cluster randomised controlled trial. PLoS ONE 2014;9:e93964.
+van Bruggen R, Gorter K, Stolk R, et al. Clinical inertia in general practice: Widespread and related to the outcome of diabetes care. Fam Pract 2009;26:428-36.
+Davidson MB, Blanco-Castellanos M, Duran P. Integrating nurse-directed diabetes management into a primary care setting. Am J Manag Care 2010;16:652-6.
+Saxena S, Misra T, Car J, et al. Systematic review of primary healthcare interventions to improve diabetes outcomes in minority ethnic groups. J Ambul Care Manage 2007;30:218–30.
+Willens D, Cripps R, Wilson A, et al. Interdisciplinary team care for diabetic patients by primary care physicians, advanced practice nurses and clinical pharmacists. Clin Diabetes 2011;29:60–8. http://clinical.diabetesjournals.org/ content/diaclin/29/2/60.full.pdf.
+Manns BJ, Tonelli M, Zhang J, et al. Enrolment in primary care networks: Impact on outcomes and processes of care for patients with diabetes. CMAJ 2012;184:E144–52.
+Campbell DJ, Ronksley PE, Hemmelgarn BR, et al. Association of enrolment in primary care networks with diabetes care and outcomes among First Nations and low-income Albertans. Open Med 2012;6:e155–65.
+Welch G, Garb J, Zagarins S, et al. Nurse diabetes case management interventions and blood glucose control: Results of a meta-analysis. Diabetes Res Clin Pract 2010;88:1–6.
+Clark CE, Smith LF, Taylor RS, et al. Nurse-led interventions used to improve control of high blood pressure in people with diabetes: A systematic review and meta-analysis. Diabet Med 2011;28:250–61.
+Katon WJ, Lin EH, Von KorffM, et al. Collaborative care for patients with depression and chronic illnesses. N Engl J Med 2010;363:2611–20.
+Watts SA, Lucatorto M. A review of recent literature—nurse case managers in diabetes care: Equivalent or better outcomes compared to primary care providers. Curr Diab Rep 2014;14:504.
+Ohman-Strickland PA, Orzano AJ, Hudson SV, et al. Quality of diabetes care in family medicine practices: Influence of nurse-practitioners and physician’s assistants. Ann Fam Med 2008;6:14–22.
+Wolf AM, Conaway MR, Crowther JQ, et al. Translating lifestyle intervention to practice in obese patients with type 2 diabetes: Improving Control with Activity and Nutrition (ICAN) study. Diabetes Care 2004;27:1570–6.
+Chisholm-Burns MA, Kim Lee J, Spivey CA, et al. US pharmacists’ effect as team members on patient care: Systematic review and meta-analyses. Med Care 2010;48:923–33.
+Simpson SH, Majumdar SR, Tsuyuki RT, et al. Effect of adding pharmacists to primary care teams on blood pressure control in patients with type 2 diabetes: A randomized controlled trial. Diabetes Care 2010;34:20–6.
+Greer N, Bolduc J, Geurkink E, et al. Pharmacist-led chronic disease management: A systematic review of effectiveness and harms compared with usual care. Ann Intern Med 2016;165:30–40.
+Ismail K, Winkley K, Rabe-Hesketh S. Systematic review and meta-analysis of randomised controlled trials of psychological interventions to improve glycaemic control in patients with type 2 diabetes. Lancet 2004;363:1589–97.
+Collins C, Limone BL, Scholle JM, et al. Effect of pharmacist intervention on glycemic control in diabetes. Diabetes Res Clin Pract 2011;92:145–52.
+Worswick J, Wayne SC, Bennett R, et al. Improving quality of care for persons with diabetes: An overview of systematic reviews—what does the evidence tell us? Syst Rev 2013;2:26.
+van Bruggen JA, Gorter KJ, Stolk RP, et al. Shared and delegated systems are not quick remedies for improving diabetes care: A systematic review. Prim Care Diabetes 2007;1:59-68.
+Cleveringa FG, Gorter KJ, van den Donk M, et al. Combined task delegation, computerized decision support, and feedback improve cardiovascular risk for type 2 diabetic patients: A cluster randomized trial in primary care. Diabetes Care 2008;31:2273-5.
+Cabana MD, Jee SH. Does continuity of care improve patient outcomes? J Fam Pract 2004;53:974-80.
+Housden L,Wong ST, Dawes M. Effectiveness of group medical visits for improving diabetes care: A systematic reviewand meta-analysis. CMAJ 2013;185:E635-44.
+Khan KM, Windt A, Davis JC, et al. Group Medical Visits (GMVs) in primary care: An RCT of group-based versus individual appointments to reduce HbA1c in older people. BMJ Open 2015;5:e007441.
+Glasgow AM,Weissberg-Benchell J, Tynan WD, et al. Readmissions of children with diabetes mellitus to a children’s hospital. Pediatrics 1991;88:98–104.
+Ray JG, O’Brien TE, Chan WS. Preconception care and the risk of congenital anomalies in the offspring of women with diabetes mellitus: A meta-analysis. QJM 2001;94:435-44.
+Kitzmiller JL, Gavin LA, Gin GD, et al. Preconception care of diabetes. Glycemic control prevents congenital anomalies. JAMA 1991;265:731–6.
+McElvy SS, Miodovnik M, Rosenn B, et al. A focused preconceptional and early pregnancy program in women with type 1 diabetes reduces perinatal mortality and malformation rates to general population levels. J Matern Fetal Med 2000;9:14-20.
+Findley MK, Cha E, Wong E, et al. A systematic review of transitional care for emerging adults with diabetes. J Pediatr Nurs 2015;30:e47-62.
+Murphy HR, Roland JM, Skinner TC, et al. Effectiveness of a regional prepregnancy care program in women with type 1 and type 2 diabetes: Benefits beyond glycemic control. Diabetes Care 2010;33:2514-20.
+Wahabi HA, Alzeidan RA, Bawazeer GA, et al. Preconception care for diabetic women for improving maternal and fetal outcomes: A systematic review and meta-analysis. BMC Pregnancy Childbirth 2010;10:63.
+Zgibor JC, Songer TJ, Kelsey SF, et al. Influence of health care providers on the development of diabetes complications: Long-term follow-up from the Pittsburgh Epidemiology of Diabetes Complications Study. Diabetes Care 2002;25:1584-90.
+Tabak AG, Tamas G, Zgibor J, et al. Targets and reality: A comparison of health care indicators in the U.S. (Pittsburgh Epidemiology of Diabetes Complications Study) and Hungary (DiabCare Hungary). Diabetes Care 2000;23:1284-9.
+Atlantis E, Fahey P, Foster J. Collaborative care for comorbid depression and diabetes: A systematic review and meta-analysis. BMJ Open 2014;4:e004706.
+Booth GL, Shah BR, Austin PC, et al. Early specialist care for diabetes: Who benefits most? A propensity score-matched cohort study. Diabet Med 2016;33:111-18.
+Cheung NW, Yue DK, Kotowicz MA, et al. A comparison of diabetes clinics with different emphasis on routine care, complications assessment and shared care. Diabet Med 2008;25:974–8.
+Goderis G, Borgermans L, Grol R, et al. Start improving the quality of care for people with type 2 diabetes through a general practice support program: A cluster randomized trial. Diabetes Res Clin Pract 2010;88:56–64.
+de Belvis AG, Pelone F, Biasco A, et al. Can primary care professionals’ adherence to Evidence Based Medicine tools improve quality of care in type 2 diabetes mellitus? A systematic review. Diabetes Res Clin Pract 2009;85:119-31.
+O’Connor PJ, Sperl-Hillen JM, RushWA, et al. Impact of electronic health record clinical decision support on diabetes care: A randomized trial. Ann Fam Med 2011;9:12-21.
+Hahn KA, Ferrante JM, Crosson JC, et al. Diabetes flow sheet use associated with guideline adherence. Ann Fam Med 2008;6:235–8.
+Ali SM, Giordano R, Lakhani S, et al. A review of randomized controlled trials of medical record powered clinical decision support system to improve quality of diabetes care. Int J Med Inform 2016;87:91–100.
+Cleveringa FG, Gorter KJ, van den Donk M, et al. Computerized decision support systems in primary care for type 2 diabetes patients only improve patients’ outcomes when combined with feedback on performance and case management: A systematic review. Diabetes Technol Ther 2013;15:180–92.
+Jamtvedt G, Young JM, Kristoffersen DT, et al. Audit and feedback: Effects on professional practice and health care outcomes. Cochrane Database Syst Rev 2003;(3):CD000259.
+Hermans MP, Elisaf M, Michel G, et al. Benchmarking is associated with improved quality of care in type 2 diabetes: The OPTIMISE randomized, controlled trial. Diabetes Care 2013;36:3388-95.
+Grant RW, Hamrick HE, Sullivan CM, et al. Impact of population management with direct physician feedback on care of patients with type 2 diabetes. Diabetes Care 2003;26:2275–80.
+Boren SA, Puchbauer AM, Williams F. Computerized prompting and feedback of diabetes care: A review of the literature. J Diabetes Sci Technol 2009;3:944-50.
+Nuti L, Turkcan A, Lawley MA, et al. The impact of interventions on appointment and clinical outcomes for individuals with diabetes: A systematic review. BMC Health Serv Res 2015;15:355.
+Paul CL, Piterman L, Shaw J, et al. Diabetes in rural towns: Effectiveness of continuing education and feedback for healthcare providers in altering diabetes outcomes at a population level: Protocol for a cluster randomised controlled trial. Implement Sci 2013;8:30.
+Cebul RD, Love TE, Jain AK, et al. Electronic health records and quality of diabetes care. N Engl J Med 2011;365:825-33.
+Sperl-Hillen J, Averbeck B, Palattao K, et al. Outpatient EHR-based diabetes clinical decision support that works: Lessons learned from implementing diabetes wizard. Diabetes Spectr 2010;23:150-4. http://spectrum.diabetesjournals.org/content/diaspect/23/3/150.full.pdf.
+Reed M, Huang J, Brand R, et al. Implementation of an outpatient electronic health record and emergency department visits, hospitalizations, and office visits among patients with diabetes. JAMA 2013;310:1060-5.
+Hansen LJ, Siersma V, Beck-Nielsen H, et al. Structured personal care of type 2 diabetes: A 19 year follow-up of the study Diabetes Care in General Practice (DCGP). Diabetologia 2013;56:1243-53.
+Kornelius E, Chiou JY, Yang YS, et al. The diabetes shared care program and risks of cardiovascular events in type 2 diabetes. Am J Med 2015;128:977-85, e3.
+Deakin T, McShane CE, Cade JE, et al. Group based training for self-management strategies in people with type 2 diabetes mellitus. Cochrane Database Syst Rev 2005;(2):CD003417.
+Foster G, Taylor SJ, Eldridge SE, et al. Self-management education programmes by lay leaders for people with chronic conditions. Cochrane Database Syst Rev 2007;(4):CD005108.
+Barr VJ, Robinson S, Marin-Link B, et al. The expanded Chronic Care Model: An integration of concepts and strategies from population health promotion and the Chronic Care Model. Hosp Q 2003;7:73–82.
+Health Council of Canada. Progress report 2011. Health care renewal Canada. Toronto, 2003 First Ministers’ Accord on Health Care Renewal: Health Counsel of Canada, 2011. http://www.healthcouncilcanada.ca/tree/2.45-2011Progress_ENG.pdf.
+Schouten LM, Hulscher ME, van Everdingen JJ, et al. Evidence for the impact of quality improvement collaboratives: Systematic review. BMJ 2008;336:1491-4.
+Association CD. Type of incentive billings by province, 2013. www.diabetes.cafdocuments/for-professionals/Billing-Chart-Final.pdf. Accessed February 24, 2013.
+Chen TT, Chung KP, Lin IC, et al. The unintended consequence of diabetes mellitus pay-for-performance (P4P) program in Taiwan: Are patients with more comorbidities or more severe conditions likely to be excluded from the P4P program? Health Serv Res 2011;46:47-60.
+Mannion R, Davies HT. Payment for performance in health care. BMJ 2008;336:306-8.
+Dalton AR, Alshamsan R, Majeed A, et al. Exclusion of patients from quality measurement of diabetes care in the UK pay-for-performance programme. Diabet Med 2011;28:525–31.
+Tu K, Cauch-Dudek K, Chen Z. Comparison of primary care physician payment models in the management of hypertension. Can Fam Physician 2009;55:719-27.
+Yan C, Kingston-Riechers J, Chuck A. Financial incentives to physician practices. A literature review of evaluations of physician remuneration models. Edmonton: Institute of Health Economics (IHE), 2009. http://www.ihe.ca/publications/financial-incentives-to-physician-practices-a-literature-review-of-evaluations-of-physician-remuneration-models.
+Kiran T, Kopp A, Moineddin R, et al. Longitudinal evaluation of physician payment reform and team-based care for chronic disease management and prevention. CMAJ 2015;187:E494–502.
+Langdown C, Peckham S. The use of financial incentives to help improve health outcomes: Is the quality and outcomes framework fit for purpose? A systematic review. J Public Health (Oxf) 2014;36:251-8.
+Dorsey ER, Topol EJ. State of telehealth. N Engl J Med 2016;375:154–61.
+Mignerat M, Lapointe L, Vedel I. Using telecare for diabetic patients: A mixed systematic review. Health Policy Technol 2014;3:90–112. http://www.sciencedirect.com/science/article/pii/S2211883714000148.
+Davis RM, Hitch AD, Salaam MM, et al. TeleHealth improves diabetes selfmanagement in an underserved community: Diabetes TeleCare. Diabetes Care 2010;33:1712-17.
+Riazi H, Larijani B, Langarizadeh M, et al. Managing diabetes mellitus using information technology: A systematic review. J Diabetes Metab Disord 2015;14:49.
+Faruque LI, Wiebe N, Ehteshami-Afshar A, et al. Effect of telemedicine on glycated hemoglobin in diabetes: A systematic review and meta-analysis of randomized trials. CMAJ 2016;189:E341–64.
+Su D, Zhou J, Kelley MS, et al. Does telemedicine improve treatment outcomes for diabetes? A meta-analysis of results from 55 randomized controlled trials. Diabetes Res Clin Pract 2016;116:136–48.
+Duke DC, Barry S, Wagner DV, et al. Distal technologies and type 1 diabetes management. Lancet Diabetes Endocrinol 2017 (in press).
+Marcolino MS, Maia JX, Alkmim MB, et al. Telemedicine application in the care of diabetes patients: Systematic review and meta-analysis. PLoS ONE 2013;8:e79246.
+Tildesley HD, Po MD, Ross SA. Internet blood glucose monitoring systems provide lasting glycemic benefit in type 1 and 2 diabetes: A systematic review. Med Clin North Am 2015;99:17–33.
+Toma T, Athanasiou T, Harling L, et al. Online social networking services in the management of patients with diabetes mellitus: Systematic review and metaanalysis of randomised controlled trials. Diabetes Res Clin Pract 2014;106:200-11.
+Verhoeven F, Tanja-Dijkstra K, Nijland N, et al. Asynchronous and synchronous teleconsultation for diabetes care: A systematic literature review. J Diabetes Sci Technol 2010;4:666-84.
+Arambepola C, Ricci-Cabello I, Manikavasagam P, et al. The impact of automated brief messages promoting lifestyle changes delivered via mobile devices to people with type 2 diabetes: A systematic literature review and metaanalysis of controlled trials. J Med Internet Res 2016;18:e86.
+Schultz AT, Smaldone A. Components of interventions that improve transitions to adult care for adolescents with type 1 diabetes. J Adolesc Health 2017;60:133-46.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

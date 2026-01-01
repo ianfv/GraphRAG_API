@@ -1,0 +1,325 @@
+Chapter Headings
+
+Introduction
+Diabetic Nephropathy
+Other Kidney Diseases in People with Diabetes
+Screening for Kidney Disease in People with Diabetes
+Screening for Albuminuria
+Estimation of Glomerular Filtration Rate
+Other Clinical Features and Urinary Abnormalities—When to Consider Additional Testing or Referral
+Screening for CKD
+Prevention, Treatment and Follow Up
+Treating Kidney Disease Safely
+Antihyperglycemic Medication Selection and Dosing in CKD
+Referral to a Specialized Renal Clinic
+Other Relevant Guidelines
+Relevant Appendices
+Related Websites
+Author Disclosures
+Key Messages
+Identification of chronic kidney disease in people with diabetes requires screening for proteinuria, as well as an assessment of serum creatinine converted into an estimated glomerular function rate (eGFR).
+All individuals with chronic kidney disease should be considered at high risk for cardiovascular events and should be treated to reduce these risks.
+The development and progression of renal damage in diabetes can be reduced and slowed through intensive glycemic control and optimization of blood pressure. Progression of chronic kidney disease in diabetes can also be slowed through the use of medications that disrupt the renin angiotensin aldosterone system.
+Key Messages for People with Diabetes
+The earlier that the signs and symptoms of chronic kidney disease in diabetes are detected, the better, as it will reduce the chance of progression to advanced kidney disease and the need for dialysis or transplant.
+You should have your blood and urine tested annually for early signs of chronic kidney disease in diabetes.
+If you are found to have signs of chronic kidney disease, your health-care provider may recommend lifestyle or medication changes to help delay more damage to your kidneys.
+Practical Tips
+
+Management of Potassium and Creatinine During the Use of Angiotensin Converting Enzyme (ACE) inhibitor or Angiotensin II Receptor Blocker (ARB) or Direct Renin Inhibitor (DRI) Therapy
+
+Check serum potassium and creatinine at baseline and within 1 to 2 weeks of initiation or titration of therapy AND during times of acute illness.
+If potassium becomes elevated or creatinine increases by more than 30% from baseline, therapy should be reviewed and serum creatinine and potassium levels should be rechecked.
+Mild-to-moderate stable hyperkalemia:
+Counsel on a low-potassium diet.
+If persistent, non-potassium-sparing diuretics and/or oral sodium bicarbonate (in those with a metabolic acidosis) should be considered.
+Consider temporarily reducing or holding RAAS blockade (i.e. ACE inhibitor, ARB or DRI).
+Severe hyperkalemia:
+In addition to emergency management strategies, RAAS blockade should be held or discontinued.
+Introduction
+
+Diseases of the kidney are a common finding in people with diabetes, with up to one-half demonstrating signs of renal damage in their lifetime (1–3). Diabetes is the leading cause of kidney disease in Canada (4). Kidney disease can be a devastating complication, as it is associated with significant reductions in both length and quality of life (5,6). A variety of forms of chronic kidney disease (CKD) in diabetes can be seen, including diabetic nephropathy, ischemic nephropathy related to vascular disease, hypertensive nephrosclerosis, as well as other renal diseases that are unrelated to diabetes (7,8) (Figure 1). This chapter discusses how to screen for and diagnose CKD in people with diabetes, how to slow its progression, and the impact of CKD on other aspects of diabetes management.
+
+Figure 1
+Causes of CKD in people with and without diabetes.
+
+CKD, chronic kidney disease.
+
+Figure 2
+Level of urinary albumin by various test methods and stage of CKD in diabetes.
+
+ACR, albumin to creatinine ratio; CKD, chronic kidney disease.
+
+Diabetic Nephropathy
+
+The classical description of diabetic nephropathy is a slow and progressive increase in albuminuria, followed later in the disease by a decrease in estimated glomerular filtration rate (eGFR) below 60 mL/min/1.73 m2, which can, eventually, lead to end stage renal disease (ESRD) (1,9,10) (Figure 2). Key risk factors include long duration of diabetes; non-optimal glycemic, blood pressure and plasma lipid control; obesity (11); and cigarette smoking(12). Many of these risk factors are modifiable.
+
+The earliest stage of diabetic nephropathy is hyperfiltration, where the glomerular filtration rate (GFR) is significantly higher than normal. Identification of hyperfiltration is not clinically useful, as it is difficult to determine from routine testing and is not present in all people with early diabetic nephropathy. Persistent albuminuria is considered the earliest clinical sign of diabetic nephropathy. Initially, small amounts of albumin are leaked, below the detection threshold of a urine dipstick. This stage is referred to as “microalbuminuria”. Over time, albuminuria can worsen so that the urinary albumin excretion is sufficiently high to be detectable by a urine dipstick, a stage known as “overt nephropathy” (Table 1). The rate of progression from normoalbuminuria to microalbuminuria, then to overt kidney disease, is usually slow, typically taking five years or longer to progress through each stage (13,14). During the early stages of diabetic nephropathy, the rate of loss of renal function is relatively slow (a decrease in eGFR of 1 to 2 mL/min/1.73 m2/year), and not impressively higher than what is seen in the general population (0.5 to 1.0 mL/min/1.73 m2/year) (15). However, late in the overt kidney disease phase, the rate of decline of renal function can accelerate (5 to 10 mL/min/1.73 m2/year). Thus, significant renal dysfunction is not usually seen until late in the course of diabetic nephropathy (16).
+
+It is important to note that the rate of progression can vary between individuals, and that the clinical markers of the disease (i.e. eGFR, urinary albumin levels) do not always correlate well with the severity of renal disease seen on biopsy (17). Additionally, intensive glycemic control, optimization of blood pressure (BP), and the use of renal protective drugs, can slow or stop progression of diabetic nephropathy.
+
+Other Kidney Diseases in People with Diabetes
+
+Diabetic nephropathy is a major cause of CKD in diabetes; however, people with diabetes can also get CKD from other causes, including hypertensive nephrosclerosis or ischemic nephropathy from atherosclerotic changes to small or large renal arteries. In addition, there can be significant overlap (Figure 1). Ischemic nephropathy is characterized by a reduced GFR, usually with minimal or no increase in albuminuria. Kidney biopsy series in people with type 2 diabetes have found that non-diabetic glomerular disease, particularly ischemic kidney disease, is as common as CKD in diabetes in people with diabetes (7). Clinical studies have suggested that one-quarter to one-half of people with diabetes and significant kidney function impairment do not have albuminuria (18–20). These studies suggest that testing for albuminuria may be insufficient in identifying all people with diabetes who have renal disease. In addition to measurements of urinary albumin excretion, estimations of the level of kidney function and urinalyses are required to identify people with kidney disease other than diabetic nephropathy.
+
+In most cases, the risk of ESRD in diabetes does not appear to matter whether the renal diagnosis is one of diabetic nephropathy or an alternative diagnosis, and the management is the same (21). However, Table 2 lists some concerning clinical and laboratory features that would lead to suspicion of a kidney disease unrelated to diabetes and require additional testing or referral, and possible renal biopsy (22–25).
+
+Screening for Chronic Kidney Disease in People with Diabetes
+
+Screening for CKD in people with diabetes involves an assessment of urinary albumin excretion and a measurement of the overall level of kidney function through an eGFR. Persistent abnormalities (lasting >3 months) of either urinary albumin excretion or eGFR, or significant urinalysis abnormalities lead to the diagnosis of CKD in people with diabetes. People with type 1 diabetes are not expected to have kidney disease at the time of onset of diabetes, so screening can be delayed until the duration of diabetes exceeds 5 years. Significant renal disease can be present at the time of diagnosis of type 2 diabetes (26,27), so screening should be initiated immediately at the time of diagnosis in this group.
+
+Table 1
+Stages of diabetic nephropathy by level of urinary albumin level
+
+ACR, albumin to creatinine ratio; CKD, chronic kidney disease.
+
+Table 2
+Clinical and laboratory factors favouring the diagnosis of classical diabetic kidney disease or an alternative renal diagnosis
+
+eGFR, estimated glomerular filtration rate.
+
+Table 3
+Conditions that can cause transient albuminuria. The presence of such conditions should lead to a delay in screening for CKD
+
+Screening for Albuminuria
+
+When screening for albuminuria, the test of choice is the random urine albumin to creatinine ratio (urine ACR). The 24-hour urine collection for protein/albumin remains the gold standard; however, it is cumbersome to implement on a large scale, inconvenient for people, and is often performed incorrectly (28–32). The random urine for albumin is insufficient, as the urinary albumin concentration can vary due to urine concentration (29). A random urine ACR predicts 24-hour urinary albumin excretion sufficiently well, and is the test of choice for screening for albuminuria (28,30–32). There is substantial day-to-day variability in albuminuria. In addition, transient and benign increases in albuminuria can be provoked by a number of factors (33–37) (Table 3). When such conditions are present, screening for kidney disease should be delayed to avoid positive results that are not caused by renal damage. Furthermore, diagnosing a person as having albuminuria requires the elevated urinary albumin level to be persistent. At least 2 out of 3 urine samples exhibiting elevations in urinary albumin levels over 3 months are required before it is considered to be abnormal (Figure 3).
+
+Figure 3
+A flowchart for screening for CKD in people with diabetes.
+
+ACR, albumin to creatinine ratio; CKD, chronic kidney disease. eGFR, estimated glomerular filtration rate.
+
+Estimation of Glomerular Filtration Rate
+
+The serum creatinine is the most common measurement of kidney function, however, it can inaccurately reflect renal function in many scenarios, particularly in extremes of patient age or size (38,39). Indeed, in people with diabetes, the GFR usually will be less than half of normal before the serum creatinine exceeds the lab normal range (40). As mentioned, measuring renal function using the 24-hour urine collection is cumbersome and can be difficult to perform accurately, so methods have been developed to estimate the glomerular filtration by combining the patient's serum creatinine with factors, such as age, weight and gender. The eGFR (estimated glomerular filtration rate) can be calculated using either the four-variable Modification of Diet in Renal Disease (MDRD) equation or the newer Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) formula (41,42). These equations require knowledge of the person's age, sex, serum creatinine and race and is automatically computed and reported by many labs whenever a serum creatinine is ordered. Both equations perform well when the GFR is <60 ml/min/1.73 m2 (43), but as the CKD-EPI is more accurate at higher levels of renal function (42), most medical laboratories across Canada now use this formula. The eGFR is generally a better estimate of glomerular filtration than the serum creatinine value alone, but is less accurate at extremes of age and size. A 24-hour urine for creatinine clearance can be used in individuals where there are concerns regarding the accuracy of the eGFR. Kidney diseases of all forms can be staged based on the degree of impairment of eGFR (Table 4).
+
+The eGFR is useful for assessing chronic changes in renal function but should not be used in situations where kidney function is changing rapidly. A rapid drop in renal function is referred to as an acute kidney injury (AKI). An AKI can occur in association with almost any acute systemic illness but, in particular, with conditions leading to hypotension or intravascular volume contraction. When such conditions are present, assessment of the level of kidney function may be clinically necessary, but should not be used to assess the stage of CKD. Because renal function can be transiently depressed, a persistent reduction in eGFR is required before it is considered to indicate the presence of CKD.
+
+Table 4
+Stages of CKD of all types
+
+Other Clinical Features and Urinary Abnormalities—When to Consider Additional Testing or Referral
+
+Urinalysis findings of red or white blood cell casts or heme granular casts suggest a renal diagnosis other than diabetic kidney disease. Although persistent microscopic hematuria can occur in people with diabetic nephropathy, its presence should lead to the consideration of other urologic or nephrologic conditions. Table 2 lists other clinical clues that may point to a renal diagnosis other than kidney disease due to diabetes. Such individuals should undergo an appropriate assessment for the cause of their disease. Table 2 also lists some conditions whose presence would prompt a referral to a renal specialist.
+
+Although 24-hour collections are not needed for routine screening in diabetes, they can be useful when there is doubt about the accuracy of an eGFR, when screening for non-albumin urinary proteins (e.g. multiple myeloma) or when estimating daily sodium intake in an individual with refractory edema or hypertension. Individuals should be counseled to discard the first morning urine on the day of collection, and then collect all subsequent urine for a 24-hour period, including the first morning urine of the next day.
+
+Screening for CKD
+
+People with diabetes should undergo annual screening for the presence of diabetes-related kidney disease when they are clinically stable and not suspected to have non-diabetic kidney disease or an AKI. Screening should be delayed in the presence of conditions that can cause transient albuminuria or a transient fall in eGFR. Screening for CKD in people with diabetes should be performed with a random urine ACR and a serum creatinine that is then converted into an eGFR. This can be delayed five years from the onset of type 1 diabetes, but should begin immediately at the time of diagnosis of type 2 diabetes. An abnormal screening test should be confirmed by repeat testing of the eGFR in three months, and up to two more random urine ACRs ordered during that interval. If either the eGFR remains low or at least two of the three random urine ACRs are abnormal, then a diagnosis of CKD is confirmed. The exception to this approach is when the random urine ACR indicates albuminuria in the overt kidney disease range (≥20.0 mg/mmol/L), as this level of proteinuria rarely resolves spontaneously, and repeat testing is usually unnecessary.
+
+Once a diagnosis of CKD has been made, a urine sample for dipstick and microscopy for casts or hematuria should be performed. In addition, serum electrolytes should be ordered along with any other testing that is indicated. In the absence of any significant abnormalities other than proteinuria or an isolated low eGFR, a presumptive diagnosis of kidney disease due to diabetes is made. The presence of clinical or laboratory abnormalities suggesting non-diabetic kidney disease indicates the need for appropriate work-up or referral (see Recommendation 9 for more details).
+
+Prevention, Treatment and Follow Up
+Glycemic control
+
+Optimal glycemic control established as soon after diagnosis as possible will reduce the risk of development of diabetic kidney disease (44–48). The progression of renal damage in diabetes can be slowed through intensive glycemic control (44,49). The optimal target glycated hemoglobin (A1C) remains controversial. The major studies supporting renal protection achieved an A1C of about 7% in the intensively managed groups (Diabetes Control and Complications Trial [DCCT], Kumamoto, United Kingdom Prospective Diabetes Study [UKPDS], and Veterans Affairs Diabetes Trial [VADT]) (48,50–52). The Action in Diabetes and Vascular disease: PreterAx and Diamicron MR Controlled Evaluation [ADVANCE] study demonstrated a reduction of progression of nephropathy with a target A1C <6.5% (53), as did the Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial with a target A1C of <6.0% (54,55). However, none of these studies demonstrated a reduction in cardiovascular (CV) events or mortality with intensive glycemic control and, indeed, ACCORD was stopped early due to an increase in CV events in the intensive group. This indicates that the optimal A1C may differ for microvascular vs. CV events. Hypoglycemia is more common as progressively lower A1C levels are targeted (56), and people with CKD are at an increased risk of hypoglycemia (57,58). For most adults with diabetes, a target A1C of <7.0% is recommended for renal protection. For some people with early or no kidney disease and a low risk of hypoglycemia, a lower A1C can be considered for renal protection, with consideration of the risks vs. benefits (see Targets for Glycemic Control chapter, p. S42). It should be noted that these studies examined people with early renal disease and diabetes. Evidence supporting intensive glycemic control is lacking in people with advanced renal dysfunction. The A1C can be falsely low in people with advanced renal functional impairment, in particular those receiving intravenous iron or an erythropoiesis stimulating agent (59,60) (see Monitoring Glycemic Control chapter, p. S47).
+
+Blood pressure control
+
+Optimal BP control also appears to be important in the prevention and progression of CKD in diabetes, although the results have been less consistent (47,51,61–63). The UKPDS study suggested that a target BP of <150/85 mmHg was associated with a reduction in microvascular events, including renal outcomes (51). The Systolic Hypertension in Europe (Syst-Eur) trial also found that a target systolic BP of <150 mmHg was associated with fewer people developing proteinuria among those with diabetes, and in the overall study group was associated with fewer people developing a creatinine >177 mmol/L (64). The Appropriate Blood Pressure Control in Diabetes (ABCD) normotensive study found that achieving a systolic BP of <130 mmHg was associated with fewer people developing microalbuminuria and, among those starting with microalbuminuria, a reduced risk of progressing to macroalbuminuria (65). The Lewis study in type 1 diabetes found that a target mean arterial pressure of 92 mmHg (125/75) was associated with a reduction in proteinuria (66). The ACCORD BP study also found less progression of proteinuria when targeting a systolic BP <120 mmHg (67). However, none of these studies demonstrated a meaningful impact on loss of renal function or ESRD and, indeed, ACCORD suggested that there were more acute kidney injury events in the intensive control group. We recommend that, for most people with diabetes, a target BP <130/80 mmHg is sufficient for renal protection (see Treatment of Hypertension chapter, p. S186).
+
+Blockade of the renin angiotensin aldosterone system
+
+Blockade of the renin angiotensin aldosterone system (RAAS) with either an angiotensin converting enzyme (ACE) inhibitor or an angiotensin receptor blocker (ARB) can reduce the risk of developing CKD in diabetes independent of their effect on BP. This protective effect has been demonstrated in people with diabetes and hypertension (68,69), but not in normotensive people with diabetes (70–72). Additionally, progression of CKD in diabetes can be slowed through the use of an ACE inhibitor or ARB (72), independent of their effect on BP, and these two medication classes appear to be equally effective for cardiorenal protection (73,74). In type 1 diabetes, ACE inhibitors have been shown to decrease albuminuria and prevent worsening of nephropathy (75), and ARBs have been shown to reduce albuminuria (76). In type 2 diabetes, ACE inhibitors and ARBs have been shown to decrease albuminuria and prevent worsening of kidney disease, and ARBs have been shown to delay the time to dialysis in those with renal dysfunction at baseline (69,77–80). These renal-protective effects also appear to be present in proteinuric individuals with diabetes and normal or near-normal BP. ACE inhibitors have been shown to reduce progression of diabetic kidney disease in albuminuric normotensive individuals with both type 1 (81–84) and type 2 diabetes (85,86).
+
+In CKD from causes other than diabetic kidney disease, ACE inhibition has been shown to reduce albuminuria, slow progression of renal disease, and delay the need for dialysis (87,88). The effectiveness of ACE inhibitors and ARB on loss of renal function appear to be similar in non-diabetic CKD (89,90).
+
+A variety of strategies to more aggressively block the RAAS have been studied in kidney disease, including combining RAAS blockers or using very high doses of a single RAAS blocker. These strategies reduce albuminuria, but have not been proven to improve patient outcomes in diabetic nephropathy (91–96), and come at a risk of increased acute renal failure, typically when a patient develops intravascular volume contraction (97,98) and hyperkalemia. The lack of meaningful impact on loss of renal function through dual RAAS blockade was demonstrated in three randomized controlled trials, including the Ongoing Telmisartan Alone and in Combination with Ramipril Global Endpoint Trial (ONTARGET) which examined a low renal risk population (97); and the Aliskiren Trial in Type 2 Diabetes Using Cardio-Renal Endpoints (ALTITUDE) study (98) and Veterans Affairs Nephropathy in Diabetes (VA NEPHRON-D) study (99) which examined people with CKD in diabetes and high renal risk. As a result of these studies, combination of agents that block the RAAS (ACE inhibitor, ARB, direct renin inhibitor [DRI]) should not be used in the management of diabetes and CKD. The impact of adding a mineralocorticoid receptor antagonist to background standard of care including an ACE inhibitor or ARB is being evaluated in the Efficacy and Safety of Finerenone in Subjects With Type 2 Diabetes Mellitus and Diabetic Kidney Disease (FIDELIO-DKD) (ClinicalTrials.gov Identifier NCT02540993) and Efficacy and Safety of Finerenone in Subjects With Type 2 Diabetes Mellitus and the Clinical Diagnosis of Diabetic Kidney Disease (FIGARO-DKD) (ClinicalTrials.gov Identifier NCT02545049) trials and with further evaluate the role of dual RAAS inhibition.
+
+Other interventions
+
+All people with CKD are at risk for CV events, and should be treated to reduce these risks (100–103) (see Cardiovascular Protection in People with Diabetes chapter, p. S162). The degree of risk of CV events or progression to ESRD increases as albuminuria levels rise, and as eGFR falls, with the combination of albuminuria and low eGFR predicting a very high level of risk (104,105).
+
+Three recent CV trials of antihyperglycemic agents in participants with type 2 diabetes with high CV risk have shown renal benefits. The Empagliflozin Cardiovascular Outcome Event (EMPA-REG OUTCOME) Trial examined an SGLT2 inhibitor in people with CVD and generally well preserved eGFR (one-third had eGFR 30–60 mL/min/1.73 m2, and one-third had albuminuria) and found a 39% reduction in worsening kidney disease (secondary endpoint: macroalbuminuria, doubling of creatinine, dialysis or renal death) and a slower rate of eGFR decline vs. placebo (106). The Canagliflozin Cardiovascular Assessment Study (CANVAS) Program trial examined an SGLT2 inhibitor in high CV risk type 2 diabetes. The average eGFR was 76.5 mL/min/1.73 m2 and the median ACR was 1.4 mg/mmol. Again, there was a 40% reduction in worsening kidney disease (secondary endpoint: 40% reduction in GFR, renal replacement therapy or renal death) (107). The Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results (LEADER) trial examined a GLP-1 receptor agonist in people with CV disease, CKD or CV risk factors (one-quarter had eGFR 30 to 60 mL/min/1.73 m2) and showed a 22% reduction in worsening kidney disease (in particular, reducing the new onset of persistent macroalbuminuria) vs. placebo, but this result was explained by reduction in the new onset of persistent macroalbuminuria rather than effect on doubling of the serum creatinine level, ESRD incidence, or death due to renal disease (108,109). In contrast to the GLP-1 receptor agonist trial in which hard renal outcomes were not improved, results from the two independent SGLT2 inhibitor trials showed significant hard renal outcome benefit. Of note, the presence of CKD (stage 3 or lower) should not preclude the use of either of these beneficial therapies, although the glucose-lowering efficacy of SGLT2 inhibitors is attenuated (as the A1C reduction is proportional to the level of GFR).
+
+Treating Kidney Disease Safely
+The “sick-day” medication list
+
+Several classes of medications used commonly in people with diabetes can reduce kidney function during periods of intercurrent illness, and should be discontinued when a person is unwell, in particular, when they develop significant intravascular volume contraction due to reduced oral intake or excessive losses due to vomiting or diarrhea. Diuretics can exacerbate intravascular volume contraction during periods of intercurrent illness. Blockers of the RAAS interfere with the kidney's response to intravascular volume contraction, namely the ability of angiotensin II to contract the efferent arteriole to support glomerular filtration during these periods. Non-steroidal anti-inflammatories (NSAIDs) cause constriction of the afferent arterioles, which can further reduce blood flow into the glomerulus, especially in people who are volume contracted. For these reasons, all of these drugs can reduce kidney function during times of intercurrent illness. Consideration should be given to providing people with a “sick-day” medication list, instructing the patient to hold these medications if they feel that they are becoming dehydrated for any reason. A number of additional medications need to be dose-adjusted in people with renal dysfunction, and their usage and dosage should be re-evaluated during periods where kidney function changes (see Appendix 8. Sick-Day Medication List).
+
+The safe use of RAAS blockers [ACEIs, ARBs, Aldosterone Antagonists (AAs) and Direct Renin Inhibitors (DRIs)]
+
+Drugs that block the RAAS reduce intraglomerular pressure which, in turn, leads to a rise in serum creatinine of up to 30% which then stabilizes (110). Although these drugs can be used safely in people with ischemic nephropathy, these people may have an even larger rise in serum creatinine when these drugs are used (111–113). In the case of severe renal artery stenosis that is bilateral (or unilateral in a person with a single functioning kidney), RAAS blockade can precipitate renal failure. In addition, RAAS blockade can lead to hyperkalemia. People with diabetes and CKD are at a particularly high risk for this complication (114,115). This risk is highest with aldosterone antagonists (AAs), and the use of AAs without careful monitoring of potassium has been associated with an increase in hospitalization and death associated with hyperkalemia (116).
+
+For these reasons, the serum creatinine and potassium should be checked between one and two weeks after initiation or titration of a RAAS blocker (113). In people where a significant change in creatinine (decrease in eGFR >30%) or potassium are seen, further testing should be performed to ensure that these tests have stabilized. Mild to moderate hyperkalemia can be managed through dietary counseling. Diuretics, in particular furosemide, can increase urinary potassium excretion. Sodium bicarbonate (500 to 1,300 mg orally twice a day) can also increase urinary potassium excretion, especially amongst individuals with a metabolic acidosis as demonstrated by a low serum bicarbonate level. If hyperkalemia is severe, RAAS blockade would need to be held or discontinued (117) and advice should be sought from a renal specialist.
+
+As the use during pregnancy of RAAS blockers has been associated with congenital malformations (118), women with diabetes of childbearing age should avoid pregnancy if drugs from these classes are required. If a woman with diabetes receiving such medications wishes to become pregnant, then these medications should be discontinued prior to conception (see Diabetes and Pregnancy chapter, p. S255).
+
+Antihyperglycemic Medication Selection and Dosing in CKD
+
+Many antihyperglycemic medications need to have their dose adjusted in the presence of low renal function, and some are contraindicated in people with significant disease. See Figure 1 in Pharmacologic Glycemic Management of Type 2 Diabetes in Adults chapter, p. S88 and Appendix 7. Therapeutic Considerations for Renal Impairment.
+
+Referral to a Specialized Renal Clinic
+
+Most people with CKD and diabetes will not require referral to a specialist in renal disease and can be managed in primary care. However, specialist care may be necessary when renal dysfunction is severe, when there are difficulties implementing renal-protective strategies or when there are problems managing the sequelae of renal disease (119) (see Recommendation 8 for more details).
+
+Recommendations
+To prevent the onset and delay the progression of CKD, people with diabetes should be treated to achieve optimal control of BG [Grade A, Level 1A (45,46) (see Recommendations 2 and 3, Targets for Glycemic Control chapter, p. S42) and BP [Grade A, Level 1A (61,65,96)].
+In adults with diabetes, screening for CKD should be conducted using a random urine ACR and a serum creatinine converted into an eGFR [Grade D, Consensus]. Screening should commence at diagnosis of diabetes in individuals with type 2 diabetes and 5 years after diagnosis in adults with type 1 diabetes and repeated yearly thereafter [Grade D, Consensus].
+A diagnosis of CKD should be made in people with an eGFR <60 mL/min/1.73 m2 and/or random urine ACR ≥2.0 mg/mmol on at least 2 of 3 samples over a 3-month period [Grade D, Consensus].
+All people with diabetes and CKD should receive a comprehensive, multifaceted approach to reduce CV risk [Grade A, Level 1A (101,103)] (see Cardiovascular Protection in People with Diabetes chapter, p. S162).
+Adults with diabetes and CKD with either hypertension or albuminuria should receive an ACE inhibitor or an ARB to delay progression of CKD [Grade A, Level 1A for ACE inhibitor use in type 1 and type 2 diabetes, and for ARB use in type 2 diabetes (69,75,77–81,84–86); Grade D, Consensus for ARB use in type 1 diabetes].
+People with diabetes on an ACE inhibitor or an ARB should have their serum creatinine and potassium levels checked at baseline and within 1 to 2 weeks of initiation or titration of therapy and during times of acute illness [Grade D, Consensus].
+Adults with diabetes and CKD should be given a “sick-day” medication list that outlines which medications should be held during times of acute illness (see Appendix 8. Sick-Day Medication List) [Grade D, Consensus].
+Combinations of ACE inhibitor, ARB or DRI should not be used in the management of diabetes and CKD [Grade A, Level 1 (95,98)].
+People with diabetes should be referred to a specialist with expertise in CKD in the following situations [Grade D, Consensus for each of the following]:
+Chronic, progressive loss of kidney function
+Urine ACR persistently >60 mg/mmol
+eGFR <30 mL/min
+Unable to remain on renal-protective therapies due to adverse effects, such as hyperkalemia or a >30% increase in serum creatinine within 3 months of starting an ACE inhibitor or ARB
+Unable to achieve target BP.
+In adults with type 2 diabetes with clinical CVD in whom glycemic targets are not achieved with existing antihyperglycemic medication(s) and with an eGFR >30 mL/min/1.73 m2, an SGLT2 inhibitor with proven renal benefit may be considered to reduce the risk of progression of nephropathy [Grade B, Level 2 (106) for empagliflozin; Grade C, Level 3 (107) for canagliflozin].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; ACE, angiotensin converting enzyme; AA; aldosterone antagonists; ARB, angiotensinogen receptor blocker; ACR, albumin creatinine ratio; BP, blood pressure; CV, cardiovascular; CVD, cardiovascular disease; DRI; direct renin inhibitor; eGFR, estimated glomerular filtration rate; ESRD, end stage renal disease; GFR; glomerular filtration rate; NSAIDs; non-steroidal anti-inflammatories; RAAS; renin angiotensin aldosterone system.
+
+Other Relevant Guidelines
+Targets for Glycemic Control, p. S42
+Monitoring Glycemic Control, p. S47
+Pharmacologic Glycemic Management of Type 2 Diabetes in Adults, p. S88
+Treatment of Hypertension, p. S186
+Diabetes and Pregnancy, p. S255
+Relevant Appendices
+Appendix 7. Therapeutic Considerations for Renal Impairment
+Appendix 8. Sick-Day Medication List
+Related Websites
+Alberta Chronic Kidney Disease (CKD) Clinical Pathway (available at http://www.renalnetwork.on.ca/hcpinfo/guidelines_and_resources/kidneywisetoolkit/)
+Ontario Renal Network: KidneyWise Clinical Toolkit (available at http://www.renalnetwork.on.ca/hcpinfo/guidelines_and_resources/kidneywisetoolkit/)
+
+Literature Review Flow Diagram for Chapter 29: Chronic Kidney Disease in Diabetes
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (120).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. McFarlane reports grants and personal fees from Astra-Zeneca, Bayer, Janssen, Novartis, and Otsuka; personal fees from Baxter, Ilanga, Valeant, Servier, and Merck; and grants from Boehringer Ingelheim, outside the submitted work. Dr. Cherney reports grants from Boehringer Ingelheim-Lilly, Merck, Janssen, Sanofi and AstraZeneca; and personal fees from Boehringer Ingelheim-Lilly, Merck, AstraZeneca, Sanofi, Mitsubishi-Tanabe, AbbVie and Janssen, outside the submitted work. Dr. Gilbert reports grants and personal fees from AstraZeneca and Boehringer-Ingelheim, and personal fees from Janssen and Merck, outside the submitted work. Dr. Senior reports personal fees from Abbott, Boehringer Ingelheim, Eli Lilly, Janssen, Merck, mdBriefCase, and Master Clinician Alliance; grants and personal fees from Novo Nordisk, Sanofi, and AstraZeneca; grants from Prometic and Viacyte, outside the submitted work; and is the Medical Director of the Clinical Islet Transplant Program at University of Alberta Hospital, Edmonton, AB.
+
+References
+Warram JH, Gearin G, Laffel L, et al. Effect of duration of type I diabetes on the prevalence of stages of diabetic nephropathy defined by urinary albumin/ creatinine ratio. J Am Soc Nephrol 1996;7:930–7.
+Reenders K, de Nobel E, van den Hoogen HJ, et al. Diabetes and its long-term complications in general practice: A survey in a well-defined population. Fam Pract 1993;10:169–72.
+Weir MR. Albuminuria predicting outcome in diabetes: Incidence of microalbuminuria in Asia-Pacific Rim. Kidney Int Suppl 2004;S38–9.
+Canadian Institute for Health Information (CIHI). Canadian organ replacement register annual report: Treatment of end-stage organ failure in Canada, 2000 to 2009. Ottawa (ON): CIHI, 2011.
+Foley RN, Parfrey PS, Sarnak MJ. Clinical epidemiology of cardiovascular disease in chronic renal disease. Am J Kidney Dis 1998;32:S112–19.
+Bell CM, Chapman RH, Stone PW, et al. An off-the-shelf help list: A comprehensive catalog of preference scores from published cost-utility analyses. Med Decis Making 2001;21:288–94.
+Mazzucco G, Bertani T, Fortunato M, et al. Different patterns of renal damage in type 2 diabetes mellitus: A multicentric study on 393 biopsies. Am J Kidney Dis 2002;39:713–20.
+Gambara V, Mecca G, Remuzzi G, et al. Heterogeneous nature of renal lesions in type II diabetes. J Am Soc Nephrol 1993;3:1458–66.
+Mathiesen ER, Ronn B, Storm B, et al. The natural course of microalbuminuria in insulin-dependent diabetes: A 10-year prospective study. Diabet Med 1995;12:482–7.
+Lemley KV, Abdullah I, Myers BD, et al. Evolution of incipient nephropathy in type 2 diabetes mellitus. Kidney Int 2000;58:1228–37.
+de Boer IH, Sibley SD, Kestenbaum B, et al. Central obesity, incident microalbuminuria, and change in creatinine clearance in the epidemiology of diabetes interventions and complications study. J AmSoc Nephrol 2007;18:235–43.
+MacIsaac RJ, Ekinci EI, Jerums G. Markers of and risk factors for the development and progression of diabetic kidney disease. Am J Kidney Dis 2014;63:S39–62.
+Gall MA, Nielsen FS, Smidt UM, et al. The course of kidney function in type 2 (non-insulin-dependent) diabetic patients with diabetic nephropathy. Diabetologia 1993;36:1071–8.
+Jacobsen P, Rossing K, Tarnow L, et al. Progression of diabetic nephropathy in normotensive type 1 diabetic patients. Kidney Int Suppl 1999;71:S101–5.
+Stevens LA, Coresh J, Greene T, et al. Assessing kidney function–measured and estimated glomerular filtration rate. N Engl J Med 2006;354:2473–83.
+Hasslacher C, Ritz E,Wahl P, et al. Similar risks of nephropathy in patients with type I or type II diabetes mellitus. Nephrol Dial Transplant 1989;4:859–63.
+Biesenbach G, Bodlaj G, Pieringer H, et al. Clinical versus histological diagnosis of diabetic nephropathy–is renal biopsy required in type 2 diabetic patients with renal disease? QJM 2011;104:771–4.
+Middleton RJ, Foley RN, Hegarty J, et al. The unrecognized prevalence of chronic kidney disease in diabetes. Nephrol Dial Transplant 2006;21:88–92.
+Molitch ME, Steffes M, Sun W, et al. Development and progression of renal insufficiency with and without albuminuria in adults with type 1 diabetes in the diabetes control and complications trial and the epidemiology of diabetes interventions and complications study. Diabetes Care 2010;33:1536–43.
+Macisaac RJ, Jerums G. Diabetic kidney disease with and without albuminuria. Curr Opin Nephrol Hypertens 2011;20:246–57.
+Ruggenenti P, Gambara V, Perna A, et al. The nephropathy of non-insulindependent diabetes: Predictors of outcome relative to diverse patterns of renal injury. J Am Soc Nephrol 1998;9:2336–43.
+VenkataRaman TV, Knickerbocker F, Sheldon CV. Unusual causes of renal failure in diabetics: Two case studies. J Okla State Med Assoc 1990;83:164–8.
+Anonymous. Clinical path conference. Unusual renal complications in diabetes mellitus. Minn Med 1967;50:387–93.
+Amoah E, Glickman JL, Malchoff CD, et al. Clinical identification of nondiabetic renal disease in diabetic patients with type I and type II disease presenting with renal dysfunction. Am J Nephrol 1988;8:204–11.
+El-Asrar AM, Al-Rubeaan KA, Al-Amro SA, et al. Retinopathy as a predictor of other diabetic complications. Int Ophthalmol 2001;24:1–11.
+Ballard DJ, Humphrey LL, Melton LJ 3rd, et al. Epidemiology of persistent proteinuria in type II diabetes mellitus. Population-based study in Rochester, Minnesota. Diabetes 1988;37:405–12.
+Winaver J, Teredesai P, Feldman HA, et al. Diabetic nephropathy as the mode of presentation of diabetes mellitus. Metabolism 1979;28:1023–30.
+Ahn CW, Song YD, Kim JH, et al. The validity of random urine specimen albumin measurement as a screening test for diabetic nephropathy. Yonsei Med J 1999;40:40–5.
+Kouri TT, Viikari JS, Mattila KS, et al. Microalbuminuria. Invalidity of simple concentration-based screening tests for early nephropathy due to urinary volumes of diabetic patients. Diabetes Care 1991;14:591–3.
+Rodby RA, Rohde RD, Sharon Z, et al. The urine protein to creatinine ratio as a predictor of 24-hour urine protein excretion in type 1 diabetic patients with nephropathy. The Collaborative Study Group. Am J Kidney Dis 1995;26:904–9.
+Chaiken RL, Khawaja R, Bard M, et al. Utility of untimed urinary albumin measurements in assessing albuminuria in black NIDDM subjects. Diabetes Care 1997;20:709–13.
+Bakker AJ. Detection of microalbuminuria. Receiver operating characteristic curve analysis favors albumin-to-creatinine ratio over albumin concentration. Diabetes Care 1999;22:307–13.
+Huttunen NP, Kaar M, Puukka R, et al. Exercise-induced proteinuria in children and adolescents with type 1 (insulin dependent) diabetes. Diabetologia 1981;21:495–7.
+Solling J, Solling K, Mogensen CE. Patterns of proteinuria and circulating immune complexes in febrile patients. Acta Med Scand 1982;212:167–9.
+Ritz E. Nephropathy in type 2 diabetes. J Intern Med 1999;245:111–26.
+Wiseman M, Viberti G, Mackintosh D, et al. Glycaemia, arterial pressure and micro-albuminuria in type 1 (insulin-dependent) diabetes mellitus. Diabetologia 1984;26:401–5.
+Ravid M, Savin H, Lang R, et al. Proteinuria, renal impairment, metabolic control, and blood pressure in type 2 diabetes mellitus. A 14-year follow-up report on 195 patients. Arch Intern Med 1992;152:1225–9.
+Gault MH, Longerich LL, Harnett JD, et al. Predicting glomerular function from adjusted serum creatinine. Nephron 1992;62:249–56.
+Bending JJ, Keen H, Viberti GC. Creatinine is a poor marker of renal failure. Diabet Med 1985;2:65–6.
+Shemesh O, Golbetz H, Kriss JP, et al. Limitations of creatinine as a filtration marker in glomerulopathic patients. Kidney Int 1985;28:830–8.
+Levey AS, Bosch JP, Lewis JB, et al. A more accurate method to estimate glomerular filtration rate from serum creatinine: A new prediction equation. Modification of Diet in Renal Disease Study Group. Ann Intern Med 1999;130:461– 70.
+Levey AS, Stevens LA, Schmid CH, et al. A new equation to estimate glomerular filtration rate. Ann Intern Med 2009;150:604–12.
+Poggio ED, Wang X, Greene T, et al. Performance of the modification of diet in renal disease and Cockcroft-Gault equations in the estimation of GFR in health and in chronic kidney disease. J Am Soc Nephrol 2005;16:459–66.
+Wang PH, Lau J, Chalmers TC. Meta-analysis of effects of intensive blood-glucose control on late complications of type I diabetes. Lancet 1993;341:1306–9.
+The Diabetes Control and Complications (DCCT) Research Group. Effect of intensive therapy on the development and progression of diabetic nephropathy in the Diabetes Control and Complications Trial. Kidney Int 1995;47:1703–20.
+UK Prospective Diabetes Study (UKPDS) Group. Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). Lancet 1998;352:837–53.
+The Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Research Group, Lachin JM, Genuth S, et al. Retinopathy and nephropathy in patients with type 1 diabetes four years after a trial of intensive therapy. N Engl J Med 2000;342:381–9.
+Shichiri M, Kishikawa H, Ohkubo Y, et al. Long-term results of the Kumamoto Study on optimal diabetes control in type 2 diabetic patients. Diabetes Care 2000;23(Suppl. 2):B21–9.
+Zoungas S, Arima H, Gerstein HC, et al. Effects of intensive glucose control on microvascular outcomes in patients with type 2 diabetes: A meta-analysis of individual participant data from randomised controlled trials. Lancet Diabetes Endocrinol 2017;5:431–7.
+The Diabetes Control, Complications Trial Research Group, Nathan DM, et al. The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. N Engl J Med 1993;329:977–86.
+UK Prospective Diabetes Study (UKPDS) Group. Tight blood pressure control and risk of macrovascular and microvascular complications in type 2 diabetes: UKPDS 38. BMJ 1998;317:703–13.
+Duckworth W, Abraira C, Moritz T, et al. Glucose control and vascular complications in veterans with type 2 diabetes. N Engl J Med 2009;360:129–39.
+ADVANCE Collaborative Group, Patel A, MacMahon S, et al. Intensive blood glucose control and vascular outcomes in patients with type 2 diabetes. N Engl J Med 2008;358:2560–72.
+Ismail-Beigi F, Craven T, Banerji MA, et al. Effect of intensive treatment of hyperglycaemia on microvascular outcomes in type 2 diabetes: An analysis of the ACCORD randomised trial. Lancet 2010;376:419–30.
+Action to Control Cardiovascular Risk in Diabetes Study Group, Gerstein HC, Miller ME, et al. Effects of intensive glucose lowering in type 2 diabetes. N Engl J Med 2008;358:2545–59.
+Boussageon R, Bejan-Angoulvant T, Saadatian-Elahi M, et al. Effect of intensive glucose lowering treatment on all cause mortality, cardiovascular death, and microvascular events in type 2 diabetes: Meta-analysis of randomised controlled trials. BMJ 2011;343:d4169.
+Pathak RD, Schroeder EB, Seaquist ER, et al. Severe hypoglycemia requiring medical intervention in a large cohort of adults with diabetes receiving care in U.S. integrated health care delivery systems: 2005–2011. Diabetes Care 2016;39:363–70.
+Yun J-S, Ko S-H, Ko S-H, et al. Presence of macroalbuminuria predicts severe hypoglycemia in patients with type 2 diabetes: A 10-year follow-up study. Diabetes Care 2013;36:1283–9.
+Peacock TP, Shihabi ZK, Bleyer AJ, et al. Comparison of glycated albumin and hemoglobin A(1c) levels in diabetic subjects on hemodialysis. Kidney Int 2008;73:1062–8.
+Ng JM, Cooke M, Bhandari S, et al. The effect of iron and erythropoietin treatment on the A1C of patients with diabetes and chronic kidney disease. Diabetes Care 2010;33:2310–13.
+Schrier RW, Estacio RO, Mehler PS, et al. Appropriate blood pressure control in hypertensive and normotensive type 2 diabetes mellitus: A summary of the ABCD trial. Nat Clin Pract Nephrol 2007;3:428–38.
+de Galan BE, Perkovic V, Ninomiya T, et al. Lowering blood pressure reduces renal events in type 2 diabetes. J Am Soc Nephrol 2009;20:883–92.
+Maki DD, Ma JZ, Louis TA, et al. Long-term effects of antihypertensive agents on proteinuria and renal function. Arch Intern Med 1995;155:1073–80.
+Voyaki SM, Staessen JA, Thijs L, et al. Follow-up of renal function in treated and untreated older patients with isolated systolic hypertension. Systolic Hypertension in Europe (Syst-Eur) Trial Investigators. J Hypertens 2001;19:511–19.
+Schrier RW, Estacio RO, Esler A, et al. Effects of aggressive blood pressure control in normotensive type 2 diabetic patients on albuminuria, retinopathy and strokes. Kidney Int 2002;61:1086–97.
+Lewis JB, Berl T, Bain RP, et al. Effect of intensive blood pressure control on the course of type 1 diabetic nephropathy. Collaborative Study Group. Am J Kidney Dis 1999;34:809–17.
+ACCORD Study Group, CushmanWC, Evans GW, et al. Effects of intensive bloodpressure control in type 2 diabetes mellitus. N Engl J Med 2010;362:1575–85.
+Ruggenenti P, Fassi A, Ilieva AP, et al. Preventing microalbuminuria in type 2 diabetes. N Engl J Med 2004;351:1941–51.
+Strippoli GF, Craig MC, Schena FP, et al. Role of blood pressure targets and specific antihypertensive agents used to prevent diabetic nephropathy and delay its progression. J Am Soc Nephrol 2006;17:S153–5.
+The EUCLID Study Group. Randomised placebo-controlled trial of lisinopril in normotensive patients with insulin-dependent diabetes and normoalbuminuria or microalbuminuria. Lancet 1997;349:1787–92.
+Bilous R, Chaturvedi N, Sjolie AK, et al. Effect of candesartan on microalbuminuria and albumin excretion rate in diabetes: Three randomized trials. Ann Intern Med 2009;151:11–20, w3-4.
+Mauer M, Zinman B, Gardiner R, et al. Renal and retinal effects of enalapril and losartan in type 1 diabetes. N Engl J Med 2009;361:40–51.
+Barnett AH, Bain SC, Bouter P, et al. Angiotensin-receptor blockade versus converting-enzyme inhibition in type 2 diabetes and nephropathy. N Engl J Med 2004;351:1952–61.
+The Heart Outcomes Prevention Evaluation Study Investigators, Yusuf S, Sleight P, et al. Effects of an angiotensin-converting-enzyme inhibitor, ramipril, on cardiovascular events in high-risk patients. N Engl J Med 2000;342:145–53.
+Lewis EJ, Hunsicker LG, Bain RP, et al. The effect of angiotensin-convertingenzyme inhibition on diabetic nephropathy. The Collaborative Study Group. N Engl J Med 1993;329:1456–62.
+Andersen S, Tarnow L, Rossing P, et al. Renoprotective effects of angiotensin II receptor blockade in type 1 diabetic patients with diabetic nephropathy. Kidney Int 2000;57:601–6.
+Lewis EJ, Hunsicker LG, Clarke WR, et al. Renoprotective effect of the angiotensinreceptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes. N Engl J Med 2001;345:851–60.
+Brenner BM, Cooper ME, de Zeeuw D, et al. Effects of losartan on renal and cardiovascular outcomes in patients with type 2 diabetes and nephropathy. N Engl J Med 2001;345:861–9.
+Parving HH, Lehnert H, Brochner-Mortensen J, et al. The effect of irbesartan on the development of diabetic nephropathy in patients with type 2 diabetes. N Engl J Med 2001;345:870–8.
+Viberti G, Wheeldon NM, MicroAlbuminuria Reduction With VALsartan (MARVAL) Study Investigators. Microalbuminuria reduction with valsartan in patients with type 2 diabetes mellitus: A blood pressure-independent effect. Circulation 2002;106:672–8.
+Laffel LM, McGill JB, Gans DJ. The beneficial effect of angiotensin-converting enzyme inhibition with captopril on diabetic nephropathy in normotensive IDDM patientswith microalbuminuria. North AmericanMicroalbuminuria Study Group. Am J Med 1995;99:497–504.
+Mathiesen ER, Hommel E, Giese J, et al. Efficacy of captopril in postponing nephropathy in normotensive insulin dependent diabetic patients with microalbuminuria. BMJ 1991;303:81–7.
+Jerums G, Allen TJ, Campbell DJ, et al. Long-term comparison between perindopril and nifedipine in normotensive patients with type 1 diabetes and microalbuminuria. Am J Kidney Dis 2001;37:890–9.
+ACE Inhibitors in Diabetic Nephropathy Trialist Group. Should all patients with type 1 diabetes mellitus and microalbuminuria receive angiotensin-converting enzyme inhibitors? A meta-analysis of individual patient data. Ann Intern Med 2001;134:370–9.
+Ravid M, Savin H, Jutrin I, et al. Long-term stabilizing effect of angiotensinconverting enzyme inhibition on plasma creatinine and on proteinuria in normotensive type II diabetic patients. Ann Intern Med 1993;118:577–81.
+Mathiesen ER, Hommel E, Hansen HP, et al. Randomised controlled trial of long term efficacy of captopril on preservation of kidney function in normotensive patients with insulin dependent diabetes and microalbuminuria. BMJ 1999;319:24–5.
+Ruggenenti P, Perna A, Gherardi G, et al. Renal function and requirement for dialysis in chronic nephropathy patients on long-term ramipril: REIN follow-up trial. Gruppo Italiano di Studi Epidemiologici in Nefrologia (GISEN). ramipril efficacy in nephropathy. Lancet 1998;352:1252–6.
+Maschio G, Alberti D, Locatelli F, et al. Angiotensin-converting enzyme inhibitors and kidney protection: The AIPRI trial. The ACE Inhibition in Progressive Renal Insufficiency (AIPRI) Study Group. J Cardiovasc Pharmacol 1999;33 Suppl 1:S16–20, discussion S41-3.
+Shoda J, Kanno Y, Suzuki H. A five-year comparison of the renal protective effects of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers in patients with non-diabetic nephropathy. Intern Med 2006;45:193–8.
+Hou FF, Xie D, Zhang X, et al. Renoprotection of Optimal Antiproteinuric Doses (ROAD) study: A randomized controlled study of benazepril and losartan in chronic renal insufficiency. J Am Soc Nephrol 2007;18:1889–98.
+Jacobsen P, Parving HH. Beneficial impact on cardiovascular risk factors by dual blockade of the renin-angiotensin system in diabetic nephropathy. Kidney Int Suppl 2004;S108–10.
+Burgess E, Muirhead N, Rene de Cotret P, et al. Supramaximal dose of candesartan in proteinuric renal disease. J Am Soc Nephrol 2009;20:893– 900.
+Epstein M, Williams GH, Weinberger M, et al. Selective aldosterone blockade with eplerenone reduces albuminuria in patients with type 2 diabetes. Clin J Am Soc Nephrol 2006;1:940–51.
+Parving HH, Persson F, Lewis JB, et al. Aliskiren combined with losartan in type 2 diabetes and nephropathy. N Engl J Med 2008;358:2433–46.
+Tobe SW, Clase CM, Gao P, et al. Cardiovascular and renal outcomes with telmisartan, ramipril, or both in people at high renal risk: Results from the ONTARGET and TRANSCEND studies. Circulation 2011;123:1098–107.
+Patel A, ADVANCE Collaborative Group, MacMahon S, et al. Effects of a fixed combination of perindopril and indapamide on macrovascular and microvascular outcomes in patients with type 2 diabetes mellitus (the ADVANCE trial): A randomised controlled trial. Lancet 2007;370:829–40.
+Mann JF, Schmieder RE, McQueen M, et al. Renal outcomes with telmisartan, ramipril, or both, in people at high vascular risk (the ONTARGET study): A multicentre, randomised, double-blind, controlled trial. Lancet 2008;372:547–53.
+Parving HH, Brenner BM, McMurray JJ, et al. Cardiorenal end points in a trial of aliskiren for type 2 diabetes. N Engl J Med 2012;367:2204–13.
+Fried LF, Emanuele N, Zhang JH, et al. Combined angiotensin inhibition for the treatment of diabetic nephropathy. N Engl J Med 2013;369:1892–903.
+Gerstein HC, Mann JF, Yi Q, et al. Albuminuria and risk of cardiovascular events, death, and heart failure in diabetic and nondiabetic individuals. JAMA 2001;286:421–6.
+Gaede P, Vedel P, Larsen N, et al. Multifactorial intervention and cardiovascular disease in patients with type 2 diabetes. N Engl J Med 2003;348:383–93.
+Gaede P, Vedel P, Parving HH, et al. Intensified multifactorial intervention in patients with type 2 diabetes mellitus and microalbuminuria: The Steno type 2 randomised study. Lancet 1999;353:617–22.
+Gaede P, Lund-Andersen H, Parving HH, et al. Effect of a multifactorial intervention on mortality in type 2 diabetes. N Engl J Med 2008;358:580–91.
+Levey AS, Coresh J. Chronic kidney disease. Lancet 2012;379:165–80.
+Levey AS, Eckardt KU, Tsukamoto Y, et al. Definition and classification of chronic kidney disease: A position statement from Kidney Disease: Improving Global Outcomes (KDIGO). Kidney Int 2005;67:2089–100.
+Wanner C, Inzucchi SE, Lachin JM, et al. Empagliflozin and progression of kidney disease in type 2 diabetes. N Engl J Med 2016;375:323–34.
+Neal B, Perkovic V, Mahaffey KW, et al. Canagliflozin and cardiovascular and renal events in type 2 diabetes. N Engl J Med 2017;377:644–57.
+Marso SP, Daniels GH, Brown-Frandsen K, et al. Liraglutide and cardiovascular outcomes in type 2 diabetes. N Engl J Med 2016;375:311–22.
+Mann JFE, Ørsted DD, Brown-Frandsen K, et al. Liraglutide and renal outcomes in type 2 diabetes. N Engl J Med 2017;377:839–48.
+Bakris GL,Weir MR. Angiotensin-converting enzyme inhibitor-associated elevations in serum creatinine: Is this a cause for concern? Arch Intern Med 2000;160:685–93.
+Reams GP, Bauer JH, Gaddy P. Use of the converting enzyme inhibitor enalapril in renovascular hypertension. Effect on blood pressure, renal function, and the renin-angiotensin-aldosterone system. Hypertension 1986;8:290–7.
+Franklin SS, Smith RD. Comparison of effects of enalapril plus hydrochlorothiazide versus standard triple therapy on renal function in renovascular hypertension. Am J Med 1985;79:14–23.
+Miyamori I, Yasuhara S, Takeda Y, et al. Effects of converting enzyme inhibition on split renal function in renovascular hypertension. Hypertension 1986;8:415–21.
+Desai AS, Swedberg K, McMurray JJ, et al. Incidence and predictors of hyperkalemia in patients with heart failure: An analysis of the CHARM Program. J Am Coll Cardiol 2007;50:1959–66.
+Pitt B, Bakris G, Ruilope LM, et al. Serum potassium and clinical outcomes in the Eplerenone Post-AcuteMyocardial Infarction Heart Failure Efficacy and Survival Study (EPHESUS). Circulation 2008;118:1643–50.
+Juurlink DN, Mamdani MM, Lee DS, et al. Rates of hyperkalemia after publication of the Randomized Aldactone Evaluation Study. N Engl J Med 2004;351:543–51.
+Palmer BF. Managing hyperkalemia caused by inhibitors of the reninangiotensin- aldosterone system. N Engl J Med 2004;351:585–92.
+Cooper WO, Hernandez-Diaz S, Arbogast PG, et al. Major congenital malformations after first-trimester exposure to ACE inhibitors. N Engl J Med 2006;354:2443–51.
+Levin A, Mendelssohn D. Care and referral of adult patients with reduced kidney function: Position paper from the Canadian Society of Nephrology. Montreal, QC: Canadian Society of Nephrology (CSN), 2006 http://www.cdha.nshealth.ca/ system/files/sites/131/documents/care-and-referral-adult-patients-reducedkidney-function-csn-position-paper.pdf.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.
+Afkarian M, Zelnick LR, Hall YN, et al. Clinical manifestations of kidney disease among US adults with diabetes, 1988–2014. JAMA 2016;316:602–10.

@@ -1,0 +1,224 @@
+Chapter Headings
+
+Background and Purpose
+Initiating Pharmacotherapy
+Adjusting or Advancing Intensification
+Factors to Consider When Selecting AHAs
+Insulin Therapy
+Clinical Status Considerations
+Primary Prevention of CV Disease in People without Prior CV Disease
+Selecting Agents With Cardiorenal Benefits
+Dose Titration and Use of Combination Products (Including Insulin)
+Safety Questions
+Summary
+Acknowledgements
+Author Disclosures
+References
+Background and Purpose
+
+Diabetes Canada prepares clinical practice guidelines to provide a synthesis of the best evidence to help clinicians in their daily practice. Evidence-based medicine seeks to integrate the best evidence with clinical expertise and the values of people living with diabetes. It is a challenging process to balance the goals of providing guidelines based on high-quality evidence with addressing the needs of clinicians who commonly face clinical scenarios for which there is no robust evidence.
+
+A major challenge that all clinicians face is how to apply evidence to individuals who do not resemble clinical trial participants. Extrapolation may be required by practitioners in certain scenarios, and we have provided some commentary around this. Disagreements of approach may be less about the evidence itself and more about the priorities and values of the persons interpreting or applying the evidence. Individual treatment decisions should always be based on the principles of shared decision-making.
+
+This document seeks to help address this gap by providing some clinical perspective (in a question-and-answer format) that will help support health-care practitioners apply the updated recommendations with greater confidence and/or the rationale behind them. We also encourage the use of Diabetes Canada’s educational tools available online through their website (guidelines.diabetes.ca).
+
+Initiating Pharmacotherapy
+1. Should pharmacotherapy always be started at diagnosis?
+It is acceptable to defer pharmacotherapy until after a trial of healthy behaviour interventions. Metformin should be started if the glycated hemoglobin (A1C) target is not achieved by 3 months. This approach aligns with the United Kingdom Prospective Diabetes Study (UKPDS), where participants were randomized to start therapy if they did not reach glycemic targets after a trial of lifestyle interventions [1].
+Remission of type 2 diabetes may be possible in certain individuals, with healthy behaviour interventions or bariatric surgery resulting in weight loss, and is a worthwhile goal to discuss with those individuals in whom it is safe and feasible to do so [2–11].
+2. Why is metformin still recommended as first-line pharmacologic therapy?
+Metformin is inexpensive, has few side effects, provides effective durable glycemic control, and has decades of robust clinical experience associated with it.
+Metformin was assessed in the UKPDS and demonstrated cardiovascular (CV) benefit in individuals living with overweight and newly diagnosed type 2 diabetes.
+Almost all the participants in outcome trials demonstrating CV benefits for specific drugs/classes were taking metformin as background medication.
+3. Can I start a drug with cardiorenal benefits at diagnosis of type 2 diabetes instead of starting metformin?
+Trial data supports the use of antihyperglycemic agents (AHAs) that have cardiorenal benefits as add-on therapy to metformin. Almost all individuals that were enrolled in trials demonstrating cardiorenal benefits were on other AHAs at baseline. For example, in the EMPA-REG trial, 98% of individuals were receiving other AHAs at baseline, with 74% receiving metformin therapy prior to the addition of empagliflozin [12].
+Additionally, there are other considerations that still support metformin as first-line therapy, such as its potent and durable A1C-lowering ability, well-known side-effect profile, and low cost.
+The exceptions to the use of metformin first line would be if metformin is contraindicated or not tolerated.
+4. What if metformin is not tolerated?
+Gastrointestinal (GI) side effects may occur with metformin. Strategies to mitigate these side effects may include taking metformin with a meal, starting at a lower dose (e.g. 250 mg once daily), uptitrating to the desired strength slowly (e.g. by 250 mg or 500 mg at weekly intervals), keeping the dose below 1,500 mg per day (divided into 2 to 3 doses per day), and/or continuing at a dose tolerated before dose escalation. In general, there is less clinical benefit in escalating doses beyond 2 g/day and GI side effects may be more pronounced.
+Individuals with adverse effects even at low doses of immediate-release metformin may better tolerate extended-release versions taken with an evening meal. Metformin-related adverse effects may also improve over time, so an adequate trial duration could also be considered.
+If metformin is not tolerated, despite trying the above recommendations, metformin may be replaced with an agent that is matched to the individual’s preferences or goals (see Question 9).
+5. Can I start a drug with cardiorenal benefit at diagnosis of type 2 diabetes if an individual already has high CV risk, heart failure (HF), or chronic kidney disease (CKD)?
+There have been no CV or renal outcome trials performed specifically in this setting, but this seems to be a reasonable choice, in addition to metformin, as the benefit of effect seen in the CV outcome trials has not been found to vary with the duration of diabetes.
+Adjusting or Advancing Intensification
+6. Do I always need to add an extra medication or can I switch the last medication because it was ineffective in managing glucose (if that was the goal)?
+Individual responses to different therapies will vary. This seems to be particularly true for some agents (e.g. glucagon-like peptide-1 receptor agonists [GLP1-RAs], thiazolidinediones [TZDs]).
+If a drug has not been desirably effective, it is reasonable to switch to a different agent.
+7. Can individuals with high CV risk, HF, or CKD be prescribed antihyperglycemic agents with demonstrated cardiorenal benefits even if A1C is at target?
+Cardiorenal benefits have been seen in people without diabetes and glycemia should not be the only reason to consider an agent with cardiorenal benefit.
+In people with HF, a sodium-glucose cotransporter-2 (SGLT2) inhibitor was found to reduce risk of hospitalization for HF and CV death [13].
+In people with high CV risk, both GLP1-RAs and SGLT2 inhibitors were found to reduce risk of major adverse CV events (MACE) [14].
+The cardiorenal benefits for people with CKD do not appear to depend solely on substantial glycemic improvements. For example, in the Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation (CREDENCE) trial, the A1C of individuals in the intervention group at the end of the study was only 0.11% lower than in individuals in the control group [15].
+8. Do I always need to add an extra medication or can I switch the last medication because it was ineffective in managing glucose (if that was the goal)?
+Yes, there is a role. All AHAs have clinical trial evidence showing effectiveness for reducing blood glucose levels.
+Multiple AHAs may be required to meet and maintain optimal glycemic control.
+Contraindications, costs, coverage, and other factors should be considered when selecting therapies for individuals (refer to Question 9).
+Most participants in trials demonstrating cardiorenal benefits for specific drugs/classes were taking other AHAs, including metformin, sulfonylureas (SUs), dipeptidyl peptidase 4 inhibitors (DPP4is), and/or insulin.
+Factors to Consider When Selecting AHAs
+9. What other factors should be considered when choosing AHAs for an individual with type 2 diabetes?
+The individual’s preference/goals
+Access, cost, and coverage
+Frailty and goals of care, including life expectancy
+Side-effect profile and medication intolerance
+Polypharmacy
+Degree of hyperglycemia (A1C, relative contributions of fasting versus postprandial hyperglycemia)
+Symptoms of polyuria and polydipsia or weight loss that may indicate a need for insulin
+Renal function (glycemic efficacy of SGLT2 inhibitors is reduced with lower glomerular filtration rate; dose adjustments may be required for some medications, especially metformin or SUs)
+Eating patterns
+Need for glucose monitoring
+Dexterity for treatments taken by injection
+Planning or potential for pregnancy
+Breastfeeding
+Relative contributions of insulin deficiency versus resistance (assessment based on clinical parameters, including duration of diabetes, degree of fasting hyperglycemia, weight, body mass index, waist circumference, and dyslipidemia (low high-density lipoprotein, high triglycerides)
+10. What is the role of SUs?
+SUs have a role in glycemic management. As a class, SUs have potent A1C-lowering abilities but are also associated with weight gain and hypoglycemia. They have the advantage of being inexpensive medications and have a long history of use.
+Glyburide is sometimes used as an off-label treatment option in some women who are pregnant (refer to Diabetes and Pregnancy chapter [16]).
+11. What is the role of oral semaglutide?
+Oral semaglutide has a role in glycemic management and has the same mechanism of action as the subcutaneous formulation of semaglutide.
+In trials, oral semaglutide has been found to effectively lower glucose levels and cause weight loss with a low risk of hypoglycemia [17]. It has strict administration rules, but could play a role in those who are reluctant to use or are intolerant to an injectable medication.
+The major difference from subcutaneous semaglutide is that oral semaglutide does not have a CV risk-lowering benefit yet, and weight- and A1C-lowering effects are smaller than the subcutaneous formulation.
+12. What is the role of TZDs?
+TZDs have a role in glycemic management. They lower A1C with minimal hypoglycemia.
+TZDs have known potential adverse effects of an increased risk of HF, weight gain, fluid retention, and bone fractures. Pioglitazone is not recommended with a history of bladder cancer.
+Pioglitazone has been associated with potential CV- [18,19] and metabolic dysfunction–associated steatotic liver disease (MASLD) benefits [20].
+13. How does tirzepatide compare to the GLP1-RAs?
+Tirzepatide is a newer incretin-based therapy belonging to the class of gastric inhibitory polypeptide (GIP) and glucagon-like peptide-1 (GLP1) receptor dual agonists. A head-to-head study comparing tirzepatide to subcutaneous semaglutide showed greater A1C and weight reduction with tirzepatide [21].
+There are not yet any data showing benefit on CV outcomes with tirzepatide.
+Insulin Therapy
+14. When should initiation of insulin be considered?
+Symptomatic hyperglycemia and/or metabolic decompensation (e.g. unintentional weight loss)
+Relative insulin deficiency with severely elevated A1C and fasting glucose, even without symptomatic hyperglycemia and/or metabolic decompensation
+Unclear diagnosis (i.e. when type 1 diabetes or latent autoimmune diabetes in adults [LADA] are being considered)
+Conception planning or during pregnancy
+When glycemic metrics are above target despite use of non-insulin AHAs
+Contraindications to other AHAs
+15. What are insulin biosimilars?
+Biosimilars include preparations approved by Health Canada based on clinical trials that show similar glucose-lowering effects as the originator (brand-name) product [22]. However, biosimilars are less expensive than the comparable originator product.
+No special considerations are required when starting biosimilars in an individual.
+When individuals switch between insulin preparations (from, to, or between insulin biosimilars), increased glucose monitoring is recommended in case dose adjustments are required.
+Some payors reimburse only biosimilars as a means of controlling costs.
+16. What is the role of NPH insulin?
+NPH can be used as basal insulin either once at bedtime or twice daily. NPH has a higher risk for hypoglycemia (especially nocturnal) than basal insulin analogues.
+NPH is less expensive than longer-acting insulin analogues.
+NPH is not peak less and has a relatively shorter duration compared with other basal insulin and, thus, it can be useful for the management of steroid-induced hyperglycemia due to prednisone with both being administered in the morning.
+NPH may also be considered during pregnancy planning, for gestational diabetes, or preference of an individual with lived experience.
+A major challenge is the substantial day-to-day variability in its glucose-lowering effect within individuals, resulting in unpredictable glucose levels [23].
+17. What is the role of pre-mixed insulins?
+Pre-mixed insulin products have a fixed ratio of fast-acting and intermediate-acting basal insulins combined in one insulin pen or vial (for example, 30% regular insulin with 70% insulin isophane).
+They can be taken once or twice daily (breakfast and dinner) as an alternative to multiple daily insulin injections when fewer injections are preferred, and tight glycemic management is not required.
+Since the percentages are pre-determined, dose titrations are less flexible than if the insulin products were administered separately, so there is a concern of hyperglycemia and hypoglycemia.
+18. Where do once-weekly insulins fit in the management of type 2 diabetes?
+No recommendation regarding the use of once-weekly insulin (e.g. icodec) is made in the updated 2024 Pharmacologic Glycemic Management of Type 2 Diabetes in Adults guidelines because its approval for use in Canada came after the critical appraisal and grading of evidence had been completed.
+Icodec is a very long-acting basal insulin analogue that is licensed to be dosed once per week.
+Phase 3 clinical trials suggest that the safety and efficacy of icodec is similar to insulin glargine and insulin degludec [24].
+Clinical Status Considerations
+19. What if an individual living with type 2 diabetes has recently had a heart attack, stroke/transient ischemic attack, developed HF, or been diagnosed with CKD?
+This change in clinical status should prompt consideration of a drug with demonstrated cardiorenal benefit---either by addition, if A1C is not at target, or substitution, if A1C is at target.
+20. Which individuals with HF should be treated with SGLT2 inhibitors?
+Clinical trials now show that certain SGLT2 inhibitors can reduce the risk of CV events in individuals with symptomatic HF (New York Heart Association [NYHA] class II, III, and IV and HFrEF) and individuals with HF characterized by reduced (HFrEF) or preserved (HFpEF) ejection fraction [25,26].
+Caution regarding renal function, hemodynamic function, and tolerability is warranted when initiating or continuing an SGLT2 inhibitor, particularly since many individuals with HF may be taking other drugs affecting renal and cardiac function.
+21. Do I need to use drugs with proven cardiorenal benefits in all individuals, including the elderly?
+This may not be appropriate in persons with limited life expectancy or where these drugs are not tolerated or are contraindicated. For example, the risk of hypotension with SGLT2 inhibitors should be considered and may require adjustment of antihypertensive therapy.
+There are other factors that should be considered when considering therapeutic choices (refer to Question 9).
+Primary Prevention of CV Disease in People Without Prior CV Disease
+22. Can we assume that drugs with cardiorenal benefits will have benefits for people with no history of CV/renal disease or any CV risk factors?
+Some drugs that are important for secondary prevention in people with diabetes are not recommended for primary prevention (e.g. acetylsalicylic acid [ASA]), so caution needs to be followed when extrapolating results.
+Among people living with type 2 diabetes but who are not at high risk for CV disease (i.e. without any CV risk factors or established atherosclerotic CV disease [ASCVD]), no single trial to date has been adequately powered to assess the primary prevention of MACE. In the absence of multiple CV risk factors, there is currently no robust evidence for the use of any AHAs for the primary prevention of MACE.
+23. What approach can we take in people with only CV risk factors?
+GLP1-RAs or SGTL2 inhibitors may be used by people with diabetes, with only CV risk factors, both for glycemic management and for primary prevention of MACE. However, the clinical trials that included this population were heterogenous. These trials were generally underpowered to examine the primary prevention population specifically, but subgroup analyses suggested benefits on CV outcomes, albeit with a smaller effect size compared to secondary prevention. Given the smaller magnitude of effect and the heterogeneity between trials, meta-analyses of these data found that the evidence of benefit of these agents for primary prevention was less certain than it was for secondary prevention.
+Selecting Agents With Cardiorenal Benefits
+24. Are some SGLT2 inhibitors or GLP1-RAs more effective than others?
+In the absence of head-to-head trials, it is not possible to determine whether different agents within a class are more or less effective.
+Some agents in these classes, although safe and effective to improve glycemia, do not have cardiorenal benefits (i.e. lixisenatide).
+25. How do I choose between SGLT2 inhibitors or GLP1-RAs for an individual who has a combination of high CV risk/HF/CKD or can I use both?
+No clinical trials have assessed the combination of these 2 classes for cardiorenal protection, so it is not known if using an agent from each class will have additional cardiorenal benefit. In combination, they will be effective for glucose lowering and likely have a favourable profile (low risk for hypogylcemia and no weight gain), so using both may be logical for individuals not at glycemic targets.
+High CV risk or CKD: Either SGLT2 inhibitors or GLP1-RAs are expected to reduce risk of CV events. Reduced risk of renal outcomes has been demonstrated with SGLT2 inhibitors and is suggested by a recent clinical trial of injectable semaglutide (FLOW trial), which will be formally evaluated in an update of our CKD chapter in the guidelines [27]. Factors listed in Question 9 will help with individualized choices.
+HF: SGLT2 inhibitor therapy is preferred over GLP1-RAs in people with HF (either HFrEF or HFpEF) because clinical trials show CV benefits (predominantly reduced hospitalization for HF).
+26. Can I use both a GLP1-RA and SGLT2 inhibitor and get additional benefits?
+No clinical trials have assessed the combination of these 2 classes for cardiorenal protection, so it is not known if using an agent from each class will have additional cardiorenal benefit.
+Using both for optimal glycemic management when needed is reasonable and there is no mechanistic reason they cannot be used in combination.
+As for all prescribing decisions, the clinical characteristics of the individual, comorbidities, and the safety and side-effect profile of the agent(s) should be considered, along with the individual’s preferences and values (refer to Question 9).
+Dose Titration and Use of Combination Products (Including Insulin)
+27. Is there an advantage to increasing the dose of an SGLT2 inhibitor?
+The dose-response curve for an SGLT2 inhibitor is rather flat---such that going to the higher dose generally has only a small effect to further reduce blood glucose levels.
+The cardiorenal benefits are not different between the higher and lower doses. Low doses seem to be as effective as high doses. Most CV outcome trials analyzed the doses together, while only the lower dose was used in CREDENCE [15].
+28. Is there an advantage to increasing the dose of GLP1-RAs?
+Titrating the GLP1-RA doses to the maximum approved dose (for diabetes) will generally be associated with greater reductions in blood glucose levels and body weight.
+Higher doses may cause increased GI side effects, which may lead to treatment discontinuation.
+29. Can I use fixed-dose combination (FDC) tablets?
+Yes, but the advantages of convenience, reduced pill burden and simplicity of once- or twice-daily combination preparations may be offset by costs and/or coverage, larger pill size, and inflexibility. For sick-day management, holding FDC tablets containing AHAs that put individuals at risk is appropriate.
+30. Can I use fixed-ratio combinations (FRCs) of insulin and GLP1-RAs rather than basal insulin for insulin initiation or intensification?
+Using an FRC of basal insulin and GLP1-RA rather than basal insulin alone may simplify treatment regimen and reduce weight gain and the risk of hypoglycemia compared to basal insulin alone [28,29].
+FRCs may also be considered when advancing therapy in people using basal insulin as an alternative to adding a GLP1-RA separately [30,31].
+Slower titration of FRCs may have fewer GI adverse effects compared to a separate injection of GLP1-RA, but the maximum dose of insulin is limited to 50 or 60 units per injection.
+Safety Questions
+31. Can GLP1-RAs be initiated in people who [may] have retinopathy?
+Yes, but the risk/benefit should be discussed. Large, rapid reductions in A1C may be associated with progression of retinopathy regardless of the treatment that resulted in the reduction (e.g. insulin, bariatric surgery).
+Prompt referral to an optometrist or ophthalmologist should be made when starting GLP1-RAs for people with retinopathy or who have not been screened. If retinal screening is overdue (more than 1 year), treatment with a GLP1-RA should not be delayed, but careful monitoring of retinopathy is important when glycemic management improves rapidly.
+32. Which AHAs should be held during illness?
+Guidance for sick-day management:
+For individuals, guidance is provided at https://www.diabetes.ca/DiabetesCanadaWebsite/media/Managing-My-Diabetes/Tools%20and%20Resources/stay-safe-when-you-have-diabetes-and-sick-or-at-risk-of-dehydration.pdf?ext=.pdf
+For health-care providers, guidance is provided in the Chronic Kidney Disease chapter and Appendix 8: Sick-Day Medication List [32,33].
+During illnesses with risk for dehydration or acute kidney injury (AKI), metformin and SGLT2 inhibitors should be held.
+If people are not eating, SUs and meglitinides should be held. Insulin doses may need to be adjusted, and increased blood glucose monitoring is recommended. Individuals taking these medications should be reminded how to detect and treat hypoglycemia.
+SGLT2 inhibitors should be held prior to major elective surgery or during acute severe illness requiring hospitalization to reduce the risk for euglycemic diabetic ketoacidosis (DKA) (i.e. DKA in the absence of significant hyperglycemia), particularly in people with insulin deficiency.
+33. What are the potential concerns with SGLT2 inhibitors?
+With respect to potential adverse events of SGLT2 inhibitors:
+There is an increased risk of genital mycotic infections (given glycosuria), especially in women. Mycotic infections can be treated with local antifungals or single dose oral fluconazole.
+There is a rare but important risk of euglycemic DKA (i.e. DKA in the absence of significant hyperglycemia), particularly in people with insulin deficiency. To reduce the risk of euglycemic DKA, SGLT2 inhibitors should be held or not used if fasting, if consuming a low-carbohydrate diet, if at risk for volume depletion (diarrhea, sepsis), or prior to major surgery.
+Other adverse events are listed in Table 1 [34] of the Pharmacologic Glycemic Management of Type 2 Diabetes in Adults---2024 Update (pages 415–424).
+34. What are the potential concerns with GLP1-RAs?
+There is a concern of inappropriately prescribing GLP1-RAs together with DPP4is for glycemic management. There is no clinically significant glycemic benefit in using a GLP1-RA with DPP4i [35].
+GLP1-RAs are associated with an increased risk for medullary thyroid cancers and thus contraindicated in individuals with a personal or family history of medullary thyroid cancer or multiple endocrine neoplasia syndrome type 2 (MEN 2).
+Whether to hold a GLP1-RA prior to surgery remains debated. GLP1-RA may delay gastric emptying sufficiently during the perioperative period to increase the risk of pulmonary aspiration of gastric contents [36]. Based primarily on observational reports, some anesthesia societies recommend holding GLP1-RAs up to 3 weeks prior to surgeries that require general anesthetics or deep sedation as a precautionary measure [36]. If GLP1-RAs are held, they may be resumed after surgery if there are no postoperative complications such as ileus, with consideration for restarting at a lower dose and individualized uptitration [37]. If GLP1-RAs are held, additional AHAs may be needed.
+Other adverse events are listed in Table 1 [34] of the Pharmacologic Glycemic Management of Type 2 Diabetes in Adults---2024 Update (pages 415–424).
+Summary
+
+In summary, we hope this document will assist in making individual treatment decisions, based on the principles of shared decision-making. Additional clinical practice tools and resources are available on Diabetes Canada’s website (guidelines.diabetes.ca).
+
+Acknowledgments
+
+The authors gratefully acknowledge the authors of the 2020 User’s Guide, including Drs. Peter Senior, Robyn Houlden, James Kim, Dylan MacKay, Seema Nagpal, Doreen Rabi, Diana Sherifali, and Harpreet Bajaj, as well as the support of Ms. Tracy Barnes for administrative support for all aspects of CPG revisions and in preparing this manuscript for submission.
+
+Author Disclosures
+
+S.B. reports peer reviewed research support from the CIHR, JDRF, and Diabetes Canada. H.S.B. reports research funding paid to his institution by Amgen, AstraZeneca, Anji, AstraZeneca, Biomea, Boehringer Ingelheim, Eli Lilly, GlaxoSmithKline, Ionis, Kowa, Novartis, Novo Nordisk, and Pfizer. P.S. is the Charles A. Allard Chair in Diabetes Research and is supported by the Academic Medicine and Health Services Program. He has received speaker fees from Abbott, Dexcom, GSK, Insulet, LMC, Novo Nordisk, Vertex; consulting fees from Abbott, Bayer, Dexcom, GSK, Insulet, Novo Nordisk, Sanofi, Vertex, and Ypsomed; and research support from CIHR, JDRF, and Brain Canada. B.R.S. is appointed by the University of Toronto as the Novo Nordisk Research Chair in Equitable Care of Diabetes and Related Conditions, and reports research support from the CIHR. S.M.R. holds the Dr. Brian W. Gilbert Research Chair in Primary Care at Western University, and has received clinical trial support from Novo Nordisk, Abbott, and Novartis. She has received speaker fees from Western University, Federation of Medical Women, Canadian Collaborative Research Network, Diabetes Canada, Medscape, Peer Voice, and Humber River Health, as well as consulting/speaker fees from Novo Nordisk, Abbott, Sanofi, Bayer, Eli Lilly, and Boehringer Ingelheim. K.L., R.J., and K.M. have no conflicts to declare.
+
+References
+UKPDS Study Group. UK Prospective Diabetes Study (UKPDS). VIII. Study design, progress and performance. Diabetologia 1991;34:877e90.
+Lean MEJ, Leslie WS, Barnes AC, Brosnahan N, Thom G, McCombie L, et al. Durability of a primary care-led weight-management intervention for remission of type 2 diabetes: 2-year results of the DiRECT open-label, clusterrandomised trial. Lancet Diabetes Endocrinol 2019;7(5):344e55.
+Lean ME, Leslie WS, Barnes AC, Brosnahan N, Thom G, McCombie L, et al. Primary care-led weight management for remission of type 2 diabetes (DiRECT): An open-label, cluster-randomised trial. Lancet 2018;391:541e5.
+Taheri S, Zaghloul H, Chagoury O, Elhadad S, Ahmed SH, El Khatib N, et al. Effect of intensive lifestyle intervention on bodyweight and glycaemia in early type 2 diabetes (DIADEM-I): An open-label, parallel-group, randomised controlled trial. Lancet Diabetes Endocrinol 2020;8(6):477e89.
+Ried-Larsen M, Johansen MY, MacDonald CS, Hansen KB, Christensen R, Wedell-Neergaard AS, et al. Type 2 diabetes remission 1 year after an intensive lifestyle intervention: A secondary analysis of a randomized clinical trial. Diabetes Obes Metab 2019;21(10):2257e66.
+Borgeraas H, Hofsoe D, Hertel JK, Hjelmesaeth J. Comparison of the effect of Roux-en-Y gastric bypass and sleeve gastrectomy on remission of type 2 diabetes: A systematic review and meta-analysis of randomized controlled trials. Obes Rev 2020;21(6):e13011.
+Sha Y, Huang X, Ke P, Wang B, Yuan H, Yuan W, et al. Laparoscopic Roux-en-Y gastric bypass versus sleeve gastrectomy for type 2 diabetes mellitus in nonseverely obese patients: A systematic review and meta-analysis of randomized controlled trials. Obes Surg 2020;30(5):1660e70.
+Ding L, Fan Y, Li H, Zhang Y, Qi D, Tang S, et al. Comparative effectiveness of bariatric surgeries in patients with obesity and type 2 diabetes mellitus: A network meta-analysis of randomized controlled trials. Obes Rev 2020;21(8): e13030.
+Cui BB, Wang GH, Li PZ, Li WZ, Zhu LY, Zhu SH. Long-term outcomes of Rouxen-Y gastric bypass versus medical therapy for patients with type 2 diabetes: A meta-analysis of randomized controlled trials. Surg Obes Relat Dis 2021; 17(7):1334e43.
+Cresci B, Cosentino C, Monami M, Mannucci E. Metabolic surgery for the treatment of type 2 diabetes: A network meta-analysis of randomized controlled trials. Diabetes Obes Metab 2020;22(8):1378e87.
+Khorgami Z, Shoar S, Saber AA, Howard CA, Danaei G, Sclabas GM. Outcomes of bariatric surgery versus medical management for type 2 diabetes mellitus: A meta-analysis of randomized controlled trials. Obes Surg 2019;29(3):964e74.
+Zinman B, Wanner C, Lachin JM, Fitchett D, Bluhmki E, Hantel S, et al. Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes. N Engl J Med 2015;373(22):2117e28.
+Usman MS, Bhatt DLB, Hameed I, et al. Effect of SGLT2 inhibitors on heart failure outcomes and cardiovascular death across the cardiometabolic disease spectrum: A systematic review and meta-analysis. Lancet Diabetes Endocrinol 2024;12(7):447e61.
+Lincoff AM, Brown-Frandsen K, Colhoun HM, Deanfield J, et al. Semaglutide and cardiovascular outcomes in obesity without diabetes. N Engl J Med 2023; 389(24):2221e32.
+Perkovic V, Jardine MJ, Neal B, et al. Canagliflozin and renal outcomes in type 2 diabetes and nephropathy. N Engl J Med 2019;380:2295e306.
+Feig DS, Berger H, Donovan L, Godbout A, et al. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada: Diabetes and pregnancy. Can J Diabetes 2018;42(Suppl.):S255e82.
+Husain M, Birkenfeld AL, Donsmark M, et al. PIONEER 6 Investigators. Oral Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes. N Engl J Med 2019;381(9):841e51.
+Home PD, Pocock SJ, Beck-Nielsen H, et al. Rosiglitazone evaluated for cardiovascular outcomes in oral agent combination therapy for type 2 diabetes (RECORD): A multicentre, randomised, open-label trial. Lancet 2009;373: 2125e35.
+Kernan WN, Viscoli CM, Furie KL, et al. Pioglitazone after ischemic stroke or transient ischemic attack. N Engl J Med 2016;374:1321e31.
+Lian J, Fu J. Pioglitazone for NAFLD patients with prediabetes or type 2 diabetes mellitus: A meta-analysis. Front Endocrinol (Lausanne) 2021;12: 615409. Erratum in: Front Endocrinol (Lausanne) 2022;13:840299.
+Frias JP, Davies MJ, Rosenstock J, et al, for the SURPASS-2 Investigators. Tirzepatide versus semaglutide once weekly in patients with type 2 diabetes. N Engl J Med 2021;385:503e15.
+Yamada T, Kamata R, Ishinohachi K, Shojima N, et al, Biosimilar vs originator insulins. Systematic review and meta-analysis. Diabetes Obes Metab 2018; 20(7):1787e92.
+Heise T, Nosek L, Rønn BB, Endahl L, Heinemann L, Kapitza C, Draeger E. Lower within-subject variability of insulin detemir in comparison to NPH insulin and insulin glargine in people with type 1 diabetes. Diabetes 2004;53(6): 1614e20.
+Rosenstock J, Bain SC, Gowda A, Jodar E, et al, for the ONWARDS 1 Trial Investigators. Weekly icodec versus daily glargine U100 in type 2 diabetes without previous insulin. N Engl J Med 2023;389:297e308.
+Solomon SD, McMurray JJV, Claggett B, de Boer RA, et al, for the DELIVER Trial Committees and Investigators. Dapagliflozin in heart failure with mildly reduced or preserved ejection fraction. N Engl J Med 2022;387:1089e98.
+Anker SD, Butler J, Filippatos G, Ferreira JP, et al, for the EMPEROR-Preserved Trial Investigators. Empagliflozin in heart failure with a preserved ejection fraction. N Engl J Med 2021;385:1451e61.
+Perkovic V, Tuttle KR, Rossing P, Mahaffey KW, et al, for the FLOW Trial Committees and Investigators. Effects of semaglutide on chronic kidney disease in patients with type 2 diabetes. N Engl J Med 2024;391:109e21.
+Gough SCL, Bode B, Woo V, et al, Efficacy and safety of a fixed-ratio combination of insulin degludec and liraglutide (IDegLira) compared with its components given alone. Results of a phase 3, open-label, randomised, 26week, treat-to-target trial in insulin-naive patients with type 2 diabetes. Lancet Diabetes Endocrinol 2014;2:885e93.
+Rosenstock J, Aronson R, Grunberger G, et al. Benefits of LixiLan, a titratable fixed-ratio combination of insulin glargine plus lixisenatide, versus insulin glargine and lixisenatide monocomponents in type 2 diabetes inadequately controlled on oral agents: The LixiLan-O randomized trial. Diabetes Care 2016;39:2026e35.
+Aroda VR, Rosenstock J, Wysham C, et al. Efficacy and safety of LixiLan, a titratable fixed-ratio combination of insulin glargine plus lixisenatide in type 2 diabetes inadequately controlled on basal insulin and metformin: The LixiLan-L randomized trial. Diabetes Care 2016;39:1972e80.
+Lingvay I, Manghi FP, García-Hernández P, et al. Effect of insulin glargine uptitration vs insulin degludec/liraglutide on glycated hemoglobin levels in patients with uncontrolled type 2 diabetes: The DUAL V randomized clinical trial. JAMA 2016;315:898e907.
+McFarlane P, Cherney D, Gilbert RE, Senior P. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada: Chronic kidney disease in diabetes. Can J Diabetes 2018;42(Suppl. 1): S203e9.
+Diabetes Canada Clinical Practice Guidelines Expert Committee. Diabetes Canada 2018 Clinical Practice Guidelines for the Prevention and Management of Diabetes in Canada. Appendix 8: Sick-Day Medication List. Can J Diabetes 2018;42(Suppl. 1):S316.
+Shah BR, Bajaj HS, Butalia S, et al. Pharmacologic glycemic management of type 2 diabetes in adults-2024 update. Can J Diabetes 2024;48(7):415e24.
+Gallwitz B. Clinical use of DPP-4 inhibitors. Front Endocrinol 2019;10:389.
+Jones PM, Hobai IA, Murphy PM. Anesthesia and glucagon-like peptide-1 receptor agonists: Proceed with caution. Can J Anesth 2023;70(8):1281e6.
+Hulst AH, Polderman JA, Siegelaar SE, van Raalte DH, et al. Preoperative considerations of new long-acting glucagon-like peptide-1 receptor agonists in diabetes mellitus. Br J Anaesth 2021;126(3):567e71.

@@ -1,0 +1,335 @@
+Chapter Headings
+
+Introduction
+Risk Assessment of Individuals with Diabetes
+Screening
+Healthy Behaviour Interventions
+LDL-C
+Statin Therapy and Incident Diabetes
+Other Relevant Guidelines
+Author Disclosures
+Key Messages
+The beneficial effects of lowering low-density lipoprotein (LDL)-cholesterol with statin therapy apply equally well to people with diabetes as to those without the disease.
+The primary treatment goal for people with diabetes is LDL-cholesterol consistently <2.0 mmol/L or >50% reduction from baseline. Alternative targets and goals are non-high-density lipoprotein (non-HDL) cholesterol <2.6 mmol/L or apolipoprotein B <0.8 g/L. Achievement of the primary goal may require intensification of healthy behaviour interventions with statin monotherapy. On occasion, the addition of other lipid-lowering medications may be required.
+Key Messages for People with Diabetes
+Most adults with diabetes are at greater risk for cardiovascular diseases, such as heart attack and stroke.
+People with diabetes have an increased risk of cardiovascular diseases even if their LDL-cholesterol is “normal”. They have an even higher risk if their LDL-cholesterol is elevated.
+Adults with diabetes should have their cholesterol tested yearly or as indicated by your health-care provider. More frequent testing may be necessary for people taking cholesterol medications.
+Always discuss your cholesterol results with your physician or nurse practitioner and other members of your health-care team.
+Introduction
+
+Diabetes is associated with a high risk of vascular disease (i.e. 2- to 4-fold greater risk than that of individuals without diabetes). In fact, cardiovascular disease (CVD) is the primary cause of death among people with type 1 and type 2 diabetes (1–3). Aggressive management of all CVD risk factors, including dyslipidemia, is, therefore, generally necessary in individuals with diabetes (4–6).
+
+The most common lipid pattern in people with type 2 diabetes consists of hypertriglyceridemia (hyper-TG), low high-density lipoprotein cholesterol (HDL-C) and relatively normal plasma concentrations of low-density lipoprotein cholesterol (LDL-C). However, in the presence of even mild hyper-TG, LDL-C particles are typically small and dense and may be more susceptible to oxidation. In addition, chronic hyperglycemia promotes the glycation of LDL-C, and both glycation and oxidation are believed to increase the atherogenicity of LDL-C. Both of these processes may impair function and/or enhance atherogenicity even in those with type 1 diabetes with a normal lipid profile. The risk imparted by this lipid profile, even when LDL-C is considered low, remains quite substantial (7). Table 1 lists the components of dyslipidemia associated with diabetes (8,9). Many of these abnormalities also are seen in people with metabolic syndrome (10,11).
+
+Table 1
+Dyslipidemia components associated with type 2 diabetes and metabolic syndrome*
+Apo, apolipoprotein; HDL, high-density lipoprotein; HDL-C, high-density lipoprotein cholesterol; LDL, low-density lipoprotein; LDL-C, low-density lipoprotein cholesterol; TG, triglyceride.
+*Adapted from reference 8.
+
+Increased TG and TG-rich lipoproteins
+Increased postprandial TG
+Low HDL-C
+Low apo A-I
+Decreased small HDL, prebeta-1 HDL, alpha-3 HDL
+Increased apo B
+Increased LDL particle number
+Increased small, dense LDL
+Increased apo C-III
+Increased non-HDL-C
+Increased oxidized and glycated lipids
+Risk Assessment of Individuals with Diabetes
+
+A detailed overview of risk assessment to guide decisions in whom to use statin therapy is provided in the Cardiovascular Protection in People with Diabetes chapter, p. S162. Principles of risk assessment also are discussed in the 2016 Canadian Cardiovascular Society (CCS) Guidelines for the Management of Dyslipidemia (12,13), and efforts were made to ensure consistency between the guidelines. Accordingly, actual risk calculation is not required in most cases as people with diabetes >40 years of age, or >30 years of age and duration of diabetes >15 years or with concomitant microvascular or cardiovascular (CV) disease warrant therapy (13).
+
+Screening
+
+The burden of dyslipidemia is high in people with diabetes. A national cross-sectional chart audit study of 2,473 Canadians with type 2 diabetes revealed that 55% of individuals with a diabetes diagnosis of 2 years' duration also had dyslipidemia. This proportion rose to 66% in those with diabetes for 15 years (14). Therefore, a fasting lipid profile (total cholesterol [TC], HDL-C, TG and calculated LDL-C) should be conducted at the time of diagnosis of diabetes and if treatment is not warranted, the assessment should be repeated annually or as clinically indicated. If treatment for dyslipidemia is initiated, more frequent testing is warranted.
+
+A fast of >8 hours may be inappropriate for individuals with diabetes, especially if long-acting basal insulin is part of their treatment regimen. Although nonfasting LDL-C is generally valid unless TG is elevated, non-HDL-C (defined as TC minus HDL-C) or apolipoprotein B (apo B) measurements (see below) are also valid even in the nonfasting state and even if the TG level is not normal. Indeed, the most recent CCS guidelines for management of dyslipidemia now endorse the option of nonfasting lipid measurements more broadly, not solely in people with diabetes, unless the person is known to have abnormalities of TG. Laboratories will not report LDL-C when TG is ≥4.5 mmol/L. In people known to have this level of hypertriglyceridemia, a fasting profile should be performed but non-HDL-C or apo B may still need to be used to determine atherogenicity of the dyslipidemia in this circumstance as well (13). For screening in children and adolescents, please refer to the chapters dedicated to diabetes in these groups (Type 1 Diabetes in Children and Adolescents chapter, p. S234; Type 2 Diabetes in Children and Adolescents chapter, p.S247).
+
+Healthy Behaviour Interventions
+
+Healthy behaviour interventions remain a key component of CVD prevention strategies and of diabetes management in general. Achievement of healthy weight and aerobic activity level, adoption of an energy-restricted, compositionally well-balanced diet that is low in cholesterol, saturated and trans fatty acids and refined carbohydrates, inclusion of viscous fibres, plant sterols, nuts and soy proteins, use of alcohol in moderation and smoking cessation all are fundamental considerations to improve glycemic control, the overall lipid profile and, most importantly, to reduce CVD risk (15–26). Each of these is discussed in more detail in accompanying chapters (Physical Activity and Diabetes chapter, p. S54; Nutrition Therapy chapter, p. S64; Weight Management in Diabetes chapter, p. S124).
+
+Table 2
+First-line therapy to achieve a primary lipid target of LDL-C consistently less than 2.0 mmol/L
+HDL-C, high-density lipoprotein cholesterol; LDL-C, low-density lipoprotein cholesterol; TG, triglyceride.
+Note: Prescribers should refer to the most current edition of the Compendium of Pharmaceuticals and Specialties (Canadian Pharmacists Association, Ottawa, Ontario, Canada) for product monographs and complete prescribing information.
+*Prevention of statin-induced myopathy requires attention to factors that increase risk, such as age >80 years (especially women); small body frame and frailty; higher dose of statin; multisystem diseases (e.g. chronic renal insufficiency due to diabetes); multiple medications; hypothyroidism; perioperative periods; alcohol abuse; excessive grapefruit juice consumption; and specific concomitant medications, such as fibrates (especially gemfibrozil) (refer to specific statin package inserts for others) (102,104,105).
+†Listed in alphabetical order.
+Statins*
+Generic name†	Tradename	Considerations
+Atorvastatin	Lipitor® and generics	Statins are drugs of choice to lower LDL-C and have modest TG-lowering and HDL-C raising effects at higher doses.
+Fluvastatin	Lescol®	 
+Lovastatin	Mevacor® and generics	 
+Pravastatin	Pravachol® and generics	 
+Rosuvastatin	Crestor® and generics	 
+Simvastatin	Zocor® and generics	 
+LDL-C
+
+A number of studies and meta-analyses have shown that the degree of LDL-C lowering with statins and the beneficial effects of lowering LDL-C apply equally well to people with and without diabetes (27–38). Large trials have demonstrated the benefits of statin therapy in both the primary and secondary prevention of CVD, and subgroup analyses of these studies have shown similar benefits in subsets of participants with diabetes (28–30,39). Across all subgroups, statin therapy provides the same relative risk reduction in terms of outcomes, but the absolute benefit depends on the baseline level of absolute risk, which is typically increased in people with diabetes. Subgroup analyses from statin trials also have shown similar relative benefits of LDL-C lowering, regardless of baseline LDL-C (30,32).
+
+Intensive-dose statin has been demonstrated to improve outcome compared to moderate-dose statins, even in older people with MI or in people on dialysis (40–43). Therefore, statin use should be considered for any person with diabetes at risk of a CV event. In the very small group of lower-risk individuals with type 2 diabetes, the relative reduction in CVD risk with statin therapy is likely to be similar to that seen in those at higher global risk for CVD, but the absolute benefit from statin therapy is predicted to be smaller. However, the global CVD risk of these individuals is lifelong, will increase with age and may be worsened in the presence of additional CV risk factors. Therefore, repeated monitoring of the CVD risk status of people with diabetes (as outlined in the screening section above) is recommended.
+
+The results of the Heart Protection Study (HPS), which compared simvastatin 40 mg daily to placebo, provide considerable insight into the importance of LDL-C lowering in the general population and, in particular, among people with diabetes (31). In the overall study, involving >20,000 participants, similar risk-ratio reductions were observed in participants with baseline LDL-C >3.5 mmol/L, 3.0 to 3.5 mmol/L and <3.0 mmol/L. In the subgroup with diabetes (n=5,963, including 615 people with type 1 diabetes), treatment with 40 mg simvastatin daily resulted in a 27% reduction in CV events and a 25% reduction in stroke relative to treatment with placebo. The risk reduction was similar in the cohorts with and without diabetes, and the treatment benefit was independent of baseline HDL-C and LDL-C levels (LDL-C <3.0 mmol/L or ≥3.0 mmol/L), sex, vascular disease, type of diabetes (type 1 vs. type 2) and A1C level (30). These results emphasized the benefits of statin treatment irrespective of the pre-existing serum LDL-C level.
+
+The Collaborative Atorvastatin Diabetes Study (CARDS) was the first completed statin trial to be conducted exclusively in people with type 2 diabetes without known CVD (32). The mean baseline LDL-C of the study population was 3.1 mmol/L, and all participants had at least 1 CVD risk factor in addition to diabetes. CARDS demonstrated that treatment with atorvastatin 10 mg daily was safe and highly efficacious in reducing the risk of a first CV event, including stroke. Treatment resulted in a mean LDL-C of 2.0 mmol/L and was associated with a reduced risk for CV events and stroke of 37% and 48%, respectively. These study findings support the value of treating even so-called “normal” LDL-C levels in people with type 2 diabetes and no known CVD. This concept is concordant with a recent analysis of CVD risk in adults with diabetes and LDL-C <2.6 mmol/L (7).
+
+As mentioned previously, all CARDS subjects had at least 1 additional CVD risk factor (i.e. history of hypertension, retinopathy, microalbuminuria or macroalbuminuria, or current smoking), a profile that applies to an estimated 70% to 80% of people with type 2 diabetes (32,44). Results from the United States (US) Third National Health and Nutrition Examination Survey (NHANES III) indicate that 82% of people with diabetes and no clinically evident coronary artery disease (CAD) have at least 1 of the CARDS entry criteria risk factors (32). The CARDS investigators concluded that the study findings “challenge the use of a particular threshold level of LDL-C as the sole arbiter of which individuals with type 2 diabetes should receive statin therapy”. The absolute risk, determined by other risk factors in addition to LDL-C, should drive the target levels (32,45). Indeed, the investigators questioned whether any individual with type 2 diabetes can be considered at sufficiently low risk for therapy to be withheld (32). A sub-analysis of the Anglo-Scandinavian Cardiac Outcomes Trial—Lipid Lowering Arm (ASCOT-LLA) revealed similar benefits of atorvastatin 10 mg vs. placebo in people with type 2 diabetes, hypertension and at least 3 additional risk factors (46).
+
+The Atorvastatin Study for the Prevention of Coronary Heart Disease Endpoints in Non-Insulin-Dependent Diabetes Mellitus (ASPEN) assessed the effect of atorvastatin 10 mg daily vs. placebo on CVD prevention in 2,410 people with type 2 diabetes (47). Although originally designed as a secondary prevention trial, the protocol underwent several changes, including the addition of participants without known CAD and the eventual conversion of all participants with known CAD to open-label, lipid-lowering medication. Over the 4-year study period, mean LDL-C was reduced by 29% in the atorvastatin group compared to placebo (p<0.0001). The composite primary endpoint was reduced by 13.7%; however, this finding was not statistically significant and was generally considered to be related to the methodological limitations of the study design and the protocol changes.
+
+In the subgroup with diabetes (n=1,051) of the Treating to New Targets (TNT) trial conducted in individuals with stable CAD, those participants treated with atorvastatin 80 mg daily who achieved a mean LDL-C of 2.0 mmol/L had 25% fewer major CVD events than did those treated with atorvastatin 10 mg daily who achieved a mean LDL-C of 2.5 mmol/L (p=0.026) (34). Intensive therapy with atorvastatin 80 mg daily also reduced the rate of all CVD and cerebrovascular events compared to atorvastatin 10 mg daily. Notably, an increased event rate for all primary and secondary efficacy outcomes was noted in the subgroup with diabetes compared to the overall study population. This finding provides yet further evidence that people with diabetes and CAD are at extremely high risk of subsequent CVD events.
+
+The Cholesterol Treatment Trialists' (CTT) Collaboration meta-analysis of >170,000 statin-treated subjects found that for every 1.0 mmol/L reduction in LDL-C, there was an approximately 20% reduction in CVD events, regardless of baseline LDL-C (48). The proportional reductions were very similar in all subgroups, including those with diabetes without pre-existing vascular disease (48). In fact, the CTT meta-analysis of >18,000 participants with diabetes from 14 randomized statin trials found that the effects of statins on all fatal and nonfatal CV outcomes were similar for participants with or without diabetes (49). The updated CTT meta-analysis of 170,000 participants showed that additional reductions in LDL-C (down to approximately 1.0 to 2.0 mmol/L) with more intensive therapy further reduced the incidence of major vascular events and that these reductions could be achieved safely, even in individuals with lower baseline LDL-C levels (50). The IMproved Reduction of Outcomes: Vytorin Efficacy International Trial (IMPROVE-IT) showed that the addition of ezetimibe to simvastatin in participants with recent acute coronary syndrome imparted an incremental CVD event benefit compared to use of simvastatin alone and the magnitude of the event reduction was commensurate with the degree of additional LDL-C lowering imparted by ezetimibe. The mean LDL-C in the simvastatin plus ezetimibe arm was 1.4 mmol/L and 1.8 mmol/L in the simvastatin-treated cohort. The event reductions were particularly evident in people with type 2 diabetes (39).
+
+Although the linear relationship between the proportional CVD risk reduction and LDL-C lowering would suggest that there is no lower limit of LDL-C or specified LDL-C target (as the CTT authors suggest), the clinical trial evidence summarized above would suggest that LDL-C consistently <2.0 mmol/L is currently the most appropriate target for high-risk individuals. In the vast majority of people, this target can be achieved with either a statin alone or a statin in combination with another lipid-lowering agent, such as ezetimibe, as shown in the IMPROVE-IT trial (39). People with diabetes and renal dysfunction or those requiring dialysis constituted 23% of the study population of the Study of Heart and Renal Protection (SHARP) trial. The study showed that LDL-C reductions with simvastatin plus ezetimibe were associated with reductions in the incidence of major atherosclerotic events vs. placebo. Subgroup and heterogeneity analysis revealed no difference in risk reduction between participants with or without diabetes using the statin/ezetimibe combination (51). A population-based cohort study suggests that the statin/ezetimibe combination is associated with lower rates of major adverse cardiac events in type 2 diabetes than high potency statins alone (52). These observations suggest that if statin alone does not achieve the expected LDL-C lowering effect desired, the statin/ezetimibe option should be considered.
+
+Of particular interest is the recent availability of proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors which are now indicated for use in people with either familial hypercholesterolemia or clinical atherosclerotic CVD who are not achieving LDL-C goals with healthy behaviour interventions, including diet and exercise and maximally tolerated statins. People with diabetes who also have these features should be considered candidates for these agents as per CCS recommendations (13). Subgroup analyses of these phase 2 and 3 studies of these agents suggest that subjects with diabetes have similar improvements in their lipid profile as do people without diabetes. Indeed, the first pivotal, secondary prevention trial using a PCSK9 inhibitor (53) and a prespecified subgroup analysis of the participants with concomitant diabetes (54) demonstrate further risk reduction with the combination of statin plus PCSK9 inhibitor when compared to statin alone. Risk reductions in participants with or without diabetes were similar; in those with diabetes, the risk reduction in the composite endpoint of CV death, MI, stroke, hospitalization for unstable angina or revascularization was 23%. There was also an 18% reduction in the participants with diabetes in the composite endpoint of CV death, MI and stroke, a benefit that was similar to that experienced by participants without DM. In addition, there was no evidence of worsening of hyperglycemia in the participants with diabetes or of new onset diabetes in those without.
+
+Tables 2 and 3 summarize considerations that should guide the choice of pharmacological agent(s) for the treatment of dyslipidemia. Although it has not been studied in any event-based randomized clinical trial, colesevelam, a bile acid sequestrant, appears to have an ancillary effect on lowering A1C (55,56).
+
+People with IGT (particularly in the context of metabolic syndrome) are at significant risk for the development of CVD. Indeed, some studies suggest that their vascular risk is almost as high as individuals with existing type 2 diabetes (57,58) (see Cardiovascular Protection in People with Diabetes, p. S162). No clinical trials of lipid-lowering agents have been conducted exclusively in people with impaired glucose tolerance (IGT); however, given their increased CVD risk, it is reasonable to consider treating this population to the same targets as people with diabetes (59). To reduce the CVD morbidity and mortality associated with prediabetes and metabolic syndrome, an aggressive approach aimed at associated CVD risk factors, including dyslipidemia, is warranted. Healthy behaviour interventions aimed at reducing the risk of developing both type 2 diabetes and CVD are essential.
+
+Additional lipid markers of CVD risk
+
+The TC/HDL-C ratio is an index of CVD risk (60) and is considered to be a traditional determinant or risk marker when considering the need for lipid-lowering therapy. An elevated TC/HDL-C ratio is usually associated with a low HDL-C and/or elevated TG, both of which are commonly seen in individuals with diabetes and often in individuals without diabetes, even in the face of an optimal LDL-C (7). The elevated TC/HDL-C ratio is considered to represent a marker of lipid-derived, residual risk in treated patients, but it is not considered a target of therapy. Even so, this dyslipidemia is relatively responsive to healthy behaviour interventions (e.g. an increase in physical activity and weight reduction) and improvements in glycemic control, interventions that should be considered in all instances anyway.
+
+To reduce the residual CVD risk despite statin therapy, the potential benefit of additional lipid modification of high TG or low HDL-C with adjuvant pharmacotherapy has attracted tremendous interest. However, 3 recent studies, the Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial (cohort consisted exclusively of patients with diabetes), the Atherothrombosis Intervention in Metabolic Syndrome with Low HDL/High Triglyceride and Impact on Global Health Outcomes (AIM-HIGH) trial, and the Heart Protection Study 2-Treatment of HDL to Reduce the Incidence of Vascular Events (HPS2-THRIVE) trial highlight the importance of maintaining LDL-C lowering as the primary focus of treatment, particularly with statins (61–63). Fenofibrate was used in ACCORD and niacin was used in AIM-HIGH and HPS2-THRIVE. Both of these second-line adjunctive therapies failed to show any added clinical benefit compared to statin therapy alone. Therefore, neither niacin or fibrates can be recommended as routine adjunctive therapy in people already meeting LDL-C targets with statins since these agents appear to have no additional impact on CVD endpoints. In some people, however, these agents may help achieve LDL-C goals (13). The results of 4 recent meta-analyses examining the effects of fibrate therapy on CV outcomes found that fibrates may be particularly beneficial in people with atherogenic dyslipidemia, which is characterized by elevated TG, small LDL particles and reduced HDL-C (64–67).
+
+Evidence suggests that fibrate therapy may help reduce the microvascular complications associated with diabetes (i.e. retinopathy and nephropathy), and it appears as if these beneficial effects are not solely due to the lipid changes induced by this drug class (68–70). For example, the Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) study found that long-term treatment with fenofibrate reduced albuminuria and slowed estimated glomerular filtration rate loss over 5 years, despite initially and reversibly increasing plasma creatinine (68). Furthermore, if residual hyper-TG is high enough to impart a risk of pancreatitis, fibrates may be warranted.
+
+Although TG is not a target of therapy for CV risk reduction, a TG level <1.5 mmol/L is considered optimal since, below this level, there are fewer associated metabolic abnormalities, such as low HDL-C, small dense LDL particles and postprandial lipemia (36,71–74). As indicated above, healthy behaviour interventions, including healthy eating, weight management and improved glycemic control, should all be emphasized.
+
+While several studies have shown that fibrate therapy is associated with CVD prevention, there is much less evidence for CVD risk reduction with fibrates relative to statins, specifically in people with diabetes (75–79). In some studies, no statistically significant reduction in the primary endpoint was demonstrated with fibrate therapy (80,81). Combination therapy with fenofibrate (82,83) or bezafibrate plus a statin appears to be relatively safe if appropriate precautions are taken (Tables 2 and 3). But, as discussed above, the efficacy of these approaches in improving patient outcomes has not been established (61). Although combination treatment with fenofibrate appears to be safe (61,80), statins should not be used in combination with gemfibrozil due to an increased risk of myopathy and rhabdomyolysis (84).
+
+To reduce the risk of pancreatitis rapidly, a fibrate is recommended for individuals with fasting TG levels >10.0 mmol/L who do not respond to other measures, such as intensified glycemic control, weight loss and restriction of refined carbohydrates and alcohol (85). When there is no overriding concern for acute pancreatitis and when there is evidence of hyper-TG in association with an elevated apo B or high non-HDL-C, it would be reasonable to consider a statin as first-line therapy with the subsequent addition of a fibrate, as needed.
+
+As discussed above, evidence has emerged to support the use of apo B determination in the management of patients with dyslipidemia (12,13,45). Mechanistically, it is important to consider that there is 1 apo B molecule per LDL-lipoprotein (a) [Lp(a)], very low-density lipoprotein (VLDL) and intermediate-density lipoprotein (IDL) particle, all of which are atherogenic. Apo B has repeatedly been shown to be a better risk marker for CVD events than LDL-C. Consequently, the measurement of apo B and its monitoring in response to lipid-lowering therapy have been advocated by some authors (12,13,45,86). The measurement of apo B is most clinically useful in the individual with hyper-TG since it provides an indication of the total number of atherogenic lipoprotein particles in the circulation through direct measurement, as opposed to calculated LDL-C which cannot be determined reliably with TG above 4.5 mmol/L and which will be systematically underestimated even when TG are 1.5 to 4.5 mmol/L. Because hyper-TG is commonly seen in people with diabetes, a focus on non-HDL-C or measurement of the apo B level can be used to guide therapy. Based on available evidence, an optimal level of apo B can be considered to be at least <0.9 g/L (87) or, as supported by the CARDS study in subjects with diabetes, <0.8 g/L (45). The latter threshold is endorsed by the Canadian Cardiovascular Society (13).
+
+Further important information has emerged from CARDS with respect to alternative targets and therapeutic goals (32). In an extensive analysis of both spontaneous and statin-induced changes in LDL-C, apo B concentrations and non-HDL-C, outcomes were found to be more consistently related to apo B during statin treatment than LDL-C or non-HDL-C (45). In people treated with a statin, the average apo B concentration in the subgroup with concomitant LDL-C of 2.0 mmol/L was 0.708 g/L, with an upper 95% confidence limit of 0.720 g/L.
+
+The calculated non-HDL-C (TC minus HDL-C) has features similar to apo B: the calculation is valid in the nonfasting state, and it relates mainly to cholesterol contained in atherogenic particles, each of which has an apo B [atherogenic particles, such as VLDL and IDL, LDL, and Lp(a)]. A linear relationship between apo B and non-HDL-C exists over a broad range (88). A non-HDL-C level of 2.6 mmol/L is approximately equal to an apo B of 0.8 g/L and both may be considered alternate goals of therapy. It should be recognized, however, that sole reliance on this general correlation would imply that all people have an average size of LDL-C which is clearly not the case. Thus, these correlations apply to populations and not necessarily to individual patients as LDL-C particle size may vary substantially, leading to the observed standard error associated with the linear correlation. But since non-HDL-C is available without additional cost or separate assay, it is attractive to consider, and its clinical use is supported by several analyses (89–91).
+
+Apo A-I is the defining protein of HDL and is a surrogate marker of the number of HDL particles in the circulation. The relationship between apo A-I and HDL-C is more complicated than the 1:1 relationship of the number of apo B molecules and atherogenic particles because there may be 2 to 4 apo A-I molecules per HDL particle. The apo B/apo A-I ratio has been proposed to be the best single predictor of CVD risk, accounting for 50% of population-attributable events in an ethnically diverse population without diabetes, which was higher than the 32% population attributable risk seen with TC/HDL-C ratio in this study sample (92,93). Currently, in Canada, however, the measurement of apo A-I is even less widely available and less standardized than apo B, thus limiting the practical value of both this measurement and the apo B/apo A-I ratio for clinical decision making.
+
+Finally, because of a series of conflicting results from biochemical and genetic studies of HDL, and several apparently failed clinical trials that aimed to reduce CVD events by pharmacologically raising HDL (94), there has been reconsideration of the targeting of HDL-C. As a predictor, HDL-C and the derived TC/HDL-C ratio are excellent, but it is now clear that HDL-C is not automatically a good target for therapy. The future status of targeting HDL-C or alternative ways of measuring HDL function is a subject of active debate and investigation.
+
+In summary, in order to reduce CVD risk among individuals with diabetes, it is important to understand the atherogenicity of small, dense LDL particles, remnant lipoproteins, TG-rich particles and the complex anti-atherogenic role of HDL particles. It is paramount to improve these metabolic parameters primarily through healthy behaviour interventions, improved glycemic control and pharmacotherapy, when indicated. Despite academic interest in various lipid parameters, it is of paramount importance to realize that the current best-outcome evidence for minimizing the atherogenic impact of lipid abnormalities in people with diabetes is to remain focused on achieving very low plasma concentrations of LDL-C, typically with statin-based therapy, as this conclusion is based on the most extensive clinical trial evidence. For people who are not at goal, despite maximally tolerated statin therapy or in the case of statin intolerance, the use of second-line LDL-C-lowering therapies (Tables 2 and 3) can be considered (95).
+
+Table 3
+Other lipid-modifying medications
+A1C, glycated hemoglobin; BAS, bile acid sequestrant; CV, cardiovascular; GI, gastrointestinal; HDL-C, high-density lipoprotein cholesterol; LDL-C, low-density lipoprotein cholesterol; Lp(a), lipoprotein(a); PCSK9, proprotein convertase subtilisin/kexin type 9; TG, triglyceride.
+Note: Physicians should refer to the most current edition of the Compendium of Pharmaceuticals and Specialties (Canadian Pharmacists Association, Ottawa, Ontario, Canada) for product monographs and complete prescribing information.
+*Listed in alphabetical order.
+†See footnote to Table 2 regarding prevention of myopathy.
+Statins ∗
+Drug class*
+Generic name* (tradename)	Principal effects	Other considerations
+Bile acid sequestrants (BAS)
+Cholestyramine resin (Questran®)
+Colesevelam (Lodalis®)
+Colestipol HCl (Colestid®)
+	
+Lowers LDL-C
+	
+GI intolerability, which worsens with increasing doses
+May elevate TG
+Colesevelam has A1C-lowering effect
+
+Cholesterol absorption inhibitor
+Ezetimibe (Ezetrol® and generics)
+	
+Lowers LDL-C
+	
+Less effective than statins as monotherapy
+Effective when used in combination with a statin to further lower LDL-C (38,39)
+
+Fibrates
+Bezafibrate (Bezalip SR® and generic)
+Fenofibrate (micronized/microcoated/nano crystals) (Lipidil Micro®, Lipidil Supra®, Lipidil EZ®, and generics)
+Gemfibrozil (Lopid®)
+	
+Lowers TG
+Variable effect on LDL-C
+Highly variable effect on HDL-C (more effective at raising HDL-C when baseline TG is high)
+	
+May increase creatinine and homocysteine levels; however, favourable effects on renal function have been noted with long-term fenofibrate treatment (68); possible benefit of fenofibrate on retinopathy
+Do not use gemfibrozil in combination with a statin due to increased risk of myopathy and rhabdomyolysis†
+
+Nicotinic acid
+Extended-release niacin (Niaspan®, Niaspan FCT®)
+Immediate-release niacin (generic, nonprescription)
+Long-acting (e.g. “no-flush”) niacin (generic, nonprescription or niacin/laropiprant combinations) not recommended
+	
+>Raises HDL-C
+Lowers TG
+Lowers LDL-C
+Lowers Lp(a)
+	
+To be used selectively and cautiously but not to be used prior to trials of ezetimibe or BAS
+Can cause dose-related deterioration of glycemic control
+Long-acting niacin should not be used due to increased hepatotoxicity and decreased efficacy (106)
+
+PCSK9 inhibitor
+Alirocumab (Praluent®)
+Evolocumab (Repatha®)
+	
+Lowers LDL-C
+Lowers Lp(a), also, modest TG-lowering and HDL-C raising effects
+	
+Injection site reactions (107–110)
+CV risk reduction shown in 1 randomized clinical trial of secondary prevention, including in a subset with type 2 diabetes
+Statin Therapy and Incident Diabetes
+
+Although statins are the cornerstone of lipid-altering therapy for CVD risk reduction in people with or without diabetes, recent evidence has suggested that chronic statin use is associated with an increased risk of incident diabetes. The interplay between statin therapy and incident diabetes was highlighted in a prespecified analysis of the West of Scotland Coronary Prevention Study (WOSCOPS), which actually showed a decrease in the incidence of new-onset diabetes with pravastatin therapy (96). In contrast, Justification for the Use of Statins in Prevention: an Intervention Trial Evaluating Rosuvastatin (JUPITER) showed an increase in incident diabetes with rosuvastatin (97). Several meta-analyses suggest that there is indeed a small overall increase in diabetes with chronic statin use (98,99) and that this risk may be related to the statin dose (100). The mechanistic link appears to involve inhibition of 3-hydroxy-3-methylglutaryl-CoA reductase (101). Although this finding is of little relevance to people with established diabetes, it may be of relevance to people who are at risk for developing diabetes irrespective of statin treatment, such as those who have obesity and/or who manifest metabolic syndrome. However, as discussed earlier, even people with risk factors for the development of diabetes enjoy a marked benefit in CVD risk reduction through the LDL-C lowering effects of statins, which appears to far outweigh any small risk of new-onset diabetes (57,58). Accordingly, these recent analyses do not affect the recommendation that statins are the preferred agents for lowering LDL-C in most instances, including in people with established diabetes or in those with risk factors for developing the disease (102,103).
+
+Recommendations
+
+Abbreviations:
+
+apo B, apolipoprotein B; apo A-I, apolipoprotein A-I; CAD, coronary artery disease; CV, cardiovascular; CVD, cardiovascular disease; HDL-C, high-density lipoprotein cholesterol; hyper-TG, hypertriglyceridemia; IGT, impaired glucose tolerance; LDL-C, low-density lipoprotein cholesterol; MI, myocardial infarct; non HDL-C, non-high-density lipoprotein cholesterol; PCSK9, proprotein convertase subtilisin/kexin type 9; TC, total cholesterol; TG, triglycerides.
+
+A lipid profile (i.e. TC, HDL-C, TG, calculated LDL-C and/or apo B, or non-HDL-C), fasting or nonfasting, should be measured routinely. In those with known TG >4.5 mmol/L, a fasting (>8-hour fast) lipid profile should be performed. If lipid-lowering treatment is not initiated, a lipid profile should be repeated every 1 to 3 years based on CV risk. Repeat testing should be performed 3 to 6 months after treatment for dyslipidemia is initiated to verify lipid targets are being met [Grade D, Consensus for all statements].
+For people with diabetes with indications for lipid-lowering therapy (see Cardiovascular Protection in People with Diabetes chapter, p. S162), treatment should be initiated with a statin [Grade A, Level 1 (30,32)] to achieve LDL-C consistently <2.0 mmol/L [Grade C, Level 3 (51)] or >50% reduction of LDL-C from baseline [Grade D, Consensus]. Alternative targets and respective goals are apo B <0.8 g/L and non-HDL-C <2.6 mmol/L [Grade C, Level 3 (49)].
+In people with diabetes achieving LDL-C goal with statin therapy, fibrates or niacin should not be routinely added for the sole purpose of further reducing CV risk [Grade A, Level 1 (61–63)].
+For individuals not at LDL-C goal despite statin therapy as described above, a combination of statin therapy with second-line agents may be used to achieve the goal and the agent used should be selected based upon the size of the existing gap to LDL-C goal [Grade D, Consensus]. Generally, ezetimibe should be considered [Grade D, Consensus]. In people with diabetes who also have concomitant clinical CVD, ezetimibe or evolocumab may be used to further reduce major adverse cardiac events [Grade A, Level 1 (39) for ezetimibe; Grade A, Level 1 (54) for evolocumab], and they should also be considered in those with concomitant familial hypercholesterolemia [Grade D, Consensus for ezetimibe and PCSK9 inhibitor].
+For individuals with diabetes with fasting serum TG >10.0 mmol/L, a fibrate should be used to reduce the risk of pancreatitis [Grade D, Consensus] while also optimizing glycemic control and implementing healthy behaviour interventions (e.g. weight management, optimal dietary strategies, reduction of alcohol) [Grade D, Consensus].
+Other Relevant Guidelines
+Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome, p. S10
+Physical Activity and Diabetes, p. S54
+Nutrition Therapy, p. S64
+Weight Management in Diabetes, p. S124
+Cardiovascular Protection in People with Diabetes, p. S162
+Screening for the Presence of Cardiovascular Disease, p. S170
+Treatment of Hypertension, p. S186
+Management of Acute Coronary Syndromes, p. S190
+Treatment of Diabetes in People With Heart Failure, p. S196
+Type 1 Diabetes in Children and Adolescents, p. S234
+Type 2 Diabetes in Children and Adolescents, p. S247
+
+Literature Review Flow Diagram for Chapter 25: Dyslipidemia
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (111).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Mancini reports grants and personal fees from Boehringer Ingelheim, Merck, Novo Nordisk, Janssen, Amgen, and Sanofi, outside the submitted work. Dr. Hegele reports personal fees from Aegerion and Akcea/Ionis; grants and personal fees from Amgen and Sanofi; and personal fees from Boston Heart Diagnostics and Gemphire, outside the submitted work. Dr. Leiter reports grants and personal fees from AstraZeneca, Boehringer Ingelheim, Eli Lilly, Janssen, Merck, Novo Nordisk, Amgen, and Sanofi; personal fees from Servier and Novartis; and grants from GSK, Esperion, Kowa, and The Medicines Company, outside the submitted work.
+
+References
+Roglic G, Unwin N, Bennett PH, et al. The burden of mortality attributable to diabetes: Realistic estimates for the year 2000. Diabetes Care 2005;28:2130–5.
+Morrish NJ, Wang SL, Stevens LK, et al. Mortality and causes of death in the WHO multinational study of vascular disease in diabetes. Diabetologia 2001;44:S14–21.
+Booth GL, Rothwell D, Kung F, et al. Diabetes and cardiac disease. In: Hux JE, Booth GL, Laupacis A, eds. An ICES practice atlas: Institute for clinical evaluative sciences, diabetes in Ontario. Toronto: 2003, pg. 95–129.
+Gaede P, Vedel P, Larsen N, et al. Multifactorial intervention and cardiovascular disease in patients with type 2 diabetes. N Engl J Med 2003;348:383–93.
+Bittner V, Bertolet M, Barraza Felix R, et al. Comprehensive cardiovascular risk factor control improves survival: The BARI 2D trial. J Am Coll Cardiol 2015;66:765–73.
+Margolis KL, O’Connor PJ, Morgan TM, et al. Outcomes of combined cardiovascular risk factor management strategies in type 2 diabetes: The ACCORD randomized trial. Diabetes Care 2014;37:1721–8.
+Rana JS, Liu JY, Moffet HH, et al. Metabolic dyslipidemia and risk of coronary heart disease in 28,318 adults with diabetes mellitus and low-density lipoprotein cholesterol <100 mg/dl. Am J Cardiol 2015;116:1700–4.
+Fruchart JC, Sacks FM, Hermans MP, et al. The Residual Risk Reduction Initiative: A call to action to reduce residual vascular risk in dyslipidaemic patient. Diab Vasc Dis Res 2008;5:319–35.
+Parhofer KG. Pathophysiology of diabetic dyslipidemia: Implications for atherogenesis and treatment. Clin Lipidol 2011;6:401–11.
+Cardiometabolic RiskWorking Group: Executive Committee, Leiter LA, Fitchett DH, et al. Cardiometabolic risk in Canada: A detailed analysis and position paper by the cardiometabolic risk working group. Can J Cardiol 2011;27:e1–33.
+Ginsberg HN, MacCallum PR. The obesity, metabolic syndrome, and type 2 diabetes mellitus pandemic: Part I. Increased cardiovascular disease risk and the importance of atherogenic dyslipidemia in persons with the metabolic syndrome and type 2 diabetes mellitus. J Cardiometab Syndr 2009;4:113–19.
+Anderson TJ, Gregoire J, Hegele RA, et al. 2012 update of the Canadian Cardiovascular Society guidelines for the diagnosis and treatment of dyslipidemia for the prevention of cardiovascular disease in the adult. Can J Cardiol 2013;29:151–67.
+Anderson TJ, Grégoire J, Pearson GJ, et al. 2016 Canadian cardiovascular society guidelines for the management of dyslipidemia for the prevention of cardiovascular disease in the adult. Can J Cardiol 2016;32:1263–82.
+Harris SB, Ekoe JM, Zdanowicz Y, et al. Glycemic control and morbidity in the Canadian primary care setting (results of the diabetes in Canada evaluation study). Diabetes Res Clin Pract 2005;70:90–7.
+Alberti KG, Eckel RH, Grundy SM, et al. Harmonizing the metabolic syndrome: A joint interim statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association;World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity. Circulation 2009;120:1640–5.
+Dattilo AM, Kris-Etherton PM. Effects of weight reduction on blood lipids and lipoproteins: A meta-analysis. Am J Clin Nutr 1992;56:320–8.
+Wing RR, Lang W,Wadden TA, et al. Benefits of modest weight loss in improving cardiovascular risk factors in overweight and obese individuals with type 2 diabetes. Diabetes Care 2011;34:1481–6.
+Kendall CW, Jenkins DJ. A dietary portfolio: Maximal reduction of lowdensity lipoprotein cholesterol with diet. Curr Atheroscler Rep 2004;6:492–8.
+Jenkins DJ, Kendall CW, Faulkner DA, et al. Assessment of the longer-term effects of a dietary portfolio of cholesterol-lowering foods in hypercholesterolemia. Am J Clin Nutr 2006;83:582–91.
+Wing RR.Weight loss in the management of type 2 diabetes. In: Gerstein HC, Haynes RB, eds. Evidence-based diabetes care. Hamilton: BC Decker Inc., 2001, pg. 252–76.
+Boulé NG, Haddad E, Kenny GP, et al. Effects of exercise on glycemic control and body mass in type 2 diabetes mellitus: A meta-analysis of controlled clinical trials. JAMA 2001;286:1218–27.
+Moy CS, Songer TJ, LaPorte RE, et al. Insulin-dependent diabetes mellitus, physical activity, and death. Am J Epidemiol 1993;137:74–81.
+Hu FB, Stampfer MJ, Solomon CG, et al. The impact of diabetes mellitus on mortality from all causes and coronary heart disease in women: 20 years of followup. Arch Intern Med 2001;161:1717–23.
+WeiM, Gibbons LW, Kampert JB, et al. Low cardiorespiratory fitness and physical inactivity as predictors of mortality in men with type 2 diabetes. Ann Intern Med 2000;132:605–11.
+Warburton DER, Nicol CW, Bredin SSD. Health benefits of physical activity: The evidence. Can Med Assoc J 2006;174:801–9.
+Church TS, Cheng YJ, Earnest CP, et al. Exercise capacity and body composition as predictors of mortality among men with diabetes. Diabetes Care 2004;27:83–8.
+Pyo˘rälä K, Pedersen TR, Kjekshus J, et al. Cholesterol lowering with simvastatin improves prognosis of diabetic patients with coronary heart disease. A subgroup analysis of the Scandinavian Simvastatin Survival Study (4S). Diabetes Care 1997;20:614–20.
+Sacks FM, Pfeffer MA, Moye LA, et al. The effect of pravastatin on coronary events after myocardial infarction in patients with average cholesterol levels. Cholesterol and Recurrent Events Trial investigators. N Engl JMed 1996;335:1001–9.
+The Long-Term Intervention with Pravastatin in Ischaemic Disease (LIPID) Study Group. Prevention of cardiovascular events and death with pravastatin in patients with coronary heart disease and a broad range of initial cholesterol levels. The Long-Term Intervention with Pravastatin in Ischaemic Disease (LIPID) Study Group. N Engl J Med 1998;339:1349–57.
+Collins R, Armitage J, Parish S, et al. MRC/BHF Heart Protection Study of cholesterol-lowering with simvastatin in 5963 people with diabetes: A randomised placebo-controlled trial. Lancet 2003;361:2005–16.
+Heart Protection Study Collaborative Group. MRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: A randomised placebo-controlled trial. Lancet 2002;360:7–22.
+Colhoun HM, Betteridge DJ, Durrington PN, et al. Primary prevention of cardiovascular disease with atorvastatin in type 2 diabetes in the Collaborative Atorvastatin Diabetes Study (CARDS): Multicentre randomised placebocontrolled trial. Lancet 2004;364:685–96.
+LaRosa JC, Grundy SM,Waters DD, et al. Intensive lipid lowering with atorvastatin in patients with stable coronary disease. N Engl J Med 2005;352:1425–35.
+Shepherd J, Barter P, Carmena R, et al. Effect of lowering LDL cholesterol substantially below currently recommended levels in patients with coronary heart disease and diabetes: The Treating to New Targets (TNT) study. Diabetes Care 2006;29:1220–6.
+Costa J, Borges M, David C, et al. Efficacy of lipid lowering drug treatment for diabetic and non-diabetic patients: Meta-analysis of randomised controlled trials. BMJ 2006;332:1115–24.
+Tkácˇ I. Treatment of dyslipidemia in patients with type 2 diabetes: Overview and meta-analysis of randomized trials. Diabetes Res Clin Pract 2007;78:S23–8.
+Brugts JJ, Yetgin T, Hoeks SE, et al. The benefits of statins in people without established cardiovascular disease but with cardiovascular risk factors: Metaanalysis of randomised controlled trials. BMJ 2009;338:b2376.
+Leiter LA, Betteridge DJ, Farnier M, et al. Lipid-altering efficacy and safety profile of combination therapy with ezetimibe/statin vs. statin monotherapy in patients with and without diabetes: An analysis of pooled data from 27 clinical trials. Diabetes Obes Metab 2011;13:615–28.
+Cannon CP, Blazing MA, Giugliano RP, et al. Ezetimibe added to statin therapy after acute coronary syndromes. N Engl J Med 2015;372:2387–97.
+de Vries FM, Kolthof J, Postma MJ, et al. Efficacy of standard and intensive statin treatment for the secondary prevention of cardiovascular and cerebrovascular events in diabetes patients: A meta-analysis. PLoS ONE 2014;9:e111247.
+Li L, Ambegaonkar BM, Reckless JP, et al. Association of a reduction in lowdensity lipoprotein cholesterol with incident cardiovascular and cerebrovascular events among people with type 2 diabetes mellitus. Eur J Prev Cardiol 2014;21:855–65.
+Ko DT, Wijeysundera HC, Jackevicius CA, et al. Diabetes mellitus and cardiovascular events in older patients with myocardial infarction prescribed intensive-dose and moderate-dose statins. Circ Cardiovasc Qual Outcomes 2013;6:315–22.
+Yang M, Xie XS, Yuan WJ. A meta-analysis of the effects of statin treatment on cardiovascular events and all-cause mortality in diabetic dialysis patients. Int J Clin Exp Med 2015;8:8415–24.
+Evans JM, Wang J, Morris AD. Comparison of cardiovascular risk between patients with type 2 diabetes and those who had had a myocardial infarction: Cross sectional and cohort studies. BMJ 2002;324:939–42.
+Charlton-Menys V, Betteridge DJ, Colhoun H, et al. Targets of statin therapy: LDL cholesterol, non-HDL cholesterol, and apolipoprotein B in type 2 diabetes in the Collaborative Atorvastatin Diabetes Study (CARDS). Clin Chem 2009;55:473–80.
+Sever PS, Poulter NR, Dahlof B, et al. Reduction in cardiovascular events with atorvastatin in 2,532 patients with type 2 diabetes: Anglo-Scandinavian Cardiac Outcomes Trial–Lipid-Lowering Arm (ASCOT-LLA). Diabetes Care 2005;28:1151–7.
+Knopp RH, d’Emden M, Smilde JG, et al. Efficacy and safety of atorvastatin in the prevention of cardiovascular end points in subjects with type 2 diabetes: The Atorvastatin Study for Prevention of Coronary Heart Disease Endpoints in non-insulin-dependent diabetes mellitus (ASPEN). Diabetes Care 2006;29:1478–85.
+Baigent C, Keech A, Kearney PM, et al. Efficacy and safety of cholesterollowering treatment: Prospective meta-analysis of data from 90,056 participants in 14 randomised trials of statins. Lancet 2005;366:1267–78.
+Cholesterol Treatment Trialists’ (CTT) Collaborator, Kearney PM, Blackwell L, et al. Efficacy of cholesterol-lowering therapy in 18,686 people with diabetes in 14 randomised trials of statins: A meta-analysis. Lancet 2008;371:117–25.
+Cholesterol Treatment Trialists’ (CTT) Collaboration, Baigent C, Blackwell L, et al. Efficacy and safety of more intensive lowering of LDL cholesterol: A metaanalysis of data from 170,000 participants in 26 randomised trials. Lancet 2010;376:1670–81.
+Baigent C, Landray MJ, Reith C, et al. The effects of lowering LDL cholesterol with simvastatin plus ezetimibe in patients with chronic kidney disease (Study of Heart and Renal Protection): A randomised placebo-controlled trial. Lancet 2011;377:2181–92.
+Chang SH, Wu LS, Lee CH, et al. Simvastatin-ezetimibe combination therapy is associated with a lower rate of major adverse cardiac events in type 2 diabetics than high potency statins alone: A population-based dynamic cohort study. Int J Cardiol 2015;190:20–5.
+Sabatine MS, Giugliano RP, Keech AC, et al. Evolocumab and clinical outcomes in patients with cardiovascular disease. N Engl J Med 2017;376:1713–22.
+Sabatine MS, Leiter LA,Wiviott SD, et al. Cardiovascular safety and efficacy of the PCSK9 inhibitor evolocumab in patients with and without diabetes and the effect of evolocumab on glycaemia and risk of new-onset diabetes: A prespecified analysis of the FOURIER randomised controlled trial. Lancet Diabetes Endocrinol 2017 (in press).
+Brunetti L, Hermes-Desantis ER. The role of colesevelam hydrochloride in hypercholesterolemia and type 2 diabetes mellitus. Ann Pharmacother 2010;44:1196–206.
+Avitabile N, Banka A, Fonseca VA. Safety evaluation of colesevelam therapy to achieve glycemic and lipid goals in type 2 diabetes. Expert Opin Drug Saf 2011;10:305–10.
+Tominaga M, Eguchi H, Manaka H, et al. Impaired glucose tolerance is a risk factor for cardiovascular disease, but not impaired fasting glucose. The Funagata Diabetes Study. Diabetes Care 1999;22:920–4.
+Deedwania P, Barter P, Carmena R, et al. Reduction of low-density lipoprotein cholesterol in patients with coronary heart disease and metabolic syndrome: Analysis of the Treating to New Targets study. Lancet 2006;368:919–28.
+Girman CJ, Rhodes T, Mercuri M, et al. The metabolic syndrome and risk of major coronary events in the Scandinavian Simvastatin Survival Study (4S) and the Air Force/Texas Coronary Atherosclerosis Prevention Study (AFCAPS/ TexCAPS). Am J Cardiol 2004;93:136–41.
+Genest J, Frohlich J, Fodor G, et al. Recommendations for the management of dyslipidemia and the prevention of cardiovascular disease: Summary of the 2003 update. CMAJ 2003;169:921–4.
+Ginsberg HN, Elam MB, Lovato LC, et al. Effects of combination lipid therapy in type 2 diabetes mellitus. N Engl J Med 2010;362:1563–74.
+HPS2 THRIVE Collaborative Group, Landray MJ, Haynes R, et al. Effects of extended-release niacin with laropiprant in high-risk patients. N Engl J Med 2014;371:203–12.
+AIM-HIGH Investigator, Boden WE, Probstfield JL, et al. Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy. N Engl J Med 2011;365:2255–67.
+Lee M, Saver JL, Towfighi A, et al. Efficacy of fibrates for cardiovascular risk reduction in persons with atherogenic dyslipidemia: A meta-analysis. Atherosclerosis 2011;217:492–8.
+Bruckert E, Labreuche J, Deplanque D, et al. Fibrates effect on cardiovascular risk is greater in patients with high triglyceride levels or atherogenic dyslipidemia profile: A systematic review and meta-analysis. J Cardiovasc Pharmacol 2011;57:267–72.
+Loomba RS, Arora R. Prevention of cardiovascular disease utilizing fibrates–a pooled meta-analysis. Am J Ther 2010;17:e182–8.
+Jun M, Foote C, Lv J, et al. Effects of fibrates on cardiovascular outcomes: A systematic review and meta-analysis. Lancet 2010;375:1875–84.
+Davis TM, Ting R, Best JD, et al. Effects of fenofibrate on renal function in patients with type 2 diabetes mellitus: The Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) Study. Diabetologia 2011;54:280–90.
+ACCORD Study Group, ACCORD Eye Study Group, Chew EY, et al. Effects of medical therapies on retinopathy progression in type 2 diabetes. N Engl J Med 2010;363:233–44.
+Valensi P, Picard S. Lipids, lipid-lowering therapy and diabetes complications. Diabetes Metab 2011;37:15–24.
+Griffin BA, Freeman DJ, Tait GW, et al. Role of plasma triglyceride in the regulation of plasma Low Density Lipoprotein (LDL) subfractions: Relative contribution of small, dense LDL to coronary heart disease risk. Atherosclerosis 1994;106:241–53.
+Packard CJ, Shepherd J. Lipoprotein heterogeneity and apolipoprotein Bmetabolism. Arterioscler Thromb Vasc Biol 1997;17:3542–56.
+Gandotra P, Miller M. The role of triglycerides in cardiovascular risk. Curr Cardiol Rep 2008;10:505–11.
+Miller M, Stone NJ, Ballantyne C, et al. Triglycerides and cardiovascular disease: A scientific statement from the American Heart Association. Circulation 2011;123:2292–333.
+Elkeles RS, Diamond JR, Poulter C, et al. Cardiovascular outcomes in type 2 diabetes. A double-blind placebo-controlled study of bezafibrate: The St. Mary’s, Ealing, Northwick Park Diabetes Cardiovascular Disease Prevention (SENDCAP) Study. Diabetes Care 1998;21:641–8.
+Rubins HB, Robins SJ, Collins D, et al. Gemfibrozil for the secondary prevention of coronary heart disease in men with low levels of high-density lipoprotein cholesterol. Veterans Affairs High-Density Lipoprotein Cholesterol Intervention Trial Study Group. N Engl J Med 1999;341:410–18.
+Effect of fenofibrate on progression of coronary-artery disease in type 2 diabetes: The Diabetes Atherosclerosis Intervention Study, a randomised study. Lancet 2001;357:905–10.
+Frick MH, Elo O, Haapa K, et al. Helsinki Heart Study: Primary-prevention trial with gemfibrozil in middle-aged men with dyslipidemia. Safety of treatment, changes in risk factors, and incidence of coronary heart disease. N Engl J Med 1987;317:1237–45.
+Robins SJ, Rubins HB, Faas FH, et al. Insulin resistance and cardiovascular events with low HDL cholesterol: The Veterans Affairs HDL Intervention Trial (VA-HIT). Diabetes Care 2003;26:1513–17.
+Keech A, Simes RJ, Barter P, et al. Effects of long-term fenofibrate therapy on cardiovascular events in 9795 people with type 2 diabetes mellitus (the FIELD study): Randomised controlled trial. Lancet 2005;366:1849–61.
+Bezafibrate Infarction Prevention (BIP) Study. Secondary prevention by raising HDL cholesterol and reducing triglycerides in patients with coronary artery disease. Circulation 2000;102:21–7.
+Durrington PN, Tuomilehto J, Hamann A, et al. Rosuvastatin and fenofibrate alone and in combination in type 2 diabetes patients with combined hyperlipidaemia. Diabetes Res Clin Pract 2004;64:137–51.
+Athyros VG, Papageorgiou AA, Athyrou VV, et al. Atorvastatin and micronized fenofibrate alone and in combination in type 2 diabetes with combined hyperlipidemia. Diabetes Care 2002;25:1198–202.
+Pasternak RC, Smith SC Jr, Bairey-Merz CN, et al. ACC/AHA/NHLBI clinical advisory on the use and safety of statins. J Am Coll Cardiol 2002;40:567–72.
+Sandhu S, Al-Sarraf A, Taraboanta C, et al. Incidence of pancreatitis, secondary causes, and treatment of patients referred to a specialty lipid clinic with severe hypertriglyceridemia: A retrospective cohort study. Lipids Health Dis 2011;10:157.
+Barter PJ, Ballantyne CM, Carmena R, et al. Apo B versus cholesterol in estimating cardiovascular risk and in guiding therapy: Report of the thirty-person/ ten-country panel. J Intern Med 2006;259:247–58.
+Walldius G, Jungner I, Holme I, et al. High apolipoprotein B, low apolipoprotein A-I, and improvement in the prediction of fatal myocardial infarction (AMORIS study): A prospective study. Lancet 2001;358:2026–33.
+Hermans MP, Sacks FM, Ahn SA, et al. Non-HDL-cholesterol as valid surrogate to apolipoprotein B100 measurement in diabetes: Discriminant Ratio and unbiased equivalence. Cardiovasc Diabetol 2011;10:20.
+Robinson JG,Wang S, Smith BJ, et al. Meta-analysis of the relationship between non-high-density lipoprotein cholesterol reduction and coronary heart disease risk. J Am Coll Cardiol 2009;53:316–22.
+Ramjee V, Sperling LS, Jacobson TA. Non-high-density lipoprotein cholesterol versus apolipoprotein B in cardiovascular risk stratification: Do the math. J Am Coll Cardiol 2011;58:457–63.
+Mora S, Glynn RJ, Boekholdt SM, et al. On-treatment non-high-density lipoprotein cholesterol, apolipoprotein B, triglycerides, and lipid ratios in relation to residual vascular risk after treatment with potent statin therapy: JUPITER (justification for the use of statins in prevention: An intervention trial evaluating rosuvastatin). J Am Coll Cardiol 2012;59:1521–8.
+Yusuf S, Hawken S, Ounpuu S, et al. Effect of potentially modifiable risk factors associated withmyocardial infarction in 52 countries (the INTERHEART study): Case-control study. Lancet 2004;364:937–52.
+McQueen MJ, Hawken S,Wang X, et al. Lipids, lipoproteins, and apolipoproteins as risk markers ofmyocardial infarction in 52 countries (the INTERHEART study): A case-control study. Lancet 2008;372:224–33.
+Rosenson RS. The high-density lipoprotein puzzle: Why classic epidemiology, genetic epidemiology, and clinical trials conflict? Arterioscler Thromb Vasc Biol 2016;36:777–82.
+Hegele RA, Gidding SS, Ginsberg HN, et al. Nonstatin low-density lipoproteinlowering therapy and cardiovascular risk reduction-statement from ATVB council. Arterioscler Thromb Vasc Biol 2015;35:2269–80.
+Freeman DJ, Norrie J, Sattar N, et al. Pravastatin and the development of diabetes mellitus: Evidence for a protective treatment effect in theWest of Scotland Coronary Prevention Study. Circulation 2001;103:357–62.
+Ridker PM, Danielson E, Fonseca FA, et al. Rosuvastatin to prevent vascular events in men and women with elevated C-reactive protein. N Engl J Med 2008;359:2195–207.
+Coleman CI, Reinhart K, Kluger J, et al. The effect of statins on the development of new-onset type 2 diabetes: A meta-analysis of randomized controlled trials. Curr Med Res Opin 2008;24:1359–62.
+Rajpathak SN, Kumbhani DJ, Crandall J, et al. Statin therapy and risk of developing type 2 diabetes: A meta-analysis. Diabetes Care 2009;32:1924–9.
+Preiss D, Seshasai SR, Welsh P, et al. Risk of incident diabetes with intensivedose compared with moderate-dose statin therapy: A meta-analysis. JAMA 2011;305:2556–64.
+Swerdlow DI, Preiss D, Kuchenbaecker KB, et al. HMG-coenzyme A reductase inhibition, type 2 diabetes, and bodyweight: Evidence from genetic analysis and randomised trials. Lancet 2015;385:351–61.
+Mancini GB, Baker S, Bergeron J, et al. Diagnosis, prevention, and management of statin adverse effects and intolerance: Canadian Consensus Working Group update (2016). Can J Cardiol 2016;32:S35–65.
+Ray K. Statin diabetogenicity: Guidance for clinicians. Cardiovasc Diabetol 2013;12:S3.
+Mancini GB, Baker S, Bergeron J, et al. Diagnosis, prevention, and management of statin adverse effects and intolerance: Proceedings of a Canadian Working Group Consensus Conference. Can J Cardiol 2011;27:635–62.
+Mancini GB, Tashakkor AY, Baker S, et al. Diagnosis, prevention, and management of statin adverse effects and intolerance: CanadianWorking Group consensus update. Can J Cardiol 2013;29:1553–68.
+McKenney J. New perspectives on the use of niacin in the treatment of lipid disorders. Arch Intern Med 2004;164:697–705.
+McKenney JM, Koren MJ, Kereiakes DJ, et al. Safety and efficacy of a monoclonal antibody to proprotein convertase subtilisin/kexin type 9 serine protease, SAR236553/REGN727, in patients with primary hypercholesterolemia receiving ongoing stable atorvastatin therapy. J Am Coll Cardiol 2012;59:2344–53.
+Stein EA, Gipe D, Bergeron J, et al. Effect of a monoclonal antibody to PCSK9, REGN727/SAR236553, to reduce low-density lipoprotein cholesterol in patients with heterozygous familial hypercholesterolaemia on stable statin dose with or without ezetimibe therapy: A phase 2 randomised controlled trial. Lancet 2012;380:29–36.
+Robinson JG, Farnier M, Krempf M, et al. Efficacy and safety of alirocumab in reducing lipids and cardiovascular events. N Engl J Med 2015;372:1489–99.
+Sabatine MS, Giugliano RP, Wiviott SD, et al. Efficacy and safety of evolocumab in reducing lipids and cardiovascular events. N Engl J Med 2015;372:1500–9.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

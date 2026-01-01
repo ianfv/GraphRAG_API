@@ -1,0 +1,127 @@
+Chapter Headings
+
+Introduction
+Influenza Immunization in Adults
+Pneumococcal Immunization in Adults
+Hepatitis B Vaccination
+Hepatitis B and Diabetes
+Herpes Zoster
+Herpes Zoster and Diabetes
+Related Websites
+Author Disclosures
+Key Messages
+Influenza vaccination can reduce hospitalization rates by approximately 40% for those individuals deemed to be at high risk.
+Pneumococcal vaccination is desired in people with diabetes as they are considered as likely to be infected as those with other chronic diseases.
+Adults with type 1 and type 2 diabetes are at higher risk of hepatitis B virus infection.
+Key Messages for People with Diabetes
+You should receive routine vaccinations as recommended for anyone with or without diabetes. Check if you are up to date with your vaccinations.
+You should receive:
+Influenza vaccination(“flu shot”) every year
+Pneumococcal vaccination:
+Initially, when you are over the age of 18 years
+And, again, when you are over the age of 65 years (if your original vaccination was given when you were younger than 65 years and your last vaccination was over 5 years ago)
+Introduction
+
+People with diabetes are considered to be at high risk for morbidity and mortality from influenza and pneumococcal disease (1,2). During recent influenza epidemics, diabetes was considered a significant risk factor for hospitalization (3). Influenza vaccination is associated with up to a 40% risk reduction in mortality (4). Clinical recommendations for vaccination are derived from large cohort studies that included people with diabetes as trials specific to individuals with diabetes are currently lacking. Those with diabetes should receive vaccinations that are recommended for the general population.
+
+Influenza Vaccination in Adults
+
+Data regarding influenza morbidity and mortality in people with diabetes are based on retrospective analyses during influenza epidemics (3–5). A recent epidemiological analysis of pandemic influenza demonstrated that people with diabetes are more likely to be hospitalized or to require intensive care (6). One study demonstrated that, in a Canadian cohort of working-age adults, individuals with diabetes had an increased rate of hospitalizations from influenza-like and pneumonia-influenza illness, as well as all-cause hospitalizations (7). Over a period of 10 influenza seasons, influenza vaccination was shown to be effective in reducing both death and hospitalization from influenza and pneumonia in a cohort that included people with diabetes (8). Two large cohort studies have found that influenza vaccination decreased hospitalizations in both the elderly and working-age adults (9,10).
+
+A Dutch case-control study documented that the incidence of complications was 2 times higher in the unvaccinated group compared to the vaccinated group (11). The rates of hospitalization for influenza, pneumonia, other acute respiratory diseases, myocardial infarction, congestive heart failure, and stroke or diabetes events were reduced by 70%.
+
+Pneumococcal Vaccination in Adults
+
+People with diabetes are at an increased risk of hospitalization for pneumococcal disease (1,12). Prior pneumococcal vaccination is associated with a reduction in death and complications in hospitalized adults with community-acquired pneumonia (13). It is accepted that people with diabetes are at similar risk of developing pneumococcal disease as those with other chronic conditions (1) and, therefore, those with diabetes are encouraged to receive pneumococcal vaccination. Revaccination is recommended as a 1-time event for individuals ≥65 years of age if the original vaccine was given when they were <65 years of age and >5 years earlier. Health Canada recommends vaccination with Pneu-P-23 as more serotypes are included in this vaccine (14).
+
+Some experts suggest a dose of pneumococcal conjugate vaccine followed by Pneu-P-23 vaccine for immunocompetent adults at high risk of pneumonia-influenza disease due to an underlying medical condition, as this may theoretically improve antibody response and immunologic memory (15). If this strategy is chosen, Pneu-C-13 vaccine should be administered first, followed at least 8 weeks later by Pneu-P-23 vaccine. However, Pneu-P-23 vaccine is the vaccine of choice for these individuals. If only 1 vaccine can be provided, it should be Pneu-P-23 vaccine (16).
+
+The Centers for Disease Control and Prevention Advisory Committee on Immunization Practices recommends Pneu-P-23 vaccination alone for persons with diabetes aged 19 to 64 years. For people with diabetes ≥65 years or with an immunocompromising condition (e.g. chronic renal failure), they recommend Pneu-C-13 vaccine should be administered first, followed at least 8 weeks later by Pneu-P-23 vaccine. In people who have already received Pneu-P-23, at least 1 year should elapse before they are given Pneu-C-13.
+
+Hepatitis B Vaccination
+
+Hepatitis B (HBV) is a highly infectious blood borne pathogen that can lead to acute and chronic liver disease and can be a source of significant morbidity and mortality. HBV infection is the leading cause of hepatocellular carcinoma (HCC), and is the cause of 50% of HCC noted worldwide (17). Hepatitis B and C viruses with Helicobacter pylori and human papilloma viruses were responsible for 1.9 million cases of new cancers in 2008, which included liver, gastric and cervical cancers (18). Vaccination against HBV has been effective in reducing childhood HCC and Hepatitis B in Taiwan (19).
+
+Hepatitis B and Diabetes
+
+Adults with type 1 and type 2 diabetes are at higher risk of HBV infection (20). Reilly et al showed that adults between the ages of 23 to 59 years with diabetes were at approximately twice the risk of acute HBV compared with adults without diabetes. People with diabetes can be exposed in many ways to HBV when there is assisted glucose monitoring (20–22). Outbreaks in 2003–2004 of HBV in long-term care homes in the United States, in Mississippi, North Carolina and Los Angeles, prompted an evaluation of HBV in adults with diabetes (22). Infections in these facilities were felt to be due to lack of compliance and implementation of standard hygienic protocols (23). In response, the Hepatitis Vaccines Work Group of the Advisory Committee on Immunization Practices (ACIP) was formed and, based on their findings, HBV vaccination was recommended for those diagnosed with diabetes (24,25). The ACIP report stated that current HBV vaccines are less efficacious and less cost-effective among older adults and recommended that decisions to vaccinate adults with diabetes who are aged >60 years of age incorporate consideration of the person's likelihood of acquiring HBV infection, including the risk posed by an increased need for assisted blood glucose monitoring in long-term care facilities, the likelihood of experiencing chronic sequelae if infected with HBV, and the declining immunologic responses to vaccines that are associated with frailty (24). In Canada, the National Advisory Committee on Immunization recommends HBV vaccine for all children and those in high-risk groups but does not specify individuals with diabetes (14).
+
+Herpes Zoster
+
+The varicella-zoster virus causes 2 distinct syndromes (26). The primary infection syndrome of varicella-zoster presents as varicella (chicken pox). The secondary infection syndrome is the reactivation of the latent varicella-zoster virus in the cranial nerve or dorsal-root ganglia, with spread of the virus along the sensory nerve to the dermatome-termed herpes zoster (26). Herpes zoster are painful blisters or rash, commonly known as shingles. The most common complication of herpes zoster, which persists several months after the lesions have healed, is postherpetic neuralgia pain (27). Complications from herpes zoster can impact significantly on the quality of life for individuals (28).
+
+The annual incidence rate of herpes zoster ranges between 3 to 5 cases per 1000 person-years (29). In Canada, approximately 20% of Canadians are expected to develop herpes zoster at some point in their lives, with an annual report of 130,000 new cases of herpes zoster each year (30). Although the causes of herpes zoster are not fully understood (27), conditions such as inflammatory bowel diseases, diabetes and certain cancerous tumours and leukemias have been associated with an increased risk of herpes zoster (30). The major risk factor for herpes zoster is increased with age. Approximately two-thirds of herpes zoster cases occur in adults 50 years of age and older (27). There is a reduction in cellular immunity during the natural process of aging that predisposes older people to herpes zoster (28). The incidence of herpes zoster also increases substantially in immunocompromised individuals.
+
+Herpes Zoster and Diabetes
+
+Evidence from previous studies has demonstrated that diabetes mellitus is often accompanied by impaired cell-mediated immunity (31). Individuals with diabetes are more prone to infection than individuals without diabetes (32). The clinical evidence regarding diabetes as a risk factor for herpes zoster is scarce. A study conducted by Okamoto et al showed an association between diabetes and herpes zoster (33). Among individuals with diabetes between the ages of 41 to 79 years of age, there was significantly lower cell-mediated immunity to varicella zoster virus compared to the individuals without diabetes (33).
+
+According to the Advisory Committee on Immunization Practices (ACIP) and Canadian Public Health Services (34,35), recommendations for the herpes zoster vaccine are as follows:
+
+Routinely recommend for adults ≥60 years of age.
+Vaccination before 60 years of age might not have the required protection when the risks and complications of herpes zoster are highest (i.e. ≥60 years of age).
+Protection offered by the herpes zoster vaccine wanes within the first 5 years (36).
+Beyond 5 years of vaccination, duration of protection is uncertain.
+Immunocompromised individuals are an important group to consider when discussing vaccinations, such as herpes zoster vaccine.
+Recommendations
+People with diabetes should receive routine vaccination as recommended for the general population in keeping with the National Advisory Committee on Immunization guidelines [Grade D, Consensus] (available at http://www.phac-aspc.gc.ca/publicat/cig-gci/index-eng.php).
+People with diabetes should receive an annual influenza vaccination during flu season to reduce the risk of influenza-related hospitalizations and death [Grade C, Level 3 (5)].
+Pneu-P-23 vaccination should be offered to persons with diabetes aged 19 to 64 years. A 1-time revaccination is recommended for those ≥65 years of age (if the original vaccine was given when they were <65 years of age). For people with diabetes ≥65 years or with an immunocompromising condition (e.g. end stage renal disease), Pneu-C-13 vaccine should be administered first, followed at least 8 weeks later by Pneu-P-23 vaccine. In people who have already received Pneu-P-23, at least 1 year should elapse before they are given Pneu-C-13 [Grade D, Consensus].
+
+Abbreviations:
+
+HBV, hepatitis B; HCC, hepatocellular carcinoma.
+
+Related Websites
+National Advisory Committee on Immunization. Canadian Immunization Guide. 7th edn. Ottawa: Canadian Medical Association, 2016. Available at: http://www.phac-aspc.gc.ca/publicat/cig-gci/index-eng.php. Accessed April 25, 2016.
+
+Literature Review Flow Diagram for Chapter 19: Influenza, Pneumococcal, Hepatitis B and Herpes Zoster Vaccinations
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (37).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Husein reports support from Amgen, Eli Lilly, Novo Nordisk, AstraZeneca, Boehringer Ingelheim, Merck, and Janssen, outside the submitted work. No other author has anything to disclose.
+
+References
+Muller LM, Gorter KJ, Hak E, et al. Increased risk of common infections in patients with type 1 and type 2 diabetes mellitus. Clin Infect Dis 2005;41:281–8.
+Groenwold RH, Hoes AW, Hak E. Impact of influenza vaccination on mortality risk among the elderly. Eur Respir J 2009;34:56–62.
+Jain S, Kamimoto L, Bramley AM, et al. Hospitalized patients with 2009 H1N1 influenza in the United States, April–June 2009. N Engl J Med 2009;361:1935–44.
+Campbell A, Rodin R, Kropp R, et al. Risk of severe outcomes among patients admitted to hospital with pandemic (H1N1) influenza. CMAJ 2010;182:349–55.
+Vamos EP, Pape UJ, Curcin V, et al. Effectiveness of the influenza vaccine in preventing admission to hospital and death in people with type 2 diabetes. CMAJ 2016;188:E342–51.
+Allard R, Leclerc P, Tremblay C, et al. Diabetes and the severity of pandemic influenza A (H1N1) infection. Diabetes Care 2010;33:1491–3.
+Lau D, Eurich DT, Majumdar SR, et al. Working-age adults with diabetes experience greater susceptibility to seasonal influenza: A population-based cohort study. Diabetologia 2014;57:690–8.
+Nichol KL, Nordin JD, Nelson DB, et al. Effectiveness of influenza vaccine in the community-dwelling elderly. N Engl J Med 2007;357:1373–81.
+Wang IK, Lin CL, Chang YC, et al. Effectiveness of influenza vaccination in elderly diabetic patients: A retrospective cohort study. Vaccine 2013;31:718–24.
+Lau D, Eurich DT, Majumdar SR, et al. Effectiveness of influenza vaccination in working-age adults with diabetes: A population-based cohort study. Thorax 2013;68:658–63.
+Looijmans-Van den Akker I, Verheij TJ, Buskens E, et al. Clinical effectiveness of first and repeat influenza vaccination in adult and elderly diabetic patients. Diabetes Care 2006;29:1771–6.
+Kornum JB, Thomsen RW, Riis A, et al. Diabetes, glycemic control, and risk of hospitalization with pneumonia: A population-based case-control study. Diabetes Care 2008;31:1541–5.
+Fisman DN, Abrutyn E, Spaude KA, et al. Prior pneumococcal vaccination is associated with reduced death, complications, and length of stay among hospitalized adults with community-acquired pneumonia. Clin Infect Dis 2006;42:1093–101.
+Government of Canada. Canadian immunization guide: Part 4—active vaccines. Toronto (ON): Public Health Agency of Canada, 2016. https://www.canada.ca/en/public-health/services/publications/healthy-living/canadianimmunization-guide-part-4-active-vaccines.html?. Accessed November 15, 2017.
+Kobayashi M, Bennett NM, Gierke R, et al. Intervals between PCV13 and PPSV23 vaccines: Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Morb Mortal Wkly Rep 2015;64:944–7.
+Centers for Disease Control and Prevention (CDC), Advisory Committee on Immunization Practices. Updated recommendations for prevention of invasive pneumococcal disease among adults using the 23-valent pneumococcal polysaccharide vaccine (PPSV23). MMWR Morb Mortal Wkly Rep 2010;59:1102–6.
+Mittal S, El-Serag. Epidemiology of HCC: Consider the population. J Clin Gastroenterol 2013;47:S2–6.
+Parkin DM. The global health burden of infection-associated cancers in the year 2002. Int J Cancer 2006;118:3030–44.
+Chang MH, Chen CJ, Lai MS, et al. Universal hepatitis B vaccination in Taiwan and the incidence of hepatocellular carcinoma in children. Taiwan Childhood Hepatoma Study Group. N Engl J Med 1997;336:1855–9.
+Reilly ML, Schillie SF, Smith E, et al. Increased risk of acute hepatitis B among adults with diagnosed diabetes mellitus. J Diabetes Sci Technol 2012;6:858–66.
+Thompson ND, Barry V, Alelis K, et al. Evaluation of the potential for bloodborne pathogen transmission associated with diabetes care practices in nursing homes and assisted living facilities, Pinellas County. J Am Geriatr Soc 2010;58:914–18.
+Thompson ND, Schaefer MK. “Never events”: Hepatitis B outbreaks and patient notifications resulting from unsafe practices during assisted monitoring of blood glucose, 2009–2010. J Diabetes Sci Technol 2011;5:1396–402.
+Williams IT, Perz JF, Bell BP. Viral hepatitis transmission in ambulatory health care settings. Clin Infect Dis 2004;38:1592–8.
+Centers for Disease Control and Prevention (CDC). Transmission of hepatitis B virus among persons undergoing blood glucose monitoring in long-term–care facilities—Mississippi, North Carolina, and Los Angeles County, California, 2003–2004. MMWR Morb Mortal Wkly Rep 2005;54:220–3.
+Centers for Disease Control and Prevention (CDC). Use of hepatitis B vaccination for adults with diabetes mellitus: Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Morb Mortal Wkly Rep 2011;60:1709–11.
+Gnann JW Jr, Whitley RJ. Clinical practice. Herpes zoster. N Engl J Med 2002;347:340–6.
+Guignard AP, Greenberg M, Lu C, et al. Risk of herpes zoster among diabetics: A matched cohort study in a US insurance claim database before introduction of vaccination, 1997–2006. Infection 2014;42:729–35.
+Gagliardi AMZ, Silva BNG, Torloni MR, et al. Vaccines for preventing herpes zoster in older adults. Sao Paulo Med J 2014;132:255.
+Ke CC, Lai HC, Lin CH, et al. Increased risk of herpes zoster in diabetic patients comorbid with coronary artery disease and microvascular disorders: A population-based study in Taiwan. PLoS ONE 2016;11:e0146750.
+Canadian Pain Society Study Day participants. Safety and effectiveness of the herpes zoster vaccine to prevent postherpetic neuralgia: 2014 update and consensus statement from the Canadian Pain Society. Pain Res Manag 2015;20:46–7.
+Moutschen MP, Scheen AJ, Lefebvre PJ. Impaired immune responses in diabetes mellitus: analysis of the factors and mechanisms involved. Relevance to the increased susceptibility of diabetic patients to specific infections. DiabeteMetab 1992;18:187–201.
+Heymann AD, Chodick G, Karpati T, et al. Diabetes as a risk factor for herpes zoster infection: Results of a population-based study in Israel. Infection 2008;36:226–30.
+Okamoto S, Hata A, Sadaoka K, et al. Comparison of varicella-zoster virusspecific immunity of patients with diabetes mellitus and healthy individuals. J Infect Dis 2009;200:1606–10.
+Hales CM, Harpaz R, Ortega-Sanchez I, et al. Update on recommendations for use of herpes zoster vaccine. MMWR Morb Mortal Wkly Rep 2014;63:729–31.
+An Advisory Committee Statement (ACS) National Advisory Committee on Immunization (NACI). Update on the use of herpes zoster vaccine. Toronto: Public Health Agency of Canada, 2014. https://www.canada.ca/en/public-health/services/ publications/healthy-living/update-use-herpes-zoster-vaccine.html. Accessed November 15, 2017.
+Gagliardi AM, Andriolo BN, Torloni MR, et al. Vaccines for preventing herpes zoster in older adults. Cochrane Database Syst Rev 2016;(3):CD008858.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

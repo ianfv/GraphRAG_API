@@ -1,0 +1,315 @@
+Chapter Headings
+
+Introduction
+Insulin Therapy with Basal-Bolus Injection Therapy
+Hypoglycemia and Insulin Therapy
+Continuous Subcutaneous Insulin Infusion Therapy
+Continuous Glucose Monitoring
+Adjunctive Therapy for Glycemic Control
+Other Relevant Guidelines
+Relevant Appendix
+Author Disclosures
+
+This chapter is dedicated to Dr. Angela McGibbon who passed away from a sudden illness on February 11, 2018. She had an extraordinary dedication to diabetes care and a passion for teaching the importance of patient care and compassion. Her leadership and outstanding contributions to the diabetes community will always be remembered.
+
+Key Messages
+Basal-bolus insulin therapies (i.e. multiple daily injections or continuous subcutaneous insulin infusion) are the preferred insulin management regimens for adults with type 1 diabetes.
+Insulin regimens should be tailored to the individual's treatment goals, lifestyle, diet, age, general health, motivation, hypoglycemia awareness status and ability for self-management.
+All individuals with type 1 diabetes should be counselled about the risk, prevention and treatment of hypoglycemia. Avoidance of nocturnal hypoglycemia may include changes in insulin therapy and increased monitoring.
+If glycemic targets are not met with optimized multiple daily injections, continuous subcutaneous insulin infusion may be considered. Successful continuous subcutaneous insulin infusion therapy requires appropriate candidate selection, ongoing support and frequent involvement with the healthcare team.
+Continuous glucose monitoring may be offered to people not meeting their glycemic targets, who will wear the devices the majority of the time, in order to improve glycemic control.
+Key Messages for People with Diabetes
+Insulin therapy is required for the treatment of type 1 diabetes.
+There are a variety of insulins and methods of giving insulin to help manage type 1 diabetes.
+Insulin is injected by pen, syringe or insulin pump.
+Your health-care provider will work with you to determine such things as:
+The number of insulin injections you need per day
+The timing of your insulin injections
+The dose of insulin you need with each injection
+If and when an insulin pump is appropriate for you
+Your pump settings if you are giving insulin that way.
+The insulin treatment your health-care provider prescribes will depend on your goals, lifestyle, meal plan, age and general health. Social and financial factors may also be taken into account.
+Learning to avoid and treat hypoglycemia (low blood glucose) is an important part of your education. The ideal balance is to achieve blood glucose levels that are as close to target as possible while avoiding hypoglycemia.
+Introduction
+
+Insulin is lifesaving pharmacological therapy for people with type 1 diabetes. Insulin preparations are primarily produced by recombinant DNA technology and are formulated either as structurally identical to human insulin or as a modification of human insulin (insulin analogues) to alter pharmacokinetics. Human insulin and insulin analogues are preferred and used by most adults with type 1 diabetes; however, preparations of animal-sourced insulin are still accessible in Canada (1) although rarely required. Inhaled insulin is currently not approved for use in Canada.
+
+Insulin preparations are classified according to their duration of action and are further differentiated by their time of onset and peak actions (see Appendix 6. Types of Insulin). For most adults with type 1 diabetes, premixed insulin preparations are not suitable as frequent adjustments of insulin are required. Insulin delivered by basal-bolus injection therapy or continuous subcutaneous insulin infusion (CSII, also called insulin pump therapy) as basal and bolus regimens are preferred. Avoidance of hypoglycemia with all regimens is a priority.
+
+Achieving optimal glycemic targets, while avoiding hypoglycemia, can be challenging and requires individualized insulin regimens, which may include specialized insulin delivery devices and glucose monitoring often introduced in an escalating manner, starting with basal-bolus injection therapy then, in some cases, moving to CSII either with or without sensor augmentation. Continuous glucose monitoring (CGM) may be used with basal-bolus injection therapy or CSII. The role of adjuvant (noninsulin) injectable or oral antihyperglycemic medications in glycemic control is limited for most people with type 1 diabetes. Noninsulin pharmacotherapy for prevention of complications and treatment of risk factors is addressed in other chapters (see Cardiovascular Protection in People with Diabetes chapter, p. S162; Chronic Kidney Disease in Diabetes chapter, p. S201). Hypoglycemia as it relates to insulin therapy in type 1 diabetes is discussed here, and hypoglycemia in general is addressed in the Hypoglycemia chapter, p. S104.
+
+Insulin Therapy with Basal-Bolus Injection Therapy
+
+People with type 1 diabetes are initiated on insulin therapy immediately at diagnosis. This requires both the selection of an insulin regimen and comprehensive diabetes education. Insulin regimens, usually with basal and bolus insulins, should be tailored to the individual's age, general health, treatment goals, lifestyle, diet, hypoglycemia awareness status, ability for self-management and adherence to treatment. Social and financial aspects also should be considered. After insulin initiation, some individuals experience a “honeymoon period,” during which insulin requirements may be lower than expected; however, this period is transient (usually weeks to months), and insulin requirements typically increase and stabilize with time.
+
+The Diabetes Control and Complications Trial (DCCT) conclusively demonstrated that intensive treatment of type 1 diabetes significantly delays the onset and slows the progression of microvascular and cardiovascular (CV) complications (2,3). The most successful management in the majority of adults with type 1 diabetes is based on basal-bolus injection therapy or CSII. Such regimens attempt to replicate normal pancreatic secretion of insulin.
+
+Currently, new concentrated insulin preparations are available in basal and bolus formats. Sometimes they have identical pharmacokinetic and pharmacodynamic properties to the original preparation and other concentrated insulins have different pharmacological properties (see Appendix 6. Types of Insulin). These are further described below in the basal and bolus sections. In addition, biosimilar basal insulin is also available.
+
+Basal insulin and basal-bolus injection therapy
+
+Basal insulin refers to long- or intermediate-acting insulin, which provides control of glucose in the fasting state and between meals. Basal insulin is given once or twice a day and includes long-acting insulin analogues and intermediate-acting insulin neutral protamine Hagedorn (NPH). Insulin onset, peak and duration are shown in Appendix 6. Types of Insulin. Detemir insulin is available as a 100 units/mL formulation (U-100) (Levemir®). Glargine insulin is available as a 100 units/mL formulation (U-100) (Lantus™), a 300 units/mL formulation (U-300) (Toujeo®) and as a 100 units/mL biosimilar product (U-100) (Basaglar®). Degludec insulin is available as a 100 units/mL (U-100) and 200 units/mL (U-200) formulation (Tresiba®).
+
+When used as a basal insulin in type 1 diabetes, the U-100 long-acting analogues, insulin detemir and insulin glargine (with rapid-acting insulin analogues for meals) resulted in lower fasting plasma glucose (FPG) levels and less hypoglycemia (4–7) or nocturnal hypoglycemia compared with once- or twice-daily NPH insulin (4,6–11). Given the potential severe consequences of nocturnal hypoglycemia, the avoidance of this complication is of great clinical importance.
+
+Biosimilar insulin glargine has the identical amino acid sequence as glargine and is produced through a different manufacturing process. Biosimilar insulin glargine has been shown to have similar efficacy and safety outcomes in adults with type 1 diabetes maintained or switched from U-100 glargine (12).
+
+Insulin glargine U-300 is a concentrated basal insulin, which appears to have a consistent, gradual and extended flat release from subcutaneous tissue with a longer duration of action (>30 hours) than U-100 glargine (13,14). Insulin glargine U-300 has been compared to insulin glargine U-100 in adults with type 1 diabetes and found to produce similar changes in A1C and similar or lower risk of hypoglycemia (13,15). Confirmed or severe nocturnal hypoglycemia was significantly lower in 1 study (16) but not in other shorter trials (15). Insulin glargine U-300 may require a higher dose than insulin glargine U-100 and may result in less weight gain (15,17).
+
+Insulin degludec is a basal insulin with a long duration of action (42 hours) (14,18,19) in a once-daily injection that provides a consistent, flat glucose-lowering profile with low day-to-day variability (18,19). It provides similar glycemic control, but with less nocturnal hypoglycemia (20) and reduced basal and total insulin dose when compared to insulin glargine (21–23) and insulin detemir (24,25). The prolonged duration of action of insulin degludec allows for flexible timing of dosing without compromising metabolic control or safety (26). The 2 formulations of insulin degludec (U-100 and U-200) have similar glucose-lowering effects and half-lives (14).
+
+Bolus insulin and basal-bolus injection therapy
+
+Bolus insulin refers to rapid- or short-acting insulin given to control the glycemic rise at meals and to correct hyperglycemia. The prandial injection dose is decided based on carbohydrate content, carbohydrate-to-insulin ratio for each meal, planned exercise, time since last insulin dose and blood glucose level. Bolus insulins include rapid-acting insulin analogues (insulin aspart, insulin faster-acting aspart, glulisine, insulin lispro) and short-acting insulin (regular insulin).
+
+Preprandial injections of rapid-acting insulin analogues result in a lower postprandial glucose and improved overall glycemic control (27–30). Insulin aspart, glulisine and lispro should be administered 0 to 15 minutes before the start of the meal while short-acting regular insulin should be administered 30 to 45 minutes before the start of the meal. Faster-acting insulin aspart may be administered at the start of the meal or, when necessary, up to 20 minutes after the start of the meal (31). When required, insulin aspart, glulisine and lispro can be administered from 0 to 15 minutes after the start of a meal although better control of postprandial hyperglycemia is seen with preprandial injections.
+
+Insulin aspart and lispro have been associated with reduced nocturnal hypoglycemia, slightly lower A1C, improved postprandial glucose (30,32) and improved quality of life (33) when compared to short-acting insulin. Insulin glulisine has been shown to be equivalent to insulin lispro for glycemic control, with most effective A1C reduction when given before meals (27,34). Faster-acting insulin aspart has an earlier onset than insulin aspart (see Appendix 6. Types of Insulin). In type 1 diabetes, faster-acting insulin aspart demonstrated noninferiority with respect to A1C reduction and superior postprandial glucose control vs. insulin aspart (31).
+
+Hypoglycemia and Insulin Therapy
+
+Hypoglycemia is the most common adverse effect of insulin therapy in people with type 1 diabetes (for definitions see Hypoglycemia chapter, p. S104). In the DCCT, 35% of participants in the conventional treatment group and 65% in the intensive group experienced at least 1 episode of severe hypoglycemia (2,35,36). In a meta-analysis of 14 trials, the median incidence of severe hypoglycemia was 4.6 and 7.9 episodes per 100 patient-years in the conventionally treated and intensively treated people with type 1 diabetes, respectively (37). With adequate self-management education, appropriate glycemic targets, self-monitoring of blood glucose and support, intensive therapy may result in less hypoglycemia than reported in the DCCT (38–41), particularly with modern insulin formulations.
+
+The frequency of hypoglycemic events is reduced with rapid-acting insulin analogues compared with regular insulin (8,42–44) although there are no differences in the magnitude and temporal pattern of the physiological, symptomatic and counterregulatory hormonal responses to hypoglycemia induced by regular human insulin or rapid-acting analogues (45,46).
+
+Long-acting insulin analogues reduce the incidence of hypoglycemia and nocturnal hypoglycemia when compared to intermediate-acting insulin as the basal insulin (10,47–51). Lifestyle factors and changes from usual self-management behaviours (e.g. eating less food, taking more insulin, increased physical activity) account for 85% of hypoglycemic episodes (52,53). Adding bedtime snacks may be helpful to prevent nocturnal hypoglycemia among those taking NPH as the basal insulin or in those individuals at high risk of severe hypoglycemia (regardless of insulin type), particularly when bedtime plasma glucose (PG) levels are <7.0 mmol/L (54,55).
+
+Knowledge of the acute effects of exercise is essential. Low- to moderate-intensity exercise lowers BG levels both during and after the activity, increasing the risk of a hypoglycemic episode. These effects on BG levels can be modified by altering diet, insulin, and the type and timing of physical activity. In contrast, high-intensity exercise raises BG levels during and immediately after the event but may result in hypoglycemia hours later. SMBG before, during and after exercise is important for establishing response to exercise and guiding the appropriate management of exercise. If ketosis is present, exercise should not be performed as metabolic deterioration can occur (56) (see Physical Activity and Diabetes chapter, p. S54).
+
+Hypoglycemia prevention and treatment is discussed in more detail in the Hypoglycemia chapter, p. S104; however, it is the limiting factor in most treatment strategies for type 1 diabetes. Increased education, monitoring of blood glucose, changing insulins and insulin routines, and the use of new diabetes technologies may be required (57,58). An educational program for people with impaired hypoglycemia awareness in which participants were randomized to either CSII or basal-bolus injection therapy and to either SMBG or real-time CGM showed that severe hypoglycemia and hypoglycemia awareness were improved to a similar degree regardless of the insulin delivery method or monitoring method used, although treatment satisfaction was higher with CSII compared with basal-bolus injection therapy (59).
+
+Continuous Subcutaneous Insulin Infusion Therapy
+
+CSII or insulin pump therapy is a safe and effective method of intensive insulin delivery in type 1 diabetes. Both CSII and basal-bolus injection therapy are considered the standard of care for adults with type 1 diabetes. While many people with type 1 diabetes are on CSII due to personal preference, there are some medical indications for CSII therapy. In particular, CSII can be considered in people with type 1 diabetes who do not reach glycemic targets despite optimized basal-bolus injection therapy, as well as in the following individuals: those with significant glucose variability; frequent severe hypoglycemia and/or hypoglycemia unawareness; significant “dawn phenomenon” with rise of blood glucose early in the morning; very low insulin requirements; adequate glycemic control but suboptimal treatment satisfaction and quality of life or women contemplating pregnancy (60–63).
+
+It is important to select the appropriate individual for pump therapy. Appropriate candidates should be motivated individuals, currently on optimized basal-bolus injection therapy, who are willing to frequently monitor BG, understand sick-day management and attend follow-up visits as required by the health-care team (62,63). The health-care team should ideally be interprofessional and include a diabetes educator and a physician/nurse practitioner with special interest and expertise in CSII therapy. Comprehensive preparation, initiation and follow up should be provided by the team and are critical for the success of CSII. The health-care team should periodically re-evaluate whether continued pump therapy is appropriate for the individual (62).
+
+Rapid-acting insulin analogues have replaced short-acting insulin in CSII therapy for several reasons, including their demonstrated safety, efficacy and more physiologic and rapid action (64). Although not recommended in Canada, insulin Humulin R® is still indicated for use in CSII while insulin Novolin Toronto® is not. The 3 rapid-acting insulin analogues approved for CSII are insulin lispro, aspart and glulisine. Faster-acting insulin aspart is not yet approved in Canada for use in CSII. Among people using CSII, insulin lispro has been demonstrated to provide similar (65) or superior (66,67) A1C lowering, overall improvement in postprandial hyperglycemia (66,67), and no increase in hypoglycemia (66,67) when compared to short-acting insulin. Insulin aspart provides a similar effect on A1C and hypoglycemia risk as short-acting insulin or lispro (65). Insulin glulisine has a similar effect on A1C when compared to aspart (68,69) and lispro (68); however, the rate of symptomatic hypoglycemia was higher with use of glulisine in 1 crossover study (68).
+
+Clinical trial data on the rate of catheter occlusions among users of the 3 rapid-acting insulins do not show any consistent differences (68,69). In vitro studies have demonstrated some differences in product stability and catheter occlusions (64). Insulin glulisine is indicated to be changed at least every 48 hours in the infusion set and reservoir; aspart and lispro are to be changed according to the pump manufacturer's recommendations.
+
+A1C benefit of CSII therapy
+
+CSII treatment has gone through many advances since it was first introduced. Many studies using CSII have been limited by small numbers of participants, short duration and the inability to adequately blind participants. Interpretation of meta-analyses is difficult as some included trials with short-acting insulin in the CSII arm (70,71), and another included trials with only NPH-based basal-bolus injection therapy as the comparator (72). The most relevant meta-analyses included trials using rapid-acting insulin analogues in the CSII arms and NPH- or glargine-based basal-bolus injection therapy as the comparators (73–75). Trials using other basal analogues as the comparator were not identified. Use of CSII was shown to reduce A1C by 0.19% to 0.3% in adults (73,75) or in participants with a mean age over 10 years (74). An observational study of real-life outcomes using CSII therapy demonstrated that those who had a pre-CSII A1C of >9.0% had the greatest improvement in A1C after CSII initiation; people with a pre-CSII A1C of ≤7.0% were likely to maintain their A1C in the same range on CSII; and for all groups, A1C values slowly increased with time but remained below the pre-CSII levels (76).
+
+A major advancement in CSII treatment has been the addition of continuous glucose monitoring systems (CGM) and sensor-augmented pumps (SAP) which is the use of CSII plus CGM. In people with type 1 diabetes with suboptimal control on basal-bolus injection therapy and SMBG, the introduction of CSII and CGM at the same time offers a more substantial A1C benefit over continuation of basal-bolus injection therapy with SMBG. In 2 major trials, participants suboptimally controlled on basal-bolus injection therapy were randomized to either continue basal-bolus injection therapy or to start SAP. One small trial in adults showed a mean difference in change in A1C of -1.21% in favour of the SAP arm (77), without an increase in hypoglycemia. In a larger trial of children and adults, end-of-trial mean difference in change in A1C was -0.6% in favour of the SAP arm, in all participants and in adults specifically (78) without an increase in hypoglycemia. Duration of sensor use was associated with the greatest decline in A1C in 1 trial (78) but not the other (77).
+
+Further enhancement of sensor-augmented CSII technology has been the low glucose suspend function in which insulin delivery is stopped for a defined period of time if a critically low glucose threshold is detected on the CGM. To date, only 2 major trials have been published regarding this technology (79,80). Hypoglycemia benefit, rather than the change in A1C, was the primary focus of these trials and no conclusions can be made about A1C benefit of SAP with low glucose suspend.
+
+CSII and hypoglycemia
+
+The benefit of CSII with regard to hypoglycemia has been difficult to evaluate given that many studies were of short duration, had small numbers and rates of severe hypoglycemia were generally low. Severe hypoglycemia has not been significantly different between users of CSII and basal-bolus injection therapy, based on meta-analyses which included only rapid-acting insulin analogues in the CSII arms (73–75). However, in a meta-analysis of trials of participants with a high baseline rate of severe hypoglycemia (>10 episodes per 100 patient-years while on basal-bolus injection therapy), the use of CSII was associated with a reduction of severe hypoglycemia (81) when compared to basal-bolus injection regimens using older nonanalogue basal insulins.
+
+Nonsevere hypoglycemia has been inconsistently defined and reported but, overall, CSII does not appear to reduce the frequency of nonsevere hypoglycemia. No differences have been found between CSII and basal-bolus injection therapy for nocturnal hypoglycemia (75). No consistent conclusions could be drawn regarding non-severe hypoglycemia in 2 meta-analyses (73,74). In 1 meta-analysis, minor hypoglycemia, calculated as the mean number of mild episodes per patient per week, was found to be nonsignificantly lower in users of CSII in crossover trials of adolescents and adults (75).
+
+When CSII has been introduced together with CGM (SAP), A1C has been consistently lowered without increasing the rate of hypoglycemia (77,78). Time spent in hypoglycemia and severe hypoglycemia was not consistently different (77,78) but hypoglycemia fear improved more in adults randomized to SAP compared to those randomized to continuation of basal-bolus injection therapy (82).
+
+One large randomized controlled trial in adults compared the use of SAP with and without the low glucose suspend feature (80). Participants were randomized if they had demonstrated nocturnal hypoglycemia and high sensor compliance during the run-in phase. SAP with low glucose suspend led to a reduction in nocturnal hypoglycemia with no increase in A1C or ketoacidosis (80). In another trial of adults and children with hypoglycemia unawareness, the use of SAP with low glucose suspend, compared to the use of CSII and SMBG, was shown to reduce the rate of moderate and severe hypoglycemia (79) although this outcome lost significance when outliers were excluded. Overall, the use of SAP with low glucose suspend is promising for nocturnal hypoglycemia and hypoglycemia unawareness but more studies are needed.
+
+CSII and quality of life
+
+Several studies have demonstrated improved quality of life (QOL) or improved treatment satisfaction (TS) with CSII therapy whether due to improved glycemic control, flexibility in insulin administration, patient selection and/or motivation. The various studies used different measurement tools or older insulin regimens (70). Compared with basal-bolus injection therapy plus SMBG, CSII plus SMBG has been associated with improved diabetes-specific QOL (73) and TS (70). When compared with basal-bolus injection therapy plus SMBG, CSII plus CGM (SAP) has been associated with improved diabetes-specific health-related QOL (82), diabetes-related distress (77), TS (77,82), perceived frequency of hyperglycemia (77), fear of hypoglycemia (82), and general health and social functioning (77). Compared with CSII plus SMBG, SAP has been associated with improved TS (83,84), lower perceived frequency of hypoglycemia (83), less worry about hypoglycemia (83), and better treatment convenience and flexibility (84).
+
+Data regarding long-term diabetes complications, adverse events, cost and mortality among users of CSII have been limited (70). An observational study of a large population-based Swedish national diabetes registry revealed lower cardiovascular (CV) mortality in users of CSII compared with users of basal-bolus injection therapy (85).
+
+Continuous Glucose Monitoring
+
+Adults with type 1 diabetes derive an A1C benefit from CGM, when compared to SMBG, regardless of the baseline level of A1C or the type of intensive insulin therapy and delivery. CGM may be done in a blinded manner (“professional” CGM), so that results are not immediately visible to the person with diabetes, or more commonly, in “real-time” where people with diabetes can immediately see values and take action if necessary. The discussion here refers to the studies using “real-time” CGM. The recommendations and findings presented here are consistent with those of the Endocrine Society Clinical Practice Guideline on this topic, which recommended the use of real-time CGM for adult patients with either A1C above target or who are well-controlled (at A1C target), provided that the devices are worn nearly daily (63).
+
+In people with diabetes with a baseline A1C >7.0%, the use of CGM compared to SMBG results in an A1C reduction of approximately 0.4% to 0.6%. This A1C change has been demonstrated in adults using CSII (86), adults and children using either basal-bolus injection therapy or CSII (87), adults and children using CSII (88,89) and adults using basal-bolus injection therapy (90,91). In contrast, two trials in adults and children using CSII showed no A1C difference between users of CGM and SMBG (92,93) except in those who wore the sensor at least 70% of the time in 1 of the studies (92). Even with a baseline A1C <7.0%, in adults and children using basal-bolus injection therapy or CSII, the A1C benefit of CGM has been -0.27 to -0.34% (94,95). Meta-analyses of trials regardless of the baseline A1C have estimated the overall between-group change from baseline A1C to be approximately -0.2% to -0.3% in favour of CGM (73,96,97), and in adults specifically the A1C benefit has been -0.38% (73). The greatest A1C benefit has been demonstrated with the greatest duration of sensor use (97,73) and with the highest A1C at baseline (97).
+
+The A1C benefits of CGM do not appear to be associated with excess hypoglycemia. Time spent in hypoglycemia was either lower in the CGM group (88,90,93,95) or was not significantly different between groups (86,92,94). Severe hypoglycemia was uncommon in these studies, and 1 study showed an increase in severe hypoglycemia with CGM (93) but this was not consistent in other trials.
+
+People with type 1 diabetes with an A1C <7.0% may find that the use of CGM allows them to maintain their A1C at target without more hypoglycemia. One trial in patients with an A1C <7.5% (mean A1C at randomization, 6.9%) demonstrated shorter time in hypoglycemia with reduction of A1C in the CGM group compared with the SMBG group (95). In another trial of subjects with an A1C <7% (mean baseline A1C 6.4%-6.5%), while time in hypoglycemia was not significantly reduced, combined A1C and hypoglycemia endpoints favoured the CGM group, including the reduction of A1C without a substantial increase of hypoglycemia, and the reduction of hypoglycemia without worsening of A1C by 0.3% or more (94).
+
+When CGM is introduced together with CSII therapy (SAP), the A1C benefit has been larger when compared to maintenance of basal-bolus injection therapy plus SMBG, without an increase of hypoglycemia (73,77,78,96).
+
+Among adults with impaired hypoglycemia awareness, CGM has been shown to reduce severe hypoglycemia and increase time in normoglycemia in 1 trial of participants with high compliance of sensor use (98). In contrast, in another trial using a standardized education program, hypoglycemia awareness and severe hypoglycemia improved to a similar degree in participants randomized to CGM or SMBG, but sensor compliance was not high in this trial (59). This technology is, therefore, promising in this group but more studies are required.
+
+Adjunctive Therapy for Glycemic Control
+
+As the incidence of obesity and overweight increases in the population, including in those with type 1 diabetes, there is growing interest in the potential use of noninsulin antihyperglycemic agents that improve insulin sensitivity or work independently of insulin and may provide additional glucose-lowering benefits without increasing hypoglycemia risk (99,100). In several studies, the use of metformin in type 1 diabetes reduces insulin requirements and may lead to modest weight loss (101) without increased hypoglycemia. In the clinical trial setting, metformin does not result in improved A1C, fasting glucose or triglyceride (TG) levels (101) and changes do not persist long term (102).
+
+Several small trials using SGLT2 inhibitors in type 1 diabetes demonstrated a reduction in mean glucose levels (103) and A1C (104,105). An increase in diabetic ketoacidosis (DKA) was also seen, which may be as high as 6% of participants in an 18-week study (105). DKA may have been precipitated by other factors, and several presented with glucose <13.9 mmol/L (106). A1C reduction and increased risk of ketosis was found when this class was added to insulin and liraglutide (107). Although early data are cautiously positive for the use of this class in type 1 diabetes, better understanding of the risk for euglycemic DKA is needed (99,100,108) and SGLT2 inhibitors do not have an indication for use in type 1 diabetes (see Hyperglycemic Emergencies in Adults chapter, p. S109).
+
+GLP-1 receptor agonists have been studied as add-on therapy to insulin in type 1 diabetes (109–111). Addition of liraglutide allowed a reduction in insulin dose and weight (110,111) without consistent results on hypoglycemia risk or A1C reduction in normal weight (112) or overweight (113) people with type 1 diabetes. Liraglutide may be associated with hyperglycemia and ketosis with the 1.8 mg dose in some studies (110,111) but not others (109). There is no current indication for use of liraglutide in type 1 diabetes. Studies of other GLP-1 receptor agonists in type 1 diabetes have been limited (109).
+
+Recommendations
+In adults with type 1 diabetes, basal-bolus injection therapy or CSII as part of an intensive diabetes management regimen should be used to achieve glycemic targets [Grade A, Level 1A (2)].
+In adults with type 1 diabetes using basal-bolus injection therapy or CSII, rapid-acting insulin analogues should be used in place of regular insulin to improve A1C and to minimize the risk of hypoglycemia [Grade B, Level 2 (30,32) for basal-bolus injection therapy; Grade B, Level 2 (66,67) for lispro in CSII; Grade B, Level 2 (65) for aspart in CSII; Grade D, Consensus, for glulisine in CSII] and to achieve postprandial BG targets [Grade B, Level 2 (32) for basal-bolus injection therapy; Grade B, Level 2 (66) for CSII].
+In adults with type 1 diabetes on basal-bolus injection therapy:
+A long-acting insulin analogue may be used in place of NPH to reduce the risk of hypoglycemia [Grade B, Level 2 for detemir (7,50); Grade B, Level 2 for glargine U-100 (4,5,51); Grade D, Consensus for degludec and glargine U-300], including nocturnal hypoglycemia [Grade B, Level 2 (7) for detemir; Grade B, Level 2 (4) for glargine U-100; Grade D, Consensus for degludec, and glargine U-300].
+Degludec may be used instead of detemir or glargine U-100 to reduce nocturnal hypoglycemia [Grade B, Level 2 (24) compared to detemir; Grade C, Level 3 (20) compared to glargine U-100].
+All individuals with type 1 diabetes and their support persons should be counselled about the risk and prevention of hypoglycemia, and risk factors for severe hypoglycemia should be identified and addressed [Grade D, Consensus].
+In adults with type 1 diabetes and hypoglycemia unawareness, the following nonpharmacological strategies may be used to reduce the risk of hypoglycemia:
+A standardized education program targeting rigorous avoidance of hypoglycemia while maintaining overall glycemic control [Grade A, Level 1A (59)]
+Increased frequency of SMBG, including periodic assessment during sleeping hours [Grade D, Consensus]
+CGM with high sensor adherence in those using CSII [Grade C, Level 3 (98)]
+Less stringent glycemic targets with avoidance of hypoglycemia for up to 3 months [Grade C, Level 3 (15,16)].
+In adults with type 1 diabetes on basal-bolus injection therapy who are not achieving glycemic targets, CSII with or without CGM may be used to improve A1C [Grade B, Level 2 (77,78) with CGM; Grade B, Level 2 (73–75) without CGM].
+In adults with type 1 diabetes,
+CSII may be used instead of basal-bolus injection therapy to improve treatment satisfaction [Grade C, Level 3 (70)]
+CSII plus CGM may be used instead of basal-bolus injection therapy or CSII with SMBG to improve quality of life, treatment satisfaction and other health-quality-related outcomes [Grade B, Level 2 (77,84)].
+Adults with type 1 diabetes on CSII should undergo periodic evaluation to determine whether continued CSII is appropriate [Grade D, Consensus].
+In adults with type 1 diabetes and an A1C at or above target, regardless of insulin delivery method used, CGM with high sensor adherence may be used to improve or maintain A1C [Grade B, Level 2 (97)] without increasing hypoglycemia [Grade C, Level 3 (97)].
+In adults with type 1 diabetes experiencing nocturnal hypoglycemia and using CSII and CGM, SAP with low glucose suspend may be chosen over SAP alone to reduce nocturnal hypoglycemia [Grade B, Level 2 (80)].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; BG, blood glucose; CGM, continuous glucose monitoring; CSII, continuous subcutaneous insulin infusion; DHC, diabetes health care; QOL, quality of life; RAIA, rapid-acting insulin analogues; SAP, sensor augmented pump, SMBG, self-monitoring of blood glucose. TS, treatment satisfaction.
+
+Other Relevant Guidelines
+
+Chapter 8. Targets for Glycemic Control
+
+Chapter 9. Monitoring Glycemic Control
+
+Chapter 10. Physical Activity and Diabetes
+
+Chapter 13. Pharmacologic Glycemic Management of Type 2 Diabetes in Adults
+
+Chapter 14. Hypoglycemia
+
+Chapter 16. In-Hospital Management of Diabetes
+
+Chapter 27. Management of Acute Coronary Syndromes
+
+Chapter 34. Type 1 Diabetes in Children and Adolescents
+
+Chapter 35. Type 2 Diabetes in Children and Adolescents
+
+Chapter 36. Diabetes and Pregnancy
+
+Chapter 37. Diabetes in Older People
+
+Relevant Appendix
+
+Appendix 6. Types of Insulin
+
+Literature Review Flow Diagram for Chapter 12: Glycemic Management in Adults with Type 1 Diabetes
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (114).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Adams reports personal fees from Novo Nordisk, Sanofi, Merck, AstraZeneca, Medtronic, Boehringer Ingelheim, Janssen, and Valeant, outside the submitted work. Dr. Kader reports personal fees from Eli Lilly, Sanofi, Novo Nordisk, Merck, Janssen, Medtronic, and Hoffman Laroche, outside the submitted work. Dr. Tugwell reports grants from Sanofi-Aventis Canada, Inc., outside the submitted work; and contract research as investigator or sub-investigator with the following companies, for which she does not personally receive additional payment, but for which her institution does receive funding: GlaxoSmithKline, Novo Nordisk Canada, AMGEN, Sanofi-Aventis Canada, Ionis, Boehringer Ingelheim, Novartis, AstraZeneca, Bristol-Myers Squibb, Intarcia, Lexicon, Merck, Eli Lilly, Pfizer/Merck, Takeda, NPS Pharmaceuticals and Cerenis Pharmaceuticals. No other authors have anything to disclose.
+
+References
+Insulin products. It’s your health. Ottawa: Health Canada, 2010. Report No.: # H13-7/80-2010E. http://www.hc-sc.gc.ca/hl-vs/alt_formats/pacrb-dgapcr/pdf/iyh-vsv/med/insulin-eng.pdf. Accessed November 15, 2017.
+Diabetes Control and Complications Trial Research Group, Nathan DM, Genuth S, et al. The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus. N Engl J Med 1993;329:977–86.
+Nathan DM, Cleary PA, Backlund JY, et al. Intensive diabetes treatment and cardiovascular disease in patients with type 1 diabetes. N Engl J Med 2005;353:2643–53.
+Ratner RE, Hirsch IB, Neifing JL, et al. Less hypoglycemia with insulin glargine in intensive insulin therapy for type 1 diabetes. U.S. Study Group of Insulin Glargine in Type 1 Diabetes. Diabetes Care 2000;23:639–43.
+Marra LP, Araujo VE, Silva TB, et al. Clinical effectiveness and safety of analog glargine in type 1 diabetes: a systematic review and meta-analysis. Diabetes Ther 2016;7:241–58.
+Keating GM. Insulin detemir: a review of its use in the management of diabetes mellitus. Drugs 2012;72:2255–87.
+Agesen RM, Kristensen PL, Beck-Nielsen H, et al. Effect of insulin analogues on frequency of non-severe hypoglycaemia in patients with type 1 diabetes prone to severe hypoglycaemia: the HypoAna trial. Diabetes Metab 2016;42:249–55.
+DeWitt DE, Hirsch IB. Outpatient insulin therapy in type 1 and type 2 diabetes mellitus: scientific review. JAMA 2003;289:2254–64.
+Warren E, Weatherley-Jones E, Chilcott J, et al. Systematic review and economic evaluation of a long-acting insulin analogue, insulin glargine. Health Technol Assess 2004;8(iii):1–57.
+Szypowska A, Golicki D, Groele L, et al. Long-acting insulin analogue detemir compared with NPH insulin in type 1 diabetes: A systematic review and metaanalysis. Pol Arch Med Wewn 2011;121:237–46.
+Home P, Bartley P, Russell-Jones D, et al. Insulin detemir offers improved glycemic control compared with NPH insulin in people with type 1 diabetes: A randomized clinical trial. Diabetes Care 2004;27:1081–7.
+Hadjiyianni I, Dahl D, Lacaya LB, et al. Efficacy and safety of LY2963016 insulin glargine in patients with type 1 and type 2 diabetes previously treated with insulin glargine. Diabetes Obes Metab 2016;18:425–9.
+Rosselli JL, Archer SN, Lindley NK, et al. U300 insulin glargine: A novel basal insulin for type 1 and type 2 diabetes. J Pharm Technol 2015;31:234–42.
+Lamos EM, Younk LM, Davis SN. Concentrated insulins: the new basal insulins. Ther Clin Risk Manag 2016;12:389–400.
+Dailey G, Lavernia F. A review of the safety and efficacy data for insulin glargine 300units/ml, a new formulation of insulin glargine. Diabetes Obes Metab 2015;17:1107–14.
+Matsuhisa M, Koyama M, Cheng X, et al. Sustained glycaemic control and less nocturnal hypoglycaemia with insulin glargine 300 U/mL compared with glargine 100 U/mL in Japanese adults with type 1 diabetes (EDITION JP 1 randomised 12-month trial including 6-month extension). Diabetes Res Clin Pract 2016;122:133–40.
+Wang F, Zassman S, Goldberg PA. rDNA insulin glargine U300 - a critical appraisal. Diabetes Metab Syndr Obes 2016;9:425–41.
+Heise T, Hermanski L, Nosek L, et al. Insulin degludec: four times lower pharmacodynamic variability than insulin glargine under steady-state conditions in type 1 diabetes. Diabetes Obes Metab 2012;14:859–64.
+Kerlan V, Gouet D, Marre M, et al. Use of insulin degludec, a new basal insulin with an ultra-long duration of action, in basal-bolus therapy in type 1 and type 2 diabetes. Annal Endocrinol 2013;74:487–90.
+Russell-Jones D, Gall MA, Niemeyer M, et al. Insulin degludec results in lower rates of nocturnal hypoglycaemia and fasting plasma glucose vs. insulin glargine: Ameta-analysis of seven clinical trials. Nutr Metab Cardiovasc Dis 2015;25:898–905.
+Heller S, Buse J, Fisher M, et al. Insulin degludec, an ultra-longacting basal insulin, versus insulin glargine in basal-bolus treatment with mealtime insulin aspart in type 1 diabetes (BEGIN Basal-Bolus Type 1): A phase 3, randomised, open-label, treat-to-target non-inferiority trial. Lancet 2012;379:1489–97.
+Bode BW, Buse JB, Fisher M, et al. Insulin degludec improves glycaemic control with lower nocturnal hypoglycaemia risk than insulin glargine in basalbolus treatment with mealtime insulin aspart in Type 1 diabetes (BEGIN(®) Basal-Bolus Type 1): 2-year results of a randomized clinical trial. Diabet Med 2013;30:1293–7.
+Dzygalo K, Golicki D, Kowalska A, et al. The beneficial effect of insulin degludec on nocturnal hypoglycaemia and insulin dose in type 1 diabetic patients: A systematic review and meta-analysis of randomised trials. Acta Diabetol 2014;52:231–8.
+Davies M, Sasaki T, Gross JL, et al. Comparison of insulin degludec with insulin detemir in type 1 diabetes: A 1-year treat-to-target trial. Diabetes Obes Metab 2016;18:96–9.
+Hirsch IB, Franek E, Mersebach H, et al. Safety and efficacy of insulin degludec/ insulin aspart with bolus mealtime insulin aspart compared with standard basalbolus treatment in people with Type 1 diabetes: 1-year results froma randomized clinical trial (BOOST® T1). Diabet Med 2016;34:167–73, Available from.
+Mathieu C, Hollander P, Miranda-Palma B, et al. Efficacy and safety of insulin degludec in a flexible dosing regimen vs insulin glargine in patients with type 1 diabetes (BEGIN: Flex T1): a 26-week randomized, treat-to-target trial with a 26-week extension. J Clin Endocrinol Metab 2013;98:1154–62.
+Garg SK, Rosenstock J, Ways K. Optimized Basal-bolus insulin regimens in type 1 diabetes: Insulin glulisine versus regular human insulin in combination with Basal insulin glargine. Endocr Pract 2005;11:11–17.
+Schernthaner G,Wein W, Shnawa N, et al. Preprandial vs. postprandial insulin lispro-a comparative crossover trial in patients with Type 1 diabetes. Diabet Med 2004;21:279–84.
+Jovanovic L, Giammattei J, Acquistapace M, et al. Efficacy comparison between preprandial and postprandial insulin aspart administration with dose adjustment for unpredictable meal size. Clin Ther 2004;26:1492–7.
+Fullerton B, Siebenhofer A, Jeitler K, et al. Short-acting insulin analogues versus regular human insulin for adults with type 1 diabetes mellitus. Cochrane Database Syst Rev 2016;(6):CD012161.
+Russell-Jones D, Bode BW, De Block C, et al. Fast-acting insulin aspart improves glycemic control in basal-bolus treatment for type 1 diabetes: Results of a 26-week multicenter, active-controlled, treat-to-target, randomized, parallel-group trial (Onset 1). Diabetes Care 2017 (in press).
+Wojciechowski P, Niemczyk-Szechowska P, Olewinska E, et al. Clinical efficacy and safety of insulin aspart compared with regular human insulin in patients with type 1 and type 2 diabetes: A systematic review and metaanalysis. Pol Arch Med Wewn 2015;125:141–51.
+Bott U, Ebrahim S, Hirschberger S, et al. Effect of the rapid-acting insulin analogue insulin aspart on quality of life and treatment satisfaction in patients with type 1 diabetes. Diabet Med 2003;20:626–34.
+Dreyer M, Prager R, Robinson A, et al. Efficacy and safety of insulin glulisine in patients with type 1 diabetes. Horm Metab Res 2005;37:702–7.
+The Diabetes Control and Complications Trial Research Group. Adverse events and their association with treatment regimens in the diabetes control and complications trial. Diabetes Care 1995;18:1415–27.
+The Diabetes Control and Complications Trial Research Group. Hypoglycemia in the diabetes control and complications trial. Diabetes 1997;46:271–86.
+Egger M, Davey Smith G, Stettler C, et al. Risk of adverse effects of intensified treatment in insulin-dependent diabetes mellitus: Ameta-analysis. Diabet Med 1997;14:919–28.
+Fanelli CG, Epifano L, Rambotti AM, et al. Meticulous prevention of hypoglycemia normalizes the glycemic thresholds and magnitude of most of neuroendocrine responses to, symptoms of, and cognitive function during hypoglycemia in intensively treated patients with short-term IDDM. Diabetes 1993;42:1683–9.
+Bott S, Bott U, Berger M, et al. Intensified insulin therapy and the risk of severe hypoglycaemia. Diabetologia 1997;40:926–32.
+Ahern J. Steps to reduce the risks of severe hypoglycemia. Diabetes Spectr 1997;10:39–41.
+Bolli GB. How to ameliorate the problem of hypoglycemia in intensive as well as nonintensive treatment of type 1 diabetes. Diabetes Care 1999;22:B43–52.
+Siebenhofer A, Plank J, Berghold A, et al. Short acting insulin analogues versus regular human insulin in patients with diabetes mellitus. Cochrane Database Syst Rev 2006;(2):CD003287.
+Heller SR, Colagiuri S, Vaaler S, et al. Hypoglycaemia with insulin aspart: a double-blind, randomised, crossover trial in subjects with type 1 diabetes. Diabet Med 2004;21:769–75.
+Plank J, Siebenhofer A, Berghold A, et al. Systematic review and metaanalysis of short-acting insulin analogues in patients with diabetes mellitus. Arch Intern Med 2005;165:1337–44.
+Torlone E, Fanelli C, Rambotti AM, et al. Pharmacokinetics, pharmacodynamics and glucose counterregulation following subcutaneous injection of the monomeric insulin analogue [Lys(B28),Pro(B29)] in IDDM. Diabetologia 1994;37:713–20.
+McCrimmon RJ, Frier BM. Symptomatic and physiological responses to hypoglycaemia induced by human soluble insulin and the analogue Lispro human insulin. Diabet Med 1997;14:929–36.
+Monami M, Marchionni N, Mannucci E. Long-acting insulin analogues vs. NPH human insulin in type 1 diabetes. A meta-analysis. Diabetes Obes Metab 2009;11:372–8.
+Garg SK, Gottlieb PA, Hisatomi ME, et al. Improved glycemic control without an increase in severe hypoglycemic episodes in intensively treated patients with type 1 diabetes receiving morning, evening, or split dose insulin glargine. Diabetes Res Clin Pract 2004;66:49–56.
+Garg SK, Paul JM, Karsten JI, et al. Reduced severe hypoglycemia with insulin glargine in intensively treated adults with type 1 diabetes. Diabetes TechnolvTher 2004;6:589–95.
+Goldman-Levine JD, Lee KW. Insulin detemir–a new basal insulin analog. Ann Pharmacother 2005;39:502–7.
+Mullins P, Sharplin P, Yki-Jarvinen H, et al. Negative binomial meta-regression analysis of combined glycosylated hemoglobin and hypoglycemia outcomes across eleven Phase III and IV studies of insulin glargine compared with neutral protamine Hagedorn insulin in type 1 and type 2 diabetes mellitus. Clin Ther 2007;29:1607–19.
+Clarke WL, Cox DJ, Gonder-Frederick LA, et al. The relationship between nonroutine use of insulin, food, and exercise and the occurrence of hypoglycemia in adults with IDDM and varying degrees of hypoglycemic awareness and metabolic control. Diabetes Educ 1997;23:55–8.
+Fritsche A, Stumvoll M, Renn W, et al. Diabetes teaching program improves glycemic control and preserves perception of hypoglycemia. Diabetes Res Clin Pract 1998;40:129–35.
+Kaufman FR, Halvorson M, Kaufman ND. A randomized, blinded trial of uncooked cornstarch to diminish nocturnal hypoglycemia at diabetes camp. Diabetes Res Clin Pract 1995;30:205–9.
+Kalergis M, Schiffrin A, Gougeon R, et al. Impact of bedtime snack composition on prevention of nocturnal hypoglycemia in adults with type 1 diabetes undergoing intensive insulin management using lispro insulin before meals: A randomized, placebo-controlled, crossover trial. Diabetes Care 2003;26:9–15.
+BergerM, Berchtold P, Cüppers HJ, et al. Metabolic and hormonal effects of muscular exercise in juvenile type diabetics. Diabetologia 1977;13:355–65.
+Cox DJ, Kovatchev B, Koev D, et al. Hypoglycemia anticipation, awareness and treatment training (HAATT) reduces occurrence of severe hypoglycemia among adults with type 1 diabetes mellitus. Int J Behav Med 2004;11:212–18.
+de Zoysa N, Rogers H, Stadler M, et al. A psychoeducational program to restore hypoglycemia awareness: The DAFNE-HART pilot study. Diabetes Care 2014;37:863–6.
+Little SA, Leelarathna L,Walkinshaw E, et al. Recovery of hypoglycemia awareness in long-standing type 1 diabetes: A multicenter 2 × 2 factorial randomized controlled trial comparing insulin pump with multiple daily injections and continuous with conventional glucose self-monitoring (HypoCOMPaSS). Diabetes Care 2014;37:2114–22.
+Pozzilli P, Battelino T, Danne T, et al. Continuous subcutaneous insulin infusion in diabetes: Patient populations, safety, efficacy, and pharmacoeconomics. Diabetes Metab Res Rev 2016;32:21–39.
+Marcus AO. Continuous subcutaneous insulin infusion therapy with rapidacting insulin analogs in insulin pumps: Does it work, how does it work, and what therapies work better than others? Open Diabetes J 2013;6:8–19. https:// benthamopen.com/ABSTRACT/TODIAJ-6-8.
+Grunberger G, Abelseth JM, Bailey TS, et al. Consensus statement by the american association of clinical endocrinologists/american college of endocrinology insulin pump management task force. Endocr Pract 2014;20:463–89.
+Peters AL, Ahmann AJ, Battelino T, et al. Diabetes technology-continuous subcutaneous insulin infusion therapy and continuous glucose monitoring in adults: an endocrine society clinical practice guideline. J Clin Endocrinol Metab 2016;101:3922–37.
+Cengiz E, Bode B, Van Name M, et al. Moving toward the ideal insulin for insulin pumps. Expert Rev Med Devices 2016;13:57–69.
+Bode B, Weinstein R, Bell D, et al. Comparison of insulin aspart with buffered regular insulin and insulin lispro in continuous subcutaneous insulin infusion: A randomized study in type 1 diabetes. Diabetes Care 2002;25:439–44.
+Zinman B, Tildesley H, Chiasson JL, et al. Insulin lispro in CSII: Results of a double-blind crossover study. Diabetes 1997;46:440–3.
+Radermecker RP, Scheen AJ. Continuous subcutaneous insulin infusion with short-acting insulin analogues or human regular insulin: Efficacy, safety, quality of life, and cost-effectiveness. Diabetes Metab Res Rev 2004;20:178–88.
+van Bon AC, Bode BW, Sert-Langeron C, et al. Insulin glulisine compared to insulin aspart and to insulin lispro administered by continuous subcutaneous insulin infusion in patients with type 1 diabetes: A randomized controlled trial. Diabetes Technol Ther 2011;13:607–14.
+Hoogma RP. Schumicki D. Safety of insulin glulisine when given by continuous subcutaneous infusion using an external pump in patients with type 1 diabetes. Horm Metab Res 2006;38:429–33.
+Misso ML, Egberts KJ, Page M, et al. Continuous Subcutaneous Insulin Infusion (CSII) versus multiple insulin injections for type 1 diabetes mellitus. Cochrane Database Syst Rev 2010;(1):CD005103.
+Pickup J, Mattock M, Kerry S. Glycaemic control with continuous subcutaneous insulin infusion compared with intensive insulin injections in patients with type 1 diabetes: meta-analysis of randomised controlled trials. BMJ 2002;324:705.
+Retnakaran R, Hochman J, DeVries JH, et al. Continuous subcutaneous insulin infusion versus multiple daily injections: The impact of baseline A1c. Diabetes Care 2004;27:2590–6.
+Yeh HC, Brown TT, Maruthur N, et al. Comparative effectiveness and safety of methods of insulin delivery and glucose monitoring for diabetes mellitus: A systematic review and meta-analysis. Ann Intern Med 2012;157:336–47.
+Monami M, Lamanna C, Marchionni N, et al. Continuous subcutaneous insulin infusion versus multiple daily insulin injections in type 1 diabetes: A meta-analysis. Acta Diabetol 2010;47:77–81.
+Fatourechi MM, Kudva YC, Murad MH, et al. Clinical review: hypoglycemia with intensive insulin therapy: A systematic review and meta-analyses of randomized trials of continuous subcutaneous insulin infusion versus multiple daily injections. J Clin Endocrinol Metab 2009;94:729–40.
+Orr CJ, Hopman W, Yen JL, et al. Long-term efficacy of insulin pump therapy on glycemic control in adults with type 1 diabetes mellitus. Diabetes Technol Ther 2015;17:49–54.
+Hermanides J, Norgaard K, Bruttomesso D, et al. Sensor-augmented pump therapy lowers HbA(1c) in suboptimally controlled type 1 diabetes; a randomized controlled trial. Diabet Med 2011;28:1158–67.
+Bergenstal RM, Tamborlane WV, Ahmann A, et al. Effectiveness of sensoraugmented insulin-pump therapy in type 1 diabetes. N Engl J Med 2010;363:311–20.
+Ly TT, Nicholas JA, Retterath A, et al. Effect of sensor-augmented insulin pump therapy and automated insulin suspension vs standard insulin pump therapy on hypoglycemia in patients with type 1 diabetes: A randomized clinical trial. J Am Med Assoc 2013;310:1240–7.
+Bergenstal RM, Klonoff DC, Garg SK, et al. Threshold-based insulin-pump interruption for reduction of hypoglycemia. N Engl J Med 2013;369:224–32.
+Pickup JC, Sutton AJ. Severe hypoglycaemia and glycaemic control in Type 1 diabetes: Meta-analysis of multiple daily insulin injections compared with continuous subcutaneous insulin infusion. Diabet Med 2008;25:765–74.
+Rubin RR, Peyrot M. STAR 3 Study Group. Health-related quality of life and treatment satisfaction in the sensor-augmented pump therapy for A1C reduction 3 (STAR 3) trial. Diabetes Technol Ther 2012;14:143–51.
+Nørgaard K, Scaramuzza A, Bratina N, et al. Routine sensor-augmented pump therapy in type 1 diabetes: The INTERPRET Study. Diabetes Technol Ther 2013;15:273–80.
+Hommel E, Olsen B, Battelino T, et al. Impact of continuous glucose monitoring on quality of life, treatment satisfaction, and use of medical care resources: Analyses from the SWITCH study. Acta Diabetol 2014;51:845–51.
+Steineck I, Cederholm J, Eliasson B, et al. Insulin pump therapy, multiple daily injections, and cardiovascular mortality in 18 168 people with type 1 diabetes: Observational study. BMJ 2015;350:h3234.
+Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group, Tamborlane WV, Beck RW, et al. Continuous glucose monitoring and intensive treatment of type 1 diabetes. N Engl J Med 2008;359:1464–76.
+Deiss D, Bolinder J, Riveline J-P, et al. Improved glycemic control in poorly controlled patients with type 1 diabetes using real-time continuous glucose monitoring. Diabetes Care 2006;29:2730–2.
+Battelino T, Conget I, Olsen B, et al. The use and efficacy of continuous glucose monitoring in type 1 diabetes treated with insulin pump therapy: A randomised controlled trial. Diabetologia 2012;55:3155–62.
+O’Connell MA, Donath S, O’Neal DN, et al. Glycaemic impact of patient-led use of sensor-guided pump therapy in type 1 diabetes: A randomised controlled trial. Diabetologia 2009;52:1250–7.
+Beck RW, Riddlesworth T, Ruedy K, et al. Effect of continuous glucose monitoring on glycemic control in adults with type 1 diabetes using insulin injections: the DIAMOND randomized clinical trial. JAMA 2017;317:371–8.
+Lind M, Polonsky W, Hirsch IB, et al. Continuous glucose monitoring vs conventional therapy for glycemic control in adults with type 1 diabetes treated With multiple daily insulin injections: The GOLD randomized clinical trial. JAMA 2017;317:379–87.
+Raccah D, Sulmont V, Reznik Y, et al. Incremental value of continuous glucose monitoring when starting pump therapy in patients with poorly controlled type 1 diabetes: The RealTrend study. Diabetes Care 2009;32:2245–50.
+Hirsch IB, Abelseth J, Bode BW, et al. Sensor-augmented insulin pump therapy: Results of the first randomized treat-to-target study. Diabetes Technol Ther 2008;10:377–83.
+Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group, Beck RW, Hirsch IB, et al. The effect of continuous glucose monitoring in well-controlled type 1 diabetes. Diabetes Care 2009;32:1378–83.
+Battelino T, Phillip M, Bratina N, et al. Effect of continuous glucose monitoring on hypoglycemia in type 1 diabetes. Diabetes Care 2011;34:795–800.
+Langendam M, Luijf YM, Hooft L, et al. Continuous glucose monitoring systems for type 1 diabetes mellitus. Cochrane Database Syst Rev 2012;(1):CD008101.
+Pickup JC, Freeman SC, Sutton AJ. Glycaemic control in type 1 diabetes during real time continuous glucose monitoring compared with self monitoring of blood glucose: Meta-analysis of randomised controlled trials using individual patient data. BMJ 2011;343:d3805.
+van Beers CA, DeVries JH, Kleijer SJ, et al. Continuous glucose monitoring for patients with type 1 diabetes and impaired awareness of hypoglycaemia (IN CONTROL): A randomised, open-label, crossover trial. Lancet Diabetes Endocrinol 2016;4:893–902.
+Bode BW, Garg SK. The emerging role of adjunctive noninsulin antihyperglycemic therapy in the management of type 1 diabetes. Endocr Pract 2016;22:220–30.
+Frandsen CS, Dejgaard TF, Madsbad S. Non-insulin drugs to treat hyperglycaemia in type 1 diabetes mellitus. Lancet Diabetes Endocrinol 2016;4:766–80.
+Liu C, Wu D, Zheng X, et al. Efficacy and safety of metformin for patients with type 1 diabetes mellitus: A meta-analysis. Diabetes Technol Ther 2015;17:142–8.
+Staels F, Moyson C, Mathieu C. Metformin as add-on to intensive insulin therapy in type 1 diabetes mellitus. Diabetes Obes Metab 2017 (in press).
+Famulla S, Pieber TR, Eilbracht J, et al. Glucose exposure and variability with empagliflozin as adjunct to insulin in patients with type 1 diabetes: Continuous glucose monitoring data from a 4-week, randomized, placebo-controlled trial (EASE-1). Diabetes Technol Ther 2017;19:49–60, Available from.
+Pieber TR, Famulla S, Eilbracht J, et al. Empagliflozin as adjunct to insulin in patients with type 1 diabetes: A 4-week, randomized, placebo-controlled trial (EASE-1). Diabetes Obes Metab 2015;17:928–35.
+Henry RR, Thakkar P, Tong C, et al. Efficacy and safety of canagliflozin, a sodium-glucose cotransporter 2 inhibitor, as add-on to insulin in patients with type 1 diabetes. Diabetes Care 2015;38:2258–65.
+Peters AL, Henry RR, Thakkar P, et al. Diabetic ketoacidosis with canagliflozin, a sodium-glucose cotransporter 2 inhibitor, in patients with type 1 diabetes. Diabetes Care 2016;39:532–8.
+Kuhadiya ND, Ghanim H, Mehta A, et al. Dapagliflozin as additional treatment to liraglutide and insulin in patients with type 1 diabetes. J Clin Endocrinol Metab 2016;101:3506–15.
+Comee M, Peters A. The changing therapeutic armamentarium for patients with type 1 diabetes. Curr Opin Endocrinol Diabetes Obes 2016;23:106–10.
+Dejgaard TF, Frandsen CS, Holst JJ, et al. Liraglutide for treating type 1 diabetes. Expert Opin Biol Ther 2016;16:579–90.
+Mathieu C, Zinman B, Hemmingsson JU, et al. Efficacy and safety of liraglutide added to insulin treatment in type 1 diabetes: The ADJUNCT ONE Treat-To-Target randomized trial. Diabetes Care 2016;39:1702–10.
+Ahren B, Hirsch IB, Pieber TR, et al. Efficacy and safety of liraglutide added to capped insulin treatment in subjects with type 1 diabetes: The adjunct two randomized trial. Diabetes Care 2016;39:1693–701.
+Frandsen CS, Dejgaard TF, Holst JJ, et al. Twelve-week treatment with liraglutide as add-on to insulin in normal-weight patients with poorly controlled type 1 diabetes: A randomized, placebo-controlled, double-blind parallel study. Diabetes Care 2015;38:2250–7.
+Dejgaard TF, Frandsen CS, Hansen TS, et al. Efficacy and safety of liraglutide for overweight adult patients with type 1 diabetes and insufficient glycaemic control (Lira-1): A randomised, double-blind, placebo-controlled trial. Lancet Diabetes Endocrinol 2016;4:221–32.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

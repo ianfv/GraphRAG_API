@@ -1,0 +1,616 @@
+Chapter Headings
+
+Introduction
+Psychological Effects of Diabetes in Adults
+Psychiatric Conditions in Adults
+Major Depressive Disorder
+Bipolar Disorder
+Schizophrenia Spectrum Disorders
+Personality Traits/Disorders
+Stress, Trauma, Abuse and Neglect
+Anxiety
+Feeding and Eating Disorders
+Sleep-Wake Disorders
+Substance Use Disorders
+Children and Adolescents with Diabetes
+Feeding and Eating Disorders in Pediatric Diabetes
+Other Considerations in Children and Adolescents
+Prevention and Intervention
+Type 2 Diabetes in Children and Adolescents
+Considerations in Pregnancy
+Considerations for Older People with Diabetes
+Suicide
+Psychiatric Disorders and Adverse Outcomes
+Screening and Assessment of Mental Health Symptoms
+Psychosocial (Non-Pharmacological) Treatments
+Pharmacological Treatments
+Monitoring Metabolic Risks
+Other Relevant Guidelines
+Author Disclosures
+Key Messages
+The experience of living with diabetes is often associated with concerns specific to the illness and can cause conditions, such as diabetes distress, psychological insulin resistance and the persistent fear of hypoglycemic episodes.
+A wide range of psychiatric disorders, including major depressive disorder, bipolar and related disorders, schizophrenia spectrum and other psychotic disorders, anxiety disorders, sleep disorders, eating disorders and stress-related disorders are more prevalent in people with diabetes compared to the general population.
+People living with diabetes and depressive disorders are at increased risk for earlier all-cause mortality compared to people living with diabetes without a history of depression.
+All individuals with diabetes should be regularly screened for the presence of diabetes distress, as well as symptoms of common psychiatric disorders.
+Compared to those with diabetes only, individuals with diabetes and mental health concerns have decreased participation in diabetes self-care, a decreased quality of life, increased functional impairment, increased risk of complications associated with diabetes, and increased health-care costs.
+Cognitive behaviour therapy, patient-centred approaches (e.g. motivational interviewing), stress management, coping skills training, family therapy and collaborative case management should be incorporated into primary care. Self-management skills, educational interventions that facilitate adaptation to diabetes, addressing co-occurring mental health issues, reducing diabetes-related distress, fear of hypoglycemia, and psychological insulin resistance are all helpful.
+Individuals taking psychiatric medications, particularly (but not limited to) atypical antipsychotics, benefit from regular screening of metabolic parameters to identify glucose dysregulation, dyslipidemia and weight gain throughout the course of the illness so that appropriate interventions can be instituted.
+Key Messages for People with Diabetes
+Living with diabetes can be burdensome and anxiety provoking, with the constant demands taking a psychological toll. As a result, many people experience distress, decreased mood and disabling levels of anxiety. Diabetes is often associated with a significant emotional burden, distress over the self-care regimen and stress in relationships (with family and friends, as well as health-care providers).
+It is important to recognize your emotions and talk to your friends, family and members of your diabetes health-care team about how you are feeling. Your team can help you to learn effective coping skills and direct you to support services that can make a difference for you.
+Mood and anxiety disorders are particularly common in people with diabetes. Eating, sleeping and stress-related disorders are also common. Speak to your health-care providers about any concerns you have if you think you may be developing any of these problems.
+Mental health disorders can affect your ability to cope with and care for your diabetes. In view of this, it is just as important to look after your mental health as it is your physical health.
+People diagnosed with serious mental illnesses, such as major depressive disorder, bipolar disorder and schizophrenia, have a higher risk of developing diabetes than the general population.
+Introduction
+
+Research has shown an increasingly clear relationship between diabetes and a variety of mental health issues. These include diagnosable psychiatric disorders, and other problems that are specific to the experience of living with diabetes. “Diabetes distress” refers to the negative emotions and burden of self-management related to living with diabetes. This term is used to describe the despondency and emotional turmoil specifically related to living with diabetes, in particular the need for continual monitoring and treatment, persistent concerns about complications, and the potential erosion of personal and professional relationships (1,2). “Psychological insulin resistance” is the reluctance or refusal to initiate insulin therapy, which may delay the start of a necessary treatment for a period of time (3). Fear of hypoglycemia is another common diabetes-specific concern. The presence of psychiatric and diabetes-specific psychosocial issues is associated with reduced participation in self-management activities and can lead to a decrease in quality of life. Psychiatric disorders among individuals with diabetes increases the risk of diabetes complications and early mortality (4).
+
+Table 1
+Comparison of main features and assessment methods: diabetes distress vs. major depressive disorder
+CBT, cognitive behavioural therapy.
+ 	Diabetes Distress	Major Depressive Disorder
+Assessment Instrument	Diabetes Distress Scale (17 items)	Patient Health Questionnaire for Depression: PHQ-9 (9 items) (167,168)
+Format	Self-report using ratings from 1 to 6 based on feelings and experiences over the past week	Self-report using ratings from 0 to 3 based on feelings and experiences over the past 2 weeks
+Features	Emotional Burden Subscale (5 items)
+Physician-Related Distress Subscale (4 items)
+
+Regimen-Related Distress Subscale (5 items)
+Diabetes-Related Interpersonal Distress Subscale (3 items)	Vegetative symptoms, such as sleep, appetite and energy level changes
+Emotional symptoms, such as low mood and reduced enjoyment of usual activities
+Behavioural symptoms, such as agitation or slowing of movements
+Cognitive symptoms, such as poor memory or reduced concentration or feelings of guilt; thoughts of self-harm
+Psychological Effects of Diabetes in Adults
+
+Diabetes is a demanding chronic disease for both individuals and their families (5). It is associated with a number of challenges, including adjusting to a new diagnosis, diabetes distress impairing self-management, psychological insulin resistance, and fear of hypoglycemia. In addition, a range of psychiatric disorders can arise that contributes to greater complexity in both assessment and treatment. For instance, distinguishing between diabetes distress, major depressive disorder (MDD) and the presence of depressive symptoms is important. Although these constructs have some shared symptomatology, diabetes distress has been most shown to have the strongest effect in causing adverse diabetes outcomes (6–9) (Table 1).
+
+Diabetes distress is comprised of 4 interconnected domains, which include: 1) the emotional burden of living with diabetes; 2) the distress associated with the diabetes self-management regimen; 3) the stress associated with social relationships; and 4) the stress associated with the patient-provider relationship. Diabetes distress is associated with elevated glycated hemoglobin (A1C levels), higher diastolic blood pressure (BP) and increased low-density lipoprotein cholesterol (LDL-C) levels (10–12). Furthermore, individuals with higher levels of diabetes distress were found to have a 1.8-fold higher mortality rate, a 1.7-fold increased risk of cardiovascular (CV) disease (13), and have lower quality of life (14). Risk factors for developing diabetes distress include being younger, being female, having lower education, living alone, having a higher body mass index (BMI), lower perceived self-efficacy, lower perceived provider support, poorer quality diet, greater perceived impact of glycemic excursions and greater number of diabetes complications (15,16).
+
+Psychological insulin resistance refers to a strong negative response to the recommendation from health-care providers that a person may benefit from adding insulin to his or her diabetes regimen. This can be a common reaction, particularly for individuals with type 2 diabetes who may have previously been successfully managed with noninsulin antihyperglycemic agents. Individuals may hold maladaptive beliefs that requiring insulin is a sign of personal failure in their self-management, or that their illness has become much more serious. Further, many people report fear and anxiety about having to self-administer injections, or have a low level of confidence in their ability to manage their blood glucose with insulin (17,18).
+
+Fear of hypoglycemia is a common occurrence. Hypoglycemic experiences, especially serious or nocturnal episodes, can be traumatic for both individuals and their family members. A common strategy to minimize fears of hypoglycemia is compensatory hyperglycemia, where individuals either preventatively maintain a higher blood glucose (BG) level, or treat hypoglycemia in response to perceived somatic symptoms without objective confirmation by capillary blood glucose concentrations (19–22). Over time, this maladaptive process, if left unmanaged, can negatively impact diabetes control, increase the risk of CV complications, and reduce quality of life.
+
+Challenges accompanying the diagnosis of diabetes include adjustment to the illness, participation in the treatment regimen and psychosocial difficulties at both a personal and an interpersonal level (23,24). Stress, deficient social supports and negative attitudes toward diabetes can impact on self-care and glycemic control (25–29). Diabetes management strategies ideally incorporate a means of addressing the psychosocial factors that impact on individuals and their families. Both symptom measures (e.g. self-report measures of various symptoms) and methods to arrive at psychiatric diagnoses (e.g. structured interviews leading to Diagnostic and Statistical Manual of Mental Disorders Fifth Edition [DSM-5 diagnoses] (30) have been assessed. Given that the person with diabetes is directly responsible for 95% of diabetes management (31), identifying significant psychological reactions in diabetes is important since depressive symptoms are a risk factor for poor diabetes self-management (32–34) and outcomes, including early mortality (35,36).
+
+Psychiatric Conditions in Adults
+
+Individuals with serious mental illnesses, particularly those with depressive symptoms or syndromes, and people with diabetes share reciprocal susceptibility and a high degree of comorbidity (Figure 1). The mechanisms behind these relationships are multifactorial, complicated and presently only partially understood. Some evidence shows that treatment for mental health disorders may actually increase the risk of diabetes, particularly when second- and third-generation (atypical) antipsychotic agents are prescribed (37). Biochemical changes due to psychiatric disorders themselves also may play a role (38). Symptoms of mental health disorders and their impact on lifestyle are also likely to be contributing factors (39).
+
+Figure 1
+The interplay between diabetes, major depressive disorder and other psychiatric conditions.
+
+Major Depressive Disorder
+
+The prevalence of clinically relevant depressive symptoms among people with diabetes is approximately 30% (40–42). The prevalence of MDD is approximately 10% (43,44), which is double the overall prevalence in people without a chronic medical illness. The risk of developing MDD increases the longer a person has diabetes (45). Clinically identified diabetes was associated with a doubling of the prescriptions for antidepressants, but undiagnosed diabetes was not, consistent with the hypothesis that the relationship between diabetes and depression may be attributable to factors related to diabetes management (46). Individuals with depression have an approximately 40% to 60% increased risk of developing type 2 diabetes (46–48). The prognosis for comorbid depression and diabetes is worse than when each illness occurs separately (3). Depression in people with diabetes amplifies symptom burden by a factor of about 4 (49). Episodes of depression in individuals with diabetes are likely to last longer and have a higher chance of recurrence compared to those without diabetes (50). Episodes of severe hypoglycemia have been correlated with the severity of depressive symptoms (51,52). Major depressive disorder has been found to be underdiagnosed in people with diabetes (53).
+
+Studies examining differential rates for the prevalence of depression in type 1 vs. type 2 diabetes have yielded inconsistent results (40,54). One study found that the requirement for insulin was the factor associated with the highest rate of depression, regardless of the type of diabetes involved (55). Treatment with metformin may enhance recovery from MDD (56).
+
+Risk factors for developing depression in individuals with diabetes are as follows (57–61):
+
+Female sex
+Adolescents/young adults and older adults
+Poverty
+Few social supports
+Stressful life events
+Poor glycemic control, particularly recurrent hypoglycemia
+Higher illness burden
+Longer duration of diabetes
+Presence of long-term complications.
+
+Intensive lifestyle intervention for people with type 2 diabetes with overweight or obesity reduced the risk of depressive symptoms by 15% (62).
+
+Risk factors (with possible mechanisms) for developing diabetes in people with depression are as follows:
+
+Physical inactivity (63) and overweight/obesity, which leads to insulin resistance
+Psychological stress leading to chronic hypothalamic-pituitary-adrenal dysregulation and hyperactivity stimulating cortisol release, also leading to insulin resistance (64–69)
+Hippocampal atrophy and decreased neurogenesis (70).
+
+Some of the mechanisms underlying this association have been found to be: autonomic and neurohormonal dysregulation, hippocampal structural changes, inflammatory processes and oxidative stress (70).
+
+Comorbid depression worsens clinical outcomes in diabetes, possibly because the accompanying lethargy lowers motivation for self-care, resulting in lowered physical and psychological fitness, higher use of health-care services and reduced participation in medication regimens (71,72). Depression also appears to worsen CV mortality (73–75). Treating depressive symptoms more reliably improves mood than it does glycemic control (76–79).
+
+Bipolar Disorder
+
+One study demonstrated that over half of people with bipolar disorder were found to have impaired glucose metabolism, which was found to worsen key aspects of the course of the mood disorder (80). In this same study, impaired glucose tolerance (IGT) was deemed to be an etiologic factor in the development of bipolar disorder (80). People with bipolar disorder have been found to have prevalence rates estimated to be double that of the general population for metabolic syndrome and triple for diabetes (81–84). Insulin resistance is associated with a less favourable course of bipolar illness, more cycling between mood states, and a poorer response to lithium (85).
+
+Schizophrenia Spectrum Disorders
+
+Schizophrenia and other psychotic disorders may contribute an independent risk factor for diabetes. People diagnosed with psychotic disorders were reported to have had insulin resistance/glucose intolerance prior to the advent of antipsychotic medication, although this matter is still open to debate (86–88). The Clinical Antipsychotic Trials for Intervention Effectiveness (CATIE) study found that of the individuals with schizophrenia who participated in the study, 11% had diabetes at baseline (type 1 and 2 combined) (37). The prevalence of metabolic syndrome was approximately twice that of the general population (89). Diabetes and schizophrenia together lead to more CV complications and all-cause mortality compared to people with diabetes alone (90). Whether the increased prevalence of diabetes is due to the effect of the illness (such as advanced glycation end products), antipsychotic medications or other factors, individuals with psychotic disorders represent a particularly vulnerable population (91).
+
+Personality Traits/Disorders
+
+Personality traits or disorders that put people in constant conflict with others or engender hostility have been found to increase the risk of developing type 2 diabetes (92). People with chronic, significantly negative mood states and social inhibition were less likely to follow a healthy diet or to consult health-care professionals in case problems developed with their diabetes management. They report more barriers surrounding medication use, diabetes-specific social anxiety, loneliness and symptoms of depression and anxiety (93).
+
+Stress, Trauma, Abuse and Neglect
+
+A history of significant adversity/trauma, particularly early in life, increases the risk of obesity, diabetes and CV disease (94). Higher BMI, leptin, BP, fibrinogen and decreased insulin sensitivity have been found (95). Post-traumatic stress disorder (PTSD) was found to cause a 40% increased risk of developing type 2 diabetes; those with sub-syndromal traumatic stress symptoms had a 20% increased risk (96).
+
+Anxiety
+
+Anxiety is commonly comorbid with depressive symptoms (97). One study estimated that 14% of individuals with diabetes suffered from generalized anxiety disorder, with double this figure experiencing a subclinical anxiety disorder and triple this figure having at least some anxiety symptoms (98). Anxiety disorders were found in one-third of people with serious mental illnesses and type 2 diabetes, and were associated with increased depressive symptoms and decreased level of function (99). Long-term anxiety has been associated with an increased risk of developing type 2 diabetes (100).
+
+Feeding and Eating Disorders
+
+Anorexia nervosa, bulimia nervosa and binge-eating disorder have been found to be more common in individuals with diabetes (both type 1 and type 2) than in the general population (101). Eating disorders are common and persistent, particularly in females with type 1 diabetes (102,103). Elevated BMI is a risk factor for developing type 2 diabetes and MDD (104). Depressive symptoms are highly comorbid with eating disorders, affecting up to 50% of individuals (105). Night eating syndrome is characterized by the consumption of >25% of daily caloric intake after the evening meal and waking at night to eat, on average, at least 3 times per week. Night eating syndrome has been noted to occur in individuals with type 2 diabetes and depressive symptoms. Night eating syndrome can result in weight gain, poor glycemic control and an increased number of diabetes complications (106).
+
+Sleep-Wake Disorders
+
+People with sleep apnea develop diabetes at higher rates than those without the condition (107).
+
+Substance Use Disorders
+
+The exact prevalence of substance use disorders among individuals with diabetes is not well established, and the presence of substance use disorders may contribute to unique challenges in this population. Recreational substance abuse was associated with increased rates of hospitalization and readmissions for DKA (108). Furthermore, substance abuse and psychosis among individuals with type 1 and type 2 diabetes increases the risk of all-cause mortality (109).
+
+Children and Adolescents with Diabetes
+
+For children, and particularly adolescents, there is a need to identify mental health disorders associated with diabetes and to intervene early to minimize the impact over the course of development. Children and adolescents with type 1 diabetes have significant risks for mental health problems, including depression, anxiety, eating disorders and disruptive behaviour disorders (110–112). The risks increase significantly during adolescence (113,114). Studies have shown that mental health disorders predict poor diabetes management and control (115–118) and worsen medical outcomes (32,119–121). Conversely, as glycemic control worsens, the probability of mental health problems increases (122). Adolescents with type 1 diabetes have been shown to have generally comparable rates for diabetes distress compared to adults with type 1 diabetes (1).
+
+The presence of psychological symptoms and diabetes problems in children and adolescents with type 1 diabetes are often strongly affected by caregiver/family distress. It has been demonstrated that while parental psychological issues are often related to poor psychological adjustment and diabetes control (123–126), they also distort perceptions of the child's diabetes control (127). Maternal anxiety and depression are associated with poor diabetes control in younger adolescents with type 1 diabetes and with reduced positive effects and motivation in older teens (128).
+
+Feeding and Eating Disorders in Pediatric Diabetes
+
+Ten per cent of adolescent females with type 1 diabetes met the Diagnostic and Statistical Manual of Mental Disorders (5th Edition) criteria for eating disorders (30), compared to 4% of their age-matched peers without diabetes (128). Eating disorders are also associated with poorer metabolic control, earlier onset and more rapid progression of microvascular complications (103). In adolescent and young adult females with type 1 diabetes who are unable to achieve and maintain glycemic targets, particularly if insulin omission is suspected, an eating disorder may be a potential cause. Individuals with eating disorders may require different management strategies to optimize glycemic control and prevent microvascular complications (129). Type 1 diabetes in young adolescent women appears to be a risk factor for development of an eating disorder, both in terms of an increased prevalence of established eating disorder features as well as through deliberate insulin omission or underdosing (called diabulimia) (130,131).
+
+Other Considerations in Children and Adolescents
+
+The prevalence of anxiety disorders in children and adolescents with type 1 diabetes in 1 study was found to be 15.5%, and mood disorders was 3.5%, with one-third having a lifetime prevalence of at least one psychiatric condition (132). The presence of psychiatric disorders was related to elevated A1C levels and a lowered health-related quality of life score in the general pediatric quality of life inventory. In the diabetes mellitus-specific pediatric quality of life inventory, children with psychiatric disorders revealed more symptoms of diabetes, treatment barriers and lower adherence than children without psychiatric disorders (132). Adolescents with type 1 diabetes ranked school as their number 1 stressor, their social lives as number 2 and having diabetes as number 3 (133).
+
+Prevention and Intervention
+
+Children and adolescents with diabetes, along with their families, should be screened throughout their development for mental health disorders (134). Given the prevalence of mental health issues, screening in this area is just as important as screening for microvascular complications in children and adolescents with diabetes (135).
+
+Psychological interventions with children and adolescents, as well as families, have been shown to improve mental health (136), including overall well-being and perceived quality of life (137), along with reducing depressive symptoms (138). In addition, there is evidence to show that psychosocial interventions can positively affect glycemic control (139,140). Most importantly, some studies have demonstrated that psychological interventions can increase both diabetes treatment adherence and glycemic control, as well as psychosocial functioning (141,142).
+
+Type 2 Diabetes in Children and Adolescents
+
+Atypical antipsychotic medications are associated with significant weight gain, insulin resistance, IFG and type 2 diabetes in children (143). Psychiatric disorders and the use of psychiatric medications are more common in children with obesity at diagnosis of type 2 diabetes compared to the general pediatric population (144). Children and adolescents prescribed an atypical antipsychotic have double the risk of developing diabetes (145). The risk of developing diabetes may be higher in adolescents taking concomitant antipsychotic and antidepressant medications (146).
+
+Considerations in Pregnancy
+
+One study found that gestational diabetes was strongly associated with increased risk for postpartum depression (PPD), regardless of prior depression history, whereas pregestational diabetes increased risk only for those with a prior history of depression. It was also found that for those with a history of depression, diabetes adds a 1.5-fold increased risk for PPD (147). Optimized glycemic control in pregnancy has been shown to have numerous benefits for pregnancy outcomes and may also be protective against PPD (148,149). In another study, the presence of depressive symptoms in early pregnancy was associated with preterm delivery in women with pregestational diabetes (150). Thus, there may be a role for improved screening and treatment of depression in optimizing pregnancy outcomes in women with diabetes (151).
+
+Considerations for Older People with Diabetes
+
+Type 2 diabetes does not appear to be more common in geriatric psychiatric patients than similarly aged controls. MDD and the use of antidepressants, cholinesterase inhibitors and valproate may increase fasting glucose levels (152). The risk of developing a dementing illness in people is increased with those who have MDD (hazard ratio [HR 1.83], type 2 diabetes [HR 1.20] or both [HR 2.17]) (153). The presence of depressive symptoms in elderly people with type 2 diabetes is associated with increased mortality risk (154).
+
+Suicide
+
+A review article found that people with both type 1 and type 2 diabetes had increased rates of suicidal ideation, suicide attempts and completed suicide compared to the general population (155). Another study found that people with newly diagnosed type 2 diabetes had a rate of past suicide attempts of almost 10%, which is twice the rate estimated in the general population. The rate of past suicide attempts in currently depressed patients with diabetes was reported at over 20% (156).
+
+Psychiatric Disorders and Adverse Outcomes
+
+Two independent systematic reviews with meta-analyses showed that MDD significantly increases the risk of all-cause mortality among individuals with diabetes compared to those with diabetes without it (157,158). Older adults with diabetes and depression may be at particular risk (109). Individuals with bipolar disorder, schizophrenia or other psychotic disorders, and who have comorbid diabetes, are at increased risk of rehospitalization following medical-surgical admissions (159).
+
+Screening and Assessment of Mental Health Symptoms
+
+Because of the prevalence of diabetes distress and psychiatric comorbidity and the negative impact that these factors have on glycemic control, early morbidity and quality of life, it is recommended that individuals with diabetes should be regularly screened with validated questionnaires or clinical interviews. The available data does not currently support the superiority of any particular depression screening tool (160). Currently available screening instruments have a sensitivity of between 80% and 90% and a specificity of 70% to 85% (160). Scales that are in the public domain are available at www.outcometracker.org/scales_library.php. Patient Health Questionnaire (PHQ) Screeners are available at www.phqscreeners.com. PHQ-9 (for MDD) scores of ≥10 and Generalized Anxiety Disorders (GAD)-7 scores ≥10 have been associated with increased diabetes complications (161,162).
+
+Screening instruments fall into 3 categories:
+
+Diabetes-specific measures, such as the Problem Areas in Diabetes (PAID) Scale or the Diabetes Distress Scale (DDS) (163,164)
+Quality of life measures, such as the WHO-5 screening instrument (165)
+Depressive/anxiety symptoms, such as the Hospital Anxiety and Depression Scale (HADS) (166), the Patient Health Questionnaire (PHQ-9) (167,168), the Centre for Epidemiological Studies-Depression Scale (CES-D) (169) or the Beck Depression Inventory (BDI) (170).
+
+Table 1 outlines the principal features and assessment methods to differentiate diabetes distress from MDD.
+
+Table 2
+Features of CBT that can be applied to diabetes treatment
+CBT, cognitive behavioural therapy.
+Cognitive component	Behavioural component
+Record keeping to identify distressing automatic thoughts
+Understanding the link between thoughts and feelings
+
+
+
+Learning the common “thinking errors” that mediate distress (e.g. all-or-nothing thinking, personalization, magnification, minimization, etc.)
+Analyzing negative thoughts and promoting more functional ones
+Identifying basic assumptions about oneself (e.g. “unless I am very successful, my life is not worth living) and being encouraged to adopt healthier ones (e.g. “when I am doing my best, I should be proud of myself”)	Strategies to help get the person moving (behavioural activation)
+Scheduling pleasant and meaningful events
+Learning assertive and effective communication skills
+Focusing on feelings of mastery and accomplishment
+
+
+Learning problem-solving strategies
+Exposure to new experiences
+Shaping behaviours by breaking them down into smaller steps to develop skills
+Psychosocial (Non-Pharmacological) Treatments
+
+Efforts to promote well-being to mitigate distress should be incorporated into diabetes management for all individuals (171). Motivational interventions (172,173), coping skills, self-efficacy enhancement, stress management (174,175) and family interventions (176–179) all have been shown to be helpful. Case management by a nurse working with the patient's primary care provider and providing guideline-based, patient-centred care resulted in improved A1C, lipid levels, BP and depression scores (172,180–182). Individuals with diabetes distress and/or psychiatric disorders benefit from professional interventions, either some form of psychotherapy or prescription medication. Evidence from systematic reviews of randomized controlled trials supports cognitive behaviour therapies (CBT) and antidepressant medication, both solely or in combination (138,183,184). No evidence presently shows that the combination of CBT and medication is superior to these treatments given individually. A pilot study of 50 people with type 2 diabetes who initially had a moderate level of depression at baseline showed an improvement in the severity of their depression (moving to the mild range) with a 12-week intervention of 10 CBT sessions combined with exercise in the form of 150 minutes of aerobic activity weekly. This effect was sustained at 3 months (138).
+
+Table 2 illustrates some of the major features of CBT as applied to diabetes care. Gains from treatment with psychotherapy are more likely to benefit psychological symptoms and glycemic control in adults than will psychiatric medications (which usually reduce psychological symptoms only) (185). Meta-analyses of psychological interventions found that they improved glycemic control (A1C) in children and adolescents with type 1 diabetes (186), and adults with type 2 diabetes (187). Furthermore, evidence suggests interventions are best implemented in a collaborative fashion and when combined with self-management interventions (185). Recent evidence also supports the effectiveness of mindfulness-based CBT (188,189).
+
+Among adults with type 2 diabetes and subclinical depression, CBT resulted in reductions in diabetes distress and depressive symptoms compared to controls (190). Lower diabetes regimen distress (produced by an intervention combining education, problem solving and support for accountability) led to improvements in medication adherence, physical activity and decreased A1C over 1 year (191,192).
+
+Recent research suggests that CBT can be used to address psychological insulin resistance by specifically addressing the beliefs that underlie it (3,193–195) (Figure 2). Fear of hypoglycemia is amenable to treatment, such as with the behavioural desensitization process illustrated in Figure 3 (21,22,195,196).
+
+Since diabetes outcomes are heavily dependent on the sustained participation of the individual with the illness, motivational and behavioural change strategies can be effective. Diabetes care providers can enhance successful behaviour changes through motivational strategies, such as having individuals weigh the advantages and disadvantages of change, as well as encouraging their sense of self-efficacy (197–199). Optimism and compassion have been shown to be helpful (200,201).
+
+Figure 2
+Features of psychological insulin resistance.
+
+Figure 3
+Suggested cognitive behaviour therapy for fear of hypoglycemia.
+
+Pharmacological Treatments
+
+Psychiatric medications have the capacity to affect metabolic parameters and cause changes in weight, glycemic control, lipid profile and can have immunomodulating effects (202–205). A systematic review estimated and compared the effects of antipsychotics, both novel and conventional, and noted variable effects on weight gain (206). The weight gain potential of clozapine and olanzapine has been established (207,208). Children and adolescents using antipsychotics had a 2- to 3-fold increased risk of type 2 diabetes (209,210), which was apparent within the first year of follow up. Metformin has been shown to have a modest ability to reduce weight gain due to antipsychotic medication (211).
+
+A comprehensive review and meta-analysis looked at the effect of antidepressants on body weight (212). Serotonin-norepinephrine reuptake inhibitors (SNRIs) are generally more active on the serotonergic component, with levomilnacipran having the strongest preference among the group for blocking norepinephrine reuptake. Desipramine is the tricyclic antidepressant (TCA) with the strongest action in blocking norepinephrine reuptake (213), and has the potential to affect glucose homeostasis.
+
+The CATIE study investigated 4 aspects of the effectiveness of antipsychotic medications: efficacy, tolerability, emergence of medical problems and patient choice (67). The results did indicate that some antipsychotic medications were more likely to cause weight gain, worsen glycemic control and induce unfavourable changes in lipid profile. However, when these effects were considered in the context of efficacy, tolerability and patient choice, no conclusive statements could be made about which medications to clearly use or avoid. Consequently, all 4 aspects are important and reinforce the need for regular and comprehensive metabolic monitoring. Non-pharmacological interventions can be effective in reducing antipsychotic-associated weight gain and glucose changes (214).
+
+Should medical problems arise while a person is taking psychiatric medications, clinical judgement will dictate on a case-by-case basis whether healthy behaviour interventions, such as diet or exercise, adding a medication to address the emergent issue (e.g. side effect or medical complication) or changing the psychiatric prescription is the most reasonable step (215,216). Resources are available to help clinicians quickly review the major side effect profiles of psychiatric medications (217,218).
+
+Table 3
+Psychiatric medications and risk of weight gain
+Amalgamated from references 217 and 218.
+ 	Unlikely	Likely	Very Likely	Highly Likely
+Anticholinergics	Benztropine	Trihexyphenidyl	Procyclidine	 	Diphenhydramine
+Antidepressants	Bupropion
+Citalopram
+Desvenlafaxine
+Duloxetine
+Escitalopram
+Fluoxetine	Levomilnacipran
+Moclobemide
+Sertraline
+Trazodone
+Venlafaxine
+Vortioxetine	Paroxetine
+Tranylcypromine	Amitriptyline
+Clomipramine
+Desipramine
+Doxepin
+Fluvoxamine
+Imipramine	Maprotiline
+Mirtazapine
+Nortriptyline
+Phenelzine
+Trimipramine	 
+Antipsychotics	Aripiprazole
+Brexpiprazole
+Loxapine	Thiothixene
+Trifluoperazine
+Ziprasidone	Asenapine
+Fluphenazine
+Haloperidol
+Methotrimeprazine
+Pericyazine
+Perphenazine
+Pimozide	Amoxapine
+Chlorpromazine
+Flupenthixol
+Lurasidone
+Paliperidone	Pipotiazine
+Quetiapine
+Risperidone
+Thioridazine
+Zuclopenthixol	Clozapine
+Olanzapine
+Anxiolytics	Clonazepam
+Clorazepate
+Diazepam
+Flurazepam
+Lorazepam	Nitrazepam
+Oxazepam
+Temazepam
+Triazolam	 	 	 
+Cholinesterase inhibitors	Donepezil
+Galantamine	Rivastigmine	 	 	 
+Mood stabilizers	Lamotrigine	Topiramate	Carbamazepine
+Gabapentin
+Oxcarbazepine	Lithium	Valproate	 
+Sedatives / hypnotics	Zolpidem	Zopiclone	 	 	 
+Stimulants	Atomoxetine
+Dextroamphetamine
+Lisdexamfetamine	Methylphenidate
+Modafinil	 	 	 
+Substance use disorder treatments	Buprenorphine
+Clonidine	Naltrexone
+Varenicline	Methadone	 	 
+Table 4
+Psychiatric medication metabolic monitoring protocol
+A1C, glycated hemoglobin; BMI, body mass index.
+Parameter	Baseline	1 month	2 months	3 months	Every 3 to 6 months	Annually
+Weight (BMI)	x	x	x	x	x	 
+Waist circumference	x	 	 	x	 	x
+Blood pressure	x	 	 	x	 	x
+Fasting glucose and/or A1C	x	 	 	x	x	 
+Fasting lipid profile	x	 	 	x	x	 
+Personal history, particularly alcohol, tobacco and recreational substance use	x	 	 	x	 	x
+Family history	x	 	 	 	 	x
+Monitoring Metabolic Risks
+
+Metabolic syndrome is found at higher rates in individuals with psychiatric illnesses than in the general population (84,219). Patients with diabetes and comorbid psychiatric illnesses are at an elevated risk for developing metabolic syndrome, possibly due to a combination of the following factors (220):
+
+Patient factors (e.g. health behaviour choices, diet, tobacco consumption, substance use, exercise, obesity, low degree of implementation of education programs)
+Illness factors (e.g. pro-inflammatory states from MDD or depressive symptoms, possible disease-related risks for developing diabetes) (221,222)
+Medication factors (e.g. psychiatric medications have variable effects on glycemic control, weight and lipids)
+Environmental factors (e.g. access to health care, availability of screening and monitoring programs, social supports, education programs).
+
+Many psychiatric medications (primarily second- and third-generation or atypical antipsychotics), have the potential to affect weight, lipids and glycemic control even in patients without diabetes (37,223). A weight gain of between 2 to 3 kg was found within a 1-year time frame with the antidepressants amitriptyline, mirtazapine and paroxetine (212). A study of people with type 2 diabetes and schizophrenia who were treated with antipsychotic medications also showed worsening glycemic control, requiring the addition of insulin therapy over a 2-year period with a HR of 2.0 (224). The reported weight gain over a 1-year period ranges from <1 kg to >4 kg for various antipsychotic medications. The main impact on lipid profile is an increase in triglyceride and total cholesterol levels, especially with clozapine, olanzapine and quetiapine (37,225). Table 3 lists the likelihood for weight gain with use of psychiatric medications.
+
+Regular, comprehensive monitoring of metabolic parameters is recommended for all persons who receive antipsychotic medications, whether or not they have diabetes. A1C was shown to be a more stable parameter in identifying psychiatric patients with diabetes (226). Table 4 outlines a Psychiatric Medication Metabolic Monitoring Protocol.
+
+Recommendations
+Individuals with diabetes should be regularly screened for diabetes-related psychological distress (e.g. diabetes distress, psychological insulin resistance, fear of hypoglycemia) and psychiatric disorders (e.g. depression, anxiety disorders) by validated self-report questionnaire or clinical interview [Grade D, Consensus]. Plans for self harm should be asked about regularly as well [Grade C, Level 3 (155)].
+The following groups of people with diabetes should be referred to specialized mental health-care professionals [Grade D, Consensus for all of the following]:
+Significant distress related to diabetes management
+Persistent fear of hypoglycemia
+Psychological insulin resistance
+Psychiatric disorders (i.e. depression, anxiety, eating disorders).
+Collaborative care by interprofessional teams should be provided for individuals with diabetes and depression to improve:
+Depressive symptoms [Grade A, Level 1 (181,182)]
+Adherence to antidepressant and noninsulin antihyperglycemic medications [Grade A, Level 1 (181)]
+Glycemic control [Grade A, Level 1 (182)].
+Psychosocial interventions should be integrated into diabetes care plans, including:
+
+Motivational interventions [Grade D, Consensus]
+
+Stress management strategies [Grade C, Level 3 (175)]
+Coping skills training [Grade A, Level 1A (227) for type 2 diabetes; Grade B, Level 2 (228) for type 1 diabetes]
+Family therapy [Grade A, Level 1B (176,178,229)]
+Case management [Grade B, Level 2 (192)].
+Antidepressant medication should be used to treat acute depression in people with diabetes [Grade A, Level 1 (78)] and for maintenance treatment to prevent recurrence of depression [Grade A, Level 1A (77)]. Cognitive behaviour therapy (CBT) can be used to treat depression in individuals with depression alone [Grade B, Level 2 (79)] or in combination with antidepressant medication [Grade A, Level 1 (138,184)].
+Because of the risk of adverse metabolic effects of many antipsychotic medications (especially atypical/second and third generation) [Grade A, Level 1 (37)], regular metabolic monitoring should be performed in people with and without diabetes who are treated with these medications [Grade D, Consensus].
+Children and adolescents with diabetes should be screened at diagnosis for major depressive disorder [Grade D, Consensus] and regularly for psychosocial difficulties, family distress or mental health disorders [Grade D, Consensus]. An expert in mental health and/or psychosocial issues should provide intervention when required; this individual may be part of the pediatric diabetes health-care team or enlisted by referral [Grade D, Consensus]. Individual and family educational interventions should be included to address stress or diabetes-related conflict when indicated [Grade D, Consensus].
+Adolescents with type 1 diabetes should be regularly screened using non-judgemental questions about weight and body image concerns, dieting, binge eating and insulin omission for weight loss [Grade D, Level 2 (131)].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; BMI, body mass index; BP, blood pressure; CBT, cognitive behavior therapy; CV, cardiovascular; DKA, diabetic ketoacidosis; HR, hazard ratio; IFG, impaired fasting glucose; LDL-C, low density lipoprotein; MDD, major depressive disorder; PPD, postpartum depression; PTSD, post-traumatic stress disorder.
+
+Other Relevant Guidelines
+
+Chapter 11. Nutrition Therapy
+
+Chapter 12. Glycemic Management in Adults With Type 1 Diabetes
+
+Chapter 13. Pharmacologic Glycemic Management of Type 2 Diabetes in Adults
+
+Chapter 34. Type 1 Diabetes in Children and Adolescents
+
+Chapter 35. Type 2 Diabetes in Children and Adolescents
+
+Literature Review Flow Diagram for Chapter 18: Diabetes and Mental Health
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (230).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Robinson reports personal fees from Janssen, Otsuka, Lundbeck, and Allergan, outside the submitted work. Dr. Coons has received honoraria from the Canadian Medical and Surgical Knowledge Translation Working Group. Dr. Vallis reports personal fees from Novo Nordisk, Valeant, Sanofi, Pfizer, CSL Behring, Merck, and Abbvie, outside the submitted work. Dr. Yale reports grants and personal fees from Eli Lilly Canada, Sanofi, Merck, AstraZeneca, Boehringer Ingelheim, Janssen, and Medtronic; personal fees from Novo Nordisk, Takeda, Abbott, and Bayer; and grants from Mylan. No other author has anything to disclose.
+
+References
+Hagger V, Hendrieckx C, Sturt J, et al. Diabetes distress among adolescents with type 1 diabetes: A systematic review. Curr Diab Rep 2016;16:9.
+Polonsky WH, Fisher L, Earles J, et al. Assessing psychosocial distress in diabetes: Development of the diabetes distress scale. Diabetes Care 2005;28:626–31.
+Polonsky WH, Hajos TR, Dain MP, et al. Are patients with type 2 diabetes reluctant to start insulin therapy? An examination of the scope and underpinnings of psychological insulin resistance in a large, international population. Curr Med Res Opin 2011;27:1169–74.
+Egede LE, Nietert PJ, Zheng D. Depression and all-cause and coronary heart disease mortality among adults with and without diabetes. Diabetes Care 2005;28:1339–45.
+Snoek FJ, Kersch NY, Eldrup E, et al. Monitoring of Individual Needs in Diabetes (MIND): Baseline data from the Cross-National Diabetes Attitudes, Wishes, and Needs (DAWN) MIND study. Diabetes Care 2011;34:601–3.
+Fisher L, Skaff MM, Mullan JT, et al. Clinical depression versus distress among patients with type 2 diabetes: Not just a question of semantics. Diabetes Care 2007;30:542–8.
+Gonzalez JS, Fisher L, Polonsky WH. Depression in diabetes: Have we been missing something important? Diabetes Care 2011;34:236–9.
+Fisher L, Glasgow RE, Strycker LA. The relationship between diabetes distress and clinical depression with glycemic control among patients with type 2 diabetes. Diabetes Care 2010;33:1034–6.
+Fisher L, Mullan JT, Arean P, et al. Diabetes distress but not clinical depression or depressive symptoms is associated with glycemic control in both crosssectional and longitudinal analyses. Diabetes Care 2010;33:23–8.
+Winchester RJ, Williams JS, Wolfman TE, et al. Depressive symptoms, serious psychological distress, diabetes distress and cardiovascular risk factor control in patients with type 2 diabetes. J Diabetes Complications 2016;30:312–17.
+Strandberg RB, Graue M, Wentzel-Larsen T, et al. Relationships of diabetesspecific emotional distress, depression, anxiety, and overall well-being with HbA1c in adult persons with type 1 diabetes. J Psychosom Res 2014;77:174–9.
+Strandberg RB, Graue M, Wentzel-Larsen T, et al. Longitudinal relationship between diabetes-specific emotional distress and follow-up HbA1c in adults with type 1 diabetes mellitus. Diabet Med 2015;32:1304–10.
+Dalsgaard EM, Vestergaard M, Skriver MV, et al. Psychological distress, cardiovascular complications and mortality among people with screen-detected type 2 diabetes: Follow-up of the ADDITION-Denmark trial. Diabetologia 2014;57:710–17.
+Carper MM, Traeger L, Gonzalez JS, et al. The differential associations of depression and diabetes distress with quality of life domains in type 2 diabetes. J Behav Med 2014;37:501–10.
+Pintaudi B, Lucisano G, Gentile S, et al. Correlates of diabetes-related distress in type 2 diabetes: Findings from the benchmarking network for clinical and humanistic outcomes in diabetes (BENCH-D) study. J Psychosom Res 2015;79:348–54.
+Wardian J, Sun F. Factors associated with diabetes-related distress: Implications for diabetes self-management. Soc Work Health Care 2014;53:364–81.
+Bahrmann A, Abel A, Zeyfang A, et al. Psychological insulin resistance in geriatric patients with diabetes mellitus. Patient Educ Couns 2014;94:417–22.
+Holmes-Truscott E, Skinner TC, Pouwer F, et al. Explaining psychological insulin resistance in adults with non-insulin-treated type 2 diabetes: The roles of diabetes distress and current medication concerns. Results from Diabetes MILESAustralia. Prim Care Diabetes 2016;10:75–82.
+Hendrieckx C, Halliday JA, Bowden JP, et al. Severe hypoglycaemia and its association with psychological well-being in Australian adults with type 1 diabetes attending specialist tertiary clinics. Diabetes Res Clin Pract 2014;103: 430–6.
+Nefs G, Bevelander S, Hendrieckx C, et al. Fear of hypoglycaemia in adults with Type 1 diabetes: Results from Diabetes MILES—The Netherlands. Diabet Med 2015;32:1289–96.
+Polonsky WH, Fisher L, Hessler D, et al. Identifying the worries and concerns about hypoglycemia in adults with type 2 diabetes. J Diabetes Complications 2015;29:1171–6.
+Vallis M, Jones A, Pouwer F. Managing hypoglycemia in diabetes may be more fear management than glucose management: A practical guide for diabetes care providers. Curr Diabetes Rev 2014;10:364–70.
+Peyrot M, Rubin RR, Lauritzen T, et al. Psychosocial problems and barriers to improved diabetes management: Results of the Cross-National Diabetes Attitudes, Wishes and Needs (DAWN) study. Diabet Med 2005;22:1379–85.
+Goebel-Fabbri AE, Fikkan J, Franko DL, et al. Insulin restriction and associated morbidity and mortality in women with type 1 diabetes. Diabetes Care 2008;31:415–19.
+Fisher L, Glasgow RE. A call for more effectively integrating behavioral and social science principles into comprehensive diabetes care. Diabetes Care 2007;30:2746–9.
+Malik JA, Koot HM. Explaining the adjustment of adolescents with type 1 diabetes: Role of diabetes-specific and psychosocial factors. Diabetes Care 2009;32:774–9.
+Zhang CX, Tse LA, Ye XQ, et al. Moderating effects of coping styles on anxiety and depressive symptoms caused by psychological stress in Chinese patients with type 2 diabetes. Diabet Med 2009;26:1282–8.
+Hampson SE, Tildesley E, Andrews JA, et al. The relation of change in hostility and sociability during childhood to substance use in mid adolescence. J Res Pers 2010;44:103–14.
+Luyckx K, Seiffge-Krenke I, Hampson SE. Glycemic control, coping, and internalizing and externalizing symptoms in adolescents with type 1 diabetes: A cross-lagged longitudinal approach. Diabetes Care 2010;33:1424–9.
+American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 5th edn. Arlington: American Psychiatric Association, 2013.
+Anderson RM. Is the problem of noncompliance all in our heads? Diabetes Educ 1985;11:31–4. http://dx.doi.org/10.1177/014572178501100106.
+Gonzalez JS, Peyrot M, McCarl LA, et al. Depression and diabetes treatment nonadherence: A meta-analysis. Diabetes Care 2008;31:2398–403.
+Gonzalez JS, Safren SA, Delahanty LM, et al. Symptoms of depression prospectively predict poorer self-care in patients with Type 2 diabetes. Diabet Med 2008;25:1102–7.
+Egede LE, Grubaugh AL, Ellis C. The effect of major depression on preventive care and quality of life among adults with diabetes. Gen Hosp Psychiatry 2010;32:563–9.
+Richardson LK, Egede LE, MuellerM. Effect of race/ethnicity and persistent recognition of depression on mortality in elderly men with type 2 diabetes and depression. Diabetes Care 2008;31:880–1.
+Hutter N, Schnurr A, Baumeister H. Healthcare costs in patients with diabetes mellitus and comorbid mental disorders–a systematic review. Diabetologia 2010;53:2470–9.
+Lieberman JA, Stroup TS, McEvoy JP, et al. Effectiveness of antipsychotic drugs in patients with chronic schizophrenia. N Engl J Med 2005;353:1209–23.
+Brown ES, Varghese FP, McEwen BS. Association of depression with medical illness: Does cortisol play a role? Biol Psychiatry 2004;55:1–9.
+McCreadie RG. Diet, smoking and cardiovascular risk in people with schizophrenia: Descriptive study. Br J Psychiatry 2003;183:534–9.
+Anderson RJ, Freedland KE, Clouse RE, et al. The prevalence of comorbid depression in adults with diabetes: A meta-analysis. Diabetes Care 2001;24:1069–78.
+Ali S, Stone MA, Peters JL, et al. The prevalence of co-morbid depression in adults with type 2 diabetes: A systematic review and meta-analysis. Diabet Med 2006;23:1165–73.
+Barnard KD, Skinner TC, Peveler R. The prevalence of co-morbid depression in adults with type 1 diabetes: Systematic literature review. Diabet Med 2006;23:445–8.
+Egede LE. Diabetes, major depression, and functional disability among U.S. adults. Diabetes Care 2004;27:421–8.
+Moussavi S, Chatterji S, Verdes E, et al. Depression, chronic diseases, and decrements in health: Results from the World Health Surveys. Lancet 2007;370:851–8.
+Almeida OP, McCaul K, Hankey GJ, et al. Duration of diabetes and its association with depression in later life: The Health In Men Study (HIMS). Maturitas 2016;86:3–9.
+Mezuk B, Johnson-Lawrence V, Lee H, et al. Is ignorance bliss? Depression, antidepressants, and the diagnosis of prediabetes and type 2 diabetes. Health Psychol 2013;32:254–63.
+Rotella F, Mannucci E. Depression as a risk factor for diabetes: A metaanalysis of longitudinal studies. J Clin Psychiatry 2013;74:31–7.
+Yu M, Zhang X, Lu F, et al. Depression and risk for diabetes: A meta-analysis. Can J Diabetes 2015;39:266–72.
+Ludman EJ, Katon W, Russo J, et al. Depression and diabetes symptom burden. Gen Hosp Psychiatry 2004;26:430–6.
+Peyrot M, Rubin RR. Persistence of depressive symptoms in diabetic adults. Diabetes Care 1999;22:448–52.
+Kikuchi Y, Iwase M, Fujii H, et al. Association of severe hypoglycemia with depressive symptoms in patients with type 2 diabetes: The Fukuoka Diabetes Registry. BMJ Open Diabetes Res Care 2015;3:e000063.
+Werremeyer A, Maack B, Strand MA, et al. Disease control among patients with diabetes and severe depressive symptoms. J Prim Care Community Health 2016;7:130–4.
+Engum A, Mykletun A, Midthjell K, et al. Depression and diabetes: A large population-based study of sociodemographic, lifestyle, and clinical factors associated with depression in type 1 and type 2 diabetes. Diabetes Care 2005;28:1904–9.
+Li C, Ford ES, Zhao G, et al. Prevalence and correlates of undiagnosed depression among U.S. adults with diabetes: The Behavioral Risk Factor Surveillance System, 2006. Diabetes Res Clin Pract 2009;83:268–79.
+Katon WJ, Simon G, Russo J, et al. Quality of depression care in a populationbased sample of patients with diabetes and major depression. Med Care 2004;42:1222–9.
+Guo M, Mi J, Jiang QM, et al. Metformin may produce antidepressant effects through improvement of cognitive function among depressed patients with diabetes mellitus. Clin Exp Pharmacol Physiol 2014;41:650–6.
+Eaton WW, Shao H, Nestadt G, et al. Population-based study of first onset and chronicity in major depressive disorder. Arch Gen Psychiatry 2008;65:513–20.
+Kendler KS, Karkowski LM, Prescott CA. Causal relationship between stressful life events and the onset ofmajor depression. Am J Psychiatry 1999;156:837–41.
+Carvalhais SM, Lima-Costa MF, Peixoto SV, et al. The influence of socioeconomic conditions on the prevalence of depressive symptoms and its covariates in an elderly population with slight income differences: The Bambui Health and Aging Study (BHAS). Int J Soc Psychiatry 2008;54:447–56.
+Katon W, Russo J, Lin EH, et al. Depression and diabetes: Factors associated with major depression at five-year follow-up. Psychosomatics 2009;50:570–9.
+Bruce DG, Davis WA, Davis TM. Longitudinal predictors of reduced mobility and physical disability in patients with type 2 diabetes: The Fremantle Diabetes Study. Diabetes Care 2005;28:2441–7.
+Rubin RR, Wadden TA, Bahnson JL, et al. Impact of intensive lifestyle intervention on depression and health-related quality of life in type 2 diabetes: The Look AHEAD Trial. Diabetes Care 2014;37:1544–53.
+Nyboe L, Lund H. Low levels of physical activity in patients with severe mental illness. Nord J Psychiatry 2013;67:43–6.
+Lawlor DA, Smith GD, Ebrahim S. Association of insulin resistance with depression: Cross sectional findings from the BritishWomen’s Heart and Health Study. BMJ 2003;327:1383–4.
+Timonen M, Salmenkaita I, Jokelainen J, et al. Insulin resistance and depressive symptoms in young adult males: Findings from Finnish military conscripts. Psychosom Med 2007;69:723–8.
+Okamura F, Tashiro A, Utumi A, et al. Insulin resistance in patients with depression and its changes during the clinical course of depression: Minimal model analysis. Metabolism 2000;49:1255–60.
+Anagnostis P, Athyros VG, Tziomalos K, et al. Clinical review: The pathogenetic role of cortisol in the metabolic syndrome: A hypothesis. J Clin Endocrinol Metab 2009;94:2692–701.
+Pariante CM, Miller AH. Glucocorticoid receptors in major depression: Relevance to pathophysiology and treatment. Biol Psychiatry 2001;49:391–404.
+Belmaker RH, Agam G. Major depressive disorder. N Engl J Med 2008;358:55–68.
+Semenkovich K, Brown ME, Svrakic DM, et al. Depression in type 2 diabetes mellitus: Prevalence, impact, and treatment. Drugs 2015;75:577–87.
+Ciechanowski PS, Katon WJ, Russo JE. Depression and diabetes: Impact of depressive symptoms on adherence, function, and costs. Arch Intern Med 2000;160:3278–85.
+Lin EH, Katon W, Von Korff M, et al. Relationship of depression and diabetes self-care, medication adherence, and preventive care. Diabetes Care 2004; 27:2154–60.
+Katon WJ, Rutter C, Simon G, et al. The association of comorbid depression with mortality in patients with type 2 diabetes. Diabetes Care 2005;28:2668–72.
+Zhang X, Norris SL, Gregg EW, et al. Depressive symptoms and mortality among persons with and without diabetes. Am J Epidemiol 2005;161:652–60.
+Vancampfort D, Correll CU,Wampers M, et al. Metabolic syndrome and metabolic abnormalities in patients with major depressive disorder: Ameta-analysis of prevalences and moderating variables. Psychol Med 2014;44:2017–28.
+Lustman PJ, Freedland KE, Griffith LS, et al. Fluoxetine for depression in diabetes: A randomized double-blind placebo-controlled trial. Diabetes Care 2000;23:618–23.
+Lustman PJ, Clouse RE, Nix BD, et al. Sertraline for prevention of depression recurrence in diabetes mellitus: A randomized, double-blind, placebocontrolled trial. Arch Gen Psychiatry 2006;63:521–9.
+Lustman PJ, Griffith LS, Clouse RE, et al. Effects of nortriptyline on depression and glycemic control in diabetes: Results of a double-blind, placebo-controlled trial. Psychosom Med 1997;59:241–50.
+Lustman PJ, Griffith LS, Freedland KE, et al. Cognitive behavior therapy for depression in type 2 diabetes mellitus. A randomized, controlled trial. Ann Intern Med 1998;129:613–21.
+Mansur RB, Rizzo LB, Santos CM, et al. Impaired glucose metabolism moderates the course of illness in bipolar disorder. J Affect Disord 2016;195:57–62.
+Fagiolini A, Frank E, Scott JA, et al. Metabolic syndrome in bipolar disorder: Findings from the Bipolar Disorder Center for Pennsylvanians. Bipolar Disord 2005;7:424–30.
+Taylor V, MacQueen G. Associations between bipolar disorder and metabolic syndrome: A review. J Clin Psychiatry 2006;67:1034–41.
+van Winkel R, De Hert M, Van Eyck D, et al. Prevalence of diabetes and the metabolic syndrome in a sample of patients with bipolar disorder. Bipolar Disord 2008;10:342–8.
+Vancampfort D, Mitchell AJ, De HertM, et al. Prevalence and predictors of type 2 diabetes mellitus in people with bipolar disorder. J Clin Psychiatry 2015;76:1490–9.
+Calkin CV, Ruzickova M, Uher R, et al. Insulin resistance and outcome in bipolar disorder. Br J Psychiatry 2015;206:52–7.
+Haupt DW, Newcomer JW. Hyperglycemia and antipsychotic medications. J Clin Psychiatry 2001;62:15–26, discussion 40-1.
+Saddichha S, Manjunatha N, Ameen S, et al. Diabetes and schizophrenia—effect of disease or drug? Results from a randomized, double-blind, controlled prospective study in first-episode schizophrenia. Acta Psychiatr Scand 2008;117:342–7.
+Fleischhacker WW, Siu CO, Boden R, et al. Metabolic risk factors in firstepisode schizophrenia: Baseline prevalence and course analysed from the European First-Episode Schizophrenia Trial. Int J Neuropsychopharmacol 2013;16:987–95.
+McEvoy JP, Meyer JM, Goff DC, et al. Prevalence of the metabolic syndrome in patients with schizophrenia: Baseline results from the Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE) schizophrenia trial and comparison with national estimates from NHANES III. Schizophr Res 2005;80:19–32.
+Wu CS, Lai MS, Gau SS. Complications and mortality in patients with schizophrenia and diabetes: Population-based cohort study. Br J Psychiatry 2015;207:450–7.
+Kouidrat Y, Amad A, Arai M, et al. Advanced glycation end products and schizophrenia: A systematic review. J Psychiatr Res 2015;66–67:112–17.
+Hackett RA, Lazzarino AI, Carvalho LA, et al. Hostility and physiological responses to acute stress in people with type 2 diabetes. Psychosom Med 2015;77:458–66.
+Nefs G, Speight J, Pouwer F, et al. Type D personality, suboptimal health behaviors and emotional distress in adults with diabetes: Results fromDiabetes MILESThe Netherlands. Diabetes Res Clin Pract 2015;108:94–105.
+Kelly SJ, Ismail M. Stress and type 2 diabetes: A review of how stress contributes to the development of type 2 diabetes. Annu Rev Public Health 2015;36:441–62.
+Farr OM, Ko BJ, Joung KE, et al. Posttraumatic stress disorder, alone or additively with early life adversity, is associated with obesity and cardiometabolic risk. Nutr Metab Cardiovasc Dis 2015;25:479–88.
+Vaccarino V, Goldberg J, Magruder KM, et al. Posttraumatic stress disorder and incidence of type-2 diabetes: A prospective twin study. J Psychiatr Res 2014;56:158–64.
+Katon W, Lin EH, Kroenke K. The association of depression and anxiety with medical symptom burden in patients with chronic medical illness. Gen Hosp Psychiatry 2007;29:147–55.
+Grigsby AB, Anderson RJ, Freedland KE, et al. Prevalence of anxiety in adults with diabetes: A systematic review. J Psychosom Res 2002;53:1053–60.
+Bajor LA, Gunzler D, Einstadter D, et al. Associations between comorbid anxiety, diabetes control, and overall medical burden in patients with serious mental illness and diabetes. Int J Psychiatry Med 2015;49:309–20.
+Hasan SS, Clavarino AM, Mamun AA, et al. Anxiety symptoms and the risk of diabetes mellitus in Australian women: Evidence from 21-year follow-up. Public Health 2016;130:21–8.
+Crow S, Kendall D, Praus B, et al. Binge eating and other psychopathology in patients with type II diabetes mellitus. Int J Eat Disord 2001;30:222–6.
+Colton PA, Olmsted MP, Daneman D, et al. Eating disorders in girls and women with type 1 diabetes: A longitudinal study of prevalence, onset, remission, and recurrence. Diabetes Care 2015;38:1212–17.
+Jones JM, Lawson ML, Daneman D, et al. Eating disorders in adolescent females with and without type 1 diabetes: Cross sectional study. BMJ 2000;320:1563–6.
+Asamsama OH, Lee JW, Morton KR, et al. Bidirectional longitudinal study of type 2 diabetes and depression symptoms in black and white church going adults. J Diabetes Metab Disord 2015;14:25.
+McCarthy M. The thin ideal, depression and eating disorders in women. Behav Res Ther 1990;28:205–15.
+Morse SA, Ciechanowski PS, Katon WJ, et al. Isn’t this just bedtime snacking? The potential adverse effects of night-eating symptoms on treatment adherence and outcomes in patients with diabetes. Diabetes Care 2006;29:1800–4.
+Ramos AR, Wallace DM, Pandi-Perumal SR, et al. Associations between sleep disturbances and diabetes mellitus among blacks with metabolic syndrome: Results from the Metabolic Syndrome Outcome study (MetSO). Ann Med 2015;47:233–7.
+Isidro ML, Jorge S. Recreational drug abuse in patients hospitalized for diabetic ketosis or diabetic ketoacidosis. Acta Diabetol 2013;50:183–7.
+Lynch CP, Gebregziabher M, Zhao Y, et al. Impact of medical and psychiatric multi-morbidity on mortality in diabetes: Emerging evidence. BMC Endocr Disord 2014;14:68.
+Fogel NR,Weissberg-Benchell J. Preventing poor psychological and health outcomes in pediatric type 1 diabetes. Curr Diab Rep 2010;10:436–43.
+Lawrence JM, Standiford DA, Loots B, et al. Prevalence and correlates of depressed mood among youth with diabetes: The SEARCH for Diabetes in Youth study. Pediatrics 2006;117:1348–58.
+Hood KK, Huestis S, Maher A, et al. Depressive symptoms in children and adolescents with type 1 diabetes: Association with diabetes-specific characteristics. Diabetes Care 2006;29:1389–91.
+Northam EA, Matthews LK, Anderson PJ, et al. Psychiatric morbidity and health outcome in type 1 diabetes–perspectives froma prospective longitudinal study. Diabet Med 2005;22:152–7.
+Kakleas K, Kandyla B, Karayianni C, et al. Psychosocial problems in adolescents with type 1 diabetes mellitus. Diabetes Metab 2009;35:339–50.
+McDonnell CM, Northam EA, Donath SM, et al. Hyperglycemia and externalizing behavior in children with type 1 diabetes. Diabetes Care 2007;30:2211–15.
+Korbel CD, Wiebe DJ, Berg CA, et al. Gender differences in adherence to Type 1 diabetes management across adolescence: The mediating role of depression. Child Health Care 2007;36:83–98. http://dx.doi.org/10.1080/02739610701316936.
+Bryden KS, Neil A, Mayou RA, et al. Eating habits, body weight, and insulin misuse. A longitudinal study of teenagers and young adults with type 1 diabetes. Diabetes Care 1999;22:1956–60.
+Herzer M, Hood KK. Anxiety symptoms in adolescents with type 1 diabetes: Association with blood glucose monitoring and glycemic control. J Pediatr Psychol 2010;35:415–25.
+Chida Y, Hamer M. An association of adverse psychosocial factors with diabetes mellitus: A meta-analytic review of longitudinal cohort studies. Diabetologia 2008;51:2168–78.
+Stewart SM, Rao U, Emslie GJ, et al. Depressive symptoms predict hospitalization for adolescents with type 1 diabetes mellitus. Pediatrics 2005;115:1315–19.
+Garrison MM, Katon WJ, Richardson LP. The Impact of psychiatric comorbidities on readmissions for diabetes in youth. Diabetes Care 2005;28:2150–4.
+Hassan K, Loar R, Anderson BJ, et al. The role of socioeconomic status, depression, quality of life, and glycemic control in type 1 diabetes mellitus. J Pediatr 2006;149:526–31.
+Cunningham NR, Vesco AT, Dolan LM, et al. From caregiver psychological distress to adolescent glycemic control: The mediating role of perceived burden around diabetes management. J Pediatr Psychol 2011;36:196–205.
+Butler JM, Skinner M, Gelfand D, et al. Maternal parenting style and adjustment in adolescents with type I diabetes. J Pediatr Psychol 2007;32:1227–37.
+Jaser SS, Whittemore R, Ambrosino JM, et al. Mediators of depressive symptoms in children with type 1 diabetes and their mothers. J Pediatr Psychol 2008;33:509–19.
+Eckshtain D, Ellis DA, Kolmodin K, et al. The effects of parental depression and parenting practices on depressive symptoms and metabolic control in urban youth with insulin dependent diabetes. J Pediatr Psychol 2010;35:426–35.
+Hood KK. The influence of caregiver depressive symptoms on proxy report of youth depressive symptoms: A test of the depression-distortion hypothesis in pediatric type 1 diabetes. J Pediatr Psychol 2009;34:294–303.
+Cameron LD, Young MJ, Wiebe DJ. Maternal trait anxiety and diabetes control in adolescents with type 1 diabetes. J Pediatr Psychol 2007;32:733–44.
+Rydall AC, Rodin GM, Olmsted MP, et al. Disordered eating behavior and microvascular complications in young women with insulin-dependent diabetes mellitus. N Engl J Med 1997;336:1849–54.
+Young-Hyman DL, Davis CL. Disordered eating behavior in individuals with diabetes: Importance of context, evaluation, and classification. Diabetes Care 2010;33:683–9.
+Bachle C, Lange K, Stahl-Pehe A, et al. Symptoms of eating disorders and depression in emerging adults with early-onset, long-duration type 1 diabetes and their association with metabolic control. PLoS ONE 2015;10:e0131027.
+Butwicka A, Fendler W, Zalepa A, et al. Psychiatric disorders and healthrelated quality of life in children with type 1 diabetes mellitus. Psychosomatics 2016;57:185–93.
+Chao AM, Minges KE, Park C, et al. General life and diabetes-related stressors in early adolescents with type 1 diabetes. J Pediatr Health Care 2016;30:133–42.
+Schwartz DD, Cline VD, Hansen JA, et al. Early risk factors for nonadherence in pediatric type 1 diabetes: A review of the recent literature. Curr Diabetes Rev 2010;6:167–83.
+Cameron FJ, Northam EA, Ambler GR, et al. Routine psychological screening in youth with type 1 diabetes and their parents: A notion whose time has come? Diabetes Care 2007;30:2716–24.
+Harkness E, Macdonald W, Valderas J, et al. Identifying psychosocial interventions that improve both physical and mental health in patients with diabetes: A systematic review and meta-analysis. Diabetes Care 2010;33:926–30.
+de Wit M, Delemarre-van de Waal HA, Bokma JA, et al. Monitoring and discussing health-related quality of life in adolescents with type 1 diabetes improve psychosocial well-being: A randomized controlled trial. Diabetes Care 2008;31:1521–6.
+van der Feltz-Cornelis CM, Nuyen J, Stoop C, et al. Effect of interventions for major depressive disorder and significant depressive symptoms in patients with diabetes mellitus: A systematic review and meta-analysis. Gen Hosp Psychiatry 2010;32:380–95.
+Winkley K, Ismail K, Landau S, et al. Psychological interventions to improve glycaemic control in patients with type 1 diabetes: Systematic reviewand metaanalysis of randomised controlled trials. BMJ 2006;333:65.
+Alam R, Sturt J, Lall R, et al. An updated meta-analysis to assess the effectiveness of psychological interventions delivered by psychological specialists and generalist clinicians on glycaemic control and on psychological status. Patient Educ Couns 2009;75:25–36.
+Delamater AM, Jacobson AM, Anderson B, et al. Psychosocial therapies in diabetes: Report of the Psychosocial Therapies Working Group. Diabetes Care 2001;24:1286–92.
+Méndez FJ, Beléndez M. Effects of a behavioral intervention on treatment adherence and stress management in adolescents with IDDM. Diabetes Care 1997;20:1370–5.
+Panagiotopoulos C, Ronsley R, Davidson J. Increased prevalence of obesity and glucose intolerance in youth treated with second—generation antipsychotic medications. Can J Psychiatry 2009;54:743–9.
+Levitt Katz LE, Swami S, Abraham M, et al. Neuropsychiatric disorders at the presentation of type 2 diabetes mellitus in children. Pediatr Diabetes 2005;6:84–9.
+Sohn M, Talbert J, Blumenschein K, et al. Atypical antipsychotic initiation and the risk of type II diabetes in children and adolescents. Pharmacoepidemiol Drug Saf 2015;24:583–91.
+Rubin DM, Kreider AR, Matone M, et al. Risk for incident diabetes mellitus following initiation of second-generation antipsychotics among Medicaidenrolled youths. JAMA Pediatr 2015;169:e150285.
+Silverman ME, Reichenberg A, Savitz DA, et al. The risk factors for postpartum depression: A population-based study. Depress Anxiety 2017;34:178–87.
+Crowther CA, Hiller JE, Moss JR, et al. Effect of treatment of gestational diabetes mellitus on pregnancy outcomes. N Engl J Med 2005;352:2477–86.
+Langer N, Langer O. Comparison of pregnancy mood profiles in gestational diabetes and preexisting diabetes. Diabetes Educ 2000;26:667–72.
+Callesen NF, Secher AL, Cramon P, et al. Mental health in early pregnancy is associated with pregnancy outcome in women with pregestational diabetes. Diabet Med 2015;32:1484–91.
+Hinkle SN, Buck Louis GM, Rawal S, et al. A longitudinal study of depression and gestational diabetes in pregnancy and the postpartum period. Diabetologia 2016;59:2594–602.
+Abitbol R, Rej S, Segal M, et al. Diabetes mellitus onset in geriatric patients: Does long-term atypical antipsychotic exposure increase risk? Psychogeriatrics 2015;15:43–50.
+Katon W, Pedersen HS, Ribe AR, et al. Effect of depression and diabetes mellitus on the risk for dementia: A national population-based cohort study. JAMA Psychiatry 2015;72:612–19.
+Limongi F, Noale M, Crepaldi G, et al. Prevalence of diabetes and depressive symptomatology and their effect on mortality risk in elderly Italians: The Italian Longitudinal Study on Aging. Diabetes Metab 2014;40:373–8.
+Sarkar S, Balhara YPS. Diabetes mellitus and suicide. Indian J Endocrinol Metab 2014;18:468–74.
+Myers AK, Grannemann BD, Lingvay I, et al. Brief report: Depression and history of suicide attempts in adults with new-onset type 2 diabetes. Psychoneuroendocrinology 2013;38:2810–14.
+Hoffmann M, Kohler B, Leichsenring F, et al. Depression as a risk factor formortality in individuals with diabetes: Ameta-analysis of prospective studies. PLoS ONE 2013;8:e79809.
+Park M, Katon WJ, Wolf FM. Depression and risk of mortality in individuals with diabetes: A meta-analysis and systematic review. Gen Hosp Psychiatry 2013;35:217–25.
+Chwastiak LA, Davydow DS, McKibbin CL, et al. The effect of serious mental illness on the risk of rehospitalization among patients with diabetes. Psychosomatics 2014;55:134–43.
+Pignone MP, Gaynes BN, Rushton JL, et al. Screening for depression in adults: A summary of the evidence for the U.S. Preventive Services Task Force. Ann Intern Med 2002;136:765–76.
+Ishizawa K, Babazono T, Horiba Y, et al. The relationship between depressive symptoms and diabetic complications in elderly patients with diabetes: Analysis using the diabetes study from the Center of TokyoWomen’s Medical University (DIACET). J Diabetes Complications 2016;30:597–602.
+van Dooren FE, Denollet J, Verhey FR, et al. Psychological and personality factors in type 2 diabetes mellitus, presenting the rationale and exploratory results from The Maastricht Study, a population-based cohort study. BMC Psychiatry 2016;16:17.
+Polonsky WH, Anderson BJ, Lohrer PA, et al. Assessment of diabetes-related distress. Diabetes Care 1995;18:754–60.
+van Bastelaar KM, Pouwer F, Geelhoed-Duijvestijn PH, et al. Diabetes-specific emotional distress mediates the association between depressive symptoms and glycaemic control in type 1 and type 2 diabetes. Diabet Med 2010;27:798–803.
+FuruyaM, Hayashino Y, Tsujii S, et al. Comparative validity of the WHO-5Well- Being Index and two-question instrument for screening depressive symptoms in patients with type 2 diabetes. Acta Diabetol 2013;50:117–21.
+Collins MM, Corcoran P, Perry IJ. Anxiety and depression symptoms in patients with diabetes. Diabet Med 2009;26:153–61.
+Kroenke K, Spitzer RL. The PHQ-9: A new depression diagnostic and severity measure. Psychiatr Ann 2002;32:509–15. https://www.healio.com/psychiatry/journals/psycann/2002-9-32-9/{b9ab8f2c-53ce-4f76-b88e-2d5a70822f69}/the-phq-9-a-new-depression-diagnostic-and-severity-measure.
+van Steenbergen-Weijenburg KM, de Vroege L, Ploeger RR, et al. Validation of the PHQ-9 as a screening instrument for depression in diabetes patients in specialized outpatient clinics. BMC Health Serv Res 2010;10:235.
+Fisher L, Skaff MM, Mullan JT, et al. A longitudinal study of affective and anxiety disorders, depressive affect and diabetes distress in adults with Type 2 diabetes. Diabet Med 2008;25:1096–101.
+Mantyselka P, Korniloff K, Saaristo T, et al. Association of depressive symptoms with impaired glucose regulation, screen-detected, and previously known type 2 diabetes: Findings from the Finnish D2D survey. Diabetes Care 2011;34:71–6.
+Piatt GA, Anderson RM, Brooks MM, et al. 3-year follow-up of clinical and behavioral improvements following a multifaceted diabetes care intervention: Results of a randomized controlled trial. Diabetes Educ 2010;36:301–9.
+Osborn CY, Egede LE. Validation of an Information-Motivation-Behavioral skills model of Diabetes Self-Care (IMB-DSC). Patient Educ Couns 2010;79:49–54.
+Maindal HT, Sandbaek A, Kirkevold M, et al. Effect on motivation, perceived competence, and activation after participation in the “‘Ready to Act’” programme for people with screen-detected dysglycaemia: A 1-year randomised controlled trial, Addition-DK. Scand J Public Health 2011;39:262–71.
+Attari A, Sartippour M, Amini M, et al. Effect of stress management training on glycemic control in patients with type 1 diabetes. Diabetes Res Clin Pract 2006;73:23–8.
+Soo H, Lam S. Stress management training in diabetes mellitus. J Health Psychol 2009;14:933–43.
+Keogh KM, Smith SM, White P, et al. Psychological family intervention for poorly controlled type 2 diabetes. Am J Manag Care 2011;17:105–13.
+Wysocki T, Harris MA, Buckloh LM, et al. Randomized trial of behavioral family systems therapy for diabetes: Maintenance of effects on diabetes outcomes in adolescents. Diabetes Care 2007;30:555–60.
+Wysocki T, Harris MA, Buckloh LM, et al. Randomized, controlled trial of Behavioral Family Systems Therapy for Diabetes: Maintenance and generalization of effects on parent-adolescent communication. Behav Ther 2008;39:33–46.
+Armour TA, Norris SL, Jack L Jr, et al. The effectiveness of family interventions in people with diabetes mellitus: A systematic review. Diabet Med 2005;22:1295–305.
+Chen SM, Creedy D, Lin HS, et al. Effects of motivational interviewing intervention on self-management, psychological and glycemic outcomes in type 2 diabetes: A randomized controlled trial. Int J Nurs Stud 2012;49:637–44.
+Huang Y, Wei X, Wu T, et al. Collaborative care for patients with depression and diabetes mellitus: A systematic review and meta-analysis. BMC Psychiatry 2013;13:260.
+Atlantis E, Fahey P, Foster J. Collaborative care for comorbid depression and diabetes: A systematic review and meta-analysis. BMJ Open 2014;4:e004706.
+Petrak F, Herpertz S. Treatment of depression in diabetes: An update. Curr Opin Psychiatry 2009;22:211–17.
+Baumeister H, Hutter N, Bengel J. Psychological and pharmacological interventions for depression in patients with diabetes mellitus: An abridged Cochrane review. Diabet Med 2014;31:773–86.
+de Groot M, Doyle T, Kushnick M, et al. Can lifestyle interventions do more than reduce diabetes risk? Treating depression in adults with type 2 diabetes with exercise and cognitive behavioral therapy. Curr Diab Rep 2012;12:157–66.
+Wang MY, Tsai PS, Chou KR, et al. A systematic review of the efficacy of nonpharmacological treatments for depression on glycaemic control in type 2 diabetics. J Clin Nurs 2008;17:2524–30.
+Chapman A, Liu S, Merkouris S, et al. Psychological interventions for the management of glycemic and psychological outcomes of type 2 diabetes mellitus in china: A systematic reviewand meta-analyses of randomized controlled trials. Front Public Health 2015;3:252.
+van Son J, Nyklicek I, Nefs G, et al. The association between mindfulness and emotional distress in adults with diabetes: Could mindfulness serve as a buffer? Results from Diabetes MILES: The Netherlands. J Behav Med 2015;38:251–60.
+Tovote KA, Fleer J, Snippe E, et al. Individual mindfulness-based cognitive therapy and cognitive behavior therapy for treating depressive symptoms in patients with diabetes: Results of a randomized controlled trial. Diabetes Care 2014;37:2427–34.
+Hermanns N, Schmitt A, Gahr A, et al. The effect of a Diabetes-Specific Cognitive Behavioral Treatment Program (DIAMOS) for patients with diabetes and subclinical depression: Results of a randomized controlled trial. Diabetes Care 2015;38:551–60.
+Hessler D, Fisher L, Glasgow RE, et al. Reductions in regimen distress are associated with improved management and glycemic control over time. Diabetes Care 2014;37:617–24.
+Katon WJ, Lin EHB, Von KorffM, et al. Collaborative care for patientswith depression and chronic illnesses. N Engl J Med 2010;363:2611–20.
+Polonsky WH, Jackson RA. What’s so tough about taking insulin? Addressing the problem of psychological insulin resistance in type 2 diabetes. Clin Diabetes 2004;22:147. http://clinical.diabetesjournals.org/content/22/3/147.abstract.
+Polonsky WH, Fisher L, Guzman S, et al. Psychological insulin resistance in patients with type 2 diabetes. Diabetes Care 2005;28:2543–5.
+Barnard K, Thomas S, Royle P, et al. Fear of hypoglycaemia in parents of young children with type 1 diabetes: A systematic review. BMC Pediatr 2010;10:50.
+Wild D, von Maltzahn R, Brohan E, et al. A critical review of the literature on fear of hypoglycemia in diabetes: Implications for diabetes management and patient education. Patient Educ Couns 2007;68:10–15.
+Ekong G, Kavookjian J. Motivational interviewing and outcomes in adults with type 2 diabetes: A systematic review. Patient Educ Couns 2016;99:944–52.
+Abidi S, Vallis M, Raza Abidi SS, et al. D-WISE: Diabetes Web-Centric Information and Support Environment: Conceptual specification and proposed evaluation. Can J Diabetes 2014;38:205–11.
+Graves H, Garrett C, Amiel SA, et al. Psychological skills training to support diabetes self-management: Qualitative assessment of nurses’ experiences. Prim Care Diabetes 2016;10:376–82.
+Fournier M, De Ridder D, Bensing J. Optimism and adaptation to chronic disease: The role of optimism in relation to self-care options of type 1 diabetes mellitus, rheumatoid arthritis and multiple sclerosis. Br J Health Psychol 2002;7:409–32.
+Seligman ME, Csikszentmihalyi M. Positive psychology. an introduction. Am Psychol 2000;55:5–14.
+Xia Z, DePierre JW, Nassberger L. Tricyclic antidepressants inhibit IL-6, IL-1 beta and TNF-alpha release in human blood monocytes and IL-2 and interferongamma in T cells. Immunopharmacology 1996;34:27–37.
+Maes M, Song C, Lin AH, et al. Negative immunoregulatory effects of antidepressants: Inhibition of interferon-gamma and stimulation of interleukin-10 secretion. Neuropsychopharmacology 1999;20:370–9.
+Kauffman RP, Castracane VD, White DL, et al. Impact of the selective serotonin reuptake inhibitor citalopram on insulin sensitivity, leptin and basal cortisol secretion in depressed and non-depressed euglycemic women of reproductive age. Gynecol Endocrinol 2005;21:129–37.
+Weber-Hamann B, Gilles M, Lederbogen F, et al. Improved insulin sensitivity in 80 nondiabetic patients with MDD after clinical remission in a doubleblind, randomized trial of amitriptyline and paroxetine. J Clin Psychiatry 2006;67:1856–61.
+Allison DB, Mentore JL, Heo M, et al. Antipsychotic-induced weight gain: A comprehensive research synthesis. Am J Psychiatry 1999;156:1686–96.
+American Diabetes Association, American Psychiatric Association, American Association of Clinical Endocrinologists, North American Association for the Study of Obesity. Consensus development conference on antipsychotic drugs and obesity and diabetes. Diabetes Care 2004;27:596–601.
+Woo V, Harris SB, Houlden RL. Canadian Diabetes Association position paper: Antipsychotic medications and associated risks of weight gain and diabetes. Can J Diabetes 2005;29:111–12.
+Bobo WV, Cooper WO, Stein CM, et al. Antipsychotics and the risk of type 2 diabetes mellitus in children and youth. JAMA Psychiatry 2013;70:1067–75.
+Nielsen RE, Laursen MF, Lammers Vernal D, et al. Risk of diabetes in children and adolescents exposed to antipsychotics: A nationwide 12-year casecontrol study. J Am Acad Child Adolesc Psychiatry 2014;53:971–9, e6.
+Jarskog LF, Hamer RM, Catellier DJ, et al. Metformin for weight loss and metabolic control in overweight outpatients with schizophrenia and schizoaffective disorder. Am J Psychiatry 2013;170:1032–40.
+Serretti A, Mandelli L. Antidepressants and body weight: A comprehensive review and meta-analysis. J Clin Psychiatry 2010;71:1259–72.
+Auclair AL, Martel JC, Assié MB, et al. Levomilnacipran (F2695), a norepinephrinepreferring SNRI: Profile in vitro and in models of depression and anxiety. Neuropharmacology 2013;70:338–47.
+Caemmerer J, Correll CU, Maayan L. Acute and maintenance effects of nonpharmacologic interventions for antipsychotic associatedweight gain and metabolic abnormalities: Ameta-analytic comparison of randomized controlled trials. Schizophr Res 2012;140:159–68.
+Stroup TS, Lieberman JA, McEvoy JP, et al. Effectiveness of olanzapine, quetiapine, risperidone, and ziprasidone in patients with chronic schizophrenia following discontinuation of a previous atypical antipsychotic. Am J Psychiatry 2006;163:611–22.
+Stroup TS, McEvoy JP, Ring KD, et al. A randomized trial examining the effectiveness of switching from olanzapine, quetiapine, or risperidone to aripiprazole to reduce metabolic risk: Comparison of Antipsychotics for Metabolic Problems (CAMP). Am J Psychiatry 2011;168:947–56.
+Stahl S. The prescriber’s guide. 6th edn. New York: Cambridge University Press, 2017.
+Procyshyn RM. Clinical handbook of psychotropic drugs. 22nd edn. Toronto: Hogrefe Publishing, 2017.
+Gardner-Sood P, Lally J, Smith S, et al. Cardiovascular risk factors and metabolic syndrome in people with established psychotic illnesses: Baseline data from the IMPaCT randomized controlled trial. Psychol Med 2015;45:2619–29.
+Meyer J. Medical illness and schizophrenia. 2nd edn. Arlington: American Psychiatric Publishing, Inc, 2009.
+Smith RS. The macrophage theory of depression. Med Hypotheses 1991;35:298–306.
+Fernandez-Real JM, Pickup JC. Innate immunity, insulin resistance and type 2 diabetes. Trends Endocrinol Metab 2008;19:10–16.
+Spoelstra JA, Stolk RP, Cohen D, et al. Antipsychotic drugs may worsen metabolic control in type 2 diabetes mellitus. J Clin Psychiatry 2004;65: 674–8.
+Newcomer JW, Haupt DW. The metabolic effects of antipsychotic medications. Can J Psychiatry 2006;51:480–91.
+Lambert TJ, Chapman LH, ConsensusWorking Group. Diabetes, psychotic disorders and antipsychotic therapy: A consensus statement. Med J Aust 2004;181:544–8.
+Steylen PM, van der Heijden FM, Hoogendijk WJ, et al. Glycosylated hemoglobin as a screening test for hyperglycemia in antipsychotic-treated patients: A follow-up study. Diabetes Metab Syndr Obes 2015;8:57–63.
+Ismail K, Winkley K, Rabe-Hesketh S. Systematic review and meta-analysis of randomised controlled trials of psychological interventions to improve glycaemic control in patients with type 2 diabetes. Lancet 2004;363:1589–97.
+Grey M, Boland EA, Davidson M, et al. Short-term effects of coping skills training as adjunct to intensive therapy in adolescents. Diabetes Care 1998;21:902–8.
+Ellis DA, Frey MA, Naar-King S, et al. The effects of multisystemic therapy on diabetes stress among adolescents with chronically poorly controlled type 1 diabetes: Findings from a randomized, controlled trial. Pediatrics 2005;116:e826–32.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

@@ -1,0 +1,420 @@
+Chapter Headings
+
+Key Messages
+Key Messages for People With Type 1 and Type 2 Diabetes
+Introduction
+Definition and Frequency of Hypoglycemia
+Risk Factors for Severe Hypoglycemia and IAH
+Physical and Psychosocial Complications of Hypoglycemia
+Prevention
+Treatment of Hypoglycemia
+Abbreviations
+Author Disclosures
+Acknowledgments
+Key Messages
+Hypoglycemia caused by insulin or insulin secretagogues (i.e. sulfonylureas, meglitinides) can cause distressing and potentially debilitating complications. It is therefore imperative that events are reduced in frequency and severity, recognized safely, and treated quickly.
+It is safer and more effective to prevent hypoglycemia than to treat it after it occurs. Hence, individuals with diabetes who are at high risk for hypoglycemia, and their support persons (i.e. friends, family, colleagues, etc), should be identified and counselled about ways to prevent low blood glucose (BG).
+Individuals at risk of hypoglycemia and their support persons should be counselled about the recognition and treatment of hypoglycemia.
+For individuals at high risk for hypoglycemia who are treated with insulin or insulin secretagogues, the doses and need for these agents should be reassessed and appropriately modified at each clinic visit to reduce the risk of hypoglycemia.
+Hypoglycemia should be detected and treated promptly by using an intervention that provides the fastest rise in BG to a safe level, to reduce the risk of injury, and to relieve symptoms quickly. Once the BG reaches a safe level, the individual should have the usual meal or snack that is due at that time of the day to prevent repeated hypoglycemia. If a meal is >1 hour away, a snack (including 15 g carbohydrate and a protein source) should be consumed.
+Individuals with type 1 diabetes and those with type 2 diabetes treated with insulin or insulin secretagogues should be screened for impaired awareness of hypoglycemia (IAH).
+Fear of hypoglycemia (FoH) is an underestimated problem for individuals living with diabetes. FoH has negative impacts on mental health (for individuals living with diabetes, caregivers, and support persons) and can lead individuals living with diabetes to target higher BG values, to overtreat hypoglycemia, and to avoid activities and social situations that may result in hypoglycemia.
+Individuals at high risk for severe hypoglycemia, such as those treated with insulin, should be prescribed glucagon, along with provision of counselling on administration technique for their support persons.
+Continuous glucose monitoring (CGM) should be used in conjunction with a structured educational program to detect and prevent hypoglycemia for those at high risk of hypoglycemia, IAH, or FoH.
+Key Messages for People With Type 1 and Type 2 Diabetes
+Know the signs and symptoms of a low BG level. Some of the more common symptoms of low BG are trembling, sweating, anxiety, confusion, difficulty concentrating, or nausea. Not all symptoms will be present and some individuals may have different symptoms or no symptoms at all.
+Talk with your health-care provider about the prevention and emergency treatment of a severe low BG, which can be associated with confusion, loss of consciousness, or seizure.
+Carry a source of fast-acting carbohydrate with you at all times, such as glucose tablets, Life Savers™, and/or a juice box, that you can take quickly if you are experiencing low BG (see Table 4).
+For individuals treated with either insulin or insulin secretagogues (i.e. sulfonylureas, meglitinides), ensure that support persons, including work colleagues, are counselled on administration of glucagon.
+Wear diabetes identification (e.g. a MedicAlert® bracelet).
+Talk with your diabetes health-care team about any fears or concerns you may have related to hypoglycemia.
+Introduction
+
+Iatrogenic hypoglycemia is a major obstacle to achieving glycemic targets in individuals with type 1 or type 2 diabetes mellitus treated with insulin and/or insulin secretagogues [1–3]. The risk of severe hypoglycemia in some individuals can necessitate less stringent glycemic goals. The frequency and severity of hypoglycemia can negatively impact quality of life [4,5] in individuals with diabetes and promote fear of future episodes of hypoglycemia [6,7]. This fear may lead some individuals to target higher BG levels in an effort to avoid hypoglycemia, thereby worsening overall glycemic management [8–10]. Consequently, preventing, recognizing, and treating hypoglycemia is an important part of diabetes management (see “Glycemic Management in Adults with Type 1 Diabetes,” p. S80, and “Pharmacologic Glycemic Management of Type 2 Diabetes in Adults,” p. S88, for further discussion of drug-induced hypoglycemia).
+
+Definition and Frequency of Hypoglycemia
+
+An alert value of <3.9 mmol/L can be used as a cutoff to classify hypoglycemia in individuals with diabetes treated with insulin and/or insulin secretagogues. Hypoglycemia is very common; up to 65% of individuals with either type 1 or type 2 diabetes (treated with insulin or insulin secretagogues) self-report at least 1 episode of hypoglycemia in a given year, with a higher incidence in people with type 1 diabetes [11]. Hypoglycemia is rare in individuals with type 2 diabetes who are not using insulin or insulin secretagogues, although it may still occur [12,13]. The initial symptoms of hypoglycemia are usually adrenergic, followed by neuroglycopenic symptoms (Table 1), though individuals with impaired counter-regulatory responses to hypoglycemia and IAH may not exhibit adrenergic symptoms prior to neuroglycopenic symptoms, even with low glucose levels.
+
+The severity of hypoglycemia is not strictly defined by glucose levels, but is characterized by the severity of the associated symptoms of hypoglycemia and risks, as defined by the International Hypoglycemia Study Group [14] (Tables 2 and 3). The adoption of a 3-tiered, numbered classification system helps standardize the diagnosis and treatment response according to the severity of symptoms [14,15]. While levels 1 and 2 may be recognized and treated by the individual experiencing hypoglycemia, level 3 is defined by the presence of neuroglycopenic symptoms and the necessity of external assistance (from either a friend, colleague, significant other, caregiver, support person, or health-care professional) to treat low BG.
+
+Risk Factors for Severe Hypoglycemia and IAH
+
+Hypoglycemia is often the primary barrier to achieving glycemic targets in individuals with type 1 diabetes [16]. The major risk factors for level 3 hypoglycemia include a prior episode of severe hypoglycemia [17–19], advancing age [20], low or high glycated hemoglobin (A1C) [18,20–24], IAH [25,26], long duration of diabetes [22,27], autonomic neuropathy [28], adolescents [29] and preschool-aged children unable to detect and/or treat mild hypoglycemia on their own, severe cognitive impairment [30,31], reduced health literacy [32], food insecurity [33], long duration of insulin therapy [34], renal impairment, and neuropathy [24] (Table 3). The choice and dose of antihyperglycemic therapy is also an important and potentially modifiable risk factor for level 3 hypoglycemia. Insulin and insulin secretagogue therapy confer the highest risk of hypoglycemia compared to other antihyperglycemic agents [1,3,35,36], especially among high-risk groups, such as older adults, those with cognitive impairment, and individuals treated to intensive glycemic targets (see “Blood Glucose Monitoring in Adults and Children with Diabetes: Update 2021,” p. 588–590).
+
+Frequent, even mild, hypoglycemia can reduce normal responses to hypoglycemia [12] and lead to defective glucose counter-regulation and IAH. Glucose counter-regulation refers to the normal rise in glucagon, growth hormone, sympathetic (epinephrine, norepinephrine), and adrenal (cortisol) hormones in response to low BG, which counteracts the glucose-lowering effects of insulin and tends to increase BG. IAH occurs when the threshold for the development of autonomic warning symptoms is close to, or lower than, the threshold for the neuroglycopenic symptoms, such that the first sign of hypoglycemia is confusion or loss of consciousness. Risk factors for IAH include recurrent hypoglycemia, long duration of diabetes, genetic factors, and diabetic neuropathy [37,38]. IAH is a significant risk factor for severe hypoglycemia in individuals with type 1 and type 2 diabetes. Individuals at risk of IAH can be screened with careful history inquiring about symptoms of hypoglycemia, as well as either the Gold or Clarke scores, both validated measures of IAH [25,39].
+
+The sympathoadrenal response to hypoglycemia is reduced during sleep, and following exercise or alcohol consumption [40,41]. Asymptomatic nocturnal hypoglycemia is common and often lasts greater than 4 hours [21,42–45]. Level 3 hypoglycemia, resulting in seizures, is more likely to occur at night than during the day [22].
+
+Table 1
+Symptoms of hypoglycemia
+Adrenergic
+(autonomic)	Neuroglycopenic
+• Trembling
+• Palpitations
+• Sweating
+• Anxiety
+• Hunger
+• Nausea
+• Tingling	• Difficulty concentrating
+• Confusion, weakness, drowsiness, vision changes
+• Slurred speech, headache, dizziness
+Physical and Psychosocial Complications of Hypoglycemia
+Neurologic complications
+
+Cells in the brain, such as neurons and glia, rely on a constant supply of glucose from the bloodstream. When BG levels decline, as in the case of hypoglycemia, there is marked impairment in cognition, which can ultimately lead to coma and death [46]. Short-term risks of hypoglycemia include impaired cognition during dangerous situations, whether at home or at work (e.g. driving, operating machinery), which can lead to personal injury (i.e. falls with fractures, joint injuries, or head trauma).
+
+The potential long-term complications of level 3 hypoglycemia are mild intellectual impairment and permanent neurologic sequelae, such as hemiparesis and pontine dysfunction, a neurologic condition that can lead to permanent brain damage. The latter are rare and have been reported only in case studies. There is also increasing evidence of an association between hypoglycemia---both level 3 and recurrent episodes of level 1 and 2 hypoglycemia---and cognitive disorders [47,48], but the nature of this relationship remains uncertain. Episodes of hypoglycemia may, in part, explain the higher risk of dementia in individuals with diabetes. Alternatively, hypoglycemia may be a marker for undiagnosed cognitive impairment, as individuals with cognitive disorders are at high risk of future hypoglycemic episodes, including level 3 hypoglycemia, possibly because of medication errors and irregular eating patterns [30,49,50] (see “Diabetes in Older People” chapter, p. S283).
+
+Prospective studies have not found an association between intensive insulin therapy and cognitive function [51–53], or between level 3 hypoglycemia and future cognitive function [49,50]. In the long-term follow-up of the Diabetes Complications and Control Trial (DCCT), exposure to higher A1C levels, more episodes of severe hypoglycemia, and elevated systolic blood pressure (BP) were associated with greater decrements in psychomotor and mental efficiency that were most notable by year 32 (p<0.0001) [54].
+
+Cardiovascular complications
+
+In individuals with type 2 diabetes and established, or very high, risk for cardiovascular disease (CVD), there is a clear association between increased mortality, level 3 hypoglycemia [47,55,56], and symptomatic hypoglycemia, though the mechanism for this association is not certain [57]. However, severe hypoglycemia may also be a marker of vulnerability, without a direct causal contribution to the increased mortality [58]. Acute hypoglycemia is proinflammatory, increases platelet activation, and decreases fibrinolysis, leading to a prothrombotic state [59,60]. Hypoglycemia is associated with increased heart rate, systolic BP, myocardial contractility, stroke volume, and cardiac output, and can induce ST- and T-wave changes with a lengthening of the QT interval (slower repolarization). Level 3 hypoglycemia may also increase the risk of heart block and fatal cardiac arrhythmias [61–66].
+
+Musculoskeletal complications
+
+There is also an association between hypoglycemia and falls and fractures [47]. The fall/fracture may, in some cases, be an immediate consequence of an acute hypoglycemic event or hypoglycemia may be a marker of frailty/vulnerability.
+
+Despite the uncertainty that persists on the causality of severe hypoglycemia for these complications, the finding of frequent or level 3 hypoglycemia in an individual should increase awareness of their risk for future cardiovascular events, cognitive decline, and/or falls and fractures, and, in the frail individual with cognitive decline or multiple comorbidities, prevention of hypoglycemia should be prioritized.
+
+Psychosocial complications
+
+Individuals with type 1 diabetes describe numerous consequences of hypoglycemia on their quality of life [67]. They report worrying about burdening others because of the need for help, interruptions in activities, inappropriate behaviour, and lack of energy. This may lead to hiding hypoglycemia, reducing social activities, maintaining higher glucose levels, and lower work productivity due to interruptions at work due to diabetes and absenteeism while recuperating from a hypoglycemic episode [68]. These impacts on quality of life may also lead to anxiety, depression, and FoH (see “Diabetes and Mental Health” chapter) [69–72].
+
+Hypoglycemia also places burden and stress on the family members and support persons of individuals living with diabetes [73]. They feel responsible for the management of hypoglycemic episodes of their loved ones, which may disrupt their own activities. Sleep may often be affected in bed partners, as well as in parents of youths with type 1 diabetes, due to concerns with nocturnal hypoglycemia [74,75].
+
+Fear of hypoglycemia
+
+FoH is a specific and extreme fear evoked by the risk and/or occurrence of hypoglycemia. The prevalence of FoH may be as high as 30% among individuals living with type 1 and type 2 diabetes treated with insulin and/or insulin secretagogues [6,9,76,77]. FoH occurs more frequently in women than in men [6,9] (see “Diabetes and Mental Health” chapter, p. S131).
+
+While adaptive FoH may allow individuals to respond appropriately to the risk of hypoglycemia, FoH that is excessive may cause excess anxiety, stress, and, as a result, a reduction in function and quality of life [78,79]. Conversely, low levels of fear may increase risk of further episodes of hypoglycemia and complications of severe hypoglycemia. Additional complications from FoH may include interference with behavioural adherence to diabetes management, as individuals may intentionally target a higher BG value in order to avoid hypoglycemia in situations where it may be socially “inappropriate” to treat hypoglycemia (meetings, performances, etc) [9]. Avoidance behaviours may include things such as underdosing insulin, limiting exercise, or overeating.
+
+Validated questionnaires for measuring FoH include the Hypoglycemia Fear Survey (HFS-II), Quick Screening for Fear of Hypoglycemia (QSFH), the Fear of Hypoglycemia 15-Item Scale (FH-15), and the Children’s Hypoglycemia Index (CHI) [78]. HFS-II is the most validated questionnaire, but given the large number of questions, it may not be feasible to use it in a busy clinic setting. The QSFH shows promise for clinical relevance as it consists of only 2 questions (How worried are you about severe hypoglycemia? and How much do your worries about hypoglycemia hinder you in daily life?). However, it requires further validation before it can be widely used. Identification of individuals with FoH would allow clinicians to implement strategies targeted at addressing it.
+
+Table 2
+Classification of hypoglycemia
+
+Level 1	Level 2	Level 3
+• Glucose level below normal (often between
+3.0 and 3.9 mmol/L)
+• Associated with autonomic symptoms
+• Without neuroglycopenic symptoms or
+changes to mental status	• Glucose level below normal (often
+<3.0 mmol/L)
+• Associated with neuroglycopenic symptoms
+• Without significant impact on mental status
+• With or without autonomic symptoms	• Glucose level below normal (regardless of
+glucose reading)
+• Associated with neuroglycopenic symptoms
+resulting in significantly altered mental/physical
+status
+• Requires assistance to treat
+Prevention
+
+Prevention of hypoglycemia is safer and more effective than addressing the many short-term and long-term consequences. Choice of dose of antihyperglycemic agent and use of CGM technologies can reduce episodes of hypoglycemia (see “Pharmacologic Glycemic Management of Type 2 Diabetes in Adults: 2020 Update,” p. 589; see “Blood Glucose Monitoring in Adults and Children With Diabetes: Update 2021,” p. 584–585). Structured educational and psychobehavioural programs (e.g. BG awareness training) may help improve detection of hypoglycemia and reduce the frequency of level 3 hypoglycemia [80–83]. The following are the prevention strategies for hypoglycemia.
+
+Pharmacotherapy: Type and regimen
+
+Insulin and/or insulin secretagogue therapy increases the risk of hypoglycemia. In general, basal insulin analogues are associated with a lower risk of hypoglycemia compared to NPH insulin, including among individuals with stage 3 or 4 chronic kidney disease (CKD) [84]. Among analogue insulins, degludec and glargine-300 are associated with less hypoglycemic episodes compared to glargine-100 and detemir across many populations, including older adults, individuals with obesity, renal impairment, and among those with a history of CVD and with long duration of insulin use (85–87). In addition, insulin degludec is associated with less nocturnal hypoglycemia than insulin glargine-100 [85] in both type 1 and type 2 diabetes [85,88,89]. Studies comparing insulin glargine-300 to insulin degludec show similar rates of hypoglycemia [90,91]. Switching to analogue insulins with the lowest risk of hypoglycemia (i.e. glargine-300, degludec) should be considered, especially among those at high risk of, or with a history of, hypoglycemia.
+
+In adults with type 2 diabetes who require treatment advancement or adjustment, the use of antihyperglycemic agents that do not increase the risk or minimize the risk of hypoglycemia (i.e. glucagon-like peptide-1 receptor agonists [GLP-1RA], dipeptidylpeptidase 4 [DPP4] inhibitors, sodium-glucose cotransporter-2 [SGLT2] inhibitors, acarbose, and/or pioglitazone) should be considered (see “Pharmacologic Glycemic Management of Type 2 Diabetes in Adults: 2020 Update,” p. 589) [92].
+
+There is evidence that continuous subcutaneous insulin infusion (CSII) vs multiple daily injections (MDIs) reduces recurrent severe hypoglycemia in adults with type 1 diabetes [82,93]. Closed-loop insulin delivery has also been associated with a decrease in the number of hypoglycemic events in adults with type 1 diabetes [94].
+
+Glucose monitoring
+
+For individuals with type 1 diabetes or type 2 diabetes, the use of real-time CGM (rtCGM) and intermittently scanned CGM (isCGM) may be a helpful tool in reducing hypoglycemia, as well as the time spent in a hypoglycemic state (see “Blood Glucose Monitoring in Adults and Children with Diabetes: Update 2021,” p. 584–585).
+
+In individuals with type 1 diabetes, both isCGM and rtCGM have also been associated with a reduction in hypoglycemia compared to capillary blood glucose (CBG) testing [95], though CGM may not reduce episodes of level 3 hypoglycemia [96,97]. In addition, the use of CGM identifies more episodes of hypoglycemia than CBG monitoring, even among those with normal hypoglycemia awareness [98].
+
+While both rtCGM and isCGM have been shown to improve glycemic management in individuals with type 2 diabetes, there is also evidence that these CGM technologies are associated with a reduction in hypoglycemia in adults with type 2 diabetes treated with either insulin and/or insulin secretagogues [99,100].
+
+To reduce the risk of asymptomatic nocturnal hypoglycemia, individuals using insulin therapy can periodically monitor overnight BG levels, using either CBG monitoring or CGM.
+
+Individualized glycemic targets and time in range
+
+While targeting an A1C<7% is recommended for most individuals with diabetes to prevent long-term complications, those with recurrent and severe hypoglycemia, in particular older adults with frailty treated with insulin or insulin secretagogues, may benefit from individualized A1C targets to reduce the risk of hypoglycemia [101,102] (see “Targets for Glycemic Control,” p. S42, and “Diabetes in Older People,” p. S283). In addition, short-term relaxation of glycemic targets, especially in individuals with level 3 hypoglycemia or a clinically significant hypoglycemia, may be appropriate.
+
+Time in range (TIR), which is derived from CGM data and summarizes the time spent within predetermined glycemic ranges, has become a novel way for individuals with diabetes and clinicians to monitor glycemic variability and frequency of hyper- and hypoglycemia [103]. Monitoring TIR in hypoglycemia is an alternative way that clinicians can monitor for hypoglycemia and adjust treatments accordingly (see “Blood Glucose Monitoring in Adults and Children with Diabetes: Update 2021,” p. S84–85).
+
+Structured psychoeducational programs
+
+Both impaired glucose counter-regulation and IAH are potentially reversible. Strict avoidance of hypoglycemia for a period of 2 days to 3 months has been associated with improvement in the recognition of hypoglycemia, the counter-regulatory hormone responses, or both [104–111].
+
+Numerous psychoeducational programs have been shown to reduce the prevalence of IAH and related frequency of hypoglycemia (i.e. HypoCOMPaSS, BGAT, HAATT, and DAFNE-HART) [82,93,112–114]. Such programs focus on improving the detection of hypoglycemia through enhanced awareness of internal and external cues, education on the basics of insulin pharmacodynamics and insulin dose adjustments, as well as psychological support. Though some of these programs utilize technological components (i.e. CSII or CGM), the main benefit appears to be related to close, frequent contact between diabetes health-care providers and individuals living with diabetes, along with the structured education.
+
+Counselling on exercise-induced hypoglycemia
+
+Preparing for exercise by reducing insulin doses or increasing carbohydrate intake is essential to prevent exercise-induced hypoglycemia. Individuals with diabetes, support persons, and caregivers should be counselled on the importance of reducing pre-exercise boluses or short-term basal reduction programs on their pump, particularly in those who are reluctant to increase carbohydrate intake. Certain technologies allow for an “exercise announcement” at mealtime using a closed-loop system, allowing for a one-third reduction in meal bolus or targeting a higher BG value [115]. Such strategies should be done 60 to 90 minutes before exercise and are only needed for cardio exercise >30 minutes. rtCGM may be superior to isCGM in reducing hypoglycemia and improving TIR in adults with type 1 diabetes, suggesting that rtCGM alarms during exercise and in daily self-monitoring may be helpful [116] (see “Physical Activity and Diabetes” chapter, p. S54–S63).
+
+In individuals with FoH
+
+There have been few strategies that have looked at addressing FoH [78]. A multifaceted approach is likely required, such as the use of advanced therapeutic technologies (CGM, insulin pumps) and use of psychoeducational training. A recent meta-analysis of individuals with type 1 diabetes found that rtCGM vs CBG was associated with a significant reduction of the Worry subscale from the HFS [117]. There have also been psychoeducational interventions targeted at FoH in individuals with type 1 diabetes, which have been shown to be effective at reducing FoH. One of these interventions includes BG Awareness Training II (BGAT-II), where individuals living with type 1 diabetes are taught how to more accurately detect hypoglycemia [78,118].
+
+Additional strategies
+
+Islet cell [119–121] and whole pancreas [83,122–124] transplantation have both been shown to reduce hypoglycemia and restore glucose counter-regulation, and should be considered for individuals with type 1 diabetes who experience recurrent level 3 hypoglycemia (see “Diabetes and Transplantation” chapter, p. S145).
+
+Table 3
+Risk factors for hypoglycemia in individuals treated with sulfonylureas or insulin
+
+A1C, glycated hemoglobin; CKD, chronic kidney disease.
+• Prior episode of severe hypoglycemia
+• Current low A1C (<7.0%)
+• Hypoglycemia unawareness
+• Long duration of insulin therapy
+• Autonomic neuropathy
+• CKD
+• Low economic status, food insecurity
+• Low health literacy
+• Preschool-aged children unable to detect and/or treat mild hypoglycemia on
+their own
+• Adolescents
+• Pregnancy
+• Frailty and advanced age
+• Cognitive impairment
+Treatment of Hypoglycemia
+
+It is important that hypoglycemia be treated as immediately and as safely as possible.
+
+Appropriate treatment---based on event severity and duration---is crucial to increase glucose levels and relieve symptoms quickly. Overtreatment of hypoglycemia should be avoided, if possible, as it can result in weight gain or rebound hyperglycemia.
+
+Level 1 or 2 hypoglycemia
+
+Level 1 and 2 hypoglycemia events are self-treatable. Evidence suggests that 15 g glucose (monosaccharide) is required to produce an increase in BG of approximately 2.1 mmol/L within 20 minutes, with adequate symptom relief for most individuals (Table 4) [125–129]. A 20-g oral glucose dose will produce a BG increment of approximately 3.6 mmol/L at 45 minutes [126,127]. This has not been well studied in individuals with gastroparesis. Other choices, such as milk and orange juice, are slower to increase glucose levels and provide symptom relief [126,127]. Glucose gel is quite slow (<1.0 mmol/L increase at 20 minutes) and must be swallowed to have a significant effect [125–130]. In all these cases, the affected individual needs to be able to swallow to benefit from the intervention. BG should be retested ∼15 minutes after initial treatment and, if BG is still in the hypoglycemia range, retreatment is required. If a meal is >1 hour away, a snack (including 15 g of carbohydrate and a protein source) should be consumed.
+
+Level 3 hypoglycemia
+
+In the case of level 3 hypoglycemia, the affected individual is unable to self-treat and, therefore, requires the assistance of another person for recovery. Oral glucose (as above) may be administered if the affected individual is still able to swallow. However, when oral ingestion is unsafe or if the affected individual cannot swallow, the standard of care is to treat with glucagon. Glucagon is the only non-oral rescue therapy administrable outside of professional care contexts (e.g. by family, friends, or colleagues). For affected individuals with level 3 hypoglycemia who are/were unconscious, caregivers or support persons should call for emergency services after administering glucagon, and the episode should be discussed with the diabetes health-care team as soon as possible.
+
+Glucagon 1 mg given subcutaneously (SC) or intramuscularly (IM) produces a significant increase in BG (from 3.0 to 12.0 mmol/L) within 60 minutes [7,131]. More recently, intranasal (IN) glucagon (3 mg) has been shown to be as effective as injectable (both SC and IM) glucagon in both individuals with type 1 diabetes and individuals with insulin-treated type 2 diabetes [132,133]. There have even been case reports from real-world studies where IN glucagon has been successfully used in unconscious individuals with level 3 hypoglycemia. The main advantage of IN glucagon is the ease of administration. In addition, the use of a single dose of IN glucagon has been shown to result in more complete dosing (93% IN vs 13% IM) and faster administration (16 seconds IN vs 113 seconds IM) in instructed caregivers [134]. IN glucagon has not been studied in individuals with type 2 diabetes treated with insulin secretagogues and should be used cautiously in these individuals. In individuals on a low-carbohydrate diet, the treatment effect of glucagon may be reduced [135].
+
+Intravenous or IM glucose---administrable only by medically trained professionals in prehospital or hospital settings---is the third-line treatment option after oral glucose and glucagon. It may also be required when glucagon is unavailable, contraindicated, ineffectively administered, or unsuccessful.
+
+The effectiveness of glucagon is reduced in individuals who have consumed more than 2 standard alcoholic drinks in the previous few hours, after prolonged fasting, or in those who have advanced hepatic disease [136,137]. Among individuals taking secretagogues (without insulin), glucagon is less useful, as it stimulates insulin secretion through glycogenolysis [138].
+
+Recommendations (Figure 1)
+
+Counselling and screening
+
+All individuals with diabetes currently using or starting therapy with insulin or insulin secretagogues, and their support persons, should be counselled about the risk, prevention, recognition, and treatment of hypoglycemia. Risk factors for severe hypoglycemia should be identified and addressed [Grade D, Consensus].
+At every visit, for all individuals with diabetes, the diabetes health-care team should review the recent history of hypoglycemic episodes, including, but not limited to, identification of contributing factors, frequency, symptoms, recognition, severity, and treatment approach, as well as the risk of driving with hypoglycemia [Grade D, Consensus] (Note: For recommendations about diabetes and driving, refer to “Diabetes and Driving” chapter: https://guidelines.diabetes.ca/cpg/chapter21.).
+All individuals at risk for severe hypoglycemia and IAH should be screened with a careful history or using a validated measure of hypoglycemia awareness at each clinic visit to identify those who may need support [Grade D, Consensus].
+All individuals with diabetes treated with insulin and/or insulin secretagogues should be screened for FoH with a careful history or using a validated measure to identify those who may need interventions, like advanced therapeutic technologies and psychoeducational training. In addition, referrals to mental health-care professionals for those with persistent FoH can be considered [Grade D, Consensus] (see “Diabetes and Mental Health” chapter, p. 137).
+
+Prevention of hypoglycemia
+
+In individuals with diabetes at increased risk of hypoglycemia, the following strategies may be used to reduce the risk of hypoglycemia:
+use of CGM and/or increased frequency of CBG monitoring, including during sleeping hours, to identify episodes of unrecognized hypoglycemia [Grade B, Level 2 for type 2 diabetes [99]; Grade A, Level 1A for type 1 diabetes; Grade D, Consensus for CBG recommendation] (see “Blood Glucose Monitoring in Adults and Children with Diabetes: Update 2021,” p. 580).
+avoidance, reduction in dose, or discontinuation of pharmacotherapies associated with increased risk of hypoglycemia (i.e. insulin and insulin secretagogues), where appropriate [Grade D, Consensus] (see “Glycemic Management in Adults with Type 1 Diabetes,” p. S80, and “Pharmacologic Glycemic Management of Type 2 Diabetes in Adults,” p. S88, for further discussion of drug-induced hypoglycemia).
+long-acting analogues (i.e. insulin glargine-U100, glargine U-300, detemir, degludec) should be considered over NPH insulin to reduce the risk of hypoglycemia, including nocturnal hypoglycemia [Grade A, Level 1A] [139–144].
+second-generation basal insulin analogues (i.e. insulin glargine U-300, insulin degludec) should be considered over first-generation basal insulin analogues (i.e. insulin glargine-U100, insulin detemir) to reduce the risk of hypoglycemia, including nocturnal hypoglycemia [Grade B, Level 2 for insulin glargine U-300 in insulin-naive individuals with type 2 diabetes and ≥1 risk factor for hypoglycemia [86,87]; Grade A, Level 1A for insulin degludec for type 1 and type 2 diabetes [85]] (see “Pharmacologic Glycemic Management of Type 2 Diabetes in Adults: 2020 Update,” p. 589, and “Glycemic Management of Adults with Type 1 Diabetes,” p. S84) [91].
+a structured diabetes education program, where available, with frequent follow-up targeting enhanced awareness of cues for hypoglycemia, education on insulin pharmacodynamics, and dose adjustments to reduce frequency and severity of hypoglycemia [Grade B, Level 1 [112] for type 1 diabetes; Grade D, Consensus for type 2 diabetes].
+f.
+
+a psychobehavioural intervention program (BG awareness training) [Grade C, Level 3 [80], see “Diabetes and Mental Health” chapter, p. S131].
+
+In individuals with diabetes with recurrent hypoglycemia or level 3 hypoglycemia, or IAH, the following additional strategies may be considered to reduce or eliminate the risk of hypoglycemia:
+CSII or CGM or sensor-augmented pump with education and follow-up for type 1 diabetes [Grade B, Level 2] [82,145–147].
+avoidance of hypoglycemia, with individualized glycemic targets, and, where appropriate, dose reduction or cessation of antihyperglycemic agent(s) that increase the risk of hypoglycemia (i.e. insulin and insulin secretagogues) for up to 3 months [Grade D, Level 4] [109,110].
+islet transplantation for type 1 diabetes [Grade C, Level 3] [119].
+pancreas transplantation for type 1 diabetes [Grade D, Level 4] [122–124,148] (see “Transplantation” chapter, p. S147).
+In individuals with type 1 diabetes exhibiting FoH, CGM should be used to enhance glycemic awareness, reduce FoH, and minimize behaviours that lead to above-target BG trends [Grade A, Level 1A] [117].
+
+Treatment of hypoglycemia
+
+Individuals with diabetes experiencing level 1 and 2 hypoglycemia should ingest 15 g of fast-acting carbohydrate, preferably as glucose or sucrose (i.e. tablets or solution) [Grade B, Level 2] [125]. BG should be retested after 15 minutes and retreated with 15 g of carbohydrate if BG remains <3.9 mmol/L [Grade D, Consensus].
+Individuals with diabetes experiencing level 3 hypoglycemia who are conscious and:
+capable of swallowing: i) should be treated by oral ingestion of 20 g carbohydrate, preferably as glucose tablets or equivalent; ii) 3 mg glucagon IN or glucagon 1 mg SC/IM can also be used. BG should be retested in 15 minutes and then retreated with 15 g glucose if it remains <3.9 mmol/L [Grade C, Level 3 for type 2 diabetes; Grade A, Level 1 for glucagon use in type 1 diabetes [132,133]; Grade D, Consensus for carbohydrate].
+unable to swallow: can be treated with glucagon 1 mg SC/IM or 3 mg IN [Grade D, Consensus].
+Individuals with diabetes experiencing level 3 hypoglycemia who are unconscious with:
+no intravenous access: can be treated with glucagon 1 mg SC/IM or 3 mg IN. Caregivers or support persons should call for emergency services and the episode should be discussed with a health-care provider as soon as possible [Grade D, Consensus].
+intravenous access: can be treated with administration of 10 to 25 g (20 to 50 mL of D50W) of glucose intravenously over 1 to 3 minutes [Grade D, Consensus].
+For individuals with diabetes at risk of level 3 hypoglycemia, support persons should be taught how to administer SC/IM or IN glucagon [Grade D, Consensus].
+Once any level of hypoglycemia has been treated, the individual should have the usual meal or snack that is due at that time of the day to prevent repeated hypoglycemia. If a meal is >1 hour away, a snack (including 15 g of carbohydrate and a protein source) should be consumed [Grade D, Consensus].
+
+Table 4
+Treatment of hypoglycemia
+
+IM, intramuscular; IN, intranasal; IV, intravenous; SC, subcutaneous.
+Levels 1, 2	15 g oral carbohydrates
+• 4   4 g glucose tablets
+• 15 mL (3 teaspoons) or 3 packets of table sugar dissolved in water
+• 5 cubes of sugar
+• 150 mL juice or regular soft drink
+• 6 Life SaversTM
+• 15 mL (1 tablespoon) honey
+Level 3, conscious	20 g oral carbohydrates
+Level 3, unconscious
+    Home setting
+    Primary health-care setting
+    Hospital setting	
+3 mg IN or 1 mg SC/IM glucagon
+3 mg IN or 1 mg SC/IM glucagon or 25 g IV dextrose
+25 g IV dextrose or 3 mg IN or 1 mg SC/IM glucagon
+Abbreviations
+
+BG, blood glucose; CBG, capillary blood glucose; CGM, continuous glucose monitoring; CVD, cardiovascular disease; CSII, continuous subcutaneous insulin infusion; FoH, fear of hypoglycemia; IAH, impaired awareness of hypoglycemia; IM, intramuscular; IN, intranasal; SC, subcutaneous.
+
+Figure 1
+
+An approach/summary to preventing and treating hypoglycemia in adults with diabetes. IM, intramuscular; SC, subcutaneous.
+
+Author Disclosures
+
+J.-F.Y. reports grants and personal fees from Eli Lilly Canada, Sanofi, Merck, AstraZeneca, Boehringer Ingelheim, Janssen, and Medtronic; personal fees from Novo Nordisk, Takeda, Abbott, and Bayer; and grants from Mylan. B.P. reports clinical trial funding from Vertex Pharmaceuticals and Viacyte, Inc, for stem cell trials for type 1 diabetes. R.R. reports personal fees from Eli Lilly Canada, AstraZeneca, Boehringer Ingelheim, NovoNordisk, Abbott Diabetes, Dexcom, mdBriefCase, BD Canada, Roche Diabetes Care, and HLS Therapeutics.
+
+External Reviewers
+
+Thank you to our external reviewers for their insightful feedback and the lending of their time and expertise: Professor Pratik Choudhary MBBS, MD, FRCP; Stewart Harris CM, MD, MPH, FCFP, FACPM; Simon Heller DM FRCP; and Alexandria Ratzki-Leewing PhD.
+
+References
+Lipska KJ, Yao X, Herrin J, McCoy RG, Ross JS, Steinman MA, et al. Trends in drug utilization, glycemic control, and rates of severe hypoglycemia, 2006-2013. Diabetes Care 2017;40:468-475.
+Lega IC, Campitelli MA, Austin PC, Na Y, Zahedi A, Leung F, et al. Potential diabetes overtreatment and risk of adverse events among older adults in Ontario: A population-based study. Diabetologia 2021;64:1093-1102.
+McCoy RG, Lipska KJ, Van Houten HK, Shah ND. Association of cumulative multimorbidity, glycemic control, and medication use with hypoglycemia-related emergency department visits and hospitalizations among adults with diabetes. JAMA Netw Open 2020;3:e1919099.
+Alvarez-Guisasola F, Yin DD, Nocea G, et al. Association of hypoglycemic symptoms with patients’ rating of their health-related quality of life state: A cross sectional study. Health Qual Life Outcomes 2010;8:86.
+Chatwin H, Broadley M, Speight J, Cantrell A, Sutton A, Heller S, et al. The impact of hypoglycaemia on quality of life outcomes among adults with type 1 diabetes: A systematic review. Diabetes Res Clin Pract 2021;174:108752. doi:10.1016/j.diabres.2021.108752.
+Anderbro T, Amsberg S, Adamson U, et al. Fear of hypoglycaemia in adults with type 1 diabetes. Diabet Med 2010;27:1151-1158.
+Belendez M, Hernandez-Mijares A. Beliefs about insulin as a predictor of fear of hypoglycaemia. Chronic Illn 2009;5:250-256.
+Barnard K, Thomas S, Royle P, et al. Fear of hypoglycaemia in parents of young children with type 1 diabetes: A systematic review. BMC Pediatr 2010;10:50.
+Di Battista AM, Hart TA, Greco L, et al. Type 1 diabetes among adolescents: Reduced diabetes self-care caused by social fear and fear of hypoglycemia. Diabetes Educ 2009;35:465-475.
+Haugstvedt A, Wentzel-Larsen T, Graue M, et al. Fear of hypoglycaemia in mothers and fathers of children with type 1 diabetes is associated with poor glycaemic control and parental emotional distress: A population-based study. Diabet Med 2010;27:72-78.
+Ratzki-Leewing A, Harris SB, Mequanint S, Reichert SM, Belle Brown J, Black JE, et al. Real-world crude incidence of hypoglycemia in adults with diabetes: Results of the InHypo-DM Study, Canada. BMJ Open Diabetes Res Care 2018;6:e000503. doi:10.1136/bmjdrc-2017-000503.
+Danowitz M, De Leon DD. The role of GLP-1 signaling in hypoglycemia due to hyperinsulinism. Front Endocrinol (Lausanne). 2022;13:863184. doi:10.3389/fendo.2022.863184.
+Joseph CMC. Symptomatic hypoglycemia during treatment with a therapeutic dose of metformin. Am J Case Rep 2021;22:e931311. doi:10.12659/ajcr.931311.
+International Hypoglycaemia Study Group. Glucose concentrations of less than 3.0 mmol/L (54 mg/dL) should be reported in clinical trials: A joint position statement of the American Diabetes Association and the European Association for the Study of Diabetes. Diabetes Care 2017;40:155-157.
+American Diabetes Association Professional Practice Committee. 6. Glycemic targets: Standards of medical care in diabetes---2022. Diabetes Care 2022;45(Suppl. 1):S83-96. doi:10.2337/dc22-s006.
+Cryer PE. Banting Lecture. Hypoglycemia: The limiting factor in the management of IDDM. Diabetes 1994;43:1378-1389.
+The Diabetes Control and Complications Trial Research Group. Adverse events and their association with treatment regimens in the diabetes control and complications trial. Diabetes Care 1995;18:1415-1427.
+The Diabetes Control and Complications Trial Research Group. Hypoglycemia in the diabetes control and complications trial. Diabetes 1997;46:271-286.
+Muhlhauser I, Overmann H, Bender R, et al. Risk factors of severe hypoglycaemia in adult patients with type I diabetes---a prospective population based study. Diabetologia 1998;41:1274-1282.
+Miller ME, Bonds DE, Gerstein HC, et al. The effects of baseline characteristics, glycaemia treatment approach, and glycated haemoglobin concentration on the risk of severe hypoglycaemia: Post hoc epidemiological analysis of the ACCORD study. BMJ 2010;340:b5444.
+The DCCT Research Group. Epidemiology of severe hypoglycemia in the diabetes control and complications trial. Am J Med 1991;90:450-459.
+Davis EA, Keating B, Byrne GC, et al. Hypoglycemia: Incidence and clinical predictors in a large population-based sample of children and adolescents with IDDM. Diabetes Care 1997;20:22-25.
+Egger M, Davey Smith G, Stettler C, et al. Risk of adverse effects of intensified treatment in insulin-dependent diabetes mellitus: A meta-analysis. Diabet Med 1997;14:919-928.
+Davis TM, Brown SG, Jacobs IG, et al. Determinants of severe hypoglycemia complicating type 2 diabetes: The Fremantle Diabetes Study. J Clin Endocrinol Metab 2010;95:2240-2247.
+Gold AE, MacLeod KM, Frier BM. Frequency of severe hypoglycemia in patients with type I diabetes with impaired awareness of hypoglycemia. Diabetes Care 1994;17:697-703.
+Schopman JE, Geddes J, Frier BM. Prevalence of impaired awareness of hypoglycaemia and frequency of hypoglycaemia in insulin-treated type 2 diabetes. Diabetes Res Clin Pract 2010;87:64-68.
+Mokan M, Mitrakou A, Veneman T, et al. Hypoglycemia unawareness in IDDM. Diabetes Care 1994;17:1397-1403.
+Meyer C, Grossmann R, Mitrakou A, et al. Effects of autonomic neuropathy on counterregulation and awareness of hypoglycemia in type 1 diabetic patients. Diabetes Care 1998;21:1960-1966.
+Diabetes Control and Complications Trial Research Group. Effect of intensive diabetes treatment on the development and progression of long-term complications in adolescents with insulin-dependent diabetes mellitus: Diabetes Control and Complications Trial. J Pediatr 1994;125:177-188.
+de Galan BE, Zoungas S, Chalmers J, et al. Cognitive function and risks of cardiovascular disease and hypoglycaemia in patients with type 2 diabetes: The Action in Diabetes and Vascular Disease: Preterax and Diamicron Modified Release Controlled Evaluation (ADVANCE) trial. Diabetologia 2009;52:2328-2336.
+Punthakee Z, Miller ME, Launer LJ, et al. ACCORD Group of Investigators; ACCORD-MIND Investigators. Poor cognitive function and risk of severe hypoglycemia in type 2 diabetes: Post hoc epidemiologic analysis of the ACCORD trial. Diabetes Care 2012;35:787-793.
+Sarkar U, Karter AJ, Liu JY, et al. Hypoglycemia is more common among type 2 diabetes patients with limited health literacy: The Diabetes Study of Northern California (DISTANCE). J Gen Intern Med 2010;25:962-968.
+Seligman HK, Davis TC, Schillinger D, et al. Food insecurity is associated with hypoglycemia and poor diabetes self-management in a low-income sample with diabetes. J Health Care Poor Underserved 2010;21:1227-1233.
+Heller, et al. UK Hypoglycaemia Study Group. Risk of hypoglycaemia in types 1 and 2 diabetes: Effects of treatment modalities and their duration. Diabetologia 2007;50:1140-1147. doi: 10.1007/s00125-007-0599-y.
+Misra-Hebert AD, Pantalone KM, Ji X, Milinovich A, Dey T, Chagin KM, et al. Patient characteristics associated with severe hypoglycemia in a type 2 diabetes cohort in a large, integrated health care system from 2006 to 2015. Diabetes Care 2018;41:1164-1171.
+Karter AJ, Warton EM, Lipska KJ, Ralston JD, Moffet HH, Jackson GG, et al. Development and validation of a tool to identify patients with type 2 diabetes at high risk of hypoglycemia-related emergency department or hospital use. JAMA Intern Med 2017;177:1461-1470.
+Martin-Timon I, Del Canizo-Gomez FJ. Mechanisms of hypoglycemia unawareness and implications in diabetic patients. World J Diabetes 2015;6:912-926.
+Sakane N, Kato K, Hata S, Nishimura E, Araki R, Kouyama K, et al. Protective and risk factors of impaired awareness of hypoglycemia in patients with type 1 diabetes: A cross-sectional analysis of baseline data from the PR-IAH study. Diabetol Metab Syndr 2023;15:79. doi:10.1186/s13098-023-01024-x.
+Clarke WL, Cox DJ, Gonder-Frederick LA, Julian D, Schlundt D, Polonsky W. Reduced awareness of hypoglycemia in adults with IDDM. A prospective study of hypoglycemic frequency and associated symptoms. Diabetes Care 1995;18:517-522. doi:10.2337/diacare.18.4.517.
+Berlin I, Sachon CI, Grimaldi A. Identification of factors associated with impaired hypoglycaemia awareness in patients with type 1 and type 2 diabetes mellitus. Diabetes Metab 2005;31:246-251.
+Schultes B, Jauch-Chara K, Gais S, et al. Defective awakening response to nocturnal hypoglycemia in patients with type 1 diabetes mellitus. PLoS Med 2007;4:e69.
+Porter PA, Byrne G, Stick S, et al. Nocturnal hypoglycaemia and sleep disturbances in young teenagers with insulin dependent diabetes mellitus. Arch Dis Child 1996;75:120-123.
+Gale EA, Tattersall RB. Unrecognised nocturnal hypoglycaemia in insulin-treated diabetics. Lancet 1979;i:1049-1052.
+Beregszaszi M, Tubiana-Rufi N, Benali K, et al. Nocturnal hypoglycemia in children and adolescents with insulin-dependent diabetes mellitus: Prevalence and risk factors. J Pediatr 1997;131:27-33.
+Vervoort G, Goldschmidt HM, van Doorn LG. Nocturnal blood glucose profiles in patients with type 1 diabetes mellitus on multiple (> or = 4) daily insulin injection regimens. Diabet Med 1996;13:794-799.
+McNay EC, Cotero VE. Mini-review: Impact of recurrent hypoglycemia on cognitive and brain function. Physiol Behav 2010;100:234-238. doi:10.1016/j.physbeh.2010.01.004.
+Mattishent K, Loke YK. Meta-analysis: Association between hypoglycemia and serious adverse events in older patients treated with glucose-lowering agents. Front Endocrinol (Lausanne) 2021;12:571568. doi:10.3389/fendo.2021.571568.
+Han E, Han KD, Lee BW, Kang ES, Cha BS, Ko SH, et al. Severe hypoglycemia increases dementia risk and related mortality: A nationwide, population-based cohort study. J Clin Endocrinol Metab 2022;107:e1976-e1986.
+Bruce DG, DavisWA, Casey GP, et al. Severe hypoglycaemia and cognitive impairment in older patients with diabetes: The Fremantle Diabetes Study. Diabetologia 2009;52:1808-1815.
+Zhang Z, Lovato J, Battapady H, et al. Effect of hypoglycemia on brain structure in people with type 2 diabetes: Epidemiological analysis of the ACCORDMIND MRI trial. Diabetes Care 2014;37:3279-3285.
+The Diabetes Control and Complications Trial Research Group. Effects of intensive diabetes therapy on neuropsychological function in adults in the Diabetes Control and Complications Trial. Ann Intern Med 1996;124:379-388.
+Reichard P, Pihl M. Mortality and treatment side-effects during long-term intensified conventional insulin treatment in the Stockholm Diabetes Intervention Study. Diabetes 1994;43:313-317.
+Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and Complications Study Research Group, Jacobson AM, Musen G, et al. Long-term effect of diabetes and its treatment on cognitive function. N Engl J Med 2007;356:1842-1852.
+Jacobson AM, Ryan CM, Braffett BH, Gubitosi-Klug RA, Lorenzi GM, Luchsinger JA, et al. Cognitive performance declines in older adults with type 1 diabetes: Results from 32 years of follow-up in the DCCT and EDIC Study. Lancet Diabetes Endocrinol 2021;9:436-445.
+Hayward RA, Reaven PD, Wiitala WL, et al. Follow-up of glycemic control and cardiovascular outcomes in type 2 diabetes. N Engl J Med 2015;372:2197-2206.
+Zoungas S, Patel A, Chalmers J, et al. Severe hypoglycemia and risks of vascular events and death. N Engl J Med 2010;363:1410-1418.
+Bonds DE, Miller ME, Bergenstal RM, et al. The association between symptomatic, severe hypoglycaemia and mortality in type 2 diabetes: Retrospective epidemiological analysis of the ACCORD study. BMJ 2010;340:b4909.
+Skyler JS, Bergenstal R, Bonow RO, et al. Intensive glycemic control and the prevention of cardiovascular events: Implications of the ACCORD, ADVANCE, and VA diabetes trials: A position statement of the American Diabetes Association and a scientific statement of the American College of Cardiology Foundation and the American Heart Association. Diabetes Care 2009;32:187-192.
+Wright RJ, Newby DE, Stirling D, et al. Effects of acute insulin-induced hypoglycemia on indices of inflammation: Putative mechanism for aggravating vascular disease in diabetes. Diabetes Care 2010;33:1591-1597.
+Gogitidze Joy N, Hedrington MS, Briscoe VJ, et al. Effects of acute hypoglycemia on inflammatory and pro-atherothrombotic biomarkers in individuals with type 1 diabetes and healthy individuals. Diabetes Care 2010;33:1529-1535.
+Koivikko ML, Karsikas M, Salmela PI, et al. Effects of controlled hypoglycaemia on cardiac repolarisation in patients with type 1 diabetes. Diabetologia 2008;51:426-435.
+Kubiak T, Wittig A, Koll C, et al. Continuous glucose monitoring reveals associations of glucose levels with QT interval length. Diabetes Technol Ther 2010;12:283-286.
+Wright RJ, Frier BM. Vascular disease and diabetes: Is hypoglycaemia an aggravating factor? Diabetes Metab Res Rev 2008;24:353-363.
+Frier BM, Schernthaner G, Heller SR. Hypoglycemia and cardiovascular risks. Diabetes Care 2011;34(Suppl. 2):S132-S137.
+Stahn A, Pistrosch F, Ganz X, et al. Relationship between hypoglycemic episodes and ventricular arrhythmias in patients with type 2 diabetes and cardiovascular diseases: Silent hypoglycemias and silent arrhythmias. Diabetes Care 2014;37:516-520.
+Reno CM, Skinner A, Bayles J, Chen YS, Daphna-Iken D, Fisher SJ. Severe hypoglycemia-induced sudden death is mediated by both cardiac arrhythmias and seizures. Am J Physiol Endocrinol Metab 2018;315:E240-E249. doi:10.1152/ajpendo.00442.2017.
+Chatwin H, Broadley M, Valdersdorf Jensen M, et al. ‘Never again will I be carefree’: A qualitative study of the impact of hypoglycemia on quality of life among adults with type 1 diabetes. BMJ Open Diabetes Res Care 2021;9:e002322. doi:10.1136/bmjdrc-2021-002322.
+Tunceli K, Bradley CJ, Nerenz D, Williams LK, Pladevall M, Elston Lafata J. The impact of diabetes on employment and work productivity. Diabetes Care 2005;28:2662-2667. doi:10.2337/diacare.28.11.2662.
+Fisher L, Skaff MM, Mullan JT, Arean P, Glasgow R, Masharani U. A longitudinal study of affective and anxiety disorders, depressive affect and diabetes distress in adults with type 2 diabetes. Diabet Med 2008;25:1096-1101.
+Fisher L, Skaff MM, Mullan JT, Arean P, Mohr D, Masharani U, et al. Clinical depression versus distress among patients with type 2 diabetes: Not just a question of semantics. Diabetes Care 2007;30:542-548.
+Fisher L, Mullan JT, Arean P, Glasgow RE, Hessler D, Masharani U. Diabetes distress but not clinical depression or depressive symptoms is associated with glycemic control in both cross-sectional and longitudinal analyses. Diabetes Care 2010;33:23-28.
+Gonzalez JS, Fisher L, Polonsky WH. Depression in diabetes: Have we been missing something important? Diabetes Care 2011;34:236-239.
+Ratzki-Leewing A, Parvaresh Rizi E, Harris SB. Family members: The forgotten players in the diabetes care team (the TALK-HYPO Study). Diabetes Ther 2019;10:2305-2311. doi:10.1007/s13300-019-00687-y.
+Abitbol L. When low blood sugars cause high anxiety: Fear of hypoglycemia among parents of youth with type 1 diabetes mellitus. CJD 2021;45:P403-10.e2.
+Brod M, Pohlman B, Wolden M, Christensen T. Non-severe nocturnal hypoglycemic events: Experience and impacts on patient functioning and well-being. Qual Life Res 2013;22:997-1004.
+Peter ME, Rioles N, Liu J, et al. Prevalence of fear of hypoglycemia in adults with type 1 diabetes using a newly developed screener and clinician’s perspective on its implementation. BMJ Open Diab Res Care 2023;11:e003394. doi:10.1136/bmjdrc-2023-003394.
+Hajos TR, Polonsky WH, Pouwer F, Gonder-Frederick L, Snoek FJ. Toward defining a cutoff score for elevated fear of hypoglycemia on the hypoglycemia fear survey worry subscale in patients with type 2 diabetes. Diabetes Care 2014;37:102-108. doi:10.2337/dc13-0971.
+Przezak A, Bielka W, Moleda P. Fear of hypoglycemia---an underestimated problem. Brain Behav 2022;12:e2633. doi:10.1002/brb3.2633.
+Brennan MC, Brown JA, Leslie GD, Ntoumanis N. Acceptability of self-management group education to reduce fear of hypoglycemia as a barrier to physical activity in adults with type 1 diabetes: A mixed methods approach. Can J Diabetes 2022;46:16-25.e2.
+Kinsley BT, Weinger K, Bajaj M, et al. Blood glucose awareness training and epinephrine responses to hypoglycemia during intensive treatment in type 1 diabetes. Diabetes Care 1999;22:1022-1028.
+Schachinger H, Hegar K, Hermanns N, et al. Randomized controlled clinical trial of Blood Glucose Awareness Training (BGAT III) in Switzerland and Germany. J Behav Med 2005;28:587-594.
+Yeoh E, Choudhary P, Nwokolo M, Ayis S, Amiel SA. Interventions that restore awareness of hypoglycemia in adults with type 1 diabetes: A systematic review and meta-analysis. Diabetes Care 2015;38:1592-1609. doi:10.2337/dc15-0102.
+van Dellen D, Worthington J, Mitu-Pretorian OM, et al. Mortality in diabetes: Pancreas transplantation is associated with significant survival benefit. Nephrol Dial Transplant 2013;28:1315-1322.
+Betonico CC, Titan SMO, Lira A, Pelaes TS, Correa-Giannella, MLC, et al. Insulin glargine U100 improved glycemic control and reduced nocturnal hypoglycemia in patients with type 2 diabetes mellitus and chronic kidney disease stages 3 and 4. Clin Ther 2019;41:2008.
+Zhang XW, Zhang XL, Xu B, Kang LN. Comparative safety and efficacy of insulin degludec with insulin glargine in type 2 and type 1 diabetes: A meta-analysis of randomized controlled trials. Acta Diabetol 2018;55:429-441.
+Anderson J, Meneghini L, Hinnen D, Gill J, Coudert M, Evenou P, et al. Target attainment in insulin-naive patients at high risk for hypoglycemia: Results from ACHIEVE Control. J Diabetes Complications 2021;35:107831.
+Bailey TS, Evenou P, Gill J, Berhanu P, Raymond R, Strong J, et al. Post hoc analysis evaluating the impact of antihyperglycemic background therapies on attainment of A1C targets without hypoglycemia in the ACHIEVE control pragmatic, real-life study. Diabetes Spectrum 2021;34:407-418.
+Lane W, Bailey TS, Gerety G, et al. Effect of insulin degludec vs insulin glargine U100 on hypoglycemia in patients with type 1 diabetes: The SWITCH 1 randomized clinical trial. JAMA 2017;318:33-44. doi:10.1001/jama.2017.7115.
+Pedersen-Bjergaard U, Agesen RM, Broesen JMB, Alibegovic AC, Andersen HU, Beck-Nielsen H, et al. Comparison of treatment with insulin degludec and glargine U100 in patients with type 1 diabetes prone to nocturnal severe hypoglycaemia: The HypoDeg randomized, controlled, open-label, crossover trial. Diabetes Obes Metab 2022;24:257-267. doi:10.1111/dom.14574.
+Philis-Tsimikas A, Klonoff DC, Khunti K, Bajaj HS, Leiter LA, Hansen MV, et al. Risk of hypoglycaemia with insulin degludec versus insulin glargine U300 in insulin-treated patients with type 2 diabetes: The randomised, head-to-head CONCLUDE trial. Diabetologia 2020;63:698-710. doi:10.1007/s00125-019-05080-9.
+Cheng AYY, Wong J, Freemantle N, Acharya SH, Ekinci E. The safety and efficacy of second-generation basal insulin analogues in adults with type 2 diabetes at risk of hypoglycemia and use in other special populations: A narrative review. Diabetes Ther 2020;11:2555-2593. doi:10.1007/s13300-020-00925-8.
+Shibuki K, Shimada S, Aoyama T. Meta-analysis of 11 heterogeneous studies regarding dipeptidyl peptidase 4 inhibitor add-on therapy for type 2 diabetes mellitus patients treated with insulin. J Diabetes Res 2020;2020:6321826. doi:10.1155/2020/6321826.
+Little SA, Leelarathna L, Walkinshaw E, Tan HK, Chapple O, Lubina-Solomon A, et al. Recovery of hypoglycemia awareness in long-standing type 1 diabetes: A multicenter 2 × 2 factorial randomized controlled trial comparing insulin pump with multiple daily injections and continuous with conventional glucose self-monitoring (HypoCOMPaSS). Diabetes Care 2014;37:2114-2122. doi:10.2337/dc14-0030.
+Fang Z, Liu M, Tao J, Li C, Zou F, Zhang W. Efficacy and safety of closed-loop insulin delivery versus sensor-augmented pump in the treatment of adults with type 1 diabetes: A systematic review and meta-analysis of randomized-controlled trials. J Endocrinol Invest 2022;45:471-481.
+Dicembrini I, Cosentino C, Monami M, Mannucci E, Pala L. Effects of real-time continuous glucose monitoring in type 1 diabetes: A meta-analysis of randomized controlled trials. Acta Diabetol 2021;58:401-410.
+Teo E, Hassan N, Tam W, Koh S. Effectiveness of continuous glucose monitoring in maintaining glycaemic control among people with type 1 diabetes mellitus: A systematic review of randomised controlled trials and meta-analysis. Diabetologia 2022;65:604-619.
+Miller KM, Kanapka LG, Rickels M, Ahmann A, Aleppo G, Ang LP, et al. Benefit of continuous glucose monitoring (CGM) in reducing hypoglycemia is sustained through 12 months of use among older adults with type 1 diabetes. Diabetes Technol Ther 2022.
+Henriksen MM, Andersen HU, Thorsteinsson B, Pedersen-Bjergaard U. Hypoglycemic exposure and risk of asymptomatic hypoglycemia in type 1 diabetes assessed by continuous glucose monitoring. J Clin Endocrinol Metab 2018;103:2329-2335. doi:10.1210/jc.2018-00142.
+Bergenstal RM, Mullen DM, Strock E, Johnson ML, Xi M. Randomized comparison of self-monitored blood glucose (BGM) versus continuous glucose monitoring (CGM) data to optimize glucose control in type 2 diabetes. J Diabetes Complications 2022;36:108106.
+Haak T, Hanaire H, Ajjan R, Hermanns N, Riveline JP, Rayman G. Flash glucose-sensing technology as a replacement for blood glucose monitoring for the management of insulin-treated type 2 diabetes: A multicenter, open-label randomized controlled trial. Diabetes Ther 2017;8:55-73.
+Lega IC, Campitelli MA, Austin PC, Na Y, Zahedi A, Leung F, et al. Potential diabetes overtreatment and risk of adverse events among older adults in Ontario: A population-based study. Diabetologia 2021;64:1093-1102. doi:10.1007/s00125-020-05370-7.
+McCoy RG, Lipska KJ, Yao X, Ross JS, Montori VM, Shah ND. Intensive treatment and severe hypoglycemia among adults with type 2 diabetes. JAMA Intern Med 2016;176:969-978. doi:10.1001/jamainternmed.2016.2275.
+Wright EE Jr, Morgan K, Fu DK, Wilkins N, Guffey WJ. Time in range: How to measure it, how to report it, and its practical application in clinical decision-making. Clin Diabetes 2020;38:439-448. doi:10.2337/cd20-0042.
+Ovalle F, Fanelli CG, Paramore DS, et al. Brief twice-weekly episodes of hypoglycemia reduce detection of clinical hypoglycemia in type 1 diabetes mellitus. Diabetes 1998;47:1472-1479.
+Fanelli CG, Epifano L, Rambotti AM, et al. Meticulous prevention of hypoglycemia normalizes the glycemic thresholds and magnitude of most of neuroendocrine responses to, symptoms of, and cognitive function during hypoglycemia in intensively treated patients with short-term IDDM. Diabetes 1993;42:1683-1689.
+Dagogo-Jack S, Rattarasarn C, Cryer PE. Reversal of hypoglycemia unawareness, but not defective glucose counterregulation, in IDDM. Diabetes 1994;43:1426-1434.
+Fanelli C, Pampanelli S, Epifano L, et al. Long-term recovery from unawareness, deficient counterregulation and lack of cognitive dysfunction during hypoglycaemia, following institution of rational, intensive insulin therapy in IDDM. Diabetologia 1994;37:1265-1276.
+Dagogo-Jack S, Fanelli CG, Cryer PE. Durable reversal of hypoglycemia unawareness in type 1 diabetes. Diabetes Care 1999;22:866-867.
+Davis M, Mellman M, Friedman S, et al. Recovery of epinephrine response but not hypoglycemic symptom threshold after intensive therapy in type 1 diabetes. Am J Med 1994;97:535-542.
+Liu D, McManus RM, Ryan EA. Improved counter-regulatory hormonal and symptomatic responses to hypoglycemia in patients with insulin-dependent diabetes mellitus after 3 months of less strict glycemic control. Clin Invest Med 1996;19:71-82.
+Lingenfelser T, Buettner U, Martin J, et al. Improvement of impaired counterregulatory hormone response and symptom perception by short-term avoidance of hypoglycemia in IDDM. Diabetes Care 1995;18:321-325.
+Cox DJ, Kovatchev B, Koev D, et al. Hypoglycemia anticipation, awareness and treatment training (HAATT) reduces occurrence of severe hypoglycemia among adults with type 1 diabetes mellitus. Int J Behav Med 2004;11:212-218.
+De Zoysa N, Rogers H, Stadler M, et al. A psychoeducational program to restore hypoglycemia awareness: The DAFNE-HART pilot study. Diabetes Care 2014;37:863-866. doi:10.2337/dc13-1245.
+Kinsley BT, Weinger K, Bajaj M, et al. Blood glucose awareness training and epinephrine responses to hypoglycemia during intensive treatment in type 1 diabetes. Diabetes Care 1999;22:1022-1028. doi:10.2337/diacare.22.7.1022.
+Tagougui S, Taleb N, Legault L, Suppere C, Messier V, Boukabous I, et al. A single-blind, randomised, crossover study to reduce hypoglycaemia risk during postprandial exercise with closed-loop insulin delivery in adults with type 1 diabetes: Announced (with or without bolus reduction) vs unannounced exercise strategies. Diabetologia 2020;63:2282-2291.
+Haskova A, Radovnicka L, Petruzelkova L, Parkin CG, Grunberger G, Horova E, et al. Real-time CGM is superior to flash glucose monitoring for glucose control in type 1 diabetes: The CORRIDA Randomized Controlled Trial. Diabetes Care 2020;43:2744-2750.
+Klak A, Manczak M, Owoc J, Olszewski R. Impact of continuous glucose monitoring on improving emotional well-being among adults with type 1 diabetes mellitus: A systematic review and meta-analysis. Pol Arch Intern Med 2021;131:808-818. doi:10.20452/pamw.16047.
+Cox D, Gonder-Frederick L, Polonsky W, Schlundt D, Julian D, Clarke W. A multicenter evaluation of blood glucose awareness training-II. Diabetes Care 1995;18:523-528. doi:10.2337/diacare.18.4.523.
+Hering BJ, Clarke WR, Bridges ND, et al. Phase 3 trial of transplantation of human islets in type 1 diabetes complicated by severe hypoglycemia. Diabetes Care 2016;39:1230-1240.
+Rickels MR. Recovery of endocrine function after islet and pancreas transplantation. Curr Diab Rep 2012;12:587-596.
+Marfil-Garza BA, Imes S, Verhoeff K, Hefler J, Lam A, Dajani K, et al. Pancreatic islet transplantation in type 1 diabetes: 20-year experience from a single-centre cohort in Canada. Lancet Diabetes Endocrinol 2022;10:519-532. doi:10.1016/S2213-8587(22)00114-0.
+Kendall DM, Rooney DP, Smets YF, et al. Pancreas transplantation restores epinephrine response and symptom recognition during hypoglycemia in patients with long-standing type I diabetes and autonomic neuropathy. Diabetes 1997;46:249-257.
+Paty BW, Lanz K, Kendall DM, et al. Restored hypoglycemic counterregulation is stable in successful pancreas transplant recipients for up to 19 years after transplantation. Transplantation 2001;72:1103-1107.
+Barrou Z, Seaquist ER, Robertson RP. Pancreas transplantation in diabetic humans normalizes hepatic glucose production during hypoglycemia. Diabetes 1994;43:661-666.
+Slama G, Traynard PY, Desplanque N, et al. The search for an optimized treatment of hypoglycemia. Carbohydrates in tablets, solution, or gel for the correction of insulin reactions. Arch Intern Med 1990;150:589-593.
+Wiethop BV, Cryer PE. Alanine and terbutaline in treatment of hypoglycemia in IDDM. Diabetes Care 1993;16:1131-1136.
+RBrodows RG, Williams C, Amatruda JM. Treatment of insulin reactions in diabetics. JAMA 1984;252:3378-3381.
+RSkyler JS, editors. Medical Management of Type 1 Diabetes. 3rd ed. Alexandria, VA: American Diabetes Association; 1998. p. 134-143.
+Canadian Diabetes Association. The role of dietary sugars in diabetes mellitus. Beta Release 1991;15:117-123.
+Gunning RR, Garber AJ. Bioactivity of instant glucose. Failure of absorption through oral mucosa. JAMA 1978;240:1611-1612.
+Cryer PE, Fisher JN, Shamoon H. Hypoglycemia. Diabetes Care 1994;17:734-755.
+Pontiroli AE, Tagliabue E. Intranasal versus injectable glucagon for hypoglycemia in type 1 diabetes: Systematic review and meta-analysis. Acta Diabetol 2020;57:743-749.
+Matsuhisa M, Takita Y, Nasu R, Nagai Y, Ohwaki K, Nagashima N. Nasal glucagon as a viable alternative for treating insulin-induced hypoglycaemia in Japanese patients with type 1 or type 2 diabetes: A phase 3 randomized crossover study. Diabetes Obesity Metab 2020;22:1167-1175.
+Yale JF, Dulude H, Egeth M, Piche CA, Lafontaine M, Carballo D, et al. Faster use and fewer failures with needle-free nasal glucagon versus injectable glucagon in severe hypoglycemia rescue: A simulation study. Diabetes Technol Ther 2017;19:423-432. doi:10.1089/dia.2016.0460.
+Ranjan A, Schmidt S, Damm-Frydenberg C, Steineck I, Clausen TR, Holst JJ, et al. Low-carbohydrate diet impairs the effect of glucagon in the treatment of insulin-induced mild hypoglycemia: A randomized crossover study. Diabetes Care 2017;40:132-135. doi:10.2337/dc16-1472.
+Glucagon [product monograph]. Toronto: Eli Lilly Canada, Inc; 2007.
+GlucaGen® (glucagon) [product monograph]. Bagsvaerd: Novo Nordisk; 2002.
+Cryer PE, Davis SN, Shamoon H. Hypoglycemia in diabetes. Diabetes Care 2003;26:1902-1912.
+Zinman B, Philis-Tsimikas A, Cariou B, et al. Insulin degludec versus insulin glargine in insulin-naive patients with type 2 diabetes: A 1-year, randomized, treat-to-target trial (BEGIN Once Long). Diabetes Care 2012;35:2464.e71.
+Singh SR, Ahmad F, Lal A, et al. Efficacy and safety of insulin analogues for the management of diabetes mellitus: A meta-analysis. CMAJ 2009;180:385e97.
+Horvath K, Jeitler K, Berghold A, et al. Long-acting insulin analogues versus NPH insulin (human isophane insulin) for type 2 diabetes mellitus. Cochrane Database Syst Rev 2007;(2):CD005613.
+Monami M, Marchionni N, Mannucci E. Long-acting insulin analogues versus NPH human insulin in type 2 diabetes: A meta-analysis. Diabetes Res Clin Pract 2008;81:184.e9.
+Rys P, Wojciechowski P, Rogoz-Sitek A, et al. Systematic review and meta-analysis of randomized clinical trials comparing efficacy and safety outcomes of insulin glargine with NPH insulin, premixed insulin preparations or with insulin detemir in type 2 diabetes mellitus. Acta Diabetol 2015;52:649e62.
+Ratner RE, Gough SC, Mathieu C, et al. Hypoglycaemia risk with insulin degludec compared with insulin glargine in type 2 and type 1 diabetes: A pre-planned meta-analysis of phase 3 trials. Diabetes Obes Metab 2013;15:175.e84.
+Ly TT, Nicholas JA, Retterath A, et al. Effect of sensor-augmented insulin pump therapy and automated insulin suspension vs standard insulin pump therapy on hypoglycemia in patients with type 1 diabetes: A randomized clinical trial. JAMA 2013;310:1240-1247.
+Bergenstal RM, Klonoff DC, Garg SK, et al. Threshold-based insulin-pump interruption for reduction of hypoglycemia. N Engl J Med 2013;369:224-232.
+van Beers CAJ, DeVries JH, Kleijer SJ, et al. Continuous glucose monitoring for patients with type 1 diabetes and impaired awareness of hypoglycaemia (IN CONTROL): A randomised, open-label, crossover trial. Lancet Diabetes Endocrinol 2016;4:893-902.
+Moassesfar S, Masharani U, Frassetto LA, et al. A comparative analysis of the safety, efficacy, and cost of islet versus pancreas transplantation in nonuremic patients with type 1 diabetes. Am J Transplant 2016;16:518-526.

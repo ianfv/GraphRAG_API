@@ -1,0 +1,270 @@
+Chapter Headings
+
+Definition of Diabetes and Prediabetes
+Classification of Diabetes
+Diagnostic Criteria
+Metabolic Syndrome
+Other Relevant Guidelines
+Relevant Appendix
+Author Disclosures
+Key Messages
+The chronic hyperglycemia of diabetes is associated with significant long-term microvascular and cardiovascular complications.
+A fasting plasma glucose of ≥7.0 mmol/L, a 2-hour plasma glucose value in a 75 g oral glucose tolerance test of ≥11.1 mmol/L or a glycated hemoglobin (A1C) of ≥6.5% can predict the development of retinopathy. This permits the diagnosis of diabetes to be made on the basis of each of these parameters.
+The term “prediabetes” refers to impaired fasting glucose, impaired glucose tolerance or an A1C of 6.0% to 6.4%, each of which places individuals at increased risk of developing diabetes and its complications.
+Key Messages for People with Diabetes
+There are 2 main types of diabetes. Type 1 diabetes occurs when the pancreas is unable to produce insulin. Type 2 diabetes occurs when the pancreas does not produce enough insulin or when the body does not effectively use the insulin that is produced.
+Gestational diabetes is a type of diabetes that is first recognized or begins during pregnancy.
+Monogenic diabetes is a rare disorder caused by genetic defects of beta cell function.
+Prediabetes refers to blood glucose levels that are higher than normal, but not yet high enough to be diagnosed as type 2 diabetes. Although not everyone with prediabetes will develop type 2 diabetes, many people will.
+You should discuss the type of diabetes you have with your diabetes health-care team.
+There are several types of blood tests that can be done to determine if a person has diabetes and, in most cases, a confirmatory blood test is required to be sure.
+Definition of Diabetes and Prediabetes
+
+Diabetes mellitus is a heterogeneous metabolic disorder characterized by the presence of hyperglycemia due to impairment of insulin secretion, defective insulin action or both. The chronic hyperglycemia of diabetes is associated with relatively specific long-term microvascular complications affecting the eyes, kidneys and nerves, as well as an increased risk for cardiovascular disease (CVD). The diagnostic criteria for diabetes are based on thresholds of glycemia that are associated with microvascular disease, especially retinopathy.
+
+“Prediabetes” is a practical and convenient term referring to impaired fasting glucose (IFG), impaired glucose tolerance (IGT) (1) or a glycated hemoglobin (A1C) of 6.0% to 6.4%, each of which places individuals at high risk of developing diabetes and its complications.
+
+Classification of Diabetes
+
+The majority of cases of diabetes can be broadly classified into 2 categories: type 1 diabetes and type 2 diabetes, although some cases are difficult to classify. Gestational diabetes (GDM) refers to glucose intolerance with onset or first recognition during pregnancy. The classification of diabetes is summarized in Table 1. Appendix 2 addresses the etiologic classification of diabetes, including less common forms associated with genetic mutations, diseases of the exocrine pancreas (such as cystic fibrosis), other diseases or drug exposure (such as glucocorticoids, medications to treat HIV/AIDS, and atypical antipsychotics).
+
+Monogenic diabetes is a rare disorder caused by genetic defects of beta cell function that typically presents in young people (<25 years of age), is noninsulin dependent and is familial, with an autosomal dominant pattern of inheritance (2). Differentiating between type 1, type 2 and monogenic diabetes is important but can be difficult at the time of diagnosis in certain situations. Table 2 highlights the main features of type 1 diabetes, including LADA form, type 2 diabetes and monogenic diabetes. No diagnostic test or clinical criteria can reliably make this distinction, but additional testing may be helpful in atypical presentations if knowing the specific diagnosis may alter management. One monogenic form to highlight is neonatal diabetes, which typically presents by 6 months of age and is indistinguishable from type 1 diabetes in its clinical features, but may be amenable to therapy with oral sulfonylurea in place of insulin therapy. For this reason, all infants diagnosed before 6 months of age should have genetic testing. In addition, all people with a diagnosis of type 1 diabetes should be reviewed to determine if diagnosis occurred prior to 6 months of age and, if so, genetic testing should be performed (3).
+
+Table 1
+Classification of diabetes(1)
+∗ Includes latent autoimmune diabetes in adults (LADA); the term used to describe the small number of people with apparent type 2 diabetes who appear to have immune-mediated loss of pancreatic beta cells (5).
+
+Type 1 diabetes∗ encompasses diabetes that is primarily a result of pancreatic beta cell destruction with consequent insulin deficiency, which is prone to ketoacidosis. This form includes cases due to an autoimmune process and those for which the etiology of beta cell destruction is unknown.
+Type 2 diabetes may range from predominant insulin resistance with relative insulin deficiency to a predominant secretory defect with insulin resistance. Ketosis is not as common.
+Gestational diabetes mellitus refers to glucose intolerance with onset or first recognition during pregnancy.
+Other specific types include a wide variety of relatively uncommon conditions, primarily specific genetically defined forms of diabetes or diabetes associated with other diseases or drug use (see Appendix 2. Etiologic Classification of Diabetes Mellitus).
+
+Obesity and physical signs of insulin resistance (e.g. acanthosis nigricans) are more common in children and adolescents with type 2 diabetes than type 1 diabetes. In adults, a systematic review of clinical indicators identified age at diagnosis of diabetes <30 to 40 years, and time to needing insulin <1 to 2 years as more predictive of type 1 diabetes than body mass index (BMI) (4).
+
+The presence of autoimmune markers, such as anti-glutamic acid decarboxylase (GAD) or anti-islet cell (ICA) autoantibodies, may be helpful in identifying type 1 diabetes and rapid progression to insulin requirement (5), but levels wane over time and they do not have sufficient diagnostic accuracy to be used routinely (6). In cases where it is difficult to distinguish between type 1, type 2 and monogenic diabetes, presence of 1 or more autoantibodies (GAD and ICA) indicates type 1 diabetes with a need for insulin replacement therapy; however, the absence of autoantibodies does not rule out type 1 diabetes. If the person has clinical features suggestive of monogenic diabetes (familial diabetes with autosomal dominant pattern of inheritance >2 generations, onset <25 years, not having obesity), genetic testing for monogenic diabetes may be performed (7).
+
+While very low C-peptide levels measured after months of clinical stabilization may favour type 1 diabetes (8), they are not helpful in acute hyperglycemia (9,10). Combined use of autoantibody testing and C-peptide measurement at diagnosis may have diagnostic and prognostic utility in pediatric diabetes, but requires further study (11) (see Type 2 Diabetes in Children and Adolescents chapter, p. S247). One study found that, among individuals presenting in diabetic ketoacidosis (DKA), those with 3 negative antibodies and fasting C-peptide levels >0.33 nmol/L (1 to 3 weeks after resolution of the DKA and 10 hours after the last dose of rapid- or intermediate-acting insulin or metformin, and 24 hours after the last dose of sulfonylurea or long-acting insulin) were often able to discontinue insulin, and be treated with noninsulin antihyperglycemic agents when blood glucose (BG) rose (12). Genetic risk scoring for type 1 diabetes may provide marginal additional information over clinical features and autoantibodies, but it is too early to know its utility in clinical practice (13). Clinical judgement with safe management and ongoing follow up is a prudent approach for all people diagnosed with diabetes, regardless of the type.
+
+Table 2
+Clinical features distinguishing type 1 diabetes, type 2 diabetes and monogenic diabetes
+DKA, diabetic ketoacidosis.
+∗ Neonatal diabetes is a form of diabetes with onset <6 months of age, requires genetic testing, and may be amenable to therapy with oral sulfonylurea in place of insulin therapy (3).
+Clinical features	Type 1 diabetes	Type 2 diabetes	Monogenic diabetes
+Age of onset (years)	Most <25 but can occur at any age (but not before the age of 6 months)	Usually >25 but incidence increasing in adolescents, paralleling increasing rate of obesity in children and adolescents	Usually <25; neonatal diabetes <6 months∗
+Weight	Usually thin, but, with obesity epidemic, can have overweight or obesity	>90% at least overweight	Similar to general population
+Islet autoantibodies	Usually present	Absent	Absent
+C-peptide	Undetectable/low	Normal/high	Normal
+Insulin production	Absent	Present	Usually present
+First-line treatment	Insulin	Noninsulin antihyperglycemic agents, gradual dependence on insulin may occur	Depends on subtype
+Family history of diabetes	Infrequent (5%–10%)	Frequent (75%–90%)	Multigenerational, autosomal pattern of inheritance
+DKA	Common	Rare	Rare (except for neonatal diabetes∗)
+Diagnostic Criteria
+Diabetes
+
+The diagnostic criteria for diabetes are summarized in Table 3 (1). These criteria are based on venous samples and laboratory methods (14). A fasting plasma glucose (FPG) level of 7.0 mmol/L correlates most closely with a 2-hour plasma glucose (2hPG) value of ≥11.1 mmol/L in a 75 g oral glucose tolerance test (OGTT), and each predicts the development of retinopathy (15). The relationship between A1C and retinopathy is similar to that of FPG or 2hPG with a threshold at around 6.5% (2,16–22). Although the diagnosis of diabetes is based on an A1C threshold for developing microvascular disease, A1C is also a continuous cardiovascular (CV) risk factor and a better predictor of CV events than FPG or 2hPG (23,24). Although very specific, A1C is less sensitive to diagnose diabetes than traditional glucose criteria, there are, however, several advantages to using A1C for diabetes diagnosis (25,26). A1C can be measured at any time of day and is more convenient than FPG or 2hPG in a 75 g OGTT. A1C testing also avoids the problem of day-to-day variability of glucose values as it reflects the average plasma glucose (PG) over the previous 2 to 3 months (1). In a Canadian context, A1C may identify more people as having diabetes than FPG (27). However, other studies suggest A1C may not identify as many people as having diabetes compared to FPG or 2hPG (28).
+
+Table 3
+Diagnosis of diabetes
+2hPG, 2-hour plasma glucose; AlC, glycated hemoglobin; FPG, fasting plasma glucose; OGTT, oral glucose tolerance test; PG, plasma glucose.
+FPG ≥7.0 mmol/L
+Fasting = no caloric intake for at least 8 hours
+or
+A1C ≥6.5% (in adults)
+Using a standardized, validated assay in the absence of factors that affect the accuracy of the A1C and not for suspected type 1 diabetes (see text)
+or
+2hPG in a 75 g OGTT ≥11.1 mmol/L
+or
+Random PG ≥11.1 mmol/LRandom = any time of the day, without regard to the interval since the last meal
+In the absence of symptomatic hyperglycemia, if a single laboratory test result is in the diabetes range, a repeat confirmatory laboratory test (FPG, A1C, 2hPG in a 75 g OGTT) must be done on another day. It is preferable that the same test be repeated (in a timely fashion) for confirmation, but a random PG in the diabetes range in an asymptomatic individual should be confirmed with an alternate test. In the case of symptomatic hyperglycemia, the diagnosis has been made and a confirmatory test is not required before treatment is initiated. If results of 2 different tests are available and both are above the diagnostic thresholds, the diagnosis of diabetes is confirmed.
+To avoid rapid metabolic deterioration in individuals in whom type 1 diabetes is likely (younger or lean or symptomatic hyperglycemia, especially with ketonuria or ketonemia), the initiation of treatment should not be delayed in order to complete confirmatory testing.
+
+In order to use A1C as a diagnostic criterion, A1C must be measured using a validated assay standardized to the National Glycohemoglobin Standardization Program—Diabetes Control and Complications Trial reference. It is important to note that A1C may be misleading in individuals with various hemoglobinopathies, hemolytic or iron deficiency anemias, iron deficiency without anemia, Graves' disease and severe hepatic and renal disease (29–32), although some evidence suggests that A1C may not be affected by these conditions in people without diabetes (33) (see Monitoring Glycemic Control chapter, p. S47). Studies also show the relationship between glucose levels and A1C varies between people living at extremes of altitude (34). In addition, studies of various ethnicities indicate that African Americans, American Indians, Hispanics and Asians have A1C values that are up to 0.4% higher than those of non-Hispanic white individuals at similar levels of glycemia (35–38), suggesting people from these ethnic groups would have a higher chance of being diagnosed with diabetes by current A1C criteria. Research is required to determine if A1C levels differ in Canadians of African descent or Indigenous peoples. The frequency of retinopathy begins to increase at lower A1C levels in African-Americans than in Caucasians, which suggests a lower threshold for diagnosing diabetes in persons of African descent may be needed (39), whereas a threshold of 6.5% for predicting retinopathy has been validated in large Japanese and Asian cohorts (20,21). A1C values also are affected by age, rising by up to 0.1% per decade of life (40,41). More studies may help to determine if age- or ethnic-specific adjusted A1C thresholds are required for diabetes diagnosis. In addition, A1C is not recommended for diagnostic purposes in children and adolescents (as the sole diagnostic test), pregnant women as part of routine screening for gestational diabetes, those with cystic fibrosis (42) or those with suspected type 1 diabetes (see Diabetes and Pregnancy chapter, p. S255; Type 2 Diabetes in Children and Adolescents chapter, p. S247).
+
+Other measures of glycemia, such as fructosamine, glycated albumin and 1,5-anhydroglucitol have not been validated for the diagnosis of diabetes.
+
+The decision of which test to use for diabetes diagnosis is left to clinical judgement (Table 3). Each diagnostic test has advantages and disadvantages (43) (Table 4). In the absence of symptomatic hyperglycemia, if a single laboratory test result is in the diabetes range, a repeat confirmatory laboratory test (FPG, A1C, 2hPG in a 75 g OGTT) must be done on another day. Such an approach confirms the diagnosis of diabetes in approximately 40% to 90% of people with an initial positive test (26,44). It is preferable that the same test be repeated (in a timely fashion) for confirmation, but a random PG in the diabetes range in an asymptomatic individual should be confirmed with an alternate test. In the case of symptomatic hyperglycemia, the diagnosis has been made and a confirmatory test is not required before treatment is initiated.
+
+In individuals in whom type 1 diabetes is likely (younger or lean or symptomatic hyperglycemia, especially with ketonuria or ketonemia), confirmatory testing should not delay initiation of treatment to avoid rapid deterioration. If results of 2 different tests are available and both are above the diagnostic cut points, the diagnosis of diabetes is confirmed. When the results of more than 1 test are available (among FPG, A1C, 2hPG in a 75 g OGTT) and the results are discordant, the test whose result is above the diagnostic cut point should be repeated and the diagnosis made on the basis of the repeat test.
+
+Table 4
+Advantages and disadvantages of diagnostic tests for diabetes∗ (43)
+2hPG, 2-hour plasma glucose; A1C, glycated hemoglobin; CVD, cardiovascular disease; FPG, fasting plasma glucose; OGTT, oral glucose tolerance test.
+∗ Adapted from Sacks D. A1C versus glucose testing: a comparison (43).
+† See Type 2 Diabetes in Children and Adolescents chapter, p. S247.
+‡ See Diabetes and Pregnancy chapter, p. S255.
+Parameter	          Advantages	          Disadvantages
+FPG	
+Established standard
+Fast and easy
+Single sample
+Predicts microvascular complications
+	
+Sample not stable
+High day-to-day variability
+Inconvenient (fasting)
+Reflects glucose homeostasis at a single point in time
+
+2hPG in a 75 g OGTT	
+Established standard
+Predicts microvascular complications
+	
+Sample not stable
+High day-to-day variability
+Inconvenient
+Unpalatable<
+Cost
+
+A1C	
+Convenient (measure any time of day)
+Single sample
+Predicts microvascular complications
+Better predictor of CVD than FPG or 2hPG in a 75 g OGTT
+Low day-to-day variability
+Reflects long-term glucose concentration
+	
+Cost
+Misleading in various medical conditions (e.g. hemoglobinopathies, iron deficiency, hemolytic anemia, severe hepatic or renal disease)
+Altered by ethnicity and aging
+Standardized, validated assay required
+Not for diagnostic use in children and adolescents† (as the sole diagnostic test), pregnant women as part of routine screening for gestational diabetes‡, those with cystic fibrosis or those with suspected type 1 diabetes
+Prediabetes
+
+The term “prediabetes” refers to IFG, IGT or an A1C of 6.0% to 6.4% (Table 5), each of which places individuals at high risk of developing diabetes and its complications. Not all individuals with prediabetes will necessarily progress along the continuum of dysglycemia to develop diabetes. Indeed, a significant proportion of people who are diagnosed with IFG or IGT will revert to normoglycemia. While people with prediabetes do not have increased risk for microvascular disease as seen in diabetes, they are at risk for the development of diabetes and CVD (45–47). Due to variability in the literature, it seems that IGT may or may not be more strongly associated with CVD outcomes than IFG, and A1C may or may not be more strongly associated with CVD outcomes than either IFG or IGT. Individuals identified as having both IFG and IGT are at higher risk for diabetes as well as CVD than people with either IFG or IGT alone. People with prediabetes, particularly in the context of the metabolic syndrome, would benefit from CV risk factor modification.
+
+While there is no worldwide consensus on the definition of IFG (48,49), Diabetes Canada defines IFG as an FPG value of 6.1 to 6.9 mmol/L due to the higher risk of developing diabetes in these individuals compared to defining IFG as an FPG value of 5.6 to 6.9 mmol/L (49). While there is a continuum of risk for diabetes in individuals with A1C levels between 5.5% to 6.4%, population studies demonstrate that A1C levels of 6.0% to 6.4% are associated with a higher risk for diabetes compared to levels between 5.5% to 6.0% (50). While the American Diabetes Association defines prediabetes as an A1C between 5.7% to 6.4%, Diabetes Canada has based the definition on a higher risk group and includes an A1C of 6.0% to 6.4% as a diagnostic criterion for prediabetes (1). However, A1C levels <6.0% can indeed be associated with an increased risk for diabetes (50). The combination of an FPG of 6.1 to 6.9 mmol/L and an A1C of 6.0% to 6.4% is predictive of 100% progression to type 2 diabetes over a 5-year period (51).
+
+Table 5
+Diagnosis of prediabetes
+2hPG, 2-hour plasma glucose; AlC, glycated hemoglobin; FPG, fasting plasma glucose; IFG, impaired fasting glucose; IGT, impaired glucose tolerance; OGTT, oral glucose tolerance test.
+Test	Result	Prediabetes category
+FPG (mmol/L)	6.1–6.9	IFG
+2hPG in a 75g OGTT (mmol/L)	7.8–11.0	IGT
+A1C (%)	6.0–6.4	Prediabetes
+
+ 
+
+Table 6
+Harmonized definition of the metabolic syndrome: ≥3 measures to make the diagnosis of metabolic syndrome∗ (35)
+BP, blood pressure; FPG, fasting plasma glucose; HDL-C, high-density lipoprotein cholesterol; TG, triglycerides.
+∗ Adapted from: Alberti KG, Eckel R, Grundy S, et al. Harmonizing the metabolic syndrome (53).
+† The most commonly used drugs for elevated TG and reduced HDL-C are fibrates and nicotinic acid. A person taking one of these drugs can be presumed to have high TG and reduced HDL-C. High-dose omega-3 fatty acids presumes high TG.
+Measure	Categorical thresholds
+ 	Men	Women
+Elevated waist circumference (cm)(population and country specific cut points):
+Canada; USA.
+Europids; Middle-Eastern; Sub-Saharan African; Mediterranean
+Asians; Japanese; South and Central Americans
+	
+≥102 cm
+≥94 cm
+≥90 cm	
+≥88 cm
+≥80 cm
+≥80 cm
+Elevated TG (mmol/L) (drug treatment for elevated TG is an alternate indicator†)	≥1.7 mmol/L
+Reduced HDL-C (mmol/L) (drug treatment for reduced HDL-C is an alternate indicator†)	<1.0	<1.3
+Elevated BP (mmHg) (antihypertensive drug treatment in a person with a history of hypertension is an alternate indicator)	Systolic ≥130 and/or diastolic ≥85
+Elevated FPG (mmol/L) (drug treatment of elevated glucose is an alternate indicator)	≥5.6
+Metabolic Syndrome
+
+Prediabetes and type 2 diabetes are often manifestations of a much broader underlying disorder (52), including the metabolic syndrome, a highly prevalent, multifaceted condition characterized by a constellation of abnormalities that include abdominal obesity, hypertension, dyslipidemia and elevated BG. Individuals with the metabolic syndrome are at significant risk of developing CVD. While metabolic syndrome and type 2 diabetes often coexist, those with metabolic syndrome without diabetes are at significant risk of developing diabetes. Evidence exists to support an aggressive approach to identifying and treating people, not only those with hyperglycemia, but also those with the associated CV risk factors that make up the metabolic syndrome, such as hypertension, dyslipidemia and abdominal obesity, in the hope of significantly reducing CV morbidity and mortality.
+
+Various diagnostic criteria for the metabolic syndrome have been proposed. In 2009, a harmonized definition of the metabolic syndrome was established, with at least 3 or more criteria required for diagnosis (53) (Table 6).
+
+Recommendations
+Diabetes should be diagnosed by any of the following criteria:
+FPG ≥7.0 mmol/L [Grade B, Level 2 (54)]
+A1C ≥6.5% (for use in adults in the absence of factors that affect the accuracy of A1C and not for use in those with suspected type 1 diabetes) [Grade B, Level 2 (20,21,54)]
+2hPG in a 75 g OGTT ≥11.1 mmol/L [Grade B, Level 2 (54)]
+Random PG ≥11.1 mmol/L [Grade D, Consensus].
+In the presence of symptoms of hyperglycemia, a single test result in the diabetes range is sufficient to make the diagnosis of diabetes. In the absence of symptoms of hyperglycemia, if a single laboratory test result is in the diabetes range, a repeat confirmatory laboratory test (FPG, A1C, 2hPG in a 75 g OGTT) must be done on another day. It is preferable that the same test be repeated (in a timely fashion) for confirmation, but a random PG in the diabetes range in an asymptomatic individual should be confirmed with an alternate test. If results of 2 different tests are available and both are above the diagnostic cut points the diagnosis of diabetes is confirmed [Grade D, Consensus].
+To avoid rapid metabolic deterioration in individuals in whom type 1 diabetes is likely (younger or lean or symptomatic hyperglycemia, especially with ketonuria or ketonemia), the initiation of treatment should not be delayed in order to complete confirmatory testing [Grade D, Consensus].
+Prediabetes (defined as a state which places individuals at high risk of developing diabetes and its complications) is diagnosed by any of the following criteria:
+IFG (FPG 6.1–6.9 mmol/L) [Grade A, Level 1 (45)]
+IGT (2hPG in a 75 g OGTT 7.8–11.0 mmol/L) [Grade A, Level 1 (45)]
+A1C 6.0%–6.4% (for use in adults in the absence of factors that affect the accuracy of A1C and not for use in suspected type 1 diabetes) [Grade B, Level 2 (50)].
+
+Abbreviations:
+2hPG, 2-hour plasma glucose; A1C, glycated hemoglobin; BG; blood glucose; FPG, fasting plasma glucose; DKA, diabetic ketoacidosis; IFG, impaired fasting glucose; IGT, impaired glucose tolerance; OGTT, oral glucose tolerance test; PG, plasma glucose.
+
+Other Relevant Guidelines
+
+Chapter 4. Screening for Diabetes in Adults
+
+Chapter 5. Reducing the Risk of Developing Diabetes
+
+Chapter 34. Type 1 Diabetes in Children and Adolescents
+
+Chapter 35. Type 2 Diabetes in Children and Adolescents
+
+Relevant Appendix
+Appendix 2. Etiologic Classification of Diabetes
+
+Literature Review Flow Diagram for Chapter 3: Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (55).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Punthakee reports research contracts from Amgen, AstraZeneca/Bristol Myers Squibb, Lexicon, Merck, Novo Nordisk, and Sanofi, personal fees from Abbott, AstraZeneca/Bristol Myers Squibb, Boehringer Ingelheim/Eli Lilly, Janssen, Merck, Novo Nordisk, Pfizer, and Sanofi, outside the submitted work. Dr. Goldenberg reports personal fees from Abbott, AstraZeneca, Boehringer Ingelheim, Eli Lilly, Janssen, Merck, Novo Nordisk, Sanofi, and Servier, outside the submitted work. Dr. Katz has nothing to disclose.
+
+References
+American Diabetes Association. Diagnosis and classification of diabetes mellitus. Diabetes Care 2012;35:S64-71.
+Amed S, Oram R. Maturity-Onset Diabetes of the Young (MODY): Making the right diagnosis to optimize treatment. Can J Diabetes 2016;40:449-54
+De Franco E, Flanagan SE, Houghton JA, et al. The effect of early, comprehensive genomic testing on clinical care in neonatal diabetes: An international cohort study. Lancet 2015;386:957-63.
+Shields BM, Peters JL, Cooper C, et al. Can clinical features be used to differentiate type 1 from type 2 diabetes? A systematic review of the literature. BMJ Open 2015;5:e009088.
+Turner R, Stratton I, Horton V, et al. UKPDS 25: Autoantibodies to islet-cell cytoplasm and glutamic acid decarboxylase for prediction of insulin requirement in type 2 diabetes. UK Prospective Diabetes Study Group. Lancet 1997;350:1288-93.
+Fatima A, Khawaja KI, Burney S, et al. Type 1 and type 2 diabetes mellitus: Are they mutually exclusive? Singapore Med J 2013;54:396-400.
+Naylor R, Philipson LH. Who should have genetic testing for maturity-onset diabetes of the young? Clin Endocrinol (Oxf) 2011;75:422-6.
+Patel P, Macerollo A. Diabetes mellitus: Diagnosis and screening. Am Fam Physician 2010;81:863-70.
+Unger RH, Grundy S. Hyperglycaemia as an inducer as well as a consequence of impaired islet cell function and insulin resistance: Implications for the management of diabetes. Diabetologia 1985;28:119-21.
+Jones AG, Hattersley AT. The clinical utility of C-peptide measurement in the care of patients with diabetes. Diabet Med 2013;30:803-17.
+Redondo MJ, Rodriguez LM, Escalante M, et al. Types of pediatric diabetes mellitus defined by anti-islet autoimmunity and random C-peptide at diagnosis. Pediatr Diabetes 2013;14:333-40.
+Maldonado M, Hampe CS, Gaur LK, et al. Ketosis-prone diabetes: Dissection of a heterogeneous syndrome using an immunogenetic and beta-cell functional classification, prospective analysis, and clinical outcomes. J Clin Endocrinol Metab 2003;88:5090-8.
+Oram RA, Patel K, Hill A, et al. A type 1 diabetes genetic risk score can aid discrimination between type 1 and type 2 diabetes in young adults. Diabetes Care 2016;39:337-44.
+Sacks DB, Arnold M, Bakris GL, et al. Executive summary: Guidelines and recommendations for laboratory analysis in the diagnosis and management of diabetes mellitus. Clin Chem 2011;57:793-8.
+Nakagami T, Takahashi K, Suto C, et al. Diabetes diagnostic thresholds of the glycated hemoglobin A1c and fasting plasma glucose levels considering the 5-year incidence of retinopathy. Diabetes Res Clin Pract 2017;124:20-9.
+McCance DR, Hanson RL, Charles MA, et al. Comparison of tests for glycated haemoglobin and fasting and two hour plasma glucose concentrations as diagnostic methods for diabetes. BMJ 1994;308:1323-8.
+Engelgau MM, Thompson TJ, Herman WH, et al. Comparison of fasting and 2-hour glucose and HbA1c levels for diagnosing diabetes. Diagnostic criteria and performance revisited. Diabetes Care 1997;20:785-91.
+Expert Committee on the Diagnosis and Classification of Diabetes Mellitus. Report of the expert committee on the diagnosis and classification of diabetes mellitus. Diabetes Care 1997;20:1183-97.
+Sabanayagam C, Khoo EY, Lye WK, et al. Diagnosis of diabetes mellitus using HbA1c in Asians: Relationship between HbA1c and retinopathy in a multiethnic Asian population. J Clin Endocrinol Metab 2015;100:689-96.
+Ito C. Evidence for diabetes mellitus criteria in 2010 using HbA1c. Diabetol Int 2013;4:9–15. https://link.springer.com/article/10.1007/s13340-012-0086-7.
+Kowall B, Rathmann W. HbA1c for diagnosis of type 2 diabetes. Is there an optimal cut point to assess high risk of diabetes complications, and how well does the 6.5% cutoff perform? Diabetes Metab Syndr Obes 2013;6:477-91.
+Sarwar N, Aspelund T, Eiriksdottir G, et al. Markers of dysglycaemia and risk of coronary heart disease in people without diabetes: Reykjavik prospective study and systematic review. PLoS Med 2010;7:e1000278.
+Selvin E, Steffes MW, Zhu H, et al. Glycated hemoglobin, diabetes, and cardiovascular risk in nondiabetic adults. N Engl J Med 2010;362:800-11.
+International Diabetes Federation. Report of a World Health Organization Consultation. Use of glycated haemoglobin (HbA1c) in the diagnosis of diabetes mellitus. Diabetes Res Clin Pract 2011;93:299–309. http://www.diabetesresearchclinicalpractice.com/article/S0168-8227(11)00131-8/pdf.
+Nielsen AA, Petersen PH, Green A, et al. Changing from glucose to HbA1c for diabetes diagnosis: Predictive values of one test and importance of analytical bias and imprecision. Clin Chem Lab Med 2014;52:1069-77.
+Rosella LC, Lebenbaum M, Fitzpatrick T, et al. Prevalence of prediabetes and undiagnosed diabetes in Canada (2007-2011) according to fasting plasma glucose and HbA1c screening criteria. Diabetes Care 2015;38:1299-305.
+Karnchanasorn R, Huang J, Ou HY, et al. Comparison of the current diagnostic criterion of HbA1c with fasting and 2-hour plasma glucose concentration. J Diabetes Res 2016;2016:6195494.
+Gallagher EJ, Le Roith D, Bloomgarden Z. Review of hemoglobin A(1c) in the management of diabetes. J Diabetes 2009;1:9-17.
+Yang L, Shen X, Yan S, et al. HbA1c in the diagnosis of diabetes and abnormal glucose tolerance in patients with Graves' hyperthyroidism. Diabetes Res Clin Pract 2013;101:28-34.
+Son JI, Rhee SY, Woo JT, et al. Hemoglobin A1c may be an inadequate diagnostic tool for diabetes mellitus in anemic subjects. Diabetes Metab J 2013;37:343-8.
+Attard SM, Herring AH, Wang H, et al. Implications of iron deficiency/anemia on the classification of diabetes using HbA1c. Nutr Diabetes 2015;5:e166.
+Cavagnolli G, Pimentel AL, Freitas PA, et al. Factors affecting A1C in nondiabetic individuals: Review and meta-analysis. Clin Chim Acta 2015;445:107-
+Bazo-Alvarez JC, Quispe R, Pillay TD, et al. Glycated haemoglobin (HbA1c) and fasting plasma glucose relationships in sea-level and high-altitude settings. Diabet Med 2017;34:804-12.
+Herman WH, Ma Y, Uwaifo G, et al. Differences in A1C by race and ethnicity among patients with impaired glucose tolerance in the Diabetes Prevention Program. Diabetes Care 2007;30:2453-7.
+Ziemer DC, Kolm P,WeintraubWS, et al. Glucose-independent, black-white differences in hemoglobin A1c levels: A cross-sectional analysis of 2 studies. Ann Intern Med 2010;152:770-7.
+Carson AP, Muntner P, Selvin E, et al. Do glycemic marker levels vary by race? Differing results from a cross-sectional analysis of individuals with and without diagnosed diabetes. BMJ Open Diabetes Res Care 2016;4:e000213.
+Cavagnolli G, Pimentel AL, Freitas PA, et al. Effect of ethnicity on HbA1c levelsin individuals without diabetes: Systematic review and meta-analysis. PLoS ONE 2017;12:e0171315.
+Tsugawa Y, Mukamal KJ, Davis RB, et al. Should the hemoglobin A1c diagnostic cutoff differ between blacks and whites? A cross-sectional study. Ann Intern Med 2012;157:153-9.
+Davidson MB, Schriger DL. Effect of age and race/ethnicity on HbA1c levels in people without known diabetes mellitus: Implications for the diagnosis of diabetes. Diabetes Res Clin Pract 2010;87:415-21.
+Pani LN, Korenda L, Meigs JB, et al. Effect of aging on A1C levels in individuals without diabetes: Evidence from the Framingham Offspring study and the National Health and Nutrition Examination Survey 2001–2004. Diabetes Care 2008;31:1991-6.
+Moran A, Brunzell C, Cohen RC, et al. Clinical care guidelines for cystic fibrosis– related diabetes. A position statement of the American Diabetes Association and a clinical practice guideline of the Cystic Fibrosis Foundation, endorsed by the Pediatric Endocrine Society. Diabetes Care 2010;33:2697-708.
+Sacks DB. A1C versus glucose testing: A comparison. Diabetes Care 2011;34:518-23.
+Christophi CA, Resnick HE, Ratner RE, et al. Confirming glycemic status in the Diabetes Prevention Program: Implications for diagnosing diabetes in high risk adults. J Diabetes Complications 2013;27:150-7.
+Santaguida PL, Balion C, Hunt D, et al. Diagnosis, prognosis, and treatment of impaired glucose tolerance and impaired fasting glucose. Rockville: Agency for Healthcare Research and Quality (AHRQ), 2005, pg. Report No.: 05-E026-2 Contract No.: 128.
+Huang Y, Cai X, Mai W, et al. Association between prediabetes and risk of cardiovascular disease and all cause mortality: Systematic review and metaanalysis. 2016;355:i5953.
+Warren B, Pankow JS, Matsushita K, et al. Comparative prognostic performance of definitions of prediabetes: A prospective cohort analysis of the Atherosclerosis Risk in Communities (ARIC) study. Lancet Diabetes Endocrinol 2016;5:34-42.
+Shaw JE, Zimmet PZ, Alberti KG. Point: Impaired fasting glucose: The case for the new American Diabetes Association criterion. Diabetes Care 2006;29:1170-2.
+Forouhi NG, Balkau B, Borch-Johnsen K, et al. The threshold for diagnosing impaired fasting glucose: A position statement by the European Diabetes Epidemiology Group. Diabetologia 2006;49:822-7.
+Zhang X, Gregg EW, Williamson DF, et al. A1C level and future risk of diabetes: A systematic review. Diabetes Care 2010;33:1665-73.
+Heianza Y, Arase Y, Fujihara K, et al. Screening for pre-diabetes to predict future diabetes using various cut-off points for HbA(1c) and impaired fasting glucose: The Toranomon Hospital Health Management Center Study 4 (TOPICS 4). Diabet Med 2012;29:e279–85.
+Reaven GM. Banting lecture 1988. Role of insulin resistance in human disease. Diabetes 1988;37:1595-607.
+Alberti KG, Eckel RH, Grundy SM, et al. Harmonizing the metabolic syndrome: A joint interim statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute;
+American Heart Association;World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity. Circulation 2009;120:1640–5.
+Colagiuri S, Lee CM, Wong TY, et al. Glycemic thresholds for diabetes-specific retinopathy: Implications for diagnostic criteria for diabetes. Diabetes Care 2011;34:145-50.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

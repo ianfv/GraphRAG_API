@@ -1,0 +1,188 @@
+Chapter Headings
+
+Background and Purpose
+Questions
+Acknowledgements
+Author Disclosures
+Background and Purpose
+
+Diabetes Canada prepares clinical practice guidelines to provide a synthesis of the best evidence to help practitioners. Evidence-based medicine seeks to integrate the best evidence with clinical expertise and the values of persons living with diabetes. It is challenging to balance the goals of providing guidelines based on high-quality evidence with addressing the needs of practitioners who commonly face clinical scenarios for which there is no robust evidence.
+
+The 2020 update examined whether recently published trials provided sufficient new evidence to require new or updated recommendations. We have deliberately sought to minimize the addition of consensus recommendations (i.e. Grade D). Nevertheless, this may not be sufficient to help decision-making in day-to-day clinical practice. This document seeks to help address this gap by providing some clinical perspective (in a question and answer format) that will help practitioners apply the updated recommendations with greater confidence.
+
+A major challenge that all clinicians face is how to apply evidence to individuals who do not resemble clinical trial participants. Extrapolation may be required by practitioners in certain scenarios, and we have provided some commentary around this. Disagreements of approach may be less to do with the evidence itself, but rather the priorities and values of persons interpreting or applying the evidence. Individual treatment decisions should always be based on the principles of shared decision-making.
+
+We hope this document will reduce uncertainty and, perhaps, also unhelpful conjecture, about the meaning of some recommendations or the rationale behind their grading. Additional clinical practice tools and resources are being developed to support persons with diabetes and to help prescribers apply the updated guidelines.
+
+Questions
+General
+Are Diabetes Canada’s guidelines too glucocentric?
+The update on pharmacotherapy for type 2 diabetes is only one part of our clinical practice guidelines (CPG) which aim to take a holistic, patient-centred approach. Reducing microvascular and cardiovascular (CV) complications, improving quality of life, relieving symptoms of hyperglycemia and reducing risk of hypoglycemia are all important goals for persons living with diabetes. The CPG provide extensive recommendations spanning prevention of diabetes, promoting healthy behaviours, addressing mental health and emphazising CV risk reduction (1).
+Does good glycemic control matter?
+Optimal glycemic control, especially in the early years after diabetes diagnosis, is important to reduce the incidence and progression of microvascular complications and, in the long term (more than 10 years), is associated with reduced CV outcomes (2-4).
+Good glucose control can be more difficult to achieve and maintain compared to blood pressure or lipid targets, but encouraging optimal glucose control may be important since healthy lifestyle behaviours have benefits beyond blood glucose control. It may be an important proxy for efficacy of other aspects of care.
+Starting treatment
+Should pharmacotherapy always be started at diagnosis?
+It is acceptable to defer pharmacotherapy until a trial of healthy behaviour interventions. Metformin should be started if glycated hemoglobin (A1C) target is not achieved by 3 months. This approach aligns with the United Kingdom Prospective Diabetes Study (UKPDS) where participants were randomized to start therapy if they did not reach glycemic targets after 3 months of dietary intervention (5).
+Remission of type 2 diabetes is possible with healthy behaviours and is a worthwhile goal.
+Why is metformin still recommended as first-line pharmacologic therapy?
+Metformin is inexpensive, has few side effects, provides durable glycemic control compared with sulfonylureas (SU) and has decades of clinical experience.
+Metformin was tested in the UKPDS, which is the only outcome trial conducted in individuals with newly diagnosed type 2 diabetes.
+The majority of participants in outcome trials demonstrating cardiorenal benefits for specific drugs/classes were taking other antihyperglycemic agents (AHA), including metformin, as background medications.
+Can AHA with cardiorenal benefits be started at diagnosis of type 2 diabetes instead of metformin?
+Other agents should be used if metformin is contraindicated or not tolerated. If the estimated glomerular filtration rate (eGFR) is too low for metformin to be used safely:
+It is unlikely that a sodium-glucose cotransporter-2 inhibitor (SGLT2i) will be effective for blood glucose lowering.
+The cardiorenal benefits for this class are only established when the eGFR is >30 mL/min/1.73m2.
+For people with pre-existing atherosclerotic cardiovascular disease (ASCVD), heart failure (HF) or chronic kidney disease (CKD), drugs with cardiorenal benefits may be considered.
+Can I start a drug with cardiorenal benefit at diagnosis of type 2 diabetes if my patient has a history of ASCVD, HF or CKD?
+There have been no CV or renal outcome trials performed in this setting, but this seems to be a reasonable choice as the benefit of effect seen in the cardiovascular outcome trials (CVOT) has not been found to vary with the duration of diabetes.
+Adjusting or advancing therapy
+Do I always need to add an extra drug?
+Individual responses to therapies always vary. This seems to be particularly true for some agents (e.g. glucagon-like peptide-1 receptor agonists [GLP1-RA], thiazolidinediones [TZD]). If a drug has not been (or is only marginally) effective, it is reasonable to switch to a different agent.
+Can individuals with ASCVD, HF or CKD be prescribed agents with demonstrated cardiorenal benefits even if A1C is at target?
+Reducing CV and renal complications is an important goal for diabetes management.
+While previous outcome studies included only individuals with type 2 diabetes who were above A1C target, some recent outcome trials have included individuals with A1C at or below target.
+In people with HF, an SGLT2i was found to reduce risk of hospitalization for heart failure (HHF) and CV death (6).
+ii.In people with ASCVD or CV risk factors, a GLP1-RA was found to reduce risk of major adverse CV events (MACE) (7).
+The cardiorenal benefits for people with CKD do not appear to depend on substantial glycemic improvements. For example, in the Canagliflozin and Renal Outcomes in Type 2 Diabetes and Nephropathy (CREDENCE) trial, the A1C at the end of the study was only 0.11% lower than control subjects (8).
+Substitution of (replacing rather than adding) an agent with cardiorenal benefit may be appropriate if people are at or close to A1C target.
+Is there any role for AHA that do not have proven CV or renal benefits?
+All AHA have clinical trial evidence (Grade A) showing effectiveness for reducing blood glucose levels and improving A1C.
+Multiple AHA may be required to achieve and maintain optimal glycemic control.
+Costs, coverage, contraindications and other factors should be considered when selecting therapies for individuals (see #11).
+Most participants in trials demonstrating cardiorenal benefits for specific drugs/classes were taking other AHA, including metformin, SU, dipeptidyl peptidase 4 inhibitors (DPP4i) and insulin.
+When should initiation of insulin be considered?
+Symptomatic hyperglycemia and/or metabolic decompensation (e.g. unintentional weight loss)
+Relative insulin deficiency with severely elevated A1C and fasting glucose, even without symptomatic hyperglycemia and/or metabolic decompensation
+Unclear diagnosis (i.e. type 1 diabetes or latent autoimmune diabetes in adults [LADA] are being considered)
+Conception planning or during pregnancy
+When noninsulin AHA are unable to achieve target glycemic control
+Factors to consider when selecting AHA
+What other factors should be considered when choosing AHA for an individual with type 2 diabetes?
+The individual’s preference/goals
+Costs and coverage
+Frailty and goals of care, including life expectancy
+Side effect profile and medication intolerance
+Polypharmacy
+Degree of hyperglycemia (A1C, relative contributions of fasting vs postprandial hyperglycemia)
+Symptoms of polyuria and polydipsia or weight loss that may indicate a need for insulin
+Renal function (glycemic efficacy of SGLT2i is reduced with lower eGFR, dose adjustments may be required for metformin or SU)
+Eating patterns
+Need for blood glucose monitoring
+Dexterity for treatments taken by injection
+Planning or potential for pregnancy
+Breastfeeding
+Relative contributions of insulin deficiency vs resistance (assessment based on clinical parameters, including duration of diabetes, degree of fasting hyperglycemia, weight, body mass index [BMI], waist circumference and dyslipidemia [low HDL, high triglycerides])
+Clinical status considerations
+What if my patient has recently had a heart attack, developed HF or been diagnosed with CKD?
+This change in clinical status should now prompt consideration of a drug with cardiorenal benefit – either by addition, if A1C not at target, or substitution, if A1C at target.
+Which individuals with CKD should be treated with SGLT2i?
+Strongest evidence of benefit was seen in those with eGFR 30 to 90 mL/min/1.73m2 and heavy proteinuria with urinary albumin to creatinine ratio (ACR) >33.9 mg/mmol (8).
+Which individuals with HF should be treated with SGLT2i?
+Strongest evidence of benefit was seen in those with New York Heart Association class II, III or IV HF and an ejection fraction (EF) of <40% (6).
+Do I need to use drugs with proven cardiorenal benefits in all individuals, including the elderly?
+This may not be appropriate in persons with limited life expectancy, where these drugs are not tolerated or are contraindicated. The risk of hypotension with SGLT2i should be considered and may require adjustment of antihypertensive therapy.
+This update to our pharmacotherapy recommendations should be read in conjunction with our clinical practice guidelines for managing diabetes in older people (9).
+There are other factors that should be considered when considering therapeutic choices (see #11).
+Application to low-risk populations
+Can we assume that drugs with cardiorenal benefits will have benefits for people with no history of CV/renal disease or multiple CV risk factors?
+Some drugs, which are important for secondary prevention in people with diabetes, are NOT effective for primary prevention – so we should be careful about assuming that cardiorenal benefits can be extrapolated.
+We no longer recommend ASA for primary prevention of CVD in people with diabetes (10).
+Trials have shown angiotensin-converting enzyme inhibitors/angiotensin receptor blockers (ACEi/ARB) do not reduce nephropathy in people with type 1 diabetes who do not have microalbuminuria or hypertension (11).
+The impressive cardiorenal benefits of SGLT2i have been most clearly demonstrated in persons with evidence of CV or renal disease:
+MACE reductions in those with history of ASCVD (8,12,13) – but not shown in those without ASCVD (14,15);
+HHF reductions in persons with ASCVD (12), reduced EF (6) or CKD (8);
+Reduced renal progression in persons with CKD with proteinuria (8) or ASCVD (12,13).
+In persons with type 2 diabetes and CV risk factors only, SGLT2i seem to have:
+Benefits to reduce HHF (12,13);
+Benefits to reduce progression of nephropathy (13,14);
+NO benefits to reduce MACE or mortality.
+In persons with type 2 diabetes and CV risk factors only, GLP1-RA seem to have benefits to reduce MACE (7,16,17).
+There are no trials showing cardiorenal benefit for GLP1-RA or SGLT2i when used as first-line therapy or as monotherapy to treat diabetes. In general, trials showing CV benefit were performed in people already taking other AHA (including insulin), where the new treatment was added to existing treatments.
+Selecting agents with cardiorenal benefits
+Are some SGLT2i or GLP1-RA more effective than others? Is this reflected by the grading of evidence?
+In the absence of head-to-head trials, it is not possible to determine whether different agents within a class are more or less effective.
+The grading of the evidence refers to the confidence with which we can trust the results of the trial are valid. It does not indicate that one drug is “better” than another.
+Some agents, although safe and effective to improve glycemia, have not demonstrated cardiorenal benefits (see Figure 2 in 2020 update).
+How do I choose between SGLT2i or GLP1-RA for an individual who has ASCVD/HF/CKD?
+It is recommended to choose the class with the highest grade of evidence based on the clinical status of the individual (see Figure 2 in 2020 update).
+If grading of evidence is similar (e.g. history of ASCVD), other factors may influence individualized choice between the SGLT2i or GLP1-RA class: the individual’s preferences; costs and coverage; side effect profile; consideration of renal function and glucose lowering efficacy; desire for weight loss; and comorbidities.
+If HF or CKD predominate, an SGLT2i with demonstrated cardiorenal benefit is preferred.
+How do I choose between SGLT2i or GLP1-RA for an individual with 2+ CV risk factors (but without ASCVD/HF/CKD)?
+GLP1-RA have been demonstrated to reduce risk of MACE (7,16,17).
+SGLT2i have been demonstrated to reduce risk of HHF and progression of nephropathy but have not been demonstrated to reduce risk of MACE.
+It may be helpful to consider the number needed to treat (NNT) reported in trials (e.g. NNT for MACE reduction was 60 with dulaglutide treatment for 5.4 years in REWIND (7); NNT for reduction of HHF was 142, and NNT for composite CKD endpoint was 91 with dapagliflozin treatment for 4 years in DECLARE (14)).
+How do I choose a medication within the SGLT2i or GLP1-RA classes?
+Selecting an agent with demonstrated cardiorenal benefit is recommended (see Figure 2B in 2020 update; event rates are shown in Table 2).
+Opinions vary about whether beneficial effects are general to the class or specific to individual agents.
+Broadly consistent effects in CVOT for GLP1-RA and SGLT2i increase our confidence that benefits to reduce major outcomes (MACE, and/or HHF, and/or CKD progression) are real.
+We cannot confidently recommend one agent over another within a class based on subanalyses of subgroups or secondary endpoints observed in individual trials.
+I am most worried to prevent heart attack and stroke for my patient. Should I choose a specific drug or class?
+Therapies only reduce the risk for events, and not all events can be prevented.
+The individual’s concerns should be explored when selecting therapies.
+The selection of class or agent should be based on both the individual's clinical characteristics and conversations exploring their priorities in order to reach a sensible, shared decision.
+Should I choose agents with cardiorenal benefits that have the lowest hazard ratios?
+It is important to consider the event rates and not just the hazard ratio. A modest relative risk reduction in MACE may be more impactful than a more dramatic relative risk reduction for a secondary outcome which affected a small number of study participants. Event rates for key outcomes are presented in Table 2 of the 2020 update.
+Why don’t you compare NNT?
+While this is an important concept that can be helpful, it cannot be relied upon to compare agents tested in different trials. The event rates will be affected by the study population, inclusion and exclusion criteria, as well as the duration of follow up. Nevertheless, prescribers are encouraged to consider absolute risks when selecting therapies (see Table 2 in the 2020 update).
+Can I use both a GLP1-RA and SGLT2i and get additional benefits?
+Using both to achieve optimal glycemic control when needed is reasonable, and there is no reason they cannot be used in combination.
+It is not known whether additional CV and/or renal benefit can be expected by combining both.
+As for all prescribing decisions, the clinical characteristics of the individual, comorbidities, and the safety and side effect profile of the agent(s) should be considered, along with the individual’s preferences and values (see #11).
+Dose titration and use of combination products
+Is there an advantage to increasing the dose of an SGLT2i?
+The dose response curve for SGLT2i is rather flat – such that going to the higher dose generally has only a small effect to further reduce blood glucose levels.
+The cardiorenal benefits are not different between the higher and lower doses. Low doses seem to be as effective as high doses. Most CV outcome trials analyzed the doses together, while only the lower dose was used in CREDENCE (renal trial) (8).
+Is there an advantage to increasing the dose of GLP1-RA?
+Titrating the GLP1-RA doses to the maximum approved dose will generally be associated with greater reductions in blood glucose levels and body weight.
+Higher doses may cause gastrointestinal side effects, which may lead to treatment discontinuation.
+Can I use fixed-dose combination tablets?
+There may be advantages in terms of convenience, reduced burden and simplicity with different preparations (once daily, combinations), but some challenges may include costs and/or coverage, large pill size, as well as inflexibility (e.g. holding metformin for sick day management).
+Can I use fixed ratio combinations of insulin and GLP1-RA rather than basal insulin for insulin initiation or intensification?
+Using a fixed ratio combination (FRC) of basal insulin and GLP1-RA rather than basal insulin alone may have advantages to simplify treatment regimen and to reduce weight gain and risk of hypoglycemia compared to basal insulin alone (18,19).
+FRC may also be considered when advancing therapy in people using basal insulin as an alternative to adding a GLP1-RA separately (20,21).
+Slower titration of FRC may have fewer gastrointestinal adverse effects compared to a separate injection of GLP1-RA, but the maximum dose of insulin is limited to 50 or 60 units per injection (depending on the preparation - see Table 1 in 2020 update).
+It is important to note that lixisenatide is an effective glucose lowering agent, but has not been shown to reduce CV outcomes (22).
+Safety questions
+Do some GLP1-RA cause retinopathy?
+More diabetic retinopathy complications were seen with semaglutide in SUSTAIN-6 (3.0% vs 1.8%, HR 1.76; 95% CI 1.11–2.78; p=0.02) (17). A posthoc analysis suggested that this risk was greatest in individuals with poor control experiencing large and rapid improvements of A1C, particularly when there was pre-existing retinopathy (23). Careful monitoring of retinopathy is important when glycemic control improves rapidly, as is currently recommended in pregnancy.
+Is it safe to use thiazolidinediones (TZD)?
+There has been uncertainty about the risk of myocardial infarction (MI) with rosiglitazone (although noninferiority for MACE was seen in RECORD) (24,25).
+Pioglitazone has been associated with some CV benefits (24,26).
+There are known adverse effects of weight gain, fluid retention, HF and bone fractures.
+TZD are off patent and may be a less expensive option (costs vary by province).
+Acknowledgements
+
+The authors gratefully acknowledge the support of Tracy Barnes for administrative support for all aspects of CPG revisions and in preparing this manuscript for submission, and Joanne Lewis for perspectives regarding future dissemination strategies.
+
+Author Disclosures
+
+Dr. Senior reports no personal fees for speaking, consulting or clinical trials for industry partners since 2018, but is a local Principal Investigator for clinical trials at the University of Alberta sponsored by Novo Nordisk. He has research support from the American Diabetes Association, the Juvenile Diabetes Research Foundation, the National Institutes of Health, and salary support from the Alberta Academic Medicine and Health Services Plan. Dr. Senior is also a member of the Diabetes Canada Board of Directors. Dr. Kim reports speaking fees/personal fees from Abbott, AstraZeneca, BD, Sanofi, Merck, Janssen, Novo Nordisk, Boehringer-Ingelheim, Eli Lilly, MDBriefcase, CPD Network, and research support from Novo Nordisk (pending). Dr. Bajaj reports speaking fees from AstraZeneca, Eli Lilly, Janssen, Merck, and Novo Nordisk, and research funding for serving as principal investigator on clinical trials from Amgen, AstraZeneca, Boehringer Ingelheim, Ceapro, Eli Lilly, Gilead, Janssen, Kowa Pharmaceuticals Co. Ltd, Madrigal Pharmaceuticals, Merck, Novo Nordisk, Sanofi and Tricida. Dr. Rabi reports research support from the Canadian Institutes of Health Research (CIHR), Heart & Stroke, Alberta Innovates, Alberta Health Services and the Natural Sciences and Engineering Research Council of Canada. Dr. Sherifali reports research support from CIHR, Diabetes Canada, Population Health Research Institute and Hamilton Health Sciences, and honoraria for investigator-led research (MERCK). Dr. Houlden reports speaking fees from AstraZeneca, Boehringer Ingelheim, Dexcom, Eli Lilly and Novo Nordisk, research support from AstraZeneca and Boehringer Ingelheim, and consulting fees from Dexcom, Novo Nordisk and Sanofi. Dr. Nagpal is the Vice President, Science & Policy, with Diabetes Canada and an adjunct professor at the University of Ottawa. Dr. Mackay reports speaker fees from Pepsico and research support from CIHR, Mitacs, W. Garfield Weston Foundation, Research Manitoba and the Manitoba Medical Service Foundation.
+
+References
+Diabetes Canada Clinical Practice Guidelines Expert Committee. Diabetes Canada 2018 clinical practice guidelines for the prevention and management of diabetes in Canada. Can J Diabetes 2018;42(Supp 1):1e325.
+UKPDS Study Group. Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). UK Prospective Diabetes Study (UKPDS) Group. Lancet 1998;352:837e53.
+Holman RR, Paul SK, Bethel MA, Matthews DR, Neil HAW. 10-year follow-up of intensive glucose control in type 2 diabetes. N Engl J Med 2008;359:1577e89.
+ACCORD Study Group. Nine-year effects of 3.7 years of intensive glycemic control on cardiovascular outcomes. Diabetes Care 2016;39:701e8.
+UKPDS Study Group. UK Prospective Diabetes Study (UKPDS). VIII. Study design, progress and performance. Diabetologia 1991;34:877e90.
+McMurray JJV, Solomon SD, Inzucchi SE, et al. Dapagliflozin in patients with heart failure and reduced ejection fraction. N Engl J Med 2019;381:1995e2008.
+Gerstein HC, Colhoun HM, Dagenais GR, et al. Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): A double-blind, randomised placebo-controlled trial. Lancet 2019;394:121e30.
+Perkovic V, Jardine MJ, Neal B, et al. Canagliflozin and renal outcomes in type 2 diabetes and nephropathy. N Engl J Med 2019;380:2295e306.
+Meneilly GS, Knip A, Miller DB, Sherifali D, Tessier D, Zahedi A. Diabetes in older people. Can J Diabetes 2018;42(Suppl 1):S283e95.
+Stone JA, Houlden RL, Lin P, Udell JA, Verma S. Cardiovascular protection in people with diabetes. Can J Diabetes 2018;42(Suppl 1):S162e9.
+Mauer M, Zinman B, Gardiner R, et al. Renal and retinal effects of enalapril and losartan in type 1 diabetes. N Engl J Med 2009;361:40e51.
+Zinman B, Wanner C, Lachin JM, et al. Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes. N Engl J Med 2015;373:2117e28.
+Neal B, Perkovic V, Mahaffey KW, et al. Canagliflozin and cardiovascular and renal events in type 2 diabetes. N Engl J Med 2017;377:644e57.
+Wiviott SD, Raz I, Bonaca MP, et al. Dapagliflozin and cardiovascular outcomes in type 2 diabetes. N Engl J Med 2019;380:347e57.
+Zelniker TA, Wiviott SD, Raz I, et al. SGLT2 inhibitors for primary and secondary prevention of cardiovascular and renal outcomes in type 2 diabetes: A sys- tematic review and meta-analysis of cardiovascular outcome trials. Lancet 2019;393:31e9.
+Marso SP, Daniels GH, Brown-Frandsen K, et al. Liraglutide and cardiovascular uutcomes in type 2 diabetes. N Engl J Med 2016;375:311e22.
+MarsoSP,BainSC,ConsoliA,etal.Semaglutideandcardiovascularoutcomesin patients with type 2 diabetes. N Engl J Med 2016;375:1834e44.
+Gough SCL, Bode B, Woo V, et al. Efficacy and safety of a fixed-ratio combi- nation of insulin degludec and liraglutide (IDegLira) compared with its com- ponents given alone: Results of a phase 3, open-label, randomised, 26-week, treat-to-target trial in insulin-naive patients with type 2 diabetes. Lancet Diabetes Endocrinol 2014;2:885e93.
+Rosenstock J, Aronson R, Grunberger G, et al. Benefits of LixiLan, a titratable fixed-ratio combination of insulin glargine plus lixisenatide, versus insulin glargine and lixisenatide monocomponents in type 2 diabetes inadequately controlled on oral agents: The LixiLan-O randomized trial. Diabetes Care 2016; 39:2026e35.
+Aroda VR, Rosenstock J, Wysham C, et al. Efficacy and safety of LixiLan, a titratable fixed-ratio combination of insulin glargine plus lixisenatide in type 2 diabetes inadequately controlled on basal insulin and metformin: The LixiLan-L randomized trial. Diabetes Care 2016;39:1972e80.
+Lingvay I, Manghi FP, García-Hernández P, et al. Effect of insulin glargine up- titration vs insulin degludec/liraglutide on glycated hemoglobin levels in patients with uncontrolled type 2 diabetes: The DUAL V randomized clinical trial. JAMA 2016;315:898e907.
+Pfeffer MA, Claggett B, Diaz R, et al. Lixisenatide in patients with type 2 dia- betes and acute coronary syndrome. N Engl J Med Massachusetts Medical Society 2015;373:2247e57.vVilsboll T, Bain SC, Leiter LA, et al. Semaglutide, reduction in glycated hae- moglobin and the risk of diabetic retinopathy. Diabetes Obes Metab 2018;20: 889e97.
+Dormandy JA, Charbonnel B, Eckland DJ, et al. Secondary prevention of mac- rovascular events in patients with type 2 diabetes in the PROactive Study (PROspective pioglitAzone Clinical Trial In macroVascular Events): A rando- mised controlled trial. Lancet 2005;366:1279e89.
+Home PD, Pocock SJ, Beck-Nielsen H, et al. Rosiglitazone evaluated for cardiovascular outcomes in oral agent combination therapy for type 2 diabetes (RECORD): A multicentre, randomised, open-label trial. Lancet 2009;373: 2125e35.
+Kernan WN, Viscoli CM, Furie KL, et al. Pioglitazone after ischemic stroke or transient ischemic attack. N Engl J Med 2016;374:1321e31.
+Reproduced with permission from Canadian Journal of Diabetes © 2018 Canadian Diabetes Association. To cite this article, please refer to For citation.

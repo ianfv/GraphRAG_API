@@ -1,0 +1,409 @@
+Chapter Headings
+
+Types of Exercise
+Benefits of Physical Activity
+Benefits of Interval Training
+Benefits of Resistance Exercise
+Benefits of Other Types of Exercise
+Supervised vs. Unsupervised Exercise
+The Look-AHEAD Trial
+Minimizing Risk of Exercise-Related Adverse Events
+Reduction of Sedentary Behaviour
+The Use of Adjunct Motivational Interventions to Improve Physical Activity Uptake
+Objective Monitoring of Physical Activity
+Exercise Prescription Examples
+Other Relevant Guidelines
+Relevant Appendix
+Author Disclosures
+Key Messages
+
+Moderate to high levels of physical activity and cardiorespiratory fitness are associated with substantially lower morbidity and mortality in people with diabetes.
+
+Both aerobic and resistance exercise are beneficial, and it is optimal to do both types of exercise. At least 150 minutes per week of aerobic exercise and at least 2 sessions per week of resistance exercise are recommended, though smaller amounts of activity still provide some health benefits.
+
+A number of strategies that increase self-efficacy and motivation can be employed to increase physical activity uptake and maintenance, such as setting specific physical activity goals, using self-monitoring tools (pedometers or accelerometers) and developing strategies to overcome anticipated barriers.
+
+For people with type 2 diabetes, supervised exercise programs have been particularly effective in improving glycemic control, reducing the need for noninsulin antihyperglycemic agents and insulin, and producing modest but sustained weight loss.
+
+Habitual, prolonged sitting is associated with increased risk of death and major cardiovascular events.
+
+Key Messages for People with Diabetes
+
+Physical activity often improves glucose control and facilitates weight loss, but has multiple other health benefits even if weight and glucose control do not change.
+
+It is best to avoid prolonged sitting. Try to interrupt sitting time by getting up briefly every 20 to 30 minutes.
+
+Try to get at least 150 minutes per week of aerobic exercise (like walking, bicycling or jogging).
+
+Using a step monitor (pedometer or accelerometer) can be helpful in tracking your activity.
+
+In addition to aerobic exercise, try to do at least 2 sessions per week of strength training (like exercises with weights or weight machines).
+
+If you decide to begin strength training, you should ideally get some instruction from a qualified exercise specialist.
+
+If you cannot reach these recommended levels of activity, doing smaller amounts of activity still has some health benefits.
+
+Types of Exercise
+
+Physical activity is defined as any bodily movement produced by skeletal muscles that requires energy expenditure (1). Exercise is planned, structured physical activity (1) (see Table 1 for definitions of key exercise terms used in this article.) Aerobic exercise (like walking, bicycling, swimming or jogging) involves continuous, rhythmic movements of large muscle groups, normally at least 10 minutes at a time. In this chapter, we will refer to this type of exercise as “aerobic” for simplicity, even though when performed at a very high intensity, such as with high-intensity interval training, it also involves some anaerobic metabolism. Resistance exercise involves brief repetitive exercises with weights, weight machines, resistance bands or one's own body weight (e.g. push-ups) to increase muscle strength and/or endurance. Flexibility exercise (like lower back or hamstring stretching) aims to enhance the ability to move through fuller ranges of motion. Some types of exercise, such as yoga, can incorporate elements of both resistance and flexibility exercise.
+
+Benefits of Physical Activity
+
+Physical activity can help people with diabetes achieve a variety of goals, including increased cardiorespiratory fitness, increased vigour, improved glycemic control, decreased insulin resistance, improved lipid profile, blood pressure (BP) reduction and maintenance of weight loss (2–5).
+
+Randomized trials have found that supervised exercise interventions improve glycated hemoglobin (A1C) (6–8), triglycerides (TG) and cholesterol (9) in people with type 2 diabetes when compared to no exercise comparison groups (10). Cohort studies have demonstrated that, in people with type 2 (11–13), and with type 1 diabetes (14,15), regular physical activity (11–13) and/or moderate to high cardiorespiratory fitness (16) are associated with reductions in cardiovascular (CV) and overall mortality.
+
+Randomized trials have also demonstrated that aerobic exercise training increases cardiorespiratory fitness in both type 1 and type 2 diabetes (17), and slows the development of peripheral neuropathy (18). A meta-analysis (6) found that supervised exercise interventions improved A1C in people with type 2 diabetes when compared to no exercise comparison groups. In addition, interventions involving exercise durations of more than 150 minutes per week were associated with greater A1C reductions (mean change −0.89%) than interventions involving 150 minutes or less of exercise per week (mean change −0.36%) (6). A meta-analysis of head-to-head trials comparing the effects on A1C of aerobic exercise at higher vs. lower intensity found that the interventions with higher intensity reduced A1C more than those of lower intensity (mean A1C difference −0.22%) (8). It was unclear whether the greater benefits of higher-intensity exercise were limited to studies using high-intensity interval training (see next section on interval training).
+
+In contrast to trials in type 2 diabetes, most clinical trials evaluating exercise interventions in adults with type 1 diabetes have not demonstrated a beneficial effect of exercise on glycemic control (19), but 2 recent meta-analyses found that aerobic training lowered A1C in children and youth with type 1 diabetes by 0.5% and 0.85% respectively (20,21), while also lowering body mass index (BMI), TG and total cholesterol levels. A recent large cross-sectional study of 18,028 adults with type 1 diabetes reported an inverse association between physical activity levels and A1C, diabetic ketoacidosis (DKA), BMI and a number of diabetes-related complications, including dyslipidemia, hypertension, retinopathy and microalbuminuria (22). There are no published trials evaluating the effects of exercise training on quality of life in type 1 diabetes.
+
+Table 1
+Definitions of terms
+Physical activity	Any bodily movement produced by skeletal muscles that results in energy expenditure above resting (basal) levels. This term broadly encompasses exercise, sport and physical activities done as a part of daily living, occupation, leisure and active transport.
+Exercise	Planned, structured physical activity typically performed with the intent of improving health and/or fitness.
+Aerobic exercise	Exercise that involves continuous, rhythmic movements of large muscle groups, such as walking, bicycling, swimming or jogging, normally lasting for at least 10 minutes at a time. This type of exercise depends primarily on the aerobic energy-generating processes in the body (i.e. heart, lungs, cardiovascular system and the oxidation of fuels in skeletal muscle). Moderate-intensity aerobic activities range from 3–6 metabolic equivalents (METS) and include brisk walking, dancing, light cycling, gardening and domestic chores. Vigorous-intensity activities (>6 METS) include running, climbing stairs or hill walking, fast cycling or swimming, aerobics and most competitive sports and games.
+Resistance exercise	Brief repetitive exercise using weights, weight machines, resistance bands or one's own body weight (e.g. push-ups) to increase muscle strength and/or endurance.
+Flexibility exercise	A form of activity, such as lower back or hamstring stretching, that enhances the ability of joints to move through their full range of motion.
+Aerobic training	Exercise training involving periods of predominantly aerobic exercise activities, such as running, cycling or swimming, performed for the purpose of enhancing cardiorespiratory fitness, performance and/or health.
+Resistance training	Exercise training, involving brief repetitive exercises with weights, weight machines, resistance bands or one's own body weight (e.g. push-ups) performed for the purpose of increasing muscle mass and strength. This type of exercise uses predominantly anaerobic energy-generating systems in skeletal muscle.
+High-intensity interval training	A type of aerobic exercise training based on alternating between short periods of vigorous intensity exertion and periods of rest or lower-intensity exercise; commonly performed using a predominantly aerobic exercise modality, such as running or cycling.
+Cardiorespiratory fitness	A health-related component of physical fitness defined as the ability of the circulatory, respiratory and muscular systems to supply oxygen during sustained physical activity. Typically measured via a treadmill or cycle ergometer test and expressed as maximal oxygen uptake (VO2max) relative to body mass or in metabolic equivalents (METS).
+Musculoskeletal fitness	Ability of skeletal and muscular systems to perform work (exercise). Muscular strength and muscular endurance are components of musculoskeletal fitness.
+Cardiorespiratory endurance	Ability of the heart, lungs and circulatory system to supply oxygen to working muscles efficiently.
+Muscular strength	Maximal force or tension level produced by a muscle or muscle group.
+Muscular endurance	Ability of muscle to maintain submaximal force levels for extended periods.
+Physical fitness	Ability to perform occupational, recreational and daily activities without undue fatigue. A set of measureable health and skill-related attributes that include cardiorespiratory fitness, muscular strength and endurance, body composition, flexibility, balance, agility, reaction time and power.
+Maximum oxygen uptake (VO2max)	Maximum rate of oxygen utilization during exercise.
+METS	The ratio of a person's working (exercising) metabolic rate to the resting metabolic rate. One MET is equivalent to the energy expended while sitting at rest.
+Sedentary behaviour	An “activity” that involves little or no movement, with an energy expenditure ranging between 1-1.5 METS. Examples include sitting, watching TV, working on a computer, reclining while awake and driving.
+Benefits of Interval Training
+
+High-intensity interval training involves alternating between short periods of higher and lower-intensity exercise (see Exercise Prescription Examples). High-intensity interval training leads to greater gains in cardiorespiratory fitness in people with or without diabetes (23,24), and improves glycemic control in some studies of people with type 2 diabetes compared to continuous moderate-intensity exercise (24–26).
+
+In people with type 1 diabetes, high-intensity interval exercise appears to be associated with less risk for hypoglycemia than continuous aerobic exercise, at least during the time of the activity (27,28,29). To date, the risks of high-intensity interval training seem comparable to moderate-intensity continuous exercise in previously screened participants with relatively good glycemic control; however, most studies have been small and underpowered (8). A small trial in women with type 2 diabetes (n=17) found that twice-weekly high-intensity interval training reduced abdominal fat (−8.3%) and visceral fat (−24.2%) significantly, but continuous aerobic exercise did not.
+
+Benefits of Resistance Exercise
+
+Resistance training in adults with type 2 diabetes improves glycemic control (as reflected by reduced A1C), decreases insulin resistance and increases muscular strength (30), lean muscle mass (31) and bone mineral density (32,33), leading to enhanced functional status and prevention of sarcopenia and osteoporosis. The optimal resistance training program has not been clearly established in terms of frequency, intensity, type and volume (34). The greatest impact on A1C is typically seen in studies that had participants progress to 3 sets (with approximately 8 repetitions per set) of resistance-type exercises at moderate to high intensity (i.e. the maximum weight that can be lifted 8 times while maintaining proper form), 3 times per week (35,36) or more (37,38). However, significant reductions in A1C and body fat have been achieved with twice-weekly resistance exercise in combination with regular aerobic exercise (39–41). The effects of resistance exercise and aerobic exercise on glycemic control are additive (42).
+
+Resistance exercise in most of these studies was carried out using weight machines and/or free weights, and these findings cannot necessarily be generalized to other types of resistance exercise, such as resistance bands or exercises utilizing one's own body weight. For example, a recent meta-analysis found that exercise training with resistance bands in people with type 2 diabetes increased strength but had no significant effect on A1C (43). The benefits of resistance exercise in type 1 diabetes are less clear, but small clinical trials suggest improved body composition and strength, enhanced insulin sensitivity and possibly modest reductions in A1C (44). Compared to aerobic exercise, resistance exercise is associated with less hypoglycemia risk for individuals with type 1 diabetes (45,46).
+
+Benefits of Other Types of Exercise
+
+To date, evidence for the beneficial effects of other types of exercise is not as extensive or as supportive as the evidence for aerobic and resistance exercise. Two systematic reviews found that tai chi had no effect on A1C, compared to either sham exercise or usual care in people with diabetes (47,48). Systematic reviews of yoga as an intervention for type 2 diabetes (49–51) have reported reductions in A1C. However, the quality of the studies was generally low and results were highly heterogeneous, limiting any conclusions that may be drawn (see Complementary and Alternative Medicine for Diabetes chapter, p. S154).
+
+No published study has demonstrated any impact of a pure flexibility program on metabolic control, injury risk or any diabetes-related outcome.
+
+Since osteoarthritis can be a barrier to physical activity (52), water-based physical activities, such as swimming, walking or running in a pool, or aquatic fitness classes have been encouraged for people with such comorbidities (53,54). While few high-quality trials exist, a recent meta-analysis suggests aquatic exercise improves A1C compared to no exercise comparison groups and that the improvements are comparable to those obtained with land-based exercise (55).
+
+Supervised vs. Unsupervised Exercise
+
+A systematic review and meta-analysis found that supervised programs involving aerobic or resistance exercise improved glycemic control in adults with type 2 diabetes, whether or not they included dietary co-intervention (6). The same meta-analysis found that unsupervised exercise improved glycemic control only if there was concomitant dietary intervention. A meta-analysis found that trials evaluating resistance exercise with less supervision showed less beneficial impact on glycemic control, insulin resistance and body composition than studies with greater supervision (30). A 1-year randomized trial compared exercise counselling plus twice-weekly supervised aerobic and resistance exercise vs. exercise counselling alone in people with type 2 diabetes and the metabolic syndrome (39). Although self-reported total physical activity increased substantially in both groups, the group receiving the supervised aerobic and resistance exercise training had significantly better results, including greater reductions in A1C, blood pressure (BP), BMI, waist circumference and estimated 10-year CV risk, and greater increases in aerobic fitness, muscle strength and high-density lipoprotein cholesterol (HDL-C) (39).
+
+The Look-AHEAD Trial
+
+The Look AHEAD (Action for Health in Diabetes) trial was the largest randomized trial to date evaluating the efficacy of a physical activity and dietary control intervention (targeting a ≥7% weight loss), in older adults with type 2 diabetes (56). In this study, at least 175 min/week of unsupervised exercise was targeted as part of the intense lifestyle intervention (ILI), while the control group (Diabetes Support and Education—DSE group) received usual care. Major CV event rates were not significantly different in the 2 groups (56). However, the ILI group achieved significantly greater and more sustained improvements in many important secondary outcomes, including weight loss; improved cardiorespiratory fitness; improved glycemic control, BP and lipids with fewer medications; as well as decreased rate of sleep apnea, severe diabetic chronic kidney disease and retinopathy, depression, sexual dysfunction, urinary incontinence and knee pain; as well as better physical mobility maintenance and quality of life, with lower overall health-care costs (57).
+
+Minimizing Risk of Exercise-Related Adverse Events
+Identifying individuals for whom medical evaluation should be considered prior to initiating an exercise program
+
+For most people with and without diabetes, being sedentary is associated with far greater health risks than exercise would be. Most people with diabetes who have no symptoms of coronary ischemia do not require medical clearance before starting a low-to-moderate intensity exercise program. However, middle-aged and older individuals with diabetes who wish to undertake very vigorous or prolonged exercise, such as competitive racing, high-intensity interval training with intervals at maximal effort, or long-distance running should be assessed for conditions that may place them at increased risk for an adverse event. Preproliferative or proliferative retinopathy should be treated and stabilized prior to commencement of vigorous exercise. People with severe peripheral neuropathy should be instructed to inspect their feet daily, especially on days they are physically active, and to wear appropriate footwear. Although previous guidelines stated that persons with severe peripheral neuropathy should avoid weight-bearing activity, more recent studies indicate that individuals with peripheral neuropathy may safely participate in moderate weight-bearing exercise provided they do not have active foot ulcers (58–60). Studies also suggest that people with peripheral neuropathy in the feet, who participate in daily weight-bearing activity, are at decreased risk of foot ulceration compared with those who are less active (59).
+
+A resting ECG should be performed, and an exercise ECG stress test should be considered, for individuals with typical or atypical chest discomfort, unexplained dyspnea, peripheral arterial disease, carotid bruits or history of angina, myocardial infarction (MI), stroke or transient ischemic attacks (see Screening for the Presence of Cardiovascular Disease chapter, p. S170) who wish to undertake exercise more intense than brisk walking, especially if considering very intense, prolonged aerobic exercise.
+
+The value and utility of medical screening procedures prior to exercise, such as resting ECG and exercise stress testing in asymptomatic individuals has been the subject of much debate (61). There is now an increased appreciation that exercise testing is a poor predictor of future cardiovascular disease (CVD) events because such testing detects flow-limiting coronary lesions while sudden cardiac arrest is usually produced by the rapid progression of a previously non-obstructive lesion (62). Nevertheless, identifying individuals who are symptomatic remains very important. People with diabetes should be screened for signs and symptoms consistent with myocardial ischemia, such as chest pain, severe shortness of breath upon exertion and/or syncope. People who are symptomatic, either before or during exercise, should be referred for ECG stress testing and further cardiac evaluation prior to participating or continuing in an exercise program (see Screening for the Presence of Cardiovascular Disease chapter, p. S170).
+
+Minimizing risk of heat-related illness
+
+Performing physical activity, especially in the heat, places individuals at risk for heat-related injuries. The increase in metabolic heat production augments the rate at which heat must be dissipated to the environment to prevent dangerous increases in core temperature. However, relative to young adults, healthy active adults ≥40 years of age (63) and individuals with diabetes (64,65) have a restricted capacity to lose heat. This is a result of reductions in the heat loss responses of sweating and skin blood flow, which occur even during short duration and/or light-to-moderate intensity exercise (63,66–70). Reduced physical fitness (70) and the presence of metabolic, CV and neurologic dysfunctions, which are often associated with diabetes (71), further exacerbate an already compromised ability to dissipate heat.
+
+People with diabetes should be aware that heat stress is associated with a reduction in exercise capacity and an increase in disease-related symptoms (71). Combined with greater levels of dehydration due to hyperglycemia and/or medication use (71), individuals with type 2 diabetes have an augmented risk of heat-related morbidity. Whenever possible, exercise should be performed indoors in a cool and/or dry and well-ventilated environment (e.g. an air-conditioned training centre, room with fans) if it is very hot outdoors. If activities (e.g. gardening, cycling, etc.) must be performed outdoors when the weather is hot, the activities should be conducted in the early or later hours of the day when the temperatures are cooler and the sun is not at its peak. When possible, prolonged exercise (>15 min) should be interspersed with adequate rest or break periods in a shaded or cool location. Middle-aged and older people with diabetes should try to avoid performing exercise in hot humid conditions as these conditions restrict the evaporation of sweat which is necessary to cool the body. Staying well hydrated will help ensure that the body can maintain an adequate cooling capacity during exercise (by maintaining sweat production at normal levels) especially in the heat, and prevent fluctuations in blood glucose levels (71,72), and is likely to reduce the risk for heat-related complications, such as heat exhaustion or heat stroke.
+
+Minimizing risk of exercise-induced hypoglycemia in type 1 diabetes
+
+Prolonged aerobic exercise increases insulin sensitivity in recovery for up to 48 hours (73). In type 1 diabetes, there is little or no endogenous insulin secretion, and achieving the appropriate balance of exogenous insulin and carbohydrate intake for the different forms and intensities of exercise can be challenging (74). If exogenous insulin and/or carbohydrate ingestion is not adjusted accordingly, hypo- or hyperglycemia occurs. Fear of hypoglycemia is an important barrier to exercise in people with type 1 diabetes (75) and advice on physical activity to people with type 1 diabetes should include strategies to reduce risk of hypoglycemia.
+
+Several small studies have explored several types of strategies for the prevention of hypoglycemia in type 1 diabetes, including the consumption of extra carbohydrates for exercise (76), limiting preprandial bolus insulin doses (77–79) or reducing the basal insulin rate for continuous subcutaneous insulin infusion (CSII) (insulin pump) users (80). These strategies can be used alone or in combination (81,82). Increasing carbohydrate intake just before, during and immediately after exercise is a simple and effective way to prevent hypoglycemia, although the optimal carbohydrate intake rate varies based on the duration and intensity of the activity and the amount of insulin in the circulation at the time of exercise (78,83,84). For activities less than 2 hours after a meal, reductions in prandial insulin by 25% to 75% are effective in limiting hypoglycemia (77). However, heavy reductions in mealtime insulin before (by 75%) and after exercise (by 50%) may cause hyperglycemia (85).
+
+Basal insulin reduction before exercise may also offer some protection for children (86) and for those people on CSII (79,87). In 1 study, a 50% basal rate reduction performed 60 minutes before the onset of 30 minutes of moderate-intensity exercise does not reduce insulin level enough during the activity to adequately attenuate hypoglycemia risk (88). A more aggressive basal rate reduction, such as basal rate suspension at exercise onset is somewhat effective, although blood glucose levels may still drop markedly at the start of exercise (79). As such, additional carbohydrates may still be needed even following basal rate reductions. For people on insulin injections, in addition to lowering the mealtime bolus before exercise, exercise-associated hypoglycemia can be attenuated by reducing total daily basal insulin by 20% for days when they are physically active (89). Another strategy to avoid hypoglycemia is to perform intermittent, brief (10 seconds), maximal-intensity sprints either at the beginning (90) or end (91) or intermittently during a moderate-intensity exercise session (92). Performing resistance exercise immediately prior to aerobic exercise also helps reduce hypoglycemia risk, rather than performing aerobic exercise alone or aerobic exercise followed by resistance exercise (46).
+
+Exercise performed late in the day or in the evening can be associated with increased risk of overnight hypoglycemia in people with type 1 diabetes (76). To reduce this risk, the bedtime intermediate or long-acting injected insulin dose, or overnight basal insulin infusion rate may be reduced by approximately 20% from bedtime to 3 AM for CSII users.
+
+Minimizing risks related to hyperglycemia
+
+Glucose levels can rise with brief intense exercise, such as sprinting (90–92), resistance training (93), 10 to 15 minutes of maximal-intensity aerobic exercise to exhaustion (94,95) or high-intensity interval training (96) in individuals with type 1 diabetes. If this occurs, it can be addressed by giving a small bolus of a rapid-acting insulin in exercise recovery (97), or by temporarily increasing the basal insulin infusion in CSII users.
+
+Individuals with type 2 diabetes generally do not need to postpone exercise because of high blood glucose, provided they feel well. If capillary blood glucose levels are elevated >16.7 mmol/L, it is important to ensure proper hydration and monitor for signs and symptoms of dehydration (e.g. increased thirst, nausea, severe fatigue, blurred vision or headache), especially for exercise to be performed in the heat.
+
+In individuals with type 1 diabetes who are severely insulin deficient (e.g. due to insulin omission or illness), hyperglycemia can worsen with exercise. In people with type 1 diabetes, if CBG is >16.7 mmol/L and the person does not feel well, urine or blood ketones should be tested. If ketone levels are elevated in the blood (≥1.5 mmol/L) or in the urine (2 + or ≥4 mmol/L), it is suggested that vigorous exercise be postponed until insulin is given (with carbohydrate, if necessary) and ketones are no longer elevated. If ketones are negative or “trace” and the person feels well, it is not necessary to defer exercise due to hyperglycemia.
+
+Reduction of Sedentary Behaviour
+
+Sedentary behaviours involve prolonged sitting or reclining while awake, including television viewing, working on a computer and driving. Systematic reviews of observational studies (98,99) have demonstrated positive associations between the amount of sitting and the risk of premature mortality within the general population and in people with diabetes (100,101) even after adjusting for time spent in moderate-to-vigorous physical activity (98–101). Several recent studies in people with diabetes have documented harmful associations between objectively measured sedentary time and cardiometabolic risk factors, such as A1C, central adiposity, BMI, fasting TG, systolic BP, C-reactive protein, and hyperglycemia (102–107). Studies in people with and without type 2 diabetes have demonstrated that interrupting sitting by light walking or light resistance training can attenuate postprandial increases in BG, insulin and TG (108–110).
+
+Given the evidence that sedentary behaviour is associated with adverse health outcomes, even after statistically adjusting for levels of moderate-to-vigorous exercise, physical activity levels and sedentary behaviours should be considered distinct and potentially independent behaviours. When discussing activity patterns with people with diabetes in clinical practice, it is reasonable, therefore, to promote both the reduction of prolonged sitting and the accumulation of moderate-to-vigorous physical activity in the person's daily routine.
+
+The Use of Adjunct Motivational Interventions to Improve Physical Activity Uptake
+
+There are a number of barriers and facilitators to physical activity in people with diabetes (111–114). Interventions targeting these barriers and facilitators are needed to initially engage people with diabetes in, and then maintain, sufficient physical activity.
+
+Behaviour-change focused interventions added to exercise-based interventions have tended to focus on increasing physical activity self-efficacy (i.e. an individual's belief or confidence in his/her ability to undertake physical activity) (115) and motivation (i.e. an individual's desire or willingness to do physical activity) (116). Such interventions have been shown to increase self-reported and/or objectively assessed physical activity when compared to usual care or equivalent comparison groups (115,117–122), although it is unclear if these improvements in physical activity are associated with improved A1C. For example, a recent meta-analysis suggested that the use of motivational interviewing-based interventions (see description below) not only improved physical activity but also decreased A1C by about 0.65% 6 months after the intervention when compared to usual care (119). However, it should be noted that some other studies found this kind of intervention did not reduce A1C (123,124).
+
+The vast majority of the studies have examined motivational interviewing (125) or motivational communication (126) as the behaviour change intervention. Motivational interviewing is a goal-oriented, client-centred counselling style, which helps to explore and resolve ambivalence and increase intrinsic motivation in individuals in order to change behaviour (125). Motivational communication represents a collection of evidence-based strategies drawn from motivational interviewing, cognitive-behavioural techniques and behaviour change theories (e.g. self-determination theory, social-cognitive theory, theory of planned behaviour and the transtheoretical model) that are used as a communication strategy to engage individuals in changing their behaviour (126).
+
+For people with type 2 diabetes, evidence suggests that goal setting, problem solving, providing information on where and when to exercise, and self-monitoring (e.g. use of objective monitoring with pedometers) have some efficacy to increase physical activity and improve A1C (114,127–131).
+
+Newer evidence is starting to accumulate on the potential benefits of other motivational tools and techniques. Examples of these include reinforcement, such as providing direct, instantaneous rewards (monetary or token-based) for goal completion (132), text-messaging (133,134), mobile applications, social media and video games (116,135). However, further higher level evidence is needed to demonstrate their benefits for both physical activity and diabetes-related outcomes (129,136–138).
+
+Objective Monitoring of Physical Activity
+
+A pedometer is a wearable device that detects and counts each step a person takes. An accelerometer is a device that measures non-gravitational acceleration. Pedometers and accelerometers are well suited to measuring walking or jogging, but not bicycling or swimming. Pedometers measure steps but not speed, whereas accelerometers can measure both steps and speed.
+
+Large-scale cohort studies consistently demonstrate an inverse relationship between higher self-reported walking with CV events and both CV and all-cause mortality in type 2 diabetes, even with adjustments for other CV risk factors. In a cohort analysis (9,306 participants in 40 countries) in people with prediabetes (139), 2,000 more steps/day at baseline was associated with a 10% reduction in CVD events at a median of 6 years and increasing counts by 2,000 steps/day in the first year of follow up was associated with an 8% reduction in CVD event rates at 6 years.
+
+In a randomized controlled trial examining the effect of a pedometer-based prescription in people with type 2 diabetes, the change in A1C at the end of the 1-year step count prescription intervention was 0.38% lower in the active arm compared to the control arm (140). Active arm participants reviewed step count logs with their physicians at each clinic visit over a 1-year period, set step targets and received a written step count prescription. Those in the control arm were encouraged to be active 30 to 60 minutes daily. The change in steps over the 1-year intervention was 1,200 steps/day higher in the active compared to the control arm (140) (see Appendix 4. Smarter Step Count Prescription).
+
+Two meta-analyses of clinical trials in type 2 diabetes demonstrated that pedometer-based facilitator-led group programs increase step counts by about 2,000 steps/day over 3 to 6 months (141,142). In these trials, the active arms engaged in pedometer-based interventions with monitoring and recording of daily step counts often complemented by support from a facilitator with or without peers in a group.
+
+Table 2
+Aerobic exercise
+Definition and recommended frequency	Intensity	Examples
+Rhythmic, repeated and continuous movements of the same large muscle groups for at least 10 minutes at a time.	Moderate: 64%–76% of person's maximum heart rate	• Biking
+• Brisk walking
+• Continuous swimming
+• Dancing
+• Raking leaves
+• Water aerobics
+Moderate-to-vigorous intensity aerobic exercise is recommended for a minimum of 150 minutes per week, no more than 2 consecutive days without exercise. Performance of smaller amounts of exercise is also beneficial, but to a lesser extent than the recommended amount. Higher-intensity interval training can increase aerobic fitness gains compared to continuous moderate-intensity exercise	Vigorous: >76% of person's maximum heart rate	• Brisk walking up an incline
+• Jogging
+• Aerobics
+• Hockey
+
+ 
+
+ 
+
+Table 3
+Resistance exercise*
+*Initial instruction and periodic supervision are recommended.
+Note: The evidence supporting exercise with resistance bands is not as strong as the evidence for free weights or weight machines.
+Definition	Recommended frequency	Examples
+Activities of brief duration involving the use of weights, weight machines or resistance bands to increase muscle strength and endurance	2–3 times per week
+• Start with 1 set using a weight with which you can perform 15 to 20 repetitions while maintaining proper form.
+• Progress to 2 sets and decrease the number of repetitions to 10–15 while increasing the weight slightly. If you cannot complete the required repetitions while maintaining proper form, reduce the weight.
+• Progress to 3 sets of 8 repetitions performed using an increased weight, ensuring proper form is maintained.	• Exercise with weight machines
+• Exercise with free weights
+Exercise Prescription Examples
+
+The following are practical examples illustrating how exercise can be prescribed:
+
+Aerobic exercise
+Start by walking at a comfortable pace for as little as 5 to 15 minutes at one time.
+Gradually progress over 12 weeks to up to 50 minutes per session (including warm-up and cool down) of brisk walking.
+Alternatively, shorter exercise sessions in the course of a day, e.g. 10 minutes 3 times a day after meals, can replace a single longer session of equivalent length and intensity (143) (Table 2).
+Resistance exercise
+Choose approximately 6 to 8 exercises that target the major muscle groups in the body.
+Gradually increase the resistance until you can perform 3 sets of 8 to 12 repetitions for each exercise, with 1 to 2 minutes of rest between sets (113).
+The best evidence supports strength training with weight machines or free weights. Resistance bands may not be as effective to improve glycemic control, but they can help increase strength and can be a starting point to progress to other forms of resistance training.
+If you wish to begin resistance exercise, you should receive initial instruction and periodic supervision by a qualified exercise specialist to maximize benefits, while minimizing risk of injury, at least for the initial sessions (Table 3).
+Interval exercise
+Exercise performed in intervals, alternating between higher intensity and lower intensity, can be used by participants who have trouble sustaining continuous aerobic exercise, or can be used to shorten total exercise duration or increase variety. Try alternating between 3 minutes of faster walking and 3 minutes of slower walking (144).
+Another form of interval training, high-intensity interval training (HIIT), can be performed through shorter intervals of higher-intensity exercise (e.g. 30 seconds to 1 minute at near-maximal intensity alternating with 1–3 minutes of lower-intensity activity) and can be performed with walking/running or other modalities, such as stationary cycling (8,26).
+Start with just a few intervals and progress to longer durations by adding additional intervals.
+>Other types of exercise
+Aquatic exercise can have similar benefits as other forms of exercise and help minimize barriers from conditions, such as osteoarthritis. Aquatic exercise can include walking briskly in the water, swimming or classes that include a variety of exercises.
+Other types of exercise or exercise classes, such as yoga, may be appealing for reasons, such as stress management.
+Using pedometers or accelerometers
+Encourage people with diabetes to self-monitor physical activity with a pedometer or accelerometer. Ask them to record values, review at visits, set step count targets and formalize recommendations with a written prescription (see Appendix 4. Smarter Step Count Prescription).
+Breaking up sedentary time
+It is best to avoid prolonged sitting. Try to interrupt sitting time by getting up briefly every 20 to 30 minutes.
+
+Physical Activity in Children with Type 2 Diabetes: see Type 2 Diabetes in Children and Adolescents chapter, p. S247.
+
+Recommendations
+People with diabetes should ideally accumulate a minimum of 150 minutes of moderate- to vigorous-intensity aerobic exercise each week, spread over at least 3 days of the week, with no more than 2 consecutive days without exercise, to improve glycemic control [Grade B, Level 2, for adults with type 2 diabetes (2,4,6) and children with type 1 diabetes (20)]; and to reduce risk of CVD and overall mortality [Grade C, Level 3, for adults with type 1 diabetes (14) and type 2 diabetes (10)]. Smaller amounts (90–140 minutes/week) of exercise or planned physical activity can also be beneficial but to a lesser extent [Grade B, Level 2 (6,7) for glycemic control in type 2 diabetes; Grade C, Level 3 for mortality in type 2 diabetes (10) and type 1 diabetes (14)].
+Interval training (short periods of vigorous exercise alternating with short recovery periods at low-to-moderate intensity or rest from 30 seconds to 3 minute each) can be recommended to people willing and able to perform it to increase gains in cardiorespiratory fitness in type 2 diabetes [Grade B, Level 2 (144)] and to reduce risk of hypoglycemia during exercise in type 1 diabetes [Grade C, Level 3 (28,29)].
+People with diabetes (including elderly people) should perform resistance exercise at least twice a week (39) and preferably 3 times per week [Grade B, Level 2 (30)] in addition to aerobic exercise [Grade B, Level 2 (39–42)]. Initial instruction and periodic supervision by an exercise specialist can be recommended [Grade C, Level 3 (30)].
+In addition to achieving physical activity goals, people with diabetes should minimize the amount of time spent in sedentary activities and periodically break up long periods of sitting [Grade C, Level 3 (100)].
+Setting specific exercise goals, problem solving potential barriers to physical activity, providing information on where and when to exercise, and self-monitoring should be performed collaboratively between the person with diabetes and the health-care provider to increase physical activity and improve A1C [Grade B, Level 2 (128,129)].
+Step count monitoring with a pedometer or accelerometer can be considered in combination with physical activity counselling, support and goal-setting to support and reinforce increased physical activity [Grade B, Level 2 (140,141)].
+To reduce risk of hypoglycemia during and after exercise in people with type 1 diabetes, the following strategies can be considered alone or in combination:
+Reduce the bolus dose of the insulin that is most active at the time of exercise [Grade B, Level 2 (85)]
+Significantly reduce, or suspend (only if the activity is ≤45 minutes), basal insulin for the exercise duration [Grade B, Level 2 (79,87)], and lower the basal rate overnight after exercise by ~20% [Grade B, Level 2 (86)]
+Increase carbohydrate consumption prior to, during and after exercise, as necessary [Grade C, Level 3 (78,83,84)]
+Perform brief (10 seconds), maximal-intensity sprints at the start of exercise [Grade D, Level 4 (90)], periodically during the activity [Grade D, Level 4 (92)], or at the end of exercise [Grade D, Level 4 (91)]
+Perform resistance exercise before aerobic exercise [Grade D, Level 4 (46)]
+People with diabetes ≥40 years of age who wish to undertake very vigorous or prolonged exercise, such as competitive running, long-distance running, or high-intensity interval training, should be assessed for conditions that might place them at increased risk for an adverse event with history, physical examination (including fundoscopic exam, foot exam and neuropathy screening), resting ECG and, possibly, exercise ECG stress testing [Grade D, Consensus].
+Structured exercise programs supervised by qualified trainers should be implemented when feasible for people with type 2 diabetes to improve glycemic control, CV risk factors and physical fitness [Grade B, Level 2 (6,39)].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; BG, blood glucose; BP, blood pressure; BMI, body mass index; CV, cardiovascular; CVD, cardiovascular disease; ECG, electrocardiogram; FPG, fasting plasma glucose; HDL-C; high-density lipoprotein cholesterol; LDL-C, low-density lipoprotein cholesterol.
+
+Other Relevant Guidelines
+Monitoring Glycemic Control, p. S47
+Glycemic Management in Adults with Type 1 Diabetes, p. S80
+Hypoglycemia, p. S104
+Screening for the Presence of Cardiovascular Disease, p. S170
+Type 2 Diabetes in Children and Adolescents, p. S247
+Relevant Appendix
+Appendix 4. Smarter Step Count Prescription
+
+Literature Review Flow Diagram for Chapter 10: Physical Activity and Diabetes
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (145).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Sigal reports grants from Amilyn Pharmaceuticals, Boehringer Ingelheim, Prometic, Population Health Research Institute (PHRI), and Sanofi; and personal fees from Novo Nordisk, outside the submitted work. Dr. Bacon reports personal fees from Kataka Medical Communications, Schering-Plough, Merck, and Sygesa; and grants from Abbive, outside the submitted work; also, he is Past-President of the Canadian Association of Cardiovascular Prevention and Rehabilitation. Dr. Riddell reports personal fees from Medtronic, Lilly Innovation, Insulet, and Ascencia Diabetes Care; grants and personal fees from Sanofi; and non-financial support from Dexcom, outside the submitted work. No other author has anything to disclose.
+
+References
+Caspersen CJ, Powell KE, Christenson GM. Physical activity, exercise, and physical fitness: Definitions and distinctions for health-related research. Public Health Rep 1985;100:126–31.
+Chudyk A, Petrella RJ. Effects of exercise on cardiovascular risk factors in type 2 diabetes: A meta-analysis. Diabetes Care 2011;34:1228–37.
+Colberg SR, Sigal RJ, Yardley JE, et al. Physical activity/exercise and diabetes: A position statement of the American Diabetes Association. Diabetes Care 2016;39:2065–79.
+Snowling NJ, Hopkins WG. Effects of different modes of exercise training on glucose control and risk factors for complications in type 2 diabetic patients: A meta-analysis. Diabetes Care 2006;29:2518–27.
+Wing RR, Goldstein MG, Acton KJ, et al. Behavioral science research in diabetes: Lifestyle changes related to obesity, eating behavior, and physical activity. Diabetes Care 2001;24:117–23.
+Umpierre D, Ribeiro PA, Kramer CK, et al. Physical activity advice only or struc-tured exercise training and association with HbA1c levels in type 2 diabetes: A systematic review and meta-analysis. JAMA 2011;305:1790–9.
+Umpierre D, Ribeiro PA, Schaan BD, et al. Volume of supervised exercise train-ing impacts glycaemic control in patients with type 2 diabetes: A systematic review with meta-regression analysis. Diabetologia 2013;56:242–51.
+Liubaoerjijin Y, Terada T, Fletcher K, et al. Effect of aerobic exercise intensity on glycemic control in type 2 diabetes: A meta-analysis of head-to-head ran-domized trials. Acta Diabetol 2016;53:769–81.
+Balducci S, Zanuso S, Cardelli P, et al. Effect of high- versus low-intensity super-vised aerobic and resistance training on modiﬁable cardiovascular risk factors in type 2 diabetes; the Italian Diabetes and Exercise Study (IDES). PLoS ONE 2012;7:e49297.
+Sluik D, Buijsse B, Muckelbauer R, et al. Physical activity and mortality in indi-viduals with diabetes mellitus: A prospective study and meta-analysis. Arch Intern Med 2012;172:1285–95.
+Gregg EW, Gerzoff RB, Caspersen CJ, et al. Relationship of walking to mortal-ity among US adults with diabetes. Arch Intern Med 2003;163:1440–7.
+Hu FB, Stampfer MJ, Solomon C, et al. Physical activity and risk for cardiovas-cular events in diabetic women. Ann Intern Med 2001;134:96–105.
+Hu G, Jousilahti P, Barengo NC, et al. Physical activity, cardiovascular risk factors, and mortality among Finnish adults with diabetes. Diabetes Care 2005;28:799–805.
+Moy CS, Songer TJ, LaPorte RE, et al. Insulin-dependent diabetes mellitus, physi-cal activity, and death. Am J Epidemiol 1993;137:74–81.
+Tikkanen-Dolenc H, Waden J, Forsblom C, et al. Frequent and intensive physi-cal activity reduces risk of cardiovascular events in type 1 diabetes. Diabetologia 2016;60:574–80.
+Church TS, LaMonte MJ, Barlow CE, et al. Cardiorespiratory ﬁtness and body mass index as predictors of cardiovascular disease mortality among men with diabetes. Arch Intern Med 2005;165:2114–20.
+Nielsen PJ, Hafdahl AR, Conn VS, et al. Meta-analysis of the effect of exercise interventions on ﬁtness outcomes among adults with type 1 and type 2 diabetes. Diabetes Res Clin Pract 2006;74:111–20.
+Balducci S, Iacobellis G, Parisi L, et al. Exercise training can modify the natural history of diabetic peripheral neuropathy. J Diabetes Complications 2006;20:216–23.
+Kennedy A, Nirantharakumar K, Chimen M, et al. Does exercise improve glycaemic control in type 1 diabetes? A systematic review and meta-analysis. PLoS ONE 2013;8:e58861.
+MacMillan F, Kirk A, Mutrie N, et al. A systematic review of physical activity and sedentary behavior intervention studies in youth with type 1 diabetes: Study characteristics, intervention design, and eﬃcacy. Pediatr Diabetes 2014;15:175–89.
+Quirk H, Blake H, Tennyson R, et al. Physical activity interventions in children and young people with type 1 diabetes mellitus: A systematic review with meta-analysis. Diabet Med 2014;31:1163–73.
+Bohn B, Herbst A, Pfeifer M, et al. Impact of physical activity on glycemic control and prevalence of cardiovascular risk factors in adults with type 1 diabetes: A cross-sectional multicenter study of 18,028 patients. Diabetes Care 2015;38:1536–43.
+Weston KS, Wisloff U, Coombes JS. High-intensity interval training in patients with lifestyle-induced cardiometabolic disease: A systematic review and meta-analysis. Br J Sports Med 2014;48:1227–34.
+Jelleyman C, Yates T, O’Donovan G, et al. The effects of high-intensity interval training on glucose regulation and insulin resistance: A meta-analysis. Obes Rev 2015;16:942–61.
+Curry M, Mehta SP, Chaﬃn JC, et al. The effect of low-volume, high-intensity interval training on blood glucose markers, anthropometric measurements, and cardiorespiratory ﬁtness in patients with type 2 diabetes. Crit Rev Phys Rehabil Med 2015;27:19–35. http://www.dl.begellhouse.com/journals/ 757fcb0219d89390,13a5c68b7ce0a2a8,6b3d06153e72199f.html.
+Francois ME, Little JP. Effectiveness and safety of high-intensity interval train-ing in patients with type 2 diabetes. Diabetes Spectr 2015;28:39–44.
+Bally L, Zueger T, Buehler T, et al. Metabolic and hormonal response to inter-mittent high-intensity and continuous moderate intensity exercise in indi-viduals with type 1 diabetes: A randomised crossover study. Diabetologia 2016;59:776–84.
+Moser O, Tschakert G, Mueller A, et al. Effects of high-intensity interval exer-cise versus moderate continuous exercise on glucose homeostasis and hormone response in patients with type 1 diabetes mellitus using novel ultra-long-acting insulin. PLoS ONE 2015;10:e0136489.
+Iscoe KE, Riddell MC. Continuous moderate-intensity exercise with or without intermittent high-intensity work: Effects on acute and late glycaemia in ath-letes with Type 1 diabetes mellitus. Diabet Med 2011;28:824–32.
+Gordon BA, Benson AC, Bird SR, et al. Resistance training improves metabolic health in type 2 diabetes: A systematic review. Diabetes Res Clin Pract 2009;83:157–75.
+Ryan AS, Hurlbut DE, Lott ME, et al. Insulin action after resistive training in insulin resistant older men and women. J Am Geriatr Soc 2001;49:247–53.
+Nelson ME, Fiatarone MA, Morganti CM, et al. Effects of high-intensity strength training on multiple risk factors for osteoporotic fractures. A randomized con-trolled trial. JAMA 1994;272:1909–14.
+Engelke K, Kemmler W, Lauber D, et al. Exercise maintains bone density at spine and hip EFOPS: A 3-year longitudinal study in early postmenopausal women. Osteoporos Int 2006;17:133–42.
+Ishiguro H, Kodama S, Horikawa C, et al. In search of the ideal resistance train-ing program to improve glycemic control and its indication for patients with type 2 diabetes mellitus: A systematic review and meta-analysis. Sports Med 2016;46:67–77.
+Castaneda C, Layne JE, Munoz-Orians L, et al. A randomized controlled trial of resistance exercise training to improve glycemic control in older adults with type 2 diabetes. Diabetes Care 2002;25:2335–41.
+Dunstan DW, Daly RM, Owen N, et al. High-intensity resistance training improves glycemic control in older patients with type 2 diabetes. Diabetes Care 2002;25:1729–36.
+Durak EP, Jovanovic-Peterson L, Peterson CM. Randomized crossover study of effect of resistance training on glycemic control, muscular strength, and cho-lesterol in type I diabetic men. Diabetes Care 1990;13:1039–43.
+Cauza E, Hanusch-Enserer U, Strasser B, et al. The relative beneﬁts of endur-ance and strength training on the metabolic factors and muscle function of people with type 2 diabetes mellitus. Arch Phys Med Rehabil 2005;86:1527–33.
+Balducci S, Zanuso S, Nicolucci A, et al. Effect of an intensive exercise inter-vention strategy on modiﬁable cardiovascular risk factors in subjects with type 2 diabetes mellitus: A randomized controlled trial: The Italian Diabetes and Exer-cise Study (IDES). Arch Intern Med 2010;170:1794–803.
+Church TS, Blair SN, Cocreham S, et al. Effects of aerobic and resistance train-ing on hemoglobin A1c levels in patients with type 2 diabetes: A random-ized controlled trial. JAMA 2010;304:2253–62.
+Schwingshackl L, Missbach B, Dias S, et al. Impact of different training modali-ties on glycaemic control and blood lipids in patients with type 2 diabetes: A systematic review and network meta-analysis. Diabetologia 2014;57:1789–97.
+Sigal RJ, Kenny GP, Boule NG, et al. Effects of aerobic training, resistance train-ing, or both on glycemic control in type 2 diabetes: A randomized trial. Ann Intern Med 2007;147:357–69.
+McGinley SK, Armstrong MJ, Boulé NG, et al. Effects of exercise training using resistance bands on glycaemic control and strength in type 2 diabetes melli-tus: A meta-analysis of randomised controlled trials. Acta Diabetol 2015;52:221–30.
+Yardley JE, Hay J, Abou-Setta AM, et al. A systematic review and meta-analysis of exercise interventions in adults with type 1 diabetes. Diabetes Res Clin Pract 2014;106:393–400.
+Yardley JE, Kenny GP, Perkins BA, et al. Resistance versus aerobic exercise: Acute effects on glycemia in type 1 diabetes. Diabetes Care 2013;36:537–42.
+Yardley JE, Kenny GP, Perkins BA, et al. Effects of performing resistance exer-cise before versus after aerobic exercise on glycemia in type 1 diabetes. Dia-betes Care 2012;35:669–75.
+Lee MS, Jun JH, Lim HJ, et al. A systematic review and meta-analysis of tai chi for treating type 2 diabetes. Maturitas 2015;80:14–23.
+Yan JH, Gu WJ, Pan L. Lack of evidence on Tai Chi-related effects in patients with type 2 diabetes mellitus: A meta-analysis. Exp Clin Endocrinol Diabetes 2013;121:266–71.
+Innes KE, Selfe TK. Yoga for adults with type 2 diabetes: A systematic review of controlled trials. J Diabetes Res 2016;2016:6979370.
+Kumar V, Jagannathan A, Philip M, et al. Role of yoga for patients with type II diabetes mellitus: A systematic review and meta-analysis. Complement Ther Med 2016;25:104–12.
+Cui J, Yan JH, Yan LM, et al. Effects of yoga in adults with type 2 diabetes mel-litus: A meta-analysis. J Diabetes Investig 2016;8:201–9.
+Centers for Disease Control Prevention. Arthritis as a potential barrier to physi-cal activity among adults with diabetes–United States, 2005 and 2007. MMWR Morb Mortal Wkly Rep 2008;57:486–9.
+Lu M, Su Y, Zhang Y, et al. Effectiveness of aquatic exercise for treatment of knee osteoarthritis: Systematic review and meta-analysis. Z Rheumatol 2015;74:543–52.
+Waller B, Ogonowska-Slodownik A, Vitor M, et al. Effect of therapeutic aquatic exercise on symptoms and function associated with lower limb osteoarthri-tis: Systematic review with meta-analysis. Phys Ther 2014;94:1383–95.
+Rees JL, Johnson ST, Boulé NG. Aquatic exercise for adults with type 2 diabe-tes: A meta-analysis. Acta Diabetol Lat 2017 (in press).
+Look Ahead Research Group, Wing RR, Bolin P, et al. Cardiovascular effects of intensive lifestyle intervention in type 2 diabetes. N Engl J Med 2013;369:145–54.
+Pi-Sunyer X. The Look AHEAD Trial: A review and discussion of Its outcomes. Curr Nutr Rep 2014;3:387–91.
+LeMaster JW, Mueller MJ, Reiber GE, et al. Effect of weight-bearing activity on foot ulcer incidence in people with diabetic peripheral neuropathy: Feet ﬁrst randomized controlled trial. Phys Ther 2008;88:1385–98.
+Lemaster JW, Reiber GE, Smith DG, et al. Daily weight-bearing activity does not increase the risk of diabetic foot ulcers. Med Sci Sports Exerc 2003;35:1093–9.
+Streckmann F, Zopf EM, Lehmann HC, et al. Exercise intervention studies in patients with peripheral neuropathy: A systematic review. Sports Med 2014;44:1289–304.
+Franklin BA. Preventing exercise-related cardiovascular events: Is a medical examination more urgent for physical activity or inactivity? Circulation 2014;129:1081–4.
+Thompson PD, Franklin BA, Balady GJ, et al. Exercise and acute cardiovascu-lar events placing the risks into perspective: A scientiﬁc statement from the American Heart Association Council on Nutrition, Physical Activity, and Metabolism and the Council on Clinical Cardiology. Circulation 2007;115:2358–68.
+Larose J, Boulay P, Sigal RJ, et al. Age-related decrements in heat dissipation during physical activity occur as early as the age of 40. PLoS ONE 2013;8:e83148.
+Carter MR, McGinn R, Barrera-Ramirez J, et al. Impairments in local heat loss in type 1 diabetes during exercise in the heat. Med Sci Sports Exerc 2014;46:2224–33.
+Kenny GP, Stapleton JM, Yardley JE, et al. Older adults with type 2 diabetes store more heat during exercise. Med Sci Sports Exerc 2013;45:1906–14.
+Larose J, Boulay P, Wright-Beatty HE, et al. Age-related differences in heat loss capacity occur under both dry and humid heat stress conditions. J Appl Physiol 2014;117:69–79.
+Larose J, Wright HE, Sigal RJ, et al. Do older females store more heat than younger females during exercise in the heat? Med Sci Sports Exerc 2013;45:2265–76.
+Larose J, Wright HE, Stapleton J, et al. Whole body heat loss is reduced in older males during short bouts of intermittent exercise. Am J Physiol Regul Integr Comp Physiol 2013;305:R619–29.
+Stapleton JM, Poirier MP, Flouris AD, et al. At what level of heat load are age-related impairments in the ability to dissipate heat evident in females? PLoS ONE 2015;10:e0119079.
+Stapleton JM, Poirier MP, Flouris AD, et al. Aging impairs heat loss, but when does it matter? J Appl Physiol 2015;118:299–309.
+Kenny GP, Sigal RJ, McGinn R. Body temperature regulation in diabetes. Tem-perature (Austin) 2016;3:119–45.
+Yardley JE, Stapleton JM, Carter MR, et al. Is whole-body thermoregulatory function impaired in type 1 diabetes mellitus? Curr Diabetes Rev 2013;9:126–36.
+Jensen TE, Richter EA. Regulation of glucose and glycogen metabolism during and after exercise. J Physiol 2012;590:1069–76.
+Riddell MC, Zaharieva DP, Yavelberg L, et al. Exercise and the development of the artiﬁcial pancreas: One of the more diﬃcult series of hurdles. J Diabetes Sci Technol 2015;9:1217–26.
+Brazeau AS, Rabasa-Lhoret R, Strychar I, et al. Barriers to physical activity among patients with type 1 diabetes. Diabetes Care 2008;31:2108–9.
+Dube MC, Weisnagel SJ, Prud’homme D, et al. Exercise and newer insulins: How much glucose supplement to avoid hypoglycemia? Med Sci Sports Exerc 2005;37:1276–82.
+Rabasa-Lhoret R, Bourque J, Ducros F, et al. Guidelines for premeal insulin dose reduction for postprandial exercise of different intensities and durations in type 1 diabetic subjects treated intensively with a basal-bolus insulin regimen (ultralente-lispro). Diabetes Care 2001;24:625–30.
+Grimm JJ, Ybarra J, Berne C, et al. A new table for prevention of hypoglycaemia during physical activity in type 1 diabetic patients. Diabetes Metab 2004;30:465–70.
+Franc S, Daoudi A, Pochat A, et al. Insulin-based strategies to prevent hypoglycaemia during and after exercise in adult patients with type 1 diabe-tes on pump therapy: The DIABRASPORT randomized study. Diabetes Obes Metab 2015;17:1150–7.
+Sonnenberg GE, Kemmer FW, Berger M. Exercise in type 1 (insulin-dependent) diabetic patients treated with continuous subcutaneous insulin infusion. Prevention of exercise induced hypoglycaemia. Diabetologia 1990;33:696–703.
+Chu L, Hamilton J, Riddell MC. Clinical management of the physically active patient with type 1 diabetes. Phys Sportsmed 2011;39:64–77.
+Perkins BA, Riddell MC. Type 1 diabetes and exercise: Using the insulin pump to maximum advantage. Can J Diabetes 2006;30:72–9. http://www .canadianjournalofdiabetes.com/article/S1499-2671(06)01008-2/pdf.
+Riddell MC, Bar-Or O, Ayub BV, et al. Glucose ingestion matched with total car-bohydrate utilization attenuates hypoglycemia during exercise in adoles-cents with IDDM. Int J Sport Nutr 1999;9:24–34.
+Francescato MP, Stel G, Stenner E, et al. Prolonged exercise in type 1 diabe-tes: Performance of a customizable algorithm to estimate the carbohydrate supplements to minimize glycemic imbalances. PLoS ONE 2015;10:e0125220.
+Campbell MD, Walker M, Trenell MI, et al. Metabolic implications when employing heavy pre- and post-exercise rapid-acting insulin reductions to prevent hypoglycaemia in type 1 diabetes patients: A randomised clinical trial. PLoS ONE 2014;9:e97143.
+Taplin CE, Cobry E, Messer L, et al. Preventing post-exercise nocturnal hypoglycemia in children with type 1 diabetes. J Pediatr 2010;157:784–8, e1.
+Diabetes Research in Children Network Study Group, Tsalikian E, Kollman C, et al. Prevention of hypoglycemia during exercise in children with type 1 dia-betes by suspending basal insulin. Diabetes Care 2006;29:2200–4.
+McAuley SA, Horsburgh JC, Ward GM, et al. Insulin pump basal adjustment for exercise in type 1 diabetes: A randomised crossover study. Diabetologia 2016;59:1636–44.
+Campbell MD, Walker M, Bracken RM, et al. Insulin therapy and dietary adjust-ments to normalize glycemia and prevent nocturnal hypoglycemia after evening exercise in type 1 diabetes: A randomized controlled trial. BMJ Open Diabe-tes Res Care 2015;3:e000085.
+Bussau VA, Ferreira LD, Jones TW, et al. A 10-s sprint performed prior to moderate-intensity exercise prevents early post-exercise fall in glycaemia in individuals with type 1 diabetes. Diabetologia 2007;50:1815–18.
+Bussau VA, Ferreira LD, Jones TW, et al. The 10-s maximal sprint: A novel approach to counter an exercise-mediated fall in glycemia in individuals with type 1 diabetes. Diabetes Care 2006;29:601–6.
+Guelﬁ KJ, Ratnam N, Smythe GA, et al. Effect of intermittent high-intensity compared with continuous moderate exercise on glucose production and uti-lization in individuals with type 1 diabetes. Am J Physiol Endocrinol Metab 2007;292:E865–70.
+Turner D, Gray BJ, Luzio S, et al. Similar magnitude of post-exercise hypergly-cemia despite manipulating resistance exercise intensity in type 1 diabetes indi-viduals. Scand J Med Sci Sports 2016;26:404–12.
+Purdon C, Brousson M, Nyveen SL, et al. The roles of insulin and catechol-amines in the glucoregulatory response during intense exercise and early recov-ery in insulin-dependent diabetic and control subjects. J Clin Endocrinol Metab 1993;76:566–73.
+Marliss EB, Vranic M. Intense exercise has unique effects on both insulin release and its roles in glucoregulation: Implications for diabetes. Diabetes 2002;51(Suppl. 1):S271–83.
+Harmer AR, Chisholm DJ, McKenna MJ, et al. High-intensity training improves plasma glucose and acid-base regulation during intermittent maximal exercise in type 1 diabetes. Diabetes Care 2007;30:1269–71.
+Turner D, Luzio S, Gray BJ, et al. Algorithm that delivers an individualized rapid-acting insulin dose after morning resistance exercise counters post-exercise hyperglycaemia in people with type 1 diabetes. Diabet Med 2016;33:506–10.
+Biswas A, Oh PI, Faulkner GE, et al. Sedentary time and its association with risk for disease incidence, mortality, and hospitalization in adults: A system-atic review and meta-analysis. Ann Intern Med 2015;162:123–32.
+Wilmot EG, Edwardson CL, Achana FA, et al. Sedentary time in adults and the association with diabetes, cardiovascular disease and death: Systematic review and meta-analysis. Diabetologia 2012;55:2895–905.
+Glenn KR, Slaughter JC, Fowke JH, et al. Physical activity, sedentary behavior and all-cause mortality among blacks and whites with diabetes. Ann Epidemiol 2015;25:649–55.
+Loprinzi PD, Sng E. The effects of objectively measured sedentary behavior on all-cause mortality in a national sample of adults with diabetes. Prev Med 2016;86:55–7.
+Cooper AJM, Brage S, Ekelund U, et al. Association between objectively assessed sedentary time and physical activity with metabolic risk factors among people with recently diagnosed type 2 diabetes. Diabetologia 2014;57:73–82.
+Cooper AR, Sebire S, Montgomery AA, et al. Sedentary time, breaks in seden-tary time and metabolic variables in people with newly diagnosed type 2 dia-betes. Diabetologia 2012;55:589–99.
+Falconer CL, Page AS, Andrews RC, et al. The potential impact of displacing sedentary time in adults with type 2 diabetes. Med Sci Sports Exerc 2015;47:2070–5.
+Fritschi C, Park H, Richardson A, et al. Association between daily time spent in sedentary behavior and duration of hyperglycemia in type 2 diabetes. Biol Res Nurs 2016;18:160–6.
+Healy GN, Winkler EA, Brakenridge CL, et al. Accelerometer-derived seden-tary and physical activity time in overweight/obese adults with type 2 dia-betes: Cross-sectional associations with cardiometabolic biomarkers. PLoS ONE 2015;10:e0119140.
+Lamb MJE, Westgate K, Brage S, et al. Prospective associations between sed-entary time, physical activity, ﬁtness and cardiometabolic risk factors in people with type 2 diabetes. Diabetologia 2016;59:110–20.
+Dempsey PC, Larsen RN, Sethi P, et al. Beneﬁts for type 2 diabetes of inter-rupting prolonged sitting with brief bouts of light walking or simple resis-tance activities. Diabetes Care 2016;39:964–72.
+Dunstan DW, Kingwell BA, Larsen R, et al. Breaking up prolonged sitting reduces postprandial glucose and insulin responses. Diabetes Care 2012;35:976–83.
+Duvivier BMFM, Schaper NC, Hesselink MKC, et al. Breaking sitting with light activities vs structured exercise: A randomised crossover study demon-strating beneﬁts for glycaemic control and insulin sensitivity in type 2 dia-betes. Diabetologia 2016;60:490–8.
+Korkiakangas EE, Alahuhta MA, Laitinen JH. Barriers to regular exercise among adults at high risk or diagnosed with type 2 diabetes: A systematic review. Health Promot Int 2009;24:416–27.
+Lascar N, Kennedy A, Hancock B, et al. Attitudes and barriers to exercise in adults with type 1 diabetes (T1DM) and how best to address them: A qualitative study. PLoS ONE 2014;9:e108019.
+Tulloch H, Sweet SN, Fortier M, et al. Exercise facilitators and barriers from adoption to maintenance in the diabetes aerobic and resistance exercise trial. Can J Diabetes 2013;37:367–74.
+Brown SA, Garcia AA, Brown A, et al. Biobehavioral determinants of glycemic control in type 2 diabetes: A systematic review and meta-analysis. Patient Educ Couns 2016;99:1558–67.
+Olson EA, McAuley E. Impact of a brief intervention on self-regulation, self-eﬃcacy and physical activity in older adults with type 2 diabetes. J Behav Med 2015;38:886–98.
+Tate DF, Lyons EJ, Valle CG. High-tech tools for exercise motivation: Use and role of technologies such as the internet, mobile applications, social media, and video games. Diabetes Spectr 2015;28:45–54.
+Blackford K, Jancey J, Lee AH, et al. Effects of a home-based intervention on diet and physical activity behaviours for rural adults with or at risk of meta-bolic syndrome: A randomised controlled trial. Int J Behav Nutr Phys Act 2016;13:13.
+Armstrong MJ, Campbell TS, Lewin AM, et al. Motivational interviewing-based exercise counselling promotes maintenance of physical activity in people with type 2 diabetes. Can J Diabetes 2013;37:S3. http://www .canadianjournalofdiabetes.com/article/S1499-2671(13)00954-4/pdf.
+Song D, Xu TZ, Sun QH. Effect of motivational interviewing on self-management in patients with type 2 diabetes mellitus: A meta-analysis. Int J Nurs Sci 2014;1:291–7.
+Chlebowy DO, El-Mallakh P, Myers J, et al. Motivational interviewing to improve diabetes outcomes in African Americans adults with diabetes. West J Nurs Res 2015;37:566–80.
+Wolever RQ, Dreusicke M, Fikkan J, et al. Integrative health coaching for patients with type 2 diabetes: A randomized clinical trial. Diabetes Educ 2010;36:629–39.
+Pillay J, Armstrong MJ, Butalia S, et al. Behavioral programs for type 2 diabe-tes mellitus: A systematic review and network meta-analysis behavioral pro-grams for type 2 diabetes mellitus. Ann Intern Med 2015;163:848–60.
+Biddle SJ, Edwardson CL, Wilmot EG, et al. A randomised controlled trial to reduce sedentary time in young adults at risk of type 2 diabetes mellitus: Project STAND (Sedentary Time ANd Diabetes). PLoS ONE 2015;10:e0143398.
+Jansink R, Braspenning J, Keizer E, et al. No identiﬁable Hb1Ac or lifestyle change after a comprehensive diabetes programme including motivational interview-ing: A cluster randomised trial. Scand J Prim Health Care 2013;31:119–27.
+Miller WR, Rollnick S. Rollnick S, Miller WR, Moyers TB, eds. Motivational inter-viewing: helping people change. 3rd edn. New York: The Guilford Press, 2012.
+Rouleau CR, Lavoie KL, Bacon SL, et al. Training healthcare providers in moti-vational communication for promoting physical activity and exercise in cardiometabolic health settings: Do we know what we are doing? Curr Cardiovasc Risk Rep 2015;9:1–8.
+Lin JS, O’Connor E, Whitlock EP, et al. Behavioral counseling to promote physi-cal activity and a healthful diet to prevent cardiovascular disease in adults: A systematic review for the U.S. Preventive Services Task Force. Ann Intern Med 2010;153:736–50.
+Avery L, Flynn D, Dombrowski SU, et al. Successful behavioural strategies to increase physical activity and improve glucose control in adults with type 2 diabetes. Diabet Med 2015;32:1058–62.
+Avery L, Flynn D, van Wersch A, et al. Changing physical activity behavior in type 2 diabetes: A systematic review and meta-analysis of behavioral inter-ventions. Diabetes Care 2012;35:2681–9.
+Bailey KJ, Little JP, Jung ME. Self-monitoring using continuous glucose moni-tors with real-time feedback improves exercise adherence in individuals with impaired blood glucose: A pilot study. Diabetes Technol Ther 2016;18:185–93.
+Miller CK, Bauman J. Goal setting: An integral component of effective diabe-tes care. Curr Diab Rep 2014;14:509.
+Petry NM, Cengiz E, Wagner JA, et al. Incentivizing behaviour change to improve diabetes care. Diabetes Obes Metab 2013;15:1071–6.
+Markowitz JT, Cousineau T, Franko DL, et al. Text messaging intervention for teens and young adults with diabetes. J Diabetes Sci Technol 2014;8:1029–34.
+Morton K, Sutton S, Hardeman W, et al. A text-messaging and pedometer program to promote physical activity in people at high risk of type 2 diabe-tes: The development of the PROPELS follow-on support program. JMIR Mhealth Uhealth 2015;3:e105.
+Piette JD, List J, Rana GK, et al. Mobile health devices as tools for worldwide cardiovascular risk reduction and disease management. Circulation 2015;132:2012–27.
+Bacon SL, Lavoie KL, Ninot G, et al. An international perspective on improv-ing the quality and potential of behavioral clinical trials. Curr Cardiovasc Risk Rep 2014;9:427.
+Lavoie KL, Campbell TS, Bacon SL. Behavioral medicine trial design: Time for a change. Arch Intern Med 2012;172:1350–1. . author reply 1.
+Campbell TS, Bacon SL, Corace K, et al. Comment on Pladevall et al, “A ran-domized controlled trial to provide adherence information and motivational interviewing to improve diabetes and lipid control. Diabetes Educ 2015; 41:625–6.
+Yates T, Haffner SM, Schulte PJ, et al. Association between change in daily ambu-latory activity and cardiovascular events in people with impaired glucose tol-erance (NAVIGATOR trial): A cohort analysis. Lancet 2014;383:1059–66.
+Dasgupta K, Rosenberg E, Joseph L, et al. Physician Step prescription and Moni-toring to improve ARTERial health (SMARTER): A randomized controlled trial in type 2 diabetes and hypertension. Diabetes Obes Metab 2017;19:695–704.
+Qiu S, Cai X, Chen X, et al. Step counter use in type 2 diabetes: A meta-analysis of randomized controlled trials. BMC Med 2014;12:36.
+Vaes AW, Cheung A, Atakhorrami M, et al. Effect of “activity monitor-based” counseling on physical activity and health-related outcomes in patients with chronic diseases: A systematic review and meta-analysis. Ann Med 2013;45:397–412.
+Eriksen L, Dahl-Petersen I, Haugaard SB, et al. Comparison of the effect of multiple short-duration with single long-duration exercise sessions on glucose homeostasis in type 2 diabetes mellitus. Diabetologia 2007;50:2245–53.
+Karstoft K, Winding K, Knudsen SH, et al. The effects of free-living interval-walking training on glycemic control, body composition, and physical ﬁtness in type 2 diabetic patients: A randomized, controlled trial. Diabetes Care 2013;36:228–36.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

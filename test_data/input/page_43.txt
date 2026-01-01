@@ -1,0 +1,536 @@
+Chapter Headings
+
+Introduction
+Education
+Glycemic Targets
+Insulin Therapy
+Glucose Monitoring
+Closed-Loop Pancreas System
+Nutrition
+Treatment of Hypoglycemia
+Chronic Poor Metabolic Control
+Physical Activity
+DKA
+Vaccination
+Smoking Prevention and Cessation
+Alcohol and Substance Use
+Contraception and Sexual Health Counselling
+Psychological Issues
+Comorbid Conditions
+Diabetes Complications
+Transition to Adult Care
+Author Disclosures
+Key Messages
+Suspicion of diabetes in a child should lead to immediate confirmation of the diagnosis and initiation of treatment to reduce the likelihood of diabetic ketoacidosis.
+Management of pediatric diabetic ketoacidosis differs from diabetic ketoacidosis in adults because of the increased risk for cerebral edema. Pediatric protocols should be used.
+Children should be referred for diabetes education, ongoing care and psychosocial support to a diabetes team with pediatric expertise.
+Key Messages for People with Children and Adolescents with Diabetes
+When a child is diagnosed with type 1 diabetes, the role of a caregiver becomes more important than ever. Family life and daily routines may seem more complicated in the beginning but, over time, and with the support of a diabetes team, these improve. Families discover that a child can have a healthy and fulfilling life with diabetes.
+
+Note: Unless otherwise specified, the term “child” or “children” is used for individuals 0 to 18 years of age, and the term “adolescent” for those 13 to 18 years of age.
+
+Introduction
+
+Diabetes mellitus is the most common endocrine disease and one of the most common chronic conditions in children. Type 2 diabetes and other types of diabetes, including genetic defects of beta cell function, such as monogenic and neonatal diabetes, are being increasingly recognized in children and should be considered when clinical presentation is atypical for type 1 diabetes (for additional details see Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome chapter, p. S10). This section addresses those areas of type 1 diabetes management that are specific to children.
+
+Education
+
+Children with new-onset type 1 diabetes and their families require intensive diabetes education by an interprofessional pediatric diabetes health-care (DHC) team that should include either a pediatric endocrinologist or pediatrician with diabetes expertise, dietician, diabetes nurse educator, social worker and mental health professional to provide them with the necessary skills and knowledge to manage this disease. The complex physical, developmental and emotional needs of children and their families necessitate specialized care to ensure the best long-term outcomes (1,2). Education topics must include insulin action, administration and dosage adjustment; blood glucose (BG) and ketone monitoring; sick-day management and prevention of diabetic ketoacidosis (DKA); nutrition therapy; physical activity; and prevention, detection and treatment of hypoglycemia.
+
+Anticipatory guidance and healthy behaviour counselling should be part of routine care, especially during critical developmental transitions (e.g. daycare, school entry, adolescence). Health-care providers should regularly initiate discussions with children and their families about school, diabetes camp, psychological issues, fear of hypoglycemia, substance use, obtaining a driver's license and career choices. Behavioural interventions that have been applied broadly to clinic-based populations with a focus on improving self-efficacy and self-management skills have shown little benefit on improving glycemic control, but may improve caregiver coping skills and reduce parent-child conflict, emphasizing the need for a continuing programme of education (3–5).
+
+Children with new-onset diabetes who present with DKA require a short period of hospitalization to stabilize the associated metabolic derangements and to initiate insulin therapy. Outpatient education for children with new-onset diabetes has been shown to be less expensive than inpatient education and associated with similar or slightly better outcomes when appropriate interprofessional resources to provide outpatient education on basic diabetes management are available (6,7).
+
+Table 1
+Recommended glycemic targets for children and adolescents with type 1 diabetes
+A1C, glycated hemoglobin; PG, plasma glucose.
+*Postprandial monitoring is rarely done in young children except for those on continuous subcutaneous insulin infusion (CSII) therapy for whom targets are not available.
+Age (years)	A1C (%)	Fasting/ preprandial PG (mmol/L)	2-hour postprandial PG* (mmol/L)	Considerations
+<18	≤7.5	4.0–8.0	5.0–10.0	Caution is required to minimize severe or excessive hypoglycemia. Consider preprandial targets of 6.0–10.0 mmol/L as well as higher A1C targets in children and adolescents who have had severe or excessive hypoglycemia or have hypoglycemia unawareness.
+Glycemic Targets
+
+Improved metabolic control reduces both the onset and progression of diabetes-related complications in adults and adolescents with type 1 diabetes (8,9). Knowledge of glycemic targets by the child with diabetes and parents and consistent target setting by the diabetes health-care team have been shown to be associated with improved metabolic control (10). Aggressive attempts should be made to reach the recommended glycemic target outlined in Table 1; however, clinical judgement is required to determine which children can reasonably and safely achieve these targets without severe or recurrent hypoglycemia. Results from a large multicentre observational study found that glycated hemoglobin (A1C) targets of ≤7.5% can be safely achieved without an increase in the risk of severe hypoglycemia in children less than 6 years of age (11). In some follow-up studies, episodes of severe hypoglycemia have been associated with poorer cognitive function, such as with memory and learning, whereas other studies have found that chronic hyperglycemia and glycemic variability in young children (ages 4 to 10 years) are associated with white matter structural changes and poorer overall cognitive performance (12–15). Young age at diabetes onset (under 7 years of age) has also been associated with poorer cognitive function (16). Treatment goals and strategies must be tailored to each child, with consideration given to individual risk factors.
+
+Insulin Therapy
+
+Insulin therapy is the mainstay of medical management of type 1 diabetes. A variety of insulin regimens can be used, but few have been studied specifically in children with new-onset diabetes. The choice of insulin regimen depends on many factors, including the child's age, duration of diabetes, family lifestyle, school support, socioeconomic factors, and family, patient, and physician preferences. Regardless of the insulin regimen used, all children should be treated to meet glycemic targets.
+
+The honeymoon period, which can last up to 2 years after diagnosis, is characterized by target glycemic control and low insulin requirements (<0.5 units/kg/day). At the end of this period, more intensive management may be required to continue meeting glycemic targets. Two methods of intensive diabetes management have been used: basal-bolus regimens (long-acting basal insulin analogues and rapid-acting bolus insulin analogues) and continuous subcutaneous insulin infusion (CSII) therapy. Basal-bolus therapy has resulted in improved control over traditional twice-daily neutral protamine Hagedorn (NPH) and rapid-acting bolus analogue therapy in some but not all studies (17–19).
+
+CSII is safe and effective and can be initiated at any age (20–22). A Cochrane review found that CSII resulted in slightly improved metabolic control over basal-bolus therapy (23). Some clinic-based studies of CSII in school-aged children and adolescents have shown a significant reduction in A1C with reduced hypoglycemia 12 to 24 months after initiation of CSII when compared to pre-CSII levels (24) or in the longer term when compared to controls on injections (25). Young age, A1C at CSII initiation and number of daily boluses may be associated with improved or sustained near-normal metabolic outcome (26). The Sensor-Augmented Pump Therapy for A1C Reduction (STAR) 3 study demonstrated that sensor-augmented insulin-pump therapy was more effective in lowering A1C levels than multiple daily injections (MDI) in children with poorly controlled type 1 diabetes mellitus (27).
+
+Most, but not all, pediatric studies of the long-acting basal insulin analogues (detemir, glargine and degludec) have demonstrated improved fasting blood glucose (FBG) levels and fewer episodes of nocturnal hypoglycemia with a reduction in A1C (17,28–32). Two large population-based observational studies have not found improved A1C in children with diabetes using basal-bolus therapy or CSII when compared to those using NPH and rapid-acting bolus analogues (33,34). Insulin therapy should be individualized to reach A1C targets, minimize hypoglycemia and optimize quality of life.
+
+Glucose Monitoring
+
+Self-monitoring of blood glucose (SMBG) is an essential part of management of type 1 diabetes, and increased frequency has been associated with better clinical outcomes (35–37). Evidence of a strong association between frequency of SMBG and hemoglobin A1C levels has been found in T1D Exchange Clinic Registry participants (37). Subcutaneous continuous glucose sensors allow detection of asymptomatic hypoglycemia and hyperglycemia. In some studies, use of continuous glucose monitoring (CGM) has resulted in improved glycemic control with less hypoglycemia (38–40). In 1 larger randomized controlled trial of 322 adults and children, use of CGM was associated with improved glycemic control in adults but not in children and adolescents (41). Glycemic benefit correlated with duration of sensor use, which was much lower in children and adolescents (42). Recently, a built-in algorithm in an available CSII device with low glucose suspend feature has been shown to significantly lower overnight hypoglycemia (43,44).
+
+Closed-Loop Pancreas System
+
+The closed-loop pancreas system, also known as the artificial or bionic pancreas system, is one of the most rapidly evolving areas of clinical care for type 1 diabetes. It couples the use of an insulin pump with infusion of 1 or more hormones (insulin +/- glucagon), a glucose sensor and an algorithm for glucose control. The closed-loop system allows for decreasing excursions in blood glucose levels while reducing the overall burden of self-care. However, the system must ensure patient safety as well as prevent the occurrence of severe hypo- and hyperglycemia, as well as DKA. Results from several studies are promising for outcomes combining a lowering of the number of hypoglycemic events while optimizing per cent time in target range for glucose, fasting blood glucose and mean sensor glucose (45). However, most studies are short term and assessed the closed-loop system in different clinical settings. Larger randomized clinical trials in adults and youth are currently underway.
+
+Table 2
+Examples of carbohydrates for treatment of mild-to-moderate hypoglycemia
+Patient age	<5 yrs	5 to 10 yrs	>10 yrs
+Amount of carbohydrate	5 g	10 g	15 g
+Carbohydrate Source	 	 	 
+ Glucose tablet (4 g)	1	2 or 3	4
+ Dextrose tablet (3 g)	2	3	5
+ Apple or orange juice; regular soft drink; sweet beverage (cocktails)	40 mL	85 mL	125 mL
+Nutrition
+
+All children with type 1 diabetes should receive counselling from a registered dietitian experienced in pediatric diabetes. Children with diabetes should follow a healthy diet as recommended for children without diabetes in Eating Well with Canada's Food Guide (46). This involves consuming a variety of foods from the 4 food groups (grain products, vegetables and fruits, milk and alternatives, and meat and alternatives). Children with diabetes have been found to consume a diet that is similar to children without diabetes, one that is higher in fat and lower in fibre than guidelines recommend for healthy eating (47). Carbohydrate counting is a commonly used method of matching insulin to carbohydrate intake that allows increased flexibility in diet, although fat and protein content also influence postprandial glucose levels. There is no strong evidence that one form of nutrition therapy is superior to another in attaining age-appropriate glycemic targets. Nutrition therapy should be individualized (based on the child's nutritional needs, eating habits, lifestyle, ability and interest) and must ensure normal growth and development without compromising glycemic control. This plan should be evaluated regularly and at least annually. Features suggestive of eating disorders and of celiac disease should be systematically sought out (48).
+
+Treatment of Hypoglycemia
+
+Hypoglycemia is a major obstacle for children with type 1 diabetes and can affect their ability to achieve glycemic targets. Children with early-onset diabetes are at greatest risk for disruption of cognitive function and neuropsychological skills, but the respective roles of hypoglycemia and hyperglycemia in their development are still questioned (16,49). Significant risk of hypoglycemia often necessitates less stringent glycemic goals, particularly for younger children. There is no evidence in children that one insulin regimen or mode of administration is superior to another for resolving nonsevere hypoglycemia. As such, treatment must be individualized (50). Frequent use of CGM in a clinical care setting may reduce episodes of hypoglycemia (51).
+
+Severe hypoglycemia should be treated with pediatric doses of intravenous dextrose in the hospital setting or glucagon in the home setting. In children, the use of mini-doses of glucagon has been shown to be useful in the home management of mild or impending hypoglycemia associated with inability or refusal to take oral carbohydrate. A dose of 10 micrograms (mcg) per year of age (the equivalent of 1 unit on the syringe per year of age) (minimum dose 20 mcg (2 units), maximum dose 150 mcg (15 units)) is effective at treating and preventing hypoglycemia, with an additional doubled dose given if the BG has not increased in 20 minutes (52,53). Treatment of mild hypoglycemia is described in Table 2.
+
+Chronic Poor Metabolic Control
+
+A careful multidisciplinary assessment should be undertaken for every child with chronically poor metabolic control (e.g. A1C >10%) to identify potential causative and associated factors, such as depression (54), eating disorders (55), lower socioeconomic status, lower family support and higher family conflict (56,57), and to identify and address barriers to improved glycemic control. Use of a standardized measure of risk factors has been shown to identify those at high risk for poor control, emergency room visits and DKA (58). Glycemic control may be particularly challenging during adolescence due to physiologic insulin resistance, depression and other psychological issues, and reduced adherence during a time of growing independence. Multipronged interventions that target emotional, family and coping issues have shown a modest reduction in A1C with reduced rates of hospital admission (59–61).
+
+Physical Activity
+
+Inadequate levels of physical activity are common in all children, including those with diabetes. Increased physical activity is associated with better metabolic control. Two recent systematic reviews with meta-analyses have shown A1C reductions of ~0.5% with interventions aimed at increasing physical activity (62,63).
+
+DKA
+
+DKA occurs in approximately 40% of children with new-onset diabetes (range of 28% to 40% across United States centres and 11% to 67% across European centres), and at a frequency of one to 10 episodes per 100 patient-years in those with established diabetes (64,65). DKA continues to be the leading cause of morbidity and mortality in children with diabetes; subtle, persistent changes in brain structure and function ensuing from DKA are being increasingly appreciated (66–68). Children younger than 3 years of age and from areas with low prevalence of diabetes are especially at risk for moderate-to-severe DKA at the time of diagnosis (65). DKA can be prevented through earlier recognition and initiation of insulin therapy. Public awareness campaigns about the early signs of diabetes have significantly reduced the frequency of DKA in new-onset diabetes (69,70). In children with established diabetes, DKA results from failing to take insulin or poor sick-day management. Sick-day management includes more frequent SMBG, ketone measurement during hyperglycemia and adjustment of insulin dose in response to monitoring (71). Risk is increased in children with poor metabolic control or previous episodes of DKA, peripubertal and adolescent girls, children on CSII or long-acting basal insulin analogues, ethnic minorities, and children with psychiatric disorders and those with difficult family circumstances (72–75). The frequency of DKA in established diabetes can be decreased with education, behavioural intervention and family support (76,77), as well as access to 24-hour telephone services or telemedicine for parents of children with diabetes (78–80).
+
+Management of DKA
+
+While most cases of DKA are corrected without event, 0.5% to 1% of pediatric cases are complicated by cerebral edema (81), which is associated with significant morbidity (21% to 35%) and mortality (21% to 24%) (82). In contrast, cerebral edema has rarely been reported in adults (82). Although the cause of cerebral edema is still unknown, several factors are associated with increased risk (Table 3) (83–87). A bolus of insulin prior to infusion is not recommended since it does not offer faster resolution of acidosis (88,89) and may contribute to cerebral edema (90). Early insulin administration (within the first hour of fluid replacement) may increase the risk for cerebral edema (87). Special caution should be exercised in young children with DKA and new-onset diabetes or a greater degree of acidosis and extracellular fluid volume depletion because of the increased risk of cerebral edema.
+
+In some centres, it is common practice to initiate an intravenous insulin infusion at a rate of 0.05 units/kg/hour. One recent, prospective randomized controlled study suggests that an initial insulin infusion rate of 0.05 units/kg/hour is safe and effective, but this lower starting rate was not studied among those presenting in more severe or complicated DKA (91). Either mannitol or hypertonic saline can be used in the treatment of cerebral edema, but there is still insufficient evidence to favor one over the other; hypertonic saline use has been associated with increased mortality in a single, retrospective study (92). DKA should be managed according to published protocols for management of pediatric DKA (Figure 1) (93).
+
+Table 3
+Risk factors for cerebral edema during treatment of diabetic ketoacidosis in children
+IV, intravenous.
+
+Younger age (<5 years)
+New-onset diabetes
+Greater severity of acidosis (lower pH and bicarbonate)
+High initial serum urea
+Low initial partial pressure of arterial carbon dioxide (pCO2)
+Rapid administration of hypotonic fluids
+IV bolus of insulin
+Early IV insulin infusion (within first hour of administration of fluids)
+Failure of serum sodium to rise during treatment
+Use of bicarbonate
+Vaccination
+
+Historically, national guidelines have recommended influenza vaccination for children with type 1 diabetes (94,95). Currently, there is no evidence supporting increased morbidity or mortality from influenza in children with type 1 diabetes (96,97). However, the management of type 1 diabetes can be complicated by illness, requiring parental knowledge of sick-day management and increased attention during periods of illness. For this reason, parents may choose to have their children vaccinated.
+
+Smoking Prevention and Cessation
+
+Smoking is a significant risk factor for both cardiovascular (CV) and microvascular complications of diabetes (98) and, in adolescents, is associated with worse metabolic control (99). Smoking prevention should be emphasized throughout childhood and adolescence. The Canadian Paediatric Society website contains useful resources to promote smoking cessation among adolescents (http://www.cps.ca/en/documents/position/smoking-cessation) (100).
+
+Alcohol and Substance Use
+
+Adolescents with diabetes have similar rates of alcohol use and similar or higher rates of illicit drug use compared to adolescents without diabetes (101). Regular counselling should be provided around alcohol and substance use.
+
+Contraception and Sexual Health Counselling
+
+Adolescents with diabetes should receive regular counselling about sexual health and contraception. Unplanned pregnancies should be avoided, as pregnancy in adolescent females with type 1 diabetes with suboptimal metabolic control may result in higher risks of maternal and fetal complications than in older women with type 1 diabetes who are already at increased risk compared to the general population (102). Oral contraceptives, intrauterine devices and barrier methods can be used safely in the vast majority of adolescents (103).
+
+Psychological Issues
+
+For children, and particularly adolescents, there is a need to identify psychological disorders associated with diabetes and to intervene early to minimize the impact over the course of development. Children and adolescents with diabetes have significant risks for psychological problems, including diabetes distress (104), depression (105), anxiety (105), eating disorders and externalizing disorders (106–110). The risks increase during adolescence and emerging adulthood (111–113). Studies have shown that psychological disorders predict poor diabetes management and control (54,105,114–117) and, consequently, negative medical outcomes (118–121). Conversely, as glycemic control worsens, the probability of psychological problems increases (122).
+
+The presence of psychological symptoms and diabetes problems in children and adolescents is often strongly affected by caregiver/family distress. Research has demonstrated that while parental psychological issues may distort perceptions of the child's diabetes control (123), they are often related to poor psychological adjustment and diabetes control (124–127). Maternal anxiety and depression are associated with poor diabetes control in younger adolescents and with reduced positive affect and motivation in older teens (128).
+
+Eating disorders
+
+Ten per cent of adolescent females with type 1 diabetes meet the Diagnostic and Statistical Manual of Mental Disorders (4th Edition) criteria for eating disorders compared to 4% of their age-matched peers without diabetes (129). Disordered eating with insulin restriction is also seen in youth with diabetes (130). Furthermore, eating disorders are associated with poor metabolic control (55) and earlier onset and more rapid progression of microvascular complications (131). Eating disorders should be suspected in those adolescent and young adult females who are unable to achieve and maintain metabolic targets, especially when insulin omission is suspected. It is important to identify individuals with eating disorders because different management strategies are required to optimize metabolic control and prevent microvascular complications (129,131,132).
+
+Prevention and intervention
+
+Children and adolescents with diabetes, along with their families, should be screened throughout their development for psychological disorders (133). Given the prevalence of psychological issues, screening in this area can be seen as equally important as screening for microvascular complications in children and adolescents with diabetes (134).
+
+Psychological interventions with children and adolescents, as well as families, have been shown to improve mental health (106,135), including overall well-being and perceived quality of life (136), along with depressive symptoms (137,138). In addition, there is some evidence that psychosocial interventions can positively affect glycemic control (59,135,139). Most importantly, some studies have demonstrated that psychological interventions can increase diabetes treatment adherence, improve glycemic control and improve psychosocial functioning (140,141).
+
+Table 4
+Recommendations for screening for comorbid conditions in children with type 1 diabetes
+TSH, thyroid-stimulating hormone.
+Condition	Indications for screening	Screening test	Frequency
+Autoimmune thyroid disease	All children with type 1 diabetes	Serum TSH level + thyroid peroxidase antibodies	At diagnosis and every 2 years thereafter; thyroperoxidase antibodies do not need to be repeated if previously positive
+Positive thyroid antibodies, symptoms of thyroid disease or goiter	Serum TSH level (+thyroid peroxidase antibodies if previously negative)	Every 6–12 months
+Primary adrenal insufficiency	Unexplained recurrent hypoglycemia and decreasing insulin requirements	8 AM serum cortisol and serum sodium and potassium	As clinically indicated
+Celiac disease	Recurrent gastrointestinal symptoms, poor linear growth, poor weight gain, fatigue, anemia, unexplained frequent hypoglycemia or poor metabolic control	Tissue transglutaminase + immunoglobulin A levels	As clinically indicated
+
+Figure 1
+Immediate assessment and management of diabetic ketoacidosis in children.
+
+BG, blood glucose; D5W; 5% dextrose in water; D10W; 10% dextrose in water; D12.5W: 12.5% dextrose in water; DKA; diabetic ketoacidosis; ECG, electrocardiogram; ICU, intensive care unit; IV, intravenous; NaCl; sodium chloride; PG, plasma glucose; SC, subcutaneous.
+Adapted with permission from reference 93.
+
+Comorbid Conditions
+Autoimmune thyroid disease
+
+Clinical autoimmune thyroid disease (AITD) occurs in 15% to 30% of individuals with type 1 diabetes (142). The risk for AITD during the first decade of diabetes is directly related to the presence or absence of anti-thyroid antibodies (i.e. thyroid peroxidase antibodies) at diabetes diagnosis (143). Hypothyroidism is most likely to develop in girls at puberty (144). Early detection and treatment of hypothyroidism will prevent growth failure and symptoms of hypothyroidism (Table 4). Hyperthyroidism also occurs more frequently in association with type 1 diabetes than in the general population.
+
+Primary adrenal insufficiency (Addison's disease)
+
+Primary adrenal insufficiency is rare, even in those with type 1 diabetes (145). Targeted screening is required in those with unexplained recurrent hypoglycemia and decreasing insulin requirements (Table 4).
+
+Celiac disease
+
+Celiac disease can be identified in 4% to 9% of children with type 1 diabetes (142), but in 60% to 70% of these children, the disease is asymptomatic (silent celiac disease). Children with type 1 diabetes are at increased risk for classic or atypical celiac disease during the first 10 years of diabetes (146). There is good evidence that treatment of classic or atypical celiac disease with a gluten-free diet improves intestinal and extraintestinal symptoms (147), and prevents the long-term sequelae of untreated classic celiac disease (148). However, there is no evidence that untreated asymptomatic celiac disease is associated with short- or long-term health risks (149,150) or that a gluten-free diet improves health in these individuals (151). Thus, universal screening for and treatment of asymptomatic celiac disease remains controversial (Table 4).
+
+Table 5
+Screening for diabetes complications, dyslipidemia and hypertension in children with type 1 diabetes
+ACR, albumin to creatinine ratio; BMI, body mass index; CVD, cardiovascular disease; HDL-C; high-density lipoprotein cholesterol; LDL-C, low-density lipoprotein cholesterol; TC, total cholesterol; TG, triglycerides.
+Complication/Comorbidity	Indications and intervals for screening	Screening method
+Nephropathy	
+Yearly screening commencing at 12 years of age in those with duration of type 1 diabetes >5 years
+	
+First morning (preferred) or random urine ACR
+Abnormal ACR requires confirmation at least 1 month later with a first morning ACR and, if abnormal, followed by timed, overnight or 24-hour split urine collections for albumin excretion rate
+Repeated sampling should be done every 3–4 months over a 6- to 12-month period to demonstrate persistence
+
+Retinopathy	
+Yearly screening commencing at 15 years of age with duration of type 1 diabetes >5 years
+Screening interval can increase to 2 years if good glycemic control, duration of diabetes <10 years and no retinopathy at initial assessment
+	
+7-standard field, stereoscopic-colour fundus photography with interpretation by a trained reader (gold standard); or
+Direct ophthalmoscopy or indirect slit-lamp fundoscopy through dilated pupil; or
+Digital fundus photography
+
+Neuropathy	
+Children ≥15 years with poor metabolic control should be screened yearly after 5 years of type 1 diabetes
+	
+Question and examine for symptoms of numbness, pain, cramps and paresthesia, as well as skin sensation, vibration sense, light touch and ankle reflexes
+
+Dyslipidemia	
+Delay screening post-diabetes diagnosis until metabolic control has stabilized
+Screen at 12 and 17 years of age
+<12 years of age: screen only those with BMI >97th percentile, family history of hyperlipidemia or premature CVD
+	
+Fasting or non-fasting TC, HDL-C, TG, calculated LDL-C. Measurement of non-fasting lipids may be considered if TG are not elevated.
+
+Hypertension	
+Screen all children with type 1 diabetes at least twice a year
+	
+Use appropriate cuff size
+Diabetes Complications
+
+There are important age-related considerations regarding surveillance for diabetes complications and interpretation of investigations (Table 5). Risk for microvascular complications accelerates through puberty (152,153). In an observational study, children with type 1 diabetes with a mean duration of 7.9 years were found to have an age-adjusted prevalence of diabetic nephropathy of 5.8%, retinopathy 5.6%, peripheral neuropathy 8.5%, arterial stiffness 11.6%, hypertension 10.1% and cardiovascular (CV) autonomic neuropathy 14.4% (154).
+
+Chronic kidney disease
+
+Prepubertal children and those in the first 5 years of diabetes should be considered at very low risk for albuminuria (152,155). A first morning urine albumin to creatinine ratio (ACR) has high sensitivity and specificity for the detection of albuminuria (156,157). Although screening with a random ACR is associated with greater compliance than with a first morning sample, its specificity may be compromised in adolescents due to their higher frequency of exercise-induced proteinuria and benign postural proteinuria. Abnormal random ACRs (i.e. >2.5 mg/mmol) require confirmation with a first morning ACR or timed overnight urine collection (158).
+
+The likelihood of transient or intermittent albuminuria is higher during the early peripubertal years (155). Individuals with intermittent albuminuria may progress to overt nephropathy (159). Abnormal screening results require confirmation and follow up to demonstrate persistent abnormalities, as albuminuria can and is more likely to regress in youth compared to older adults (160–162).
+
+Treatment is indicated only for those adolescents with persistent albuminuria. One short-term randomized controlled trial in adolescents demonstrated that angiotensin-converting enzyme (ACE) inhibitors were effective in reducing albuminuria compared to placebo (163). However, there are no long-term intervention studies assessing the effectiveness of ACE inhibitors or angiotensin receptor blockers (ARBs) in delaying progression to overt nephropathy in adolescents with albuminuria. Therefore, treatment of adolescents with persistent albuminuria is based on the effectiveness of treatments in adults with type 1 diabetes (164).
+
+Retinopathy
+
+Retinopathy is rare in prepubertal children with type 1 diabetes and in postpubertal adolescents with good metabolic control (153,165–167). Earlier reductions in A1C during adolescence and attention to blood pressure (BP) control may stave off sight-threatening diabetic retinopathy in adulthood (153).
+
+Neuropathy
+
+When present, neuropathy is mostly subclinical in children (168). While prospective nerve conduction studies and autonomic neuropathy assessment studies have demonstrated increased prevalence of abnormalities over time (169), persistence of abnormalities is an inconsistent finding (170). There are very few studies assessing the diagnostic utility of noninvasive screening methods in children with diabetes; among them, vibration and monofilament testing have suboptimal sensitivity and specificity in adolescents. Normative thresholds vary with age and gender (171). With the exception of intensifying diabetes management to achieve and maintain glycemic targets, no other treatment modality has been studied in children and adolescents.
+
+Dyslipidemia
+
+Most children with type 1 diabetes should be considered at low risk for cardiovascular disease (CVD) associated with dyslipidemia (172–174). The exceptions are those with longer duration of disease, microvascular complications or other CV risk factors, including smoking, hypertension, obesity (175) and/or family history of premature CVD (176). Dyslipidemia screening should be targeted at those greater than 12 years of age and younger children with specific risk factors for dyslipidemia. Measurement of non-fasting lipids is now recommenced for adults as long as triglycerides are not elevated. Evidence in children with diabetes is limited. Statin therapy has been studied specifically in children with diabetes, and while there is no evidence linking specific low-density lipoprotein cholesterol (LDL-C) cut-offs in children with diabetes with long-term outcomes, statin therapy has been shown to significantly lower LDL-C as well as lipoproteins (177). In pubertal children without diabetes but with familial hypercholesterolemia, statin therapy is known to be safe and effective at lowering LDL-C levels and attenuating progression of surrogate markers for future CVD (178). Different markers of future CVD are being explored to better predict when to intervene (179–182).
+
+Hypertension
+
+Up to 16% of adolescents with type 1 diabetes have hypertension (183). Twenty-four hour ambulatory BP monitoring has been used to exclude white coat hypertension and to identify loss of diurnal systolic rhythm (nondippers) with nocturnal hypertension in some normotensive adolescents with type 1 diabetes (184). These abnormalities may be predictive of future albuminuria (184). However, the role of ambulatory BP monitoring in routine care remains uncertain. Children with type 1 diabetes and confirmed hypertension should be treated according to the guidelines for children without diabetes (185).
+
+Transition to Adult Care
+
+Emerging adulthood, the developmental stage between ages 18 to 25 years, is a stage of life wherein the emerging adult is establishing his or her autonomy, personal identity, and making vocational and educational choices (186). For the emerging adult with diabetes, this stage is complicated by the transition from pediatric to adult care, a high-risk period characterized by inadequate medical follow up and self-management, deteriorating glycemic control, and an increased risk of adverse outcomes (187–190). Between 25% and 65% of young adults have no medical follow up during the transition from pediatric to adult diabetes care services (191–193). Those with no follow up are more likely to experience hospitalization for DKA during this period. Organized transition services may decrease the rate of loss of follow up and the risk of adverse outcomes (189,192,195–198). Further, initiating a transition plan in early adolescence (e.g. 12 years of age), that includes education in self-care behaviours, transition readiness assessments and identifying transition goals may be of benefit in preparing adolescents and their families for transition (199,200).
+
+Recommendations
+
+Delivery of Care
+
+All children with diabetes should have access to an experienced pediatric DHC team that includes either a pediatric endocrinologist or pediatrician with diabetes expertise, dietician, diabetes nurse educator, social worker and mental health professional for specialized care starting at diagnosis [Grade D, Level 4 (1)].
+Children with new-onset type 1 diabetes who are medically stable should receive their initial education and management in an outpatient setting, provided that appropriate personnel and daily communication with a DHC team are available [Grade B, Level 1A (6,7)].
+To ensure ongoing and adequate diabetes care, adolescents should receive care from a specialized program aimed at creating a well-prepared and supported transition to adult care that is initiated early and includes a transition coordinator; patient reminders; and support and education promoting autonomy and self-care management skills [Grade C, Level 3 (189,191,192,194–197)].
+
+Glycemic Targets
+
+Children and adolescents <18 years of age should aim for an A1C target ≤7.5% [Grade D, Consensus]
+Attempts should be made to safely reach the recommended glycemic target, while minimizing the risk for severe or recurrent hypoglycemia. Treatment targets should be tailored to each child, taking into consideration individual risk factors for hypoglycemia [Grade D, Consensus]
+In children <6 years of age, particular care to minimize hypoglycemia is recommended because of the potential association in this age group between severe hypoglycemia and later cognitive impairment [Grade D, Level 4 (15)].
+Children with persistently poor glycemic control (e.g. A1C >10%) should be assessed with a validated tool by a specialized pediatric DHC team for comprehensive interdisciplinary assessment and referred for psychosocial support as indicated [Grade D, Consensus]. Intensive family and individualized psychological interventions aimed at improving glycemic control should be considered to improve chronically poor metabolic control [Grade A, Level 1A (59–61)].
+
+Insulin Therapy
+
+Children with new-onset diabetes should be started on boluses of rapid-acting insulin analogues combined with basal insulin (e.g. intermediate-acting insulin or long-acting basal insulin analogue) using an individualized regimen that best addresses the practical issues of daily life [Grade D, Consensus].
+Insulin therapy should be assessed at each clinical encounter to ensure it still enables the child to meet A1C targets, minimizes the risk of hypoglycemia and allows flexibility in carbohydrate intake, daily schedule and activities [Grade D, Consensus]. If these goals are not being met, an intensified diabetes management approach (including increased education, monitoring and contact with diabetes team) should be used [Grade A, Level 1 (8) for adolescents; Grade D, Consensus for younger children], and treatment options may include the following:
+Increased frequency of injections [Grade D, Consensus]
+Change in the type of basal and/or bolus insulin [Grade B, Level 2 (29) for adolescents; Grade D, Consensus for younger children]
+Change to CSII therapy [Grade C, Level 3 (22)].
+
+Treatment of Hypoglycemia
+
+In children, the use of mini doses of glucagon (10 mcg per year of age with minimum dose 20 mcg and maximum dose 150 mcg) should be considered in the home management of mild or impending hypoglycemia associated with inability or refusal to take oral carbohydrate [Grade D, Level 4 (52)].
+In the home situation, severe hypoglycemia in an unconscious child >5 years of age should be treated with 1 mg glucagon subcutaneously or intramuscularly. In children ≤5 years of age, a dose of 0.5 mg glucagon should be given. The episode should be discussed with the DHC team as soon as possible and consideration given to reducing insulin doses for the next 24 hours to prevent further severe hypoglycemia [Grade D, Consensus].
+Dextrose 0.5 to 1 g/kg should be given intravenously over 1–3 minutes to treat severe hypoglycemia with unconsciousness when intravenous access is available [Grade D, Consensus].
+
+Physical Activity
+
+Regular physical activity ≥3 times per week for ≥60 minutes each time should be encouraged for all children with diabetes [Grade A, Level 1 (62,63)].
+
+Diabetic Ketoacidosis
+
+To prevent DKA in children with diabetes:
+Targeted public awareness campaigns should be considered to educate parents, other caregivers (e.g. teachers) and health-care providers about the early symptoms of diabetes [Grade C, Level 3 (70,76)]
+Immediate assessment of ketone and acid-base status should be done in any child presenting with new-onset diabetes [Grade D, Consensus]
+Comprehensive education and support services [Grade C, Level 3 (77)], as well as 24-hour telephone services [Grade C, Level 3 (78)], should be available for families of children with diabetes.
+DKA in children should be treated according to pediatric-specific protocols [Grade D, Consensus]. If appropriate expertise/facilities are not available locally, there should be immediate consultation with a centre with expertise in pediatric diabetes [Grade D, Consensus].
+In children in DKA, rapid administration of hypotonic fluids should be avoided [Grade D, Level 4 (84)]. Circulatory compromise should be treated with only enough isotonic fluids to correct circulatory inadequacy [Grade D, Consensus]. Replacement of fluid deficit should be extended over a 48-hour period with regular reassessments of fluid status [Grade D, Level 4 (84)].
+In children in DKA, an intravenous insulin bolus should not be given [Grade D, Consensus]. The insulin infusion should not be started for at least 1hour after starting fluid replacement therapy [Grade D, Level 4 (87)]. An intravenous infusion of short-acting insulin should be used at an initial dose of 0.05 to 0.1 units/kg/h, depending on the clinical situation [Grade A, Level 1A (91)].
+In children in DKA, once blood glucose reaches ≤17.0 mmol/L, intravenous dextrose should be started to prevent hypoglycemia. The dextrose infusion should be increased, rather than reducing insulin, to prevent rapid decreases in glucose. The insulin infusion should be maintained until pH normalizes and ketones have mostly cleared [Grade D, Consensus].
+In children in DKA, administration of sodium bicarbonate should be avoided except in extreme circulatory compromise, as this has been associated with cerebral edema [Grade D, Level 4 (83)].
+In children in DKA, either mannitol or hypertonic saline may be used in the treatment of cerebral edema [Grade D, Level 4 (92)].
+
+Microvascular Complications
+
+Children ≥12 years with diabetes duration >5 years should be screened annually for CKD with a first morning urine ACR (preferred) [Grade B, Level 2 (157)] or a random ACR [Grade D, Consensus]. Abnormal results should be confirmed [Grade B, Level 2 (161,162)] at least 1 month later with a first morning ACR and, if abnormal, followed by timed, overnight or 24-hour split urine collections for albumin excretion rate [Grade D, Consensus]. Albuminuria (ACR >2.5 mg/mmol; AER >20 mcg/min) should not be diagnosed unless it is persistent, as demonstrated by 2 consecutive first morning ACR or timed collections obtained at 3- to 4-month intervals over a 6- to 12-month period [Grade D, Consensus].
+Children ≥12 years with persistent albuminuria should be treated per adult guidelines (see Chronic Kidney Disease in Diabetes chapter, p. S201) [Grade D, Consensus].
+Children ≥15 years with 5 years' diabetes duration should be annually screened and evaluated for retinopathy by an expert professional [Grade C, Level 3 (167)]. The screening interval can be increased to every 2 years in children with type 1 diabetes who have good glycemic control, duration of diabetes <10 years and no significant retinopathy (as determined by an expert professional) [Grade D, Consensus].
+Children ≥15 years with 5 years' diabetes duration and poor metabolic control should be questioned about symptoms of numbness, pain, cramps and paresthesia, and examined for skin sensation, vibration sense, light touch and ankle reflexes [Grade D, Consensus].
+
+Comorbid Conditions and Other Complications
+
+Children and adolescents with diabetes, along with their families, should be screened regularly for psychosocial or psychological disorders [Grade D, Consensus] and should be referred to an expert in mental health and/or psychosocial issues for intervention when required [Grade D, Consensus].
+Adolescents with type 1 diabetes should be regularly screened using nonjudgmental questions about weight and body image concerns, dieting, binge eating and insulin omission for weight loss [Grade D, Consensus].
+Children with type 1 diabetes who are <12 years of age should be screened for dyslipidemia if they have other risk factors, such as obesity (body mass index >97th percentile for age and gender) and/or a family history of dyslipidemia or premature CVD. Routine screening for dyslipidemia should begin at 12 years of age, with repeat screening after 5 years [Grade D, Consensus].
+Once dyslipidemia is diagnosed in children with type 1 diabetes, the dyslipidemia should be monitored regularly and efforts should be made to improve metabolic control and promote healthy behaviours. While it can be treated effectively with statins, a specific LDL cut-off to initiate treatment is yet to be determined in this age category [Grade D, Consensus].
+All children with type 1 diabetes should be screened for hypertension at least twice annually [Grade D, Consensus].
+Children with type 1 diabetes and BP readings persistently above the 95th percentile for age should receive healthy behaviour counselling, including weight loss if overweight [Grade D, Level 4 (201)]. If BP remains elevated, treatment should be initiated based on recommendations for children without diabetes [Grade D, Consensus].
+Influenza vaccination should be offered to children with diabetes as a way to prevent an intercurrent illness that could complicate diabetes management [Grade D, Consensus].
+Formal smoking prevention and cessation counselling should be part of diabetes management for children with diabetes [Grade D, Consensus].
+Adolescents should be regularly counselled around alcohol and substance use [Grade D, Consensus].
+Adolescent females with type 1 diabetes should receive counselling on contraception and sexual health in order to prevent unplanned pregnancy [Grade D, Level 4 (202)].
+Children with type 1 diabetes who have anti-thyroid antibodies should be considered at high risk for autoimmune thyroid disease [Grade C, Level 3 (143)]. Children with type 1 diabetes should be screened at diabetes diagnosis with repeat screening every 2 years using a serum thyroid- stimulating hormone and thyroid peroxidase antibodies [Grade D, Consensus]. More frequent screening is indicated in the presence of positive anti-thyroid antibodies, thyroid symptoms or goiter [Grade D, Consensus].
+Children with type 1 diabetes and symptoms of classic or atypical celiac disease (see Table 4) should undergo celiac screening [Grade D, Consensus] and, if confirmed, be treated with a gluten-free diet to improve symptoms [Grade D, Level 4 (147)] and prevent the long-term sequelae of untreated classic celiac disease [Grade D, Level 4 (148)]. Discussion of the pros and cons of screening and treatment of asymptomatic celiac disease should take place with children and adolescents with type 1 diabetes and their families [Grade D, Consensus].
+
+Abbreviations
+
+A1C, glycated hemoglobin; ACR, albumin to creatinine ratio; ACE, angiotensin-converting enzyme; AER, albumin excretion rate; AITD, autoimmune thyroid disease; ARB, angiotensin receptor blocker; BP, blood pressure; CGM, continuous glucose monitoring; CKD, chronic kidney disease; CV, cardiovascular; CVD, cardiovascular disease; CSII, continuous subcutaneous insulin infusion; DHC, diabetes health care; DKA, diabetic ketoacidosis; LDL-C, low-density lipoprotein cholesterol; MDI, multiple daily injections; mcg, micrograms; SMBG, self-monitoring of blood glucose.
+
+Literature Review Flow Diagram for Chapter 34: Type 1 Diabetes in Children and Adolescents
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (203).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Ho reports grants from Lilly, outside the submitted work. Dr. Huot reports support from Sanofi Aventis, Boehringer Ingelheim, and Merck, outside the submitted work. Dr. Legault reports personal fees from Medtronic and Insulet; other support from Novo Nordisk; and grants from Merck, Sanofi, and AstraZeneca, outside the submitted work; in addition, Dr. Legault has a patent IP issued in the field of artificial pancreas. Dr. Rosolowsky reports grants from the National Institutes of Health, outside the submitted work. No other author has anything to disclose.
+
+References
+Glasgow AM,Weissberg-Benchell J, Tynan WD, et al. Readmissions of children with diabetes mellitus to a children’s hospital. Pediatrics 1991;88:98–104.
+von Sengbusch S, Muller-Godeffroy E, Hager S, et al. Mobile diabetes education and care: Intervention for children and young people with type 1 diabetes in rural areas of northern Germany. Diabet Med 2006;23:122–7.
+Pillay J, Armstrong MJ, Butalia S, et al. Behavioral programs for type 1 diabetes mellitus: A systematic review and meta-analysis. Ann Intern Med 2015;163:836–47.
+Price KJ, Knowles JA, Fox M, et al. Effectiveness of the Kids in Control of Food (KICk-OFF) structured education course for 11–16 year olds with Type 1 diabetes. Diabet Med 2016;33:192–203.
+Basarir H, Brennan A, Jacques R, et al. Cost-effectiveness of structured education in children with type-1 diabetes mellitus. Int J Technol Assess Health Care 2016;32:203–11.
+Clar C,Waugh N, Thomas S. Routine hospital admission versus out-patient or home care in children at diagnosis of type 1 diabetes mellitus. Cochrane Database Syst Rev 2006;(2):CD004099.
+Tonyushkina KN, Visintainer PF, Jasinski CF, et al. Site of initial diabetes education does not affect metabolic outcomes in children with T1DM. Pediatr Diabetes 2014;15:135–41.
+The Diabetes Control and Complications Trial Research Group. The effect of intensive treatment of diabetes on the development and progression of longterm complications in insulin-dependent diabetes mellitus. N Eng J Med 1993;329:977–86.
+Diabetes Control and Complications Trial Research Group. Effect of intensive diabetes treatment on the development and progression of long-term complications in adolescents with insulin-dependent diabetes mellitus: Diabetes control and complications trial. J Pediatr 1994;125:177–88.
+Swift PG, Skinner TC, de Beaufort CE, et al. Target setting in intensive insulin management is associated with metabolic control: The Hvidoere childhood diabetes study group centre differences study 2005. Pediatr Diabetes 2010;11:271–8.
+Maahs DM, Hermann JM, DuBose SN, et al. Contrasting the clinical care and outcomes of 2,622 children with type 1 diabetes less than 6 years of age in the United States T1D Exchange and German/Austrian DPV registries. Diabetologia 2014;57:1578–85.
+Aye T, Barnea-Goraly N, Ambler C, et al. White matter structural differences in young children with type 1 diabetes: A diffusion tensor imaging study. Diabetes Care 2012;35:2167–73.
+Barnea-Goraly N, Raman M, Mazaika P, et al. Alterations in white matter structure in young children with type 1 diabetes. Diabetes Care 2014;37:332–40.
+Blasetti A, Chiuri RM, Tocco AM, et al. The effect of recurrent severe hypoglycemia on cognitive performance in children with type 1 diabetes: A metaanalysis. J Child Neurol 2011;26:1383–91.
+Hershey T, Perantie DC, Warren SL, et al. Frequency and timing of severe hypoglycemia affects spatial memory in children with type 1 diabetes. Diabetes Care 2005;28:2372–7.
+Gaudieri PA, Chen R, Greer TF, et al. Cognitive function in children with type 1 diabetes: A meta-analysis. Diabetes Care 2008;31:1892–7.
+Robertson KJ, Schoenle E, Gucev Z, et al. Insulin detemir compared with NPH insulin in children and adolescents with Type 1 diabetes. Diabet Med 2007;24:27–34.
+Chase HP, Arslanian S, White NH, et al. Insulin glargine versus intermediateacting insulin as the basal component of multiple daily injection regimens for adolescents with type 1 diabetes mellitus. J Pediatr 2008;153:547–53.
+Pihoker C, Badaru A, Anderson A, et al. Insulin regimens and clinical outcomes in a type 1 diabetes cohort: The SEARCH for Diabetes in Youth study. Diabetes Care 2013;36:27–33.
+Phillip M, Battelino T, Rodriguez H, et al. Use of insulin pump therapy in the pediatric age-group: Consensus statement from the European Society for Paediatric Endocrinology, the Lawson Wilkins Pediatric Endocrine Society, and the International Society for Pediatric and Adolescent Diabetes, endorsed by the American Diabetes Association and the European Association for the Study of Diabetes. Diabetes Care 2007;30:1653–62.
+Levy-Shraga Y, Lerner-Geva L, Modan-Moses D, et al. Benefits of Continuous Subcutaneous Insulin Infusion (CSII) therapy in preschool children. Exp Clin Endocrinol Diabetes 2013;121:225–9.
+McMahon SK, Airey FL, Marangou DA, et al. Insulin pump therapy in children and adolescents: Improvements in key parameters of diabetes management including quality of life. Diabet Med 2005;22:92–6.
+Misso ML, Egberts KJ, Page M, et al. Continuous Subcutaneous Insulin Infusion (CSII) versus multiple insulin injections for type 1 diabetes mellitus. Cochrane Database Syst Rev 2010;(1):CD005103.
+Weinzimer SA, Sikes KA, Steffen AT, et al. Insulin pump treatment of childhood type 1 diabetes. Pediatr Clin North Am 2005;52:1677–88.
+Johnson SR, Cooper MN, Jones TW, et al. Long-term outcome of insulin pump therapy in children with type 1 diabetes assessed in a large populationbased case-control study. Diabetologia 2013;56:2392–400.
+Overgaard Ingeholm I, Svensson J, Olsen B, et al. Characterization of metabolic responders on CSII treatment amongst children and adolescents in Denmark from 2007 to 2013. Diabetes Res Clin Pract 2015;109:279–86.
+Bergenstal RM, Tamborlane WV, Ahmann A, et al. Effectiveness of sensoraugmented insulin-pump therapy in type 1 diabetes. N Engl J Med 2010;363:311–20.
+Alemzadeh R, Berhe T, Wyatt DT. Flexible insulin therapy with glargine insulin improved glycemic control and reduced severe hypoglycemia among preschoolaged children with type 1 diabetes mellitus. Pediatrics 2005;115:1320–4.
+Murphy NP, Keane SM, Ong KK, et al. Randomized cross-over trial of insulin glargine plus lispro or NPH insulin plus regular human insulin in adolescents with type 1 diabetes on intensive insulin regimens. Diabetes Care 2003;26:799–804.
+Hassan K, Rodriguez LM, Johnson SE, et al. A randomized, controlled trial comparing twice-a-day insulin glargine mixed with rapid-acting insulin analogs versus standard neutral protamine Hagedorn (NPH) therapy in newly diagnosed type 1 diabetes. Pediatrics 2008;121:e466–72.
+Thalange N, Bereket A, Larsen J, et al. Insulin analogues in children with type 1 diabetes: A 52-week randomized clinical trial. Diabet Med 2013;30:216–25.
+Thalange N, Deeb L, Iotova V, et al. Insulin degludec in combination with bolus insulin aspart is safe and effective in children and adolescents with type 1 diabetes. Pediatr Diabetes 2015;16:164–76.
+de Beaufort CE, Swift PG, Skinner CT, et al. Continuing stability of center differences in pediatric diabetes care: Do advances in diabetes treatment improve outcome? The Hvidoere Study Group on Childhood Diabetes. Diabetes Care 2007;30:2245–50.
+Rosenbauer J, Dost A, Karges B, et al. Improved metabolic control in children and adolescents with type 1 diabetes: A trend analysis using prospective multicenter data from Germany and Austria. Diabetes Care 2011;35:80–6.
+Formosa N. Blood glucose monitoring in children and adolescents with type 1 diabetes mellitus. MMJ 2013;25:31–5.
+Nordly S, Mortensen HB, Andreasen AH, et al. Factors associated with glycaemic outcome of childhood diabetes care in Denmark. Diabet Med 2005;22:1566–73.
+Miller KM, Beck RW, Bergenstal RM, et al. Evidence of a strong association between frequency of self-monitoring of blood glucose and hemoglobin A1c levels in T1D exchange clinic registry participants. Diabetes Care 2013;36:2009–14.
+Mauras N, Fox L, Englert K, et al. Continuous glucose monitoring in type 1 diabetes. Endocrine 2013;43:41–50.
+Rachmiel M, Landau Z, Boaz M, et al. The use of continuous glucose monitoring systems in a pediatric population with type 1 diabetes mellitus in reallife settings: The AWeSoMe Study Group experience. Acta Diabetol 2015;52:323–9.
+Hommel E, Olsen B, Battelino T, et al. Impact of continuous glucose monitoring on quality of life, treatment satisfaction, and use of medical care resources: analyses from the SWITCH study. Acta Diabetol 2014;51:845–51.
+The Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group; Tamborlane WV, Beck RW, Bode BW, et al. Continuous glucose monitoring and intensive treatment of type 1 diabetes. N Engl J Med 2008;359:1464–76.
+Matsuda E, Brennan P. The effectiveness of continuous glucose monitoring for type 1 diabetic adolescents using continuous subcutaneous insulin infusion pumps: A systematic review. JBI Database System Rev Implement Rep 2014;12:88–120.
+Buckingham BA, Raghinaru D, Cameron F, et al. Predictive low-glucose insulin suspension reduces duration of nocturnal hypoglycemia in children without increasing ketosis. Diabetes Care 2015;38:1197–204.
+Maahs DM, Calhoun P, Buckingham BA, et al. A randomized trial of a home system to reduce nocturnal hypoglycemia in type 1 diabetes. Diabetes Care 2014;37:1885–91.
+Thabit H, Tauschmann M, Allen JM, et al. Home use of an artificial beta cell in type 1 diabetes. New Engl J Med 2015;373:2129–40.
+Health Canada. Eating well with Canada’s food guide. Ottawa, ON, Health Products and Food Branch, Office of Nutrition Policy and Promotion: Health Canada; 2011. Report No.: H164-38/1-2011E-PDF. Available from: http://www.hcsc.gc.ca/fn-an/food-guide-aliment/order-commander/eating_well_bien_mangereng.php.
+Mehta SN, Volkening LK, Quinn N, et al. Intensively managed young children with type 1 diabetes consume high-fat, low-fiber diets similar to agematched controls. Nutr Res 2014;34:428–35.
+Markowitz JT, Butler DA, Volkening LK, et al. Brief screening tool for disordered eating in diabetes: Internal consistency and external validity in a contemporary sample of pediatric patients with type 1 diabetes. Diabetes Care 2010;33:495–500.
+Naguib JM, Kulinskaya E, Lomax CL, et al. Neuro-cognitive performance in children with type 1 diabetes–a meta-analysis. J Pediatr Psychol 2009;34:271–82.
+Garg S, Moser E, Dain MP, et al. Clinical experience with insulin glargine in type 1 diabetes. Diabetes Technol Ther 2010;12:835–46.
+Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group. Effectiveness of continuous glucose monitoring in a clinical care environment: Evidence from the Juvenile Diabetes Research Foundation Continuous Glucose Monitoring (JDRF-CGM) trial. Diabetes Care 2010;33:17–22.
+Hartley M, Thomsett MJ, Cotterill AM. Mini-dose glucagon rescue for mild hypoglycaemia in children with type 1 diabetes: The Brisbane experience. J Paediatr Child Health 2006;42:108–11.
+Haymond MW, Schreiner B. Mini-dose glucagon rescue for hypoglycemia in children with type 1 diabetes. Diabetes Care 2001;24:643–5.
+Kongkaew C, Jampachaisri K, Chaturongkul CA, et al. Depression and adherence to treatment in diabetic children and adolescents: A systematic review and meta-analysis of observational studies. Eur J Pediatr 2014;173:203–12.
+Young V, Eiser C, Johnson B, et al. Eating problems in adolescents with type 1 diabetes: A systematic review with meta-analysis. Diabet Med 2013;30:189–98.
+Neylon OM, O’Connell MA, Skinner TC, et al. Demographic and personal factors associated with metabolic control and self-care in youth with type 1 diabetes: A systematic review. Diabetes Metab Res Rev 2013;29:257–72.
+Drotar D, Ittenbach R, Rohan JM, et al. Diabetes management and glycemic control in youth with type 1 diabetes: Test of a predictive model. J Behav Med 2013;36:234–45.
+Schwartz DD, Axelrad ME, Anderson BJ. A psychosocial risk index for poor glycemic control in children and adolescents with type 1 diabetes. Pediatr Diabetes 2014;15:190–7.
+Winkley K, Ismail K, Landau S, et al. Psychological interventions to improve glycaemic control in patients with type 1 diabetes: Systematic review and meta-analysis of randomised controlled trials. BMJ 2006;333:65.
+Hood KK, Rohan JM, Peterson CM, et al. Interventions with adherencepromoting components in pediatric type 1 diabetes: Meta-analysis of their impact on glycemic control. Diabetes Care 2010;33:1658–64.
+Armour TA, Norris SL, Jack L Jr, et al. The effectiveness of family interventions in people with diabetes mellitus: A systematic review. Diabet Med 2005;22:1295–305.
+Quirk H, Blake H, Tennyson R, et al. Physical activity interventions in children and young people with Type 1 diabetes mellitus: A systematic review with meta-analysis. Diabet Med 2014;31:1163–73.
+MacMillan F, Kirk A, Mutrie N, et al. A systematic review of physical activity and sedentary behavior intervention studies in youth with type 1 diabetes: Study characteristics, intervention design, and efficacy. Pediatr Diabetes 2014;15:175–89.
+Lévy-Marchal C, Patterson CC, Green A, et al. Geographical variation of presentation at diagnosis of type I diabetes in children: The EURODIAB study. Diabetologia 2001;44:B75–80.
+Klingensmith GJ, Tamborlane WV, Wood J, et al. Diabetic ketoacidosis at diabetes onset: Still an all too common threat in youth. J Pediatr 2013;162:330–4, e1.
+Patterson CC, Dahlquist G, Harjutsalo V, et al. Early mortality in EURODIAB population-based cohorts of type 1 diabetes diagnosed in childhood since 1989. Diabetologia 2007;50:2439–42.
+Cameron FJ, Scratch SE, Nadebaum C, et al. Neurological consequences of diabetic ketoacidosis at initial presentation of type 1 diabetes in a prospective cohort study of children. Diabetes Care 2014;37:1554–62.
+Glaser NS,Wootton-Gorges SL, Buonocore MH, et al. Subclinical cerebral edema in children with diabetic ketoacidosis randomized to 2 different rehydration protocols. Pediatrics 2013;131:e73–80.
+Vanelli M, Chiari G, Ghizzoni L, et al. Effectiveness of a prevention program for diabetic ketoacidosis in children. An 8-year study in schools and private practices. Diabetes Care 1999;22:7–9.
+King BR, Howard NJ, Verge CF, et al. A diabetes awareness campaign prevents diabetic ketoacidosis in children at their initial presentation with type 1 diabetes. Pediatr Diabetes 2012;13:647–51.
+Brink S, Joel D, Laffel L, et al. ISPAD clinical practice consensus guidelines 2014. Sick day management in children and adolescents with diabetes. Pediatr Diabetes 2014;15:193–202.
+Keenan HT, Foster CM, Bratton SL. Social factors associated with prolonged hospitalization among diabetic children. Pediatrics 2002;109:40–4.
+Hanas R, Lindgren F, Lindblad B. A 2-yr national population study of pediatric ketoacidosis in Sweden: Predisposing conditions and insulin pump use. Pediatr Diabetes 2009;10:33–7.
+Karges B, Kapellen T, Neu A, et al. Long-acting insulin analogs and the risk of diabetic ketoacidosis in children and adolescents with type 1 diabetes: A prospective study of 10,682 patients from 271 institutions. Diabetes Care 2010;33:1031–3.
+Maahs DM, Hermann JM, Holman N, et al. Rates of diabetic ketoacidosis: International comparison with 49,859 pediatric patients with type 1 diabetes rrom England, wales, the U.S., Austria, and Germany. Diabetes Care 2015;38:1876–82.
+Drozda DJ, Dawson VA, Long DJ, et al. Assessment of the effect of a comprehensive diabetes management program on hospital admission rates of children with diabetes mellitus. Diabetes Educ 1990;16:389–93.
+Ellis D, Naar-King S, Templin T, et al. Multisystemic therapy for adolescents with poorly controlled type 1 diabetes: Reduced diabetic ketoacidosis admissions and related costs over 24 months. Diabetes Care 2008;31:1746–7.
+Hoffman WH, O’Neill P, Khoury C, et al. Service and education for the insulindependent child. Diabetes Care 1978;1:285–8.
+Chiari G, Ghidini B, Vanelli M. Effectiveness of a toll-free telephone hotline for children and adolescents with type 1 diabetes. a 5-year study. Acta Biomed 2003;74:45–8.
+Wagner DV, Stoeckel M, E Tudor M, et al. Treating the most vulnerable and costly in diabetes. Curr Diab Rep 2015;15:606.
+Edge JA, Hawkins MM, Winter DL, et al. The risk and outcome of cerebral oedema developing during diabetic ketoacidosis. Arch Dis Child 2001;85:16–22.
+Rosenbloom AL. Intracerebral crises during treatment of diabetic ketoacidosis. Diabetes Care 1990;13:22–33.
+Glaser N, Barnett P, McCaslin I, et al. Risk factors for cerebral edema in children with diabetic ketoacidosis. The pediatric emergency medicine collaborative research committee of the American Academy of Pediatrics. N Engl J Med 2001;344:264–9.
+Harris GD, Fiordalisi I, Harris WL, et al. Minimizing the risk of brain herniation during treatment of diabetic ketoacidemia: A retrospective and prospective study. J Pediatr 1990;117:22–31.
+Harris GD, Fiordalisi I. Physiologic management of diabetic ketoacidemia. A 5-year prospective pediatric experience in 231 episodes. Arch Pediatr Adolesc Med 1994;148:1046–52.
+Hale PM, Rezvani I, Braunstein AW, et al. Factors predicting cerebral edema in young children with diabetic ketoacidosis and new onset type I diabetes. Acta Paediatr 1997;86:626–31.
+Edge JA, Jakes RW, Roy Y, et al. The UK case-control study of cerebral oedema complicating diabetic ketoacidosis in children. Diabetologia 2006;49:2002–9.
+Fort P,Waters SM, Lifshitz F. Low-dose insulin infusion in the treatment of diabetic ketoacidosis: Bolus versus no bolus. J Pediatr 1980;96:36–40.
+Lindsay R, Bolte RG. The use of an insulin bolus in low-dose insulin infusion for pediatric diabetic ketoacidosis. Pediatr Emerg Care 1989;5:77–9.
+Hoorn EJ, Carlotti AP, Costa LA, et al. Preventing a drop in effective plasma osmolality to minimize the likelihood of cerebral edema during treatment of children with diabetic ketoacidosis. J Pediatr 2007;150:467–73.
+Nallasamy K, Jayashree M, Singhi S, et al. Low-dose vs standard-dose insulin in pediatric diabetic ketoacidosis: A randomized clinical trial. JAMA Pediatr 2014;168:999–1005.
+Decourcey DD, Steil GM,Wypij D, et al. Increasing use of hypertonic saline over mannitol in the treatment of symptomatic cerebral edema in pediatric diabetic ketoacidosis: An 11-year retrospective analysis of mortality. Pediatr Crit Care Med 2013;14:694–700.
+Wolfsdorf JI, Allgrove J, Craig ME, et al. ISPAD clinical practice consensus guidelines 2014. Diabetic ketoacidosis and hyperglycemic hyperosmolar state. Pediatr Diabetes 2014;15:154–79.
+National Advisory Committee on Immunization (NACI). NACI recommendations, statements and updates. Ottawa: Public Health Agency of Canada. 2016. http://www.phac-aspc.gc.ca/naci-ccni/. [Accessed June 10, 2016].
+Moore DL; Canadian Paediatric Society, Infectious Diseases and Immunization Committee. Vaccine recommendations for children and youth for the 2015/ 2016 influenza season. Paediatr Child Health 2015;20:389–94.
+Davies P, Nwokoro C, Leigh M. Vaccinations against influenza and pneumococcus in children with diabetes: Telephone questionnaire survey. BMJ 2004;328:203.
+Irwin DE, Weatherby LB, Huang W-Y, et al. Impact of patient characteristics on the risk of influenza/ILI-related complications. BMC Health Serv Res 2001;1:8.
+Scott LJ, Warram JH, Hanna LS, et al. A nonlinear effect of hyperglycemia and current cigarette smoking are major determinants of the onset of microalbuminuria in type 1 diabetes. Diabetes 2001;50:2842–9.
+Hofer SE, Rosenbauer J, Grulich-Henn J, et al. Smoking and metabolic control in adolescents with type 1 diabetes. J Pediatr 2009;154:20–3, e1.
+Harvey J, Chadi N, Canadian Paediatric Society Adolescent Health Committee. Strategies to promote smoking cessation among adolescents. Paediatr Child Health 2016;21:201–4.
+Scaramuzza A, De Palma A, Mameli C, et al. Adolescents with type 1 diabetes and risky behaviour. Acta Paediatr 2010;99:1237–41.
+Carmody D, Doyle A, Firth RG, et al. Teenage pregnancy in type 1 diabetes mellitus. Pediatr Diabetes 2010;11:111–15.
+Codner E, Soto N, Merino PM. Contraception, and pregnancy in adolescents with type 1 diabetes: A review. Pediatr Diabetes 2012;13:108–23.
+Hagger V, Hendrieckx C, Sturt J, et al. Diabetes distress among adolescents with type 1 diabetes: A systematic review. Curr Diab Rep 2016;16:1–14.
+Buchberger B, Huppertz H, Krabbe L, et al. Symptoms of depression and anxiety in youth with type 1 diabetes: A systematic review and meta-analysis. Psychoneuroendocrinology 2016;70:70–84.
+Fogel NR,Weissberg-Benchell J. Preventing poor psychological and health outcomes in pediatric type 1 diabetes. Curr Diab Rep 2010;10:436–43.
+Lawrence JM, Standiford DA, Loots B, et al. Prevalence and correlates of depressed mood among youth with diabetes: The SEARCH for Diabetes in Youth study. Pediatrics 2006;117:1348–58.
+Hood KK, Huestis S, Maher A, et al. Depressive symptoms in children and adolescents with type 1 diabetes: Association with diabetes-specific characteristics. Diabetes Care 2006;29:1389–91.
+Adal E, Onal Z, Ersen A, et al. Recognizing the psychosocial aspects of type 1 diabetes in adolescents. J Clin Res Pediatr Endocrinol 2015;7:57–62.
+Morgan E, Patterson CC, Cardwell CR. General practice-recorded depression and antidepressant use in young people with newly diagnosed type 1 diabetes: A cohort study using the Clinical Practice Research Datalink. Diabet Med 2014;31:241–5.
+Northam EA, Matthews LK, Anderson PJ, et al. Psychiatric morbidity and health outcome in Type 1 diabetes–perspectives froma prospective longitudinal study. Diabet Med 2005;22:152–7. Available from:
+Kakleas K, Kandyla B, Karayianni C, et al. Psychosocial problems in adolescents with type 1 diabetes mellitus. Diabetes Metab 2009;35:339–50.
+Lasaite L, Dobrovolskiene R, Danyte E, et al. Diabetes distress in males and females with type 1 diabetes in adolescence and emerging adulthood. J Diabetes Complications 2016;30:1500–5.
+McDonnell CM, Northam EA, Donath SM, et al. Hyperglycemia and externalizing behavior in children with type 1 diabetes. Diabetes Care 2007;30:2211–15.
+Korbel CD, Wiebe DJ, Berg CA, et al. Gender differences in adherence to type 1 diabetes management across adolescence: The mediating role of depression. Child Health Care 2007;36:83–98. http://dx.doi.org/10.1080/02739610701316936.
+Bryden KS, Neil A, Mayou RA, et al. Eating habits, body weight, and insulin misuse. A longitudinal study of teenagers and young adults with type 1 diabetes. Diabetes Care 1999;22:1956–60.
+Herzer M, Hood KK. Anxiety symptoms in adolescents with type 1 diabetes: Association with blood glucose monitoring and glycemic control. J Pediatr Psychol 2010;35:415–25.
+Chida Y, Hamer M. An association of adverse psychosocial factors with diabetes mellitus: A meta-analytic review of longitudinal cohort studies. Diabetologia 2008;51:2168–78.
+Gonzalez JS, Peyrot M, McCarl LA, et al. Depression and diabetes treatment nonadherence: A meta-analysis. Diabetes Care 2008;31:2398–403.
+Stewart SM, Rao U, Emslie GJ, et al. Depressive symptoms predict hospitalization for adolescents with type 1 diabetes mellitus. Pediatrics 2005;115:1315–19.
+Garrison MM, Katon WJ, Richardson LP. The impact of psychiatric comorbidities on readmissions for diabetes in youth. Diabetes Care 2005;28:2150–4.
+Hassan K, Loar R, Anderson BJ, et al. The role of socioeconomic status, depression, quality of life, and glycemic control in type 1 diabetes mellitus. J Pediatr 2006;149:526–31.
+Hood KK. The influence of caregiver depressive symptoms on proxy report of youth depressive symptoms: A test of the depression-distortion hypothesis in pediatric type 1 diabetes. J Pediatr Psychol 2009;34:294–303.
+Cunningham NR, Vesco AT, Dolan LM, et al. From caregiver psychological distress to adolescent glycemic control: The mediating role of perceived burden around diabetes management. J Pediatr Psychol 2011;36:196–205.
+Butler JM, Skinner M, Gelfand D, et al. Maternal parenting style and adjustment in adolescents with type I diabetes. J Pediatr Psychol 2007;32:1227–37.
+Jaser SS, Whittemore R, Ambrosino JM, et al. Mediators of depressive symptoms in children with type 1 diabetes and their mothers. J Pediatr Psychol2008;33:509–19.
+Eckshtain D, Ellis DA, Kolmodin K, et al. The effects of parental depression andparenting practices on depressive symptoms and metabolic control in urban youth with insulin dependent diabetes. J Pediatr Psychol 2010;35:426–35.
+Cameron LD, Young MJ,Wiebe DJ. Maternal trait anxiety and diabetes control in adolescents with type 1 diabetes. J Pediatr Psychol 2007;32:733–44.
+Jones JM, Lawson ML, Daneman D, et al. Eating disorders in adolescent females with and without type 1 diabetes: Cross sectional study. BMJ 2000;320:1563–6.
+Bachle C, Stahl-Pehe A, Rosenbauer J. Disordered eating and insulin restriction in youths receiving intensified insulin treatment: Results from a nationwide population-based study. Int J Eat Disord 2016;49:191–6.
+Rydall AC, Rodin GM, Olmsted MP, et al. Disordered eating behavior andmicrovascular complications in young women with insulin-dependent diabetes mellitus. N Engl J Med 1997;336:1849–54.
+Young-Hyman DL, Davis CL. Disordered eating behavior in individuals with diabetes: Importance of context, evaluation, and classification. Diabetes Care 2010;33:683–9.
+Schwartz DD, Cline VD, Hansen JA, et al. Early risk factors for nonadherence in pediatric type 1 diabetes: A review of the recent literature. Curr Diabetes Rev 2010;6:167–83.
+Cameron FJ, Northam EA, Ambler GR, et al. Routine psychological screening in youth with type 1 diabetes and their parents: A notion whose time has come? Diabetes Care 2007;30:2716–24.
+Harkness E, Macdonald W, Valderas J, et al. Identifying psychosocial interventions that improve both physical and mental health in patients with diabetes: A systematic review and meta-analysis. Diabetes Care 2010;33:926–30.
+de Wit M, Delemarre-van de Waal HA, Bokma JA, et al. Monitoring and discussing health-related quality of life in adolescents with type 1 diabetes improve psychosocial well-being: A randomized controlled trial. Diabetes Care 2008;31:1521–6.
+van der Feltz-Cornelis CM, Nuyen J, Stoop C, et al. Effect of interventions for major depressive disorder and significant depressive symptoms in patients with diabetes mellitus: A systematic review and meta-analysis. Gen Hosp Psychiatry 2010;32:380–95.
+Rosello JM. Cognitive-behavioral group therapy for depression in adolescents with diabetes: A pilot study. Interam J Psychol 2006;40:219–26.
+Alam R, Sturt J, Lall R, et al. An updated meta-analysis to assess the effectiveness of psychological interventions delivered by psychological specialists and generalist clinicians on glycaemic control and on psychological status. Patient Educ Couns 2009;75:25–36.
+Delamater AM, Jacobson AM, Anderson B, et al. Psychosocial therapies in diabetes: Report of the Psychosocial Therapies Working Group. Diabetes Care 2001;24:1286–92.
+Mendez FJ, Belendez M. Effects of a behavioral intervention on treatment adherence and stress management in adolescents with IDDM. Diabetes Care 1997;20:1370–5.
+Barker JM. Clinical review: Type 1 diabetes-associated autoimmunity: Natural history, genetic associations, and screening. J Clin Endocrinol Metab 2006;91:1210–17.
+Glastras SJ, Craig ME, Verge CF, et al. The role of autoimmunity at diagnosis of type 1 diabetes in the development of thyroid and celiac disease and microvascular complications. Diabetes Care 2005;28:2170–5.
+Kordonouri O, Hartmann R, Deiss D, et al. Natural course of autoimmune thyroiditis in type 1 diabetes: Association with gender, age, diabetes duration, and puberty. Arch Dis Child 2005;90:411–14.
+Marks SD, Girgis R, Couch RM. Screening for adrenal antibodies in children with type 1 diabetes and autoimmune thyroid disease. Diabetes Care 2003;26:3187–8.
+Cerutti F, Bruno G, Chiarelli F, et al. Younger age at onset and sex predict celiac disease in children and adolescents with type 1 diabetes: An Italian multicenter study. Diabetes Care 2004;27:1294–8.
+Mayer M, Greco L, Troncone R, et al. Compliance of adolescents with coeliac disease with a gluten free diet. Gut 1991;32:881–5.
+Holmes GK, Prior P, Lane MR, et al. Malignancy in coeliac disease–effect of a gluten free diet. Gut 1989;30:333–8.
+Mackinder M, Allison G, Svolos V, et al. Nutritional status, growth and disease management in children with single and dual diagnosis of type 1 diabetes mellitus and coeliac disease. BMC Gastroenterol 2014;14:99.
+Lang-Muritano M, Molinari L, Dommann-Scherrer C, et al. Incidence of enteropathy-associated T-cell lymphoma in celiac disease: implications for children and adolescents with type 1 diabetes. Pediatr Diabetes 2002;38:42–5.
+Rami B, Sumnik Z, Schober E, et al. Screening detected celiac disease in children with type 1 diabetes mellitus: effect on the clinical course (a case control study). J Pediatr Gastroenterol Nutr 2005;41:317–21.
+Donaghue KC, Craig ME, Chan AK, et al. Prevalence of diabetes complications 6 years after diagnosis in an incident cohort of childhood diabetes. Diabet Med 2005;22:711–18.
+Broe R, Rasmussen ML, Frydkjaer-Olsen U, et al. The 16-year incidence, progression and regression of diabetic retinopathy in a young population-based Danish cohort with type 1 diabetes mellitus: The Danish cohort of pediatric diabetes 1987 (DCPD1987). Acta Diabetol 2014;51:413–20.
+Dabelea D, Stafford JM, Mayer-Davis EJ, et al. Association of type 1 diabetes vs type 2 diabetes diagnosed during childhood and adolescence with complications during teenage years and young adulthood. JAMA 2017;317:825–35.
+Schultz CJ, Konopelska-Bahu T, Dalton RN, et al. Microalbuminuria prevalence varies with age, sex, and puberty in children with type 1 diabetes followed from diagnosis in a longitudinal study. Oxford Regional Prospective Study Group. Diabetes Care 1999;22:495–502.
+Gatling W, Knight C, Hill RD. Screening for early diabetic nephropathy: Which sample to detect microalbuminuria? Diabet Med 1985;2:451–5.
+Shield JP, Hunt LP, Baum JD, et al. Screening for diabetic microalbuminuria in routine clinical care: Which method? Arch Dis Child 1995;72:524–5.
+Hogg RJ, Furth S, Lemley KV, et al. National Kidney Foundation’s Kidney Disease Outcomes Quality Initiative clinical practice guidelines for chronic kidney disease in children and adolescents: Evaluation, classification, and stratification. Pediatrics 2003;111:1416–21.
+Stone ML, Craig ME, Chan AK, et al. Natural history and risk factors for microalbuminuria in adolescents with type 1 diabetes: A longitudinal study. Diabetes Care 2006;29:2072–7.
+Perkins BA, Ficociello LH, Silva KH, et al. Regression of microalbuminuria in type 1 diabetes. N Engl J Med 2003;348:2285–93.
+Nazim J, Fendler W, Starzyk J. Metabolic control and its variability are major risk factors for microalbuminuria in children with type 1 diabetes. Endokrynol Pol 2014;65:83–9.
+Houlihan CA, Tsalamandris C, Akdeniz A, et al. Albumin to creatinine ratio: A screening test with limitations. Am J Kidney Dis 2002;39:1183–9.
+Cook J, Daneman D, Spino M, et al. Angiotensin converting enzyme inhibitor therapy to decrease microalbuminuria in normotensive children with insulindependent diabetes mellitus. J Pediatr 1990;117:39–45.
+ACE Inhibitors in Diabetic Nephropathy Trialist Group. Should all patients with type 1 diabetes mellitus and microalbuminuria receive angiotensin-converting enzyme inhibitors? A meta-analysis of individual patient data. Ann Intern Med 2001;134:370–9.
+Maguire A, Chan A, Cusumano J, et al. The case for biennial retinopathy screening in children and adolescents. Diabetes Care 2005;28:509–13.
+Huo B, Steffen AT, Swan K, et al. Clinical outcomes and cost-effectiveness of retinopathy screening in youth with type 1 diabetes. Diabetes Care 2007;30:362–3.
+Geloneck MM, Forbes BJ, Shaffer J, et al. Ocular complications in children with diabetes mellitus. Ophthalmology 2015;122:2457–64.
+Karavanaki K, Baum JD. Coexistence of impaired indices of autonomic neuropathy and diabetic nephropathy in a cohort of children with type 1 diabetes mellitus. J Pediatr Endocrinol Metab 2003;16:79–90.
+Olsen BS, Sjølie A, Hougaard P, et al. A 6-year nationwide cohort study of glycaemic control in young people with type 1 diabetes. Risk markers for the development of retinopathy, nephropathy and neuropathy. Danish Study Group of Diabetes in Childhood. J Diabetes Complications 2000;14:295–300.
+Donaghue KC, Fung AT, Fairchild JM, et al. Prospective assessment of autonomic and peripheral nerve function in adolescents with diabetes. Diabet Med 1996;13:65–71.
+Hirschfeld G, von Glischinski M, Blankenburg M, et al. Screening for peripheral neuropathies in children with diabetes: A systematic review. Pediatrics 2014;133:e1324–30.
+Schwab KO, Doerfer J, Marg W, et al. Characterization of 33 488 children and adolescents with type 1 diabetes based on the gender-specific increase of cardiovascular risk factors. Pediatr Diabetes 2010;11:357–63.
+Margeirsdottir HD, Larsen JR, Brunborg C, et al. High prevalence of cardiovascular risk factors in children and adolescents with type 1 diabetes: A populationbased study. Diabetologia 2008;51:554–61.
+Giurgea GA, Nagl K, Gschwandtner M, et al. Gender,metabolic control and carotid intima-media-thickness in children and adolescents with type 1 diabetes mellitus. Wien Klin Wochenschr 2015;127:116–23.
+Redondo MJ, Rodriguez LM, Haymond MW, et al. Serum adiposity-induced biomarkers in obese and lean children with recently diagnosed autoimmune type 1 diabetes. Pediatr Diabetes 2014;15:543–9.
+Celermajer DS, Ayer JGJ. Childhood risk factors for adult cardiovascular disease and primary prevention in childhood. Heart 2006;92:1701–6.
+Canas JA, Ross JL, Taboada MV, et al. A randomized, double blind, placebocontrolled pilot trial of the safety and efficacy of atorvastatin in children with elevated low-density lipoprotein cholesterol (LDL-C) and type 1 diabetes. Pediatr Diabetes 2015;16:79–89.
+Vuorio A, Kuoppala J, Kovanen PT, et al. Statins for children with familial hypercholesterolemia. Cochrane Database Syst Rev 2010;(7): CD006401.
+McCulloch MA, Mauras N, Canas JA, et al. Magnetic resonance imaging measures of decreased aortic strain and distensibility are proportionate to insulin resistance in adolescents with type 1 diabetes mellitus. Pediatr Diabetes 2015;16:90–7.
+Scaramuzza AE, Redaelli F, Giani E, et al. Adolescents and young adults with type 1 diabetes display a high prevalence of endothelial dysfunction. Acta Paediatr 2015;104:192–7.
+Alman AC, Talton JW, Wadwa RP, et al. Cardiovascular health in adolescents with type 1 diabetes: The SEARCH CVD study. Pediatr Diabetes 2014;15:502–10.
+Dabelea D, Talton JW, D’Agostino R Jr, et al. Cardiovascular risk factors are associated with increased arterial stiffness in youth with type 1 diabetes: The SEARCH CVD study. Diabetes Care 2013;36:3938–43.
+Eppens MC, Craig ME, Cusumano J, et al. Prevalence of diabetes complications in adolescents with type 2 compared with type 1 diabetes. Diabetes Care 2006;29:1300–6.
+Lurbe E, Redon J, Kesani A, et al. Increase in nocturnal blood pressure and progression to microalbuminuria in type 1 diabetes. N Engl J Med 2002;347:797–805.
+Flynn JT, Kaelber DC, Baker-Smith CM, Blowey D, Carroll AE, Daniels SR, et al. Clinical practice guideline for screening and management of high blood pressure in children and adolescents. Pediatrics 2017;140.
+Arnett JJ. Emerging adulthood. A theory of development from the late teens through the twenties. Am Psychol 2000;55:469–80.
+Nakhla M, Daneman D, To T, et al. Transition to adult care for youths with diabetes mellitus: Findings from a Universal Health Care System. Pediatrics 2009;124:e1134–41.
+Lotstein DS, Seid M, Klingensmith G, et al. Transition from pediatric to adult care for youth diagnosed with type 1 diabetes in adolescence. Pediatrics 2013;131:e1062–70.
+Sheehan AM, While AE, Coyne I. The experiences and impact of transition from child to adult healthcare services for young people with type 1 diabetes: A systematic review. Diabet Med 2015;32:440–58.
+Findley MK, Cha E, Wong E, et al. A systematic review of transitional care for emerging adults with diabetes. J Pediatr Nurs 2015;30:e47–62.
+Frank M. Factors associated with non-compliance with a medical follow-up regimen after discharge from a pediatric diabetes clinic. Can J Diabetes Care 1996;20:13–20.
+Van Walleghem N, MacDonald CA, Dean HJ. Evaluation of a systems navigator model for transition from pediatric to adult care for young adults with type 1 diabetes. Diabetes Care 2008;31:1529–30.
+Mistry B, Van Blyderveen S, Punthakee Z, et al. Condition-related predictors of successful transition from paediatric to adult care among adolescents with type 1 diabetes. Diabet Med 2015;32:881–5.
+Cadario F, Prodam F, Bellone S, et al. Transition process of patients with type 1 diabetes (T1DM) from paediatric to the adult health care service: A hospitalbased approach. Clin Endocrinol (Oxf) 2009;71:346–50.
+Holmes-Walker DJ, Llewellyn AC, Farrell K. A transition care programme which improves diabetes control and reduces hospital admission rates in young adults with type 1 diabetes aged 15–25 years. Diabet Med 2007;24:764–9.
+equeira PA, Pyatak EA, Weigensberg MJ, et al. Let’s Empower and Prepare (LEAP): Evaluation of a structured transition program for young adults with type 1 diabetes. Diabetes Care 2015;38:1412–19.
+Schultz AT, Smaldone A. Components of interventions that improve transitions to adult care for adolescents with Type 1 diabetes. J Adolesc Health 2017;60:133–46.
+O’Hara MC, Hynes L, O’Donnell M, et al. A systematic review of interventions to improve outcomes for young adults with type 1 diabetes. Diabet Med 2016;34:753–69.
+Garvey KC, Foster NC, Agarwal S, et al. Health care transition preparation and experiences in a U.S. National Sample of young adults with type 1 diabetes. Diabetes Care 2017;40:317–24.
+Garvey KC,Wolpert HA, Rhodes ET, et al. Health care transition in patients with type 1 diabetes: Young adult experiences and relationship to glycemic control. Diabetes Care 2012;35:1716–22.
+Rocchini AP, Katch V, Anderson J, et al. Blood pressure in obese adolescents: Effect of weight loss. Pediatrics 1988;82:16–23.
+Fischl AF, Herman WH, Sereika SM, et al. Impact of a preconception counseling program for teens with type 1 diabetes (READY-Girls) on patient-provider interaction, resource utilization, and cost. Diabetes Care 2010;33:701–5.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6:e1000097.

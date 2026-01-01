@@ -1,0 +1,244 @@
+Chapter Headings
+
+Erectile Dysfunction
+Screening for Erectile Dysfunction
+Treatment of ED
+Ejaculatory Disorders
+Hypogonadism
+Other Relevant Guidelines
+Author Disclosures
+Key Messages Regarding Sexual Dysfunction in Men with Diabetes
+
+Erectile dysfunction affects approximately 34% to 45% of adult men with diabetes. It has been demonstrated to negatively impact quality of life among those affected across all age strata and may be an early clinical indication of cardiovascular disease.
+
+All adult men with diabetes should be regularly screened for erectile dysfunction with a sexual function history.
+
+The current mainstay of therapy for erectile dysfunction is phosphodiesterase type 5 inhibitors. They have been shown to have major impacts on erectile function and quality of life, with a low reported side effect profile, and should be offered as first-line therapy to men with diabetes wishing treatment for erectile dysfunction.
+
+Key Messages Regarding Hypogonadism in Men with Diabetes
+
+Hypogonadotropic hypogonadism is common in men with type 2 diabetes, with a prevalence of up to 40%.
+
+Hypogonadal men with diabetes have a higher risk for cardiovascular mortality than eugonadal men with diabetes.
+
+Screening for symptomatic hypogonadism in men with type 2 diabetes is recommended.
+
+Evidence is conflicted as to whether treatment of hypogonadism in men with diabetes can increase quality of life, improve body composition, weight loss and glycemic control.
+
+Observational studies assessing the impact of testosterone use on cardiovascular health in hypogonadal men have produced mixed results. Randomized, placebo-controlled studies have been too small or short in duration to adequately answer this question.
+
+Key Messages for Men with Diabetes
+
+Low testosterone is common in men with type 2 diabetes.
+
+Symptoms of low testosterone can include: diminished interest in sex, erectile dysfunction, reduced lean body mass, depressed mood and lack of energy.
+
+If you are experiencing symptoms of low testosterone, you should talk with your health-care provider.
+
+Erectile Dysfunction
+
+Erectile dysfunction (ED) affects approximately 34% to 45% of men with diabetes and has been demonstrated to negatively impact quality of life among those affected across all age strata (1), with a greater impact on those with permanent—rather than intermittent—ED (2,3). Recent reports describe up to one-third of newly diagnosed men with diabetes have ED at presentation (4), with upward of 50% of men 6 years after diagnosis (5,6). In addition, studies indicate that 40% of men with diabetes greater than 60 years of age have complete ED (7–15).
+
+Recent studies have reported that alteration of the cyclic guanosine monophosphate (cGMP)/nitric oxide (NO) pathway among men with diabetes with impaired vascular relaxation is related to endothelial dysfunction (16–18). Among men with diabetes, risk factors include increasing age, duration of diabetes, poor glycemic control, cigarette smoking, hypertension, dyslipidemia, androgen-deficiency states (19) and cardiovascular disease (CVD) (6,11,12,20–24).
+
+ED as a marker of potential cardiovascular (CV) events has been reported by numerous investigators (25–34). In fact, ED has been shown to be significantly associated with all-cause mortality and CV events (35–37). Diabetic retinopathy has been shown to correlate with the presence of ED (11,13,38). Organic causes of ED include microvascular and CV disease, and neuropathy. In addition, psychological or situational factors may cause or contribute to ED. In spite of the overwhelming amount of data linking ED and diabetes, it is often neglected by clinicians treating men with diabetes (39).
+
+Compared with the general population, multiple studies have reported that men with diabetes have higher rates of hypogonadism (19,40–44). One report described a correlation between glycemic control and testosterone levels (45). Importantly, phosphodiesterase type 5 (PDE5) inhibitors appear to be less effective in men with diabetes with hypogonadism (41,43,46,47). In this population, treatment of nonresponders to PDE5 inhibitors with testosterone replacement is successful in roughly 50% of individuals. In addition, ED is a side effect of many drugs commonly prescribed to men with diabetes, such as certain antihypertensives and antidepressants. Obstructive sleep apnea (OSA) is commonly associated with ED and, like diabetes, is an independent risk factor for the presence of ED (48). Screening for OSA in men with obesity with type 2 diabetes and ED should be considered.
+
+Figure 1
+Diagnostic workup of hypogonadism (TDS) (modified from reference [91]).
+
+BAT, calculated bioavailable testosterone; CBC, complete blood count; COPD; chronic obstructive pulmonary disease; FT, free testosterone; FSH, follicle stimulating hormone; LH, luteinizing hormone; PSA, prostate specific antigen; SHBG, sex hormone-binding globulin; TSH, thyroid stimulating hormone.
+
+Screening for Erectile Dysfunction
+
+All adult men with diabetes should be regularly screened for ED with a sexual function history. Screening for ED in men with type 2 diabetes should begin at diagnosis of diabetes. Validated questionnaires (e.g. International Index of Erectile Function (49,50) or Sexual Health Inventory for Men) (51) have been shown to be both sensitive and specific in determining the presence of ED and providing a means of assessing response to therapy (24). Men with diabetes and ED should be further investigated for hypogonadism (Figure 1).
+
+Treatment of ED
+
+While no randomized clinical trials have demonstrated that interventions that improve glycemic control also reduce the incidence and progression of ED, the Diabetes Control and Complications Trial (DCCT) and United Kingdom Prospective Diabetes Study (UKPDS) showed that intensive glycemic control was effective for primary prevention of and secondary intervention for neuropathy, a condition that can impair sensory feedback from the penis, leading to reduced erectile function (52–54). The current data are controversial as they relate to diet, glycemic control and ED, with both positive and negative studies (36,55–57). Based on these conflicting data, a prudent clinician should encourage optimal glycemic control as a potential factor in maintaining erectile function (36,58,59).
+
+Dyslipidemia and hypertension are also risk factors for ED. A meta-analysis of statin use in older men, many of whom had diabetes, suggests a benefit from statin treatment on erectile function. Diabetes-specific data are lacking (60). A small study of losartan in combination with tadalafil in men with type 2 diabetes showed an improved ED response rate compared to tadalafil monotherapy (61).
+
+The current mainstay of treatment for ED in men with diabetes is therapy with PDE5 inhibitors (62–64). They have been reported to have a major impact on erectile function and quality of life, and should be offered as first-line therapy to men with diabetes wishing treatment for ED (65–70) (see Figure 2). There is evidence that scheduled daily therapy is effective within the population with diabetes and ED (71,72), and may improve efficacy with lower rates of side effects, may reduce lower urinary tract symptoms and has the potential for endothelial benefits (73). Additionally, among PDE5 inhibitor failure patients, use of a vacuum constriction device may salvage a significant percentage of men with erectile function and should be considered (74,75).
+
+Contraindications for the use of PDE5 inhibitors include unstable angina or untreated cardiac ischemia and concomitant use of nitrates (5,76,77). Interestingly, men with diabetes appear to have lower rates of side effects with PDE5 inhibitors than the general population. This is believed to be a result of altered vasomotor tone or other factors (78).
+
+Referral to a specialist in ED should be offered to men who do not respond to PDE5 inhibitors or for whom the use of PDE5 inhibitors is contraindicated (see Figure 2). Second-line therapies (e.g. vacuum constriction devices [79], intracorporal injection therapy with prostaglandin E1 [PGE1] alone or in combination with papaverine and phentolamine [triple therapy], or intraurethral therapy using PGE1) or third-line therapy (penile prosthesis) may be considered for these men (80,81).
+
+Ejaculatory Disorders
+
+Ejaculatory disorders are a common disorder of sexual function in men with diabetes, occurring in 32%–67% of that population (82,83). They range in scope from retrograde ejaculation, usually secondary to autonomic neuropathy with incomplete closure of the bladder neck during ejaculation, to premature or retarded ejaculation. Their recognition as an important component in sexual quality of life makes inquiry about ejaculatory function important.
+
+Figure 2
+Management of erectile dysfunction in men with diabetes. PDE5, phosphodiesterase type 5.
+
+Hypogonadism
+
+Hypogonadotropic hypogonadism has a reported prevalence of 30% to 40% in men with type 2 diabetes (84–86). One study noted a prevalence of 30% in men with prediabetes, compared to 13.6% of age-matched controls (87). In contrast to type 2 diabetes, the prevalence of hypogonadism in men with type 1 diabetes is similar to the general male population (88,89). Although the pathophysiology may be related to numerous factors, including age, insulin resistance, glycemic control, concomitant sleep apnea and obesity, the most significant predictor is theorized to be the degree of central or visceral obesity (84,86,89,90). Insulin resistance is correlated with a reduction of sex hormone-binding globulin (SHBG). Measurement of total testosterone may be affected by low SHBG levels, giving the false impression of biochemical hypogonadism when bioavailable or free testosterone levels are still normal.
+
+Biochemical testing should be by analysis of total testosterone levels drawn before 11 am or within 3 hours of awakening (91). Due to the natural variability of serum testosterone levels, repeat testing is often helpful to clarify the diagnosis. In men with diabetes with symptoms of hypogonadism but with total testosterone levels still in the lower normal range, measurement of bioavailable testosterone may be helpful.
+
+Common symptoms of hypogonadism include fatigue, muscle weakness or muscle cramps, loss of sleep-related erections, low libido, night sweats or mood changes, such as depressive affect or irritability. A recent systematic review of male hypogonadism provides a more detailed discussion regarding diagnosis and treatment of testosterone deficiency (91).
+
+Many men with type 2 diabetes and hypogonadism are asymptomatic, and treatment should be reserved for those who are biochemically hypogonadal and symptomatic. Some causes of secondary hypogonadism are potentially reversible, such as sleep apnea and obesity. Significant weight reduction is generally associated with an increase in testosterone in hypogonadal men with diabetes (92,93). In some instances, this can restore the eugonadal state without the need for testosterone replacement (92,93).
+
+Conflicting evidence suggests that testosterone therapy in hypogonadal men with type 2 diabetes may increase quality of life or improve sexual function (44,94–98). Studies assessing whether testosterone treatment in hypogonadal men with diabetes can reduce glycated hemoglobin (A1C) values have also produced mixed results (93,94,99–104). A nonrandomized, ongoing, observational study of testosterone-treated men with hypogonadism with (40%) or without diabetes showed reductions in weight, visceral obesity, abdominal circumference, as well as decreased hypertension and insulin resistance over a 5-year study interval (105,106).
+
+Hypogonadism has been associated both with risk factors of CVD, including carotid intimal medial changes in men with type 2 diabetes (107), and an increased risk of myocardial infarction (MI) and increased CV mortality (108,109). A 3-year randomized, placebo-controlled study of testosterone use in men with hypogonadism age 60 years or older showed no significant change in either carotid artery intimal medial thickness or coronary artery calcium scores. However, only 15% of this cohort had diabetes (110). Hypogonadism also predicted an increased CV risk in men (27% of whom had type 2 diabetes) with known coronary artery disease (CAD) (111). Several nonrandomized, observational studies have produced conflicting results in regards to cardiac risk vs. benefit from testosterone replacement (101,109,112).
+
+As men with type 2 diabetes are high risk for CV events, any positive or negative impact could, therefore, potentially have a very significant clinical impact due to the high CVD event rate in this population. Until future studies clarify the effect of testosterone on CVD, it is prudent to discuss the issue with men with diabetes prior to initiating testosterone treatment.
+
+To date, no large, randomized, placebo-controlled study has shown an increased risk of prostate cancer in men treated with testosterone. Monitoring for prostate cancer both prior to initiation of testosterone therapy and while on therapy is recommended.
+
+Evaluation of hypogonadal symptoms
+
+Biochemical testing is recommended in men with diabetes who are symptomatic. In the absence of symptoms of hypogonadism, biochemical testing is not indicated. OSA is very common in people with type 2 diabetes and obesity (113). Increasing age and obesity are risk factors (113). When hypogonadotrophic hypogonadism is diagnosed in men with type 2 diabetes, the presence of underlying OSA should be considered.
+
+Treatment of hypogonadism
+
+There is no evidence that 1 preparation of testosterone is superior to another in the relief of hypogonadal symptoms or the prevention of hypogonadism-related complications. The selection of a testosterone preparation should consider the benefits and risks of testosterone therapy in addition to patient preference. Monitoring the effects of testosterone should be done in accordance with national guidelines, such as those recommended by the Endocrine Society or the Diagnosis and management of testosterone deficiency syndrome in men: Clinical Practice Guideline (91).
+
+Recommendations
+All adult men with diabetes should be regularly screened for ED with a sexual function history [Grade D, Consensus].
+A PDE5 inhibitor should be offered as first-line therapy to men with diabetes and ED in either an on-demand [Grade A, Level 1A (65–71)] or daily-use [Grade B, Level 2 (71,72)] dosing regimen.
+Men with diabetes and ED who do not respond to PDE5 inhibitors should be investigated for hypogonadism with measurement of a morning serum total testosterone level drawn before 11 am [Grade D, Level 4 (19,40,41,43)].
+Referral to a specialist in ED should be considered for eugonadal men who do not respond to PDE5 inhibitors or for whom the use of PDE5 inhibitors is contraindicated [Grade D, Consensus].
+Men with diabetes and ejaculatory dysfunction who are interested in fertility should be referred to a health-care professional experienced in the treatment of ejaculatory dysfunction [Grade D, Consensus].
+
+Abbreviations:
+
+A1C, glycated hemoglobin; CV, cardiovascular; CVD, cardiovascular disease; CAD, coronary artery disease; ED, erectile dysfunction; NO, nitrous oxide; PDE5, phosphodiesterase type 5; OSA, obstructive sleep apnea; SHBG, sex hormone-binding globulin.
+
+Other Relevant Guidelines
+Cardiovascular Protection in People With Diabetes, p. S162
+Screening for the Presence of Cardiovascular Disease, p. S170
+Diabetes in Older People, p. S283
+
+Literature Review Flow Diagram for Chapter 33: Sexual Dysfunction and Hypogonadism in Men with Diabetes
+
+*Excluded based on: population, intervention/exposure, comparator/control or study design.
+
+From: Moher D, Liberati A, Tetzlaff J, Altman DG, The PRISMA Group (2009). Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement. PLoS Med 6(6): e1000097. doi:10.1371/journal.pmed1000097 (114).
+
+For more information, visit www.prisma-statement.org.
+
+Author Disclosures
+
+Dr. Brock reports personal fees from Lilly, Pfizer, Astellas, Ferring, Boston Scientific, and Paladin, outside the submitted work. No other author has anything to disclose.
+
+References
+Maiorino MI, Bellastella G, Della Volpe E, et al. Erectile dysfunction in young men with type 1 diabetes. Int J Impot Res 2017;29:17–22.
+Eardley I, Fisher W, Rosen RC, et al. The multinational Men’s Attitudes to Life Events and Sexuality study: The influence of diabetes on self-reported erectile function, attitudes and treatment-seeking patterns in men with erectile dysfunction. Int J Clin Pract 2007;61:1446–53.
+Corona G, Giorda CB, Cucinotta D, et al. The SUBITO-DE study: Sexual dysfunction in newly diagnosed type 2 diabetes male patients. J Endocrinol Invest 2013;36:864–8.
+Al-Hunayan A, Al-Mutar M, Kehinde EO, et al. The prevalence and predictors of erectile dysfunction in men with newly diagnosed with type 2 diabetes mellitus. BJU Int 2007;99:130–4.
+Aversa A, Bruzziches R, Vitale C, et al. Chronic sildenafil in men with diabetes and erectile dysfunction. Expert Opin Drug Metab Toxicol 2007;3:451–64.
+Derosa G, Romano D, Tinelli C, et al. Prevalence and associations of erectile dysfunction in a sample of Italian males with type 2 diabetes. Diabetes Res Clin Pract 2015;108:329–35.
+Chew KK, Earle CM, Stuckey BG, et al. Erectile dysfunction in general medicine practice: Prevalence and clinical correlates. Int J Impot Res 2000;12:41–5.
+Maatman TJ, Montague DK, Martin LM. Erectile dysfunction in men with diabetes mellitus. Urology 1987;29:589–92.
+Rubin A, Babbott D. Impotence and diabetes mellitus. J Am Med Assoc 1958;168:498–500.
+Kolodny RC, Kahn CB, Goldstein HH, et al. Sexual dysfunction in diabetic men. Diabetes 1974;23:306–9.
+McCulloch DK, Campbell IW, Wu FC, et al. The prevalence of diabetic impotence. Diabetologia 1980;18:279–83.
+Zemel P. Sexual dysfunction in the diabetic patient with hypertension. Am J Cardiol 1988;61:27h–33h.
+McCulloch DK, Young RJ, Prescott RJ, et al. The natural history of impotence in diabetic men. Diabetologia 1984;26:437–40.
+Bacon CG, Hu FB, Giovannucci E, et al. Association of type and duration of diabetes with erectile dysfunction in a large cohort of men. Diabetes Care 2002;25:1458–63.
+De Berardis G, Pellegrini F, Franciosi M, et al. Identifying patients with type 2 diabetes with a higher likelihood of erectile dysfunction: The role of the interaction between clinical and psychological factors. J Urol 2003;169:1422–8.
+Angulo J, Cuevas P, Fernandez A, et al. Enhanced thromboxane receptormediated responses and impaired endothelium-dependent relaxation in human corpus cavernosum from diabetic impotent men: Role of protein kinase C activity. J Pharmacol Exp Ther 2006;319:783–9.
+Angulo J, Peiro C, Cuevas P, et al. The novel antioxidant, AC3056 (2,6-di-tbutyl-4-((dimethyl-4-methoxyphenylsilyl)methyloxy)phenol), reverses erectile dysfunction in diabetic rats and improves NO-mediated responses in penile tissue from diabetic men. J Sex Med 2009;6:373–87.
+Angulo J, Gonzalez-Corrochano R, Cuevas P, et al. Diabetes exacerbates the functional deficiency of NO/cGMP pathway associated with erectile dysfunction in human corpus cavernosum and penile arteries. J Sex Med 2010;7:758–68.
+Alexopoulou O, Jamart J, Maiter D, et al. Erectile dysfunction and lower androgenicity in type 1 diabetic patients. Diabetes Metab 2001;27:329–36.
+Naliboff BD, Rosenthal M. Effects of age on complications in adult onset diabetes. J Am Geriatr Soc 1989;37:838–42.
+Feldman HA, Goldstein I, Hatzichristou DG, et al. Impotence and its medical and psychosocial correlates: Results of the Massachusetts Male Aging Study. J Urol 1994;151:54–61.
+Ramirez R, Pedro-Botet J, Garcia M, et al. Erectile dysfunction and cardiovascular risk factors in a Mediterranean diet cohort. Intern Med J 2016;46:52–6.
+Glavaš S, Valencˇic´ L, Trbojevic´ N, et al. Erectile function in cardiovascular patients: Its significance and a quick assessment using a visual-scale questionnaire. Acta Cardiol 2015;70:712–19.
+Pallangyo P, Nicholaus P, Kisenge P, et al. A community-based study on prevalence and correlates of erectile dysfunction among Kinondoni District Residents, Dar es Salaam, Tanzania. Reprod Health 2016;13:140.
+Grover SA, Lowensteyn I, Kaouache M, et al. The prevalence of erectile dysfunction in the primary care setting: Importance of risk factors for diabetes and vascular disease. Arch Intern Med 2006;166:213–19.
+Barrett-Connor E. Cardiovascular risk stratification and cardiovascular risk factors associated with erectile dysfunction: Assessing cardiovascular risk in men with erectile dysfunction. Clin Cardiol 2004;27:I8–13.
+Billups KL. Erectile dysfunction as an early sign of cardiovascular disease. Int J Impot Res 2005;17(Suppl. 1):S19–24.
+Thompson IM, Tangen CM, Goodman PJ, et al. Erectile dysfunction and subsequent cardiovascular disease. JAMA 2005;294:2996–3002.
+Gazzaruso C. Erectile dysfunction and coronary atherothrombosis in diabetic patients: Pathophysiology, clinical features and treatment. Expert Rev Cardiovasc Ther 2006;4:173–80.
+Barrett-Connor E. Heart disease risk factors predict erectile dysfunction 25 years later (the Rancho Bernardo Study). Am J Cardiol 2005;96:3m–7m.
+Min JK, Williams KA, Okwuosa TM, et al. Prediction of coronary heart disease by erectile dysfunction in men referred for nuclear stress testing. Arch Intern Med 2006;166:201–6.
+Chiurlia E, D’Amico R, Ratti C, et al. Subclinical coronary artery atherosclerosis in patients with erectile dysfunction. J Am Coll Cardiol 2005;46:1503–6.
+Djordjevic D, Vukovic I, Milenkovic Petronic D, et al. Erectile dysfunction as a predictor of advanced vascular age. Andrology 2015;3:1125–31.
+Gandaglia G, Salonia A, Passoni N, et al. Erectile dysfunction as a cardiovascular risk factor in patients with diabetes. Endocrine 2013;43:285–92.
+Araujo AB, Travison TG, Ganz P, et al. Erectile dysfunction and mortality. J Sex Med 2009;6:2445–54.
+Giugliano F, Maiorino MI, Bellastella G, et al. Adherence to Mediterranean diet and erectile dysfunction in men with type 2 diabetes. J Sex Med 2010;7:1911–17.
+Yamada T, Hara K, Umematsu H, et al. Erectile dysfunction and cardiovascular events in diabetic men: A meta-analysis of observational studies. PLoS ONE 2012;7:e43673.
+Klein R, Klein BE, Lee KE, et al. Prevalence of self-reported erectile dysfunction in people with long-term IDDM. Diabetes Care 1996;19:135–41.
+Grant PS, Lipscomb D. How often do we ask about erectile dysfunction in the diabetes review clinic? Development of a neuropathy screening tool. Acta Diabetol 2009;46:285–90.
+Dhindsa S, Prabhakar S, Sethi M, et al. Frequent occurrence of hypogonadotropic hypogonadism in type 2 diabetes. J Clin Endocrinol Metab 2004;89:5462–8.
+Boyanov MA, Boneva Z, Christov VG. Testosterone supplementation in men with type 2 diabetes, visceral obesity and partial androgen deficiency. Aging Male 2003;6:1–7.
+Shabsigh R, Rajfer J, Aversa A, et al. The evolving role of testosterone in the treatment of erectile dysfunction. Int J Clin Pract 2006;60:1087–92.
+Shabsigh R, Kaufman JM, Steidle C, et al. Randomized study of testosterone gel as adjunctive therapy to sildenafil in hypogonadal men with erectile dysfunction who do not respond to sildenafil alone. J Urol 2004;172:658–63.
+Mazzilli R, Elia J, Delfino M, et al. Prevalence of Diabetes Mellitus (DM) in a population of men affected by Erectile Dysfunction (ED). Clin Ter 2015;166:e317–20.
+El-Sakka AI, Sayed HM, Tayeb KA. Androgen pattern in patients with type 2 diabetes-associated erectile dysfunction: Impact of metabolic control. Urology 2009;74:552–9.
+Kalinchenko SY, Kozlov GI, Gontcharov NP, et al. Oral testosterone undecanoate reverses erectile dysfunction associated with diabetes mellitus in patients failing on sildenafil citrate therapy alone. Aging Male 2003;6:94–9.
+Hadeed NN, Thanoon IA, Al-Mukhtar SB. Total testosterone levels and the effect of sildenafil on type 2 diabetics with erectile dysfunction. Oman Med J 2014;29:46–50.
+Lo WH, Fu SN, Wong CK, et al. Prevalence, correlates, attitude and treatment seeking of erectile dysfunction among type 2 diabetic Chinese men attending primary care outpatient clinics. Asian J Androl 2014;16:755–60.
+Rosen RC, Riley A, Wagner G, et al. The international index of erectile function (IIEF): A multidimensional scale for assessment of erectile dysfunction. Urology 1997;49:822–30.
+Cappelleri JC, Rosen RC, Smith MD, et al. Diagnostic evaluation of the erectile function domain of the International Index of Erectile Function. Urology 1999;54:346–51.
+Ramanathan R, Mulhall J, Rao S, et al. Predictive correlation between the International Index of Erectile Function (IIEF) and Sexual Health Inventory for Men (SHIM): Implications for calculating a derived SHIM for clinical use. J Sex Med 2007;4:1336–44.
+Valiquette L, Montorsi F, Auerbach S. First-dose success with vardenafil in men with erectile dysfunction and associated comorbidities: RELY-I. Int J Clin Pract 2006;60:1378–85.
+The Diabetes Control and Complications Trial Research Group. The effect of intensive diabetes therapy on the development and progression of neuropathy. Ann Intern Med 1995;122:561–8.
+The Diabetes Control and Complications Trial Research Group. The effect of intensive treatment of diabetes on the development and progression of longterm complications in insulin-dependent diabetes mellitus. N Engl J Med 1993;329:977–86.
+UK Prospective Diabetes Study (UKPDS) Group. Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). Lancet 1998;352:837–53.
+Azad N, Emanuele NV, Abraira C, et al. The effects of intensive glycemic control on neuropathy in the VA cooperative study on type II diabetes mellitus (VA CSDM). J Diabetes Complications 1999;13:307–13.
+El-Sakka AI, Hassoba HM, Sayed HM, et al. Pattern of endocrinal changes in patients with sexual dysfunction. J Sex Med 2005;2:551–8.
+Giagulli VA, Carbone MD, Ramunni MI, et al. Adding liraglutide to lifestyle changes, metformin and testosterone therapy boosts erectile function in diabetic obese men with overt hypogonadism. Andrology 2015;3:1094–103.
+Wong L, Chen HM, Lai SQ, et al. Effects of sulfonylurea as initial treatment on testosterone of middle-aged men with type 2 diabetes: A 16-week, pilot study. J Diabetes Investig 2015;6:454–9.
+Kostis JB, Dobrzynski JM. The effect of statins on erectile dysfunction: A metaanalysis of randomized trials. J Sex Med 2014;11:1626–35.
+Chen Y, Cui S, Lin H, et al. Losartan improves erectile dysfunction in diabetic patients: A clinical trial. Int J Impot Res 2012;24:217–20.
+Balhara YP, Sarkar S, Gupta R. Phosphodiesterase-5 inhibitors for erectile dysfunction in patients with diabetes mellitus: A systematic review and meta-analysis of randomized controlled trials. Indian J Endocrinol Metab 2015;19:451–61.
+Walsh TJ, Hotaling JM, Smith A, et al. Men with diabetes may require more aggressive treatment for erectile dysfunction. Int J Impot Res 2014;26:112–15.
+Santi D, Granata AR, Guidi A, et al. Six months of daily treatment with vardenafil improves parameters of endothelial inflammation and of hypogonadism in male patients with type 2 diabetes and erectile dysfunction: A randomized, doubleblind, prospective trial. Eur J Endocrinol 2016;174:513–22.
+Fonseca V, Seftel A, Denne J, et al. Impact of diabetes mellitus on the severity of erectile dysfunction and response to treatment: Analysis of data fromtadalafil clinical trials. Diabetologia 2004;47:1914–23.
+Rendell MS, Rajfer J, Wicker PA, et al. Sildenafil for treatment of erectile dysfunction in men with diabetes: A randomized controlled trial. JAMA 1999;281:421–6.
+Boulton AJ, Selam JL, Sweeney M, et al. Sildenafil citrate for the treatment of erectile dysfunction in men with type II diabetes mellitus. Diabetologia 2001;44:1296–301.
+Goldstein I, Young JM, Fischer J, et al. Vardenafil, a newphosphodiesterase type 5 inhibitor, in the treatment of erectile dysfunction in men with diabetes: Amulticenter double-blind placebo-controlled fixed-dose study. Diabetes Care 2003;26:777–83.
+Sáenz de Tejada I, Anglin G, Knight JR, et al. Effects of tadalafil on erectile dysfunction in men with diabetes. Diabetes Care 2002;25:2159–64.
+Carson CC, Lue TF. Phosphodiesterase type 5 inhibitors for erectile dysfunction. BJU Int 2005;96:257–80.
+Hatzichristou D, Gambla M, Rubio-Aurioles E, et al. Efficacy of tadalafil once daily in men with diabetes mellitus and erectile dysfunction. Diabet Med 2008;25:138–46.
+Buvat J, van Ahlen H, Schmitt H, et al. Efficacy and safety of two dosing regimens of tadalafil and patterns of sexual activity in men with diabetes mellitus and erectile dysfunction: Scheduled use vs. on-demand regimen evaluation (SURE) study in 14 European countries. J Sex Med 2006;3:512–20.
+Konstantinopoulos A, Giannitsas K, Athanasopoulos A, et al. The impact of daily sildenafil on levels of soluble molecular markers of endothelial function in plasma in patients with erectile dysfunction. Expert Opin Pharmacother 2009;10:155–60.
+Canguven O, Bailen J, Fredriksson W, et al. Combination of vacuum erection device and PDE5 inhibitors as salvage therapy in PDE5 inhibitor nonresponders with erectile dysfunction. J Sex Med 2009;6:2561–7.
+Pajovic B, Dimitrovski A, Fatic N, et al. Vacuum erection device in treatment of organic erectile dysfunction and penile vascular differences between patients with DM type I and DM type II. Aging Male 2016;1–5.
+Briganti A, Salonia A, Gallina A, et al. Drug Insight: Oral phosphodiesterase type 5 inhibitors for erectile dysfunction. Nat Clin Pract Urol 2005;2:239–47.
+DeBusk R, Drory Y, Goldstein I, et al. Management of sexual dysfunction in patients with cardiovascular disease: Recommendations of The Princeton Consensus Panel. Am J Cardiol 2000;86:175–81.
+Brock G, Glina S, Moncada I, et al. Likelihood of tadalafil-associated adverse events in integrated multiclinical trial database: Classification tree analysis in men with erectile dysfunction. Urology 2009;73:756–61.
+Sun L, Peng FL, Yu ZL, et al. Combined sildenafil with vacuum erection device therapy in the management of diabetic men with erectile dysfunction after failure of first-line sildenafil monotherapy. Int J Urol 2014;21:1263–7.
+Carson CC, Mulcahy JJ, Govier FE. Efficacy, safety and patient satisfaction outcomes of the AMS 700CX inflatable penile prosthesis: Results of a long-term multicenter study. AMS 700CX Study Group. J Urol 2000;164:376–80.
+Redrow GP, Thompson CM,Wang R. Treatment strategies for diabetic patients suffering from erectile dysfunction: An update. Expert Opin Pharmacother 2014;15:1827–36.
+Isidro ML. Sexual dysfunction in men with type 2 diabetes. Postgrad Med J 2012;88:152–9.
+Fedder J, Kaspersen MD, Brandslund I, et al. Retrograde ejaculation and sexual dysfunction in men with diabetes mellitus: A prospective, controlled study. Andrology 2013;1:602–6.
+Ho CH, Jaw FS, Wu CC, et al. The prevalence and the risk factors of testosterone deficiency in newly diagnosed and previously known type 2 diabetic men. J Sex Med 2015;12:389–97.
+Hackett G, KirbyM, Sinclair AJ. Testosterone deficiency, cardiac health, and older men. Int J Endocrinol 2014;2014:143763.
+Liu RT, Chung MS, Wang PW, et al. The prevalence and predictors of androgen deficiency in Taiwanese men with type 2 diabetes. Urology 2013;82:124– 9.
+Rabijewski M, Papierska L, Piatkiewicz P. Late-onset hypogonadism among old and middle-aged males with prediabetes in Polish population. Aging Male 2015;18:16–21.
+Holt SK, Lopushnyan N, Hotaling J, et al. Prevalence of low testosterone and predisposing risk factors in men with type 1 diabetes mellitus: Findings from the DCCT/EDIC. J Clin Endocrinol Metab 2014;99:E1655–60.
+Ng Tang Fui M, Hoermann R, Cheung AS, et al. Obesity and age as dominant correlates of low testosterone in men irrespective of diabetes status. Andrology 2013;1:906–12.
+Saboor Aftab SA, Kumar S, Barber TM. The role of obesity and type 2 diabetes mellitus in the development of male obesity-associated secondary hypogonadism. Clin Endocrinol (Oxf) 2013;78:330–7.
+Morales A, Bebb RA, Manjoo P, et al. Diagnosis and management of testosterone deficiency syndrome in men: Clinical practice guideline. CMAJ 2015;187:1369–77.
+Grossmann M. Low testosterone in men with type 2 diabetes: Significance and treatment. J Clin Endocrinol Metab 2011;96:2341–53.
+Corona G, Rastrelli G, Monami M, et al. Body weight loss reverts obesityassociated hypogonadotropic hypogonadism: A systematic review and metaanalysis. Eur J Endocrinol 2013;168:829–43.
+Hackett G, Cole N, Bhartia M, et al. Testosterone replacement therapy improves metabolic parameters in hypogonadal men with type 2 diabetes but not in men with coexisting depression: The BLAST study. J Sex Med 2014;11:840–56.
+Gianatti EJ, Dupuis P, Hoermann R, et al. Effect of testosterone treatment on constitutional and sexual symptoms in men with type 2 diabetes in a randomized, placebo-controlled clinical trial. J Clin Endocrinol Metab 2014;99:3821–8.
+Hackett G, Cole N, Bhartia M, et al. Testosterone replacement therapy with longacting testosterone undecanoate improves sexual function and quality-oflife parameters vs. placebo in a population of men with type 2 diabetes. J Sex Med 2013;10:1612–27.
+Hackett G, Cole N, Bhartia M, et al. The response to testosterone undecanoate in men with type 2 diabetes is dependent on achieving threshold serum levels (the BLAST study). Int J Clin Pract 2014;68:203–15.
+Brooke JC, Walter DJ, Kapoor D, et al. Testosterone deficiency and severity of erectile dysfunction are independently associated with reduced quality of life in men with type 2 diabetes. Andrology 2014;2:205–11.
+Cai X, Tian Y,Wu T, et al. Metabolic effects of testosterone replacement therapy on hypogonadal men with type 2 diabetes mellitus: A systematic review and meta-analysis of randomized controlled trials. Asian J Androl 2014;16:146– 52.
+Grossmann M, Hoermann R, Wittert G, et al. Effects of testosterone treatment on glucose metabolism and symptoms in men with type 2 diabetes and the metabolic syndrome: A systematic review and metaanalysis of randomized controlled clinical trials. Clin Endocrinol (Oxf) 2015;83:344–51.
+Corona G, Rastrelli G, Maggi M. Diagnosis and treatment of late-onset hypogonadism: Systematic review and meta-analysis of TRT outcomes. Best Pract Res Clin Endocrinol Metab 2013;27:557–79.
+Taylor SR, Meadowcraft LM, Williamson B. Prevalence, pathophysiology, and management of androgen deficiency in men with metabolic syndrome, type 2 diabetes mellitus, or both. Pharmacotherapy 2015;35:780–92.
+Gianatti EJ, Dupuis P, Hoermann R, et al. Effect of testosterone treatment on glucose metabolism in men with type 2 diabetes: A randomized controlled trial. Diabetes Care 2014;37:2098–107.
+Haider A, Yassin A, Doros G, et al. Effects of long-term testosterone therapy on patients with “diabesity”: Results of observational studies of pooled analyses in obese hypogonadal men with type 2 diabetes. Int J Endocrinol 2014;2014:683515.
+Haider A, Saad F, Doros G, et al. Hypogonadal obese men with and without diabetes mellitus type 2 lose weight and show improvement in cardiovascular risk factors when treated with testosterone: An observational study. Obes Res Clin Pract 2014;8:e339–49.
+Saad F, Yassin A, Doros G, et al. Effects of long-term treatment with testosterone on weight and waist size in 411 hypogonadal men with obesity classes I-III: Observational data from two registry studies. Int J Obes 2016;40:162–70.
+Farias JM, Tinetti M, Khoury M, et al. Low testosterone concentration and atherosclerotic disease markers in male patients with type 2 diabetes. J Clin Endocrinol Metab 2014;99:4698–703.
+Daka B, Langer RD, Larsson CA, et al. Low concentrations of serum testosterone predict acute myocardial infarction in men with type 2 diabetes mellitus. BMC Endocr Disord 2015;15:
+Muraleedharan V, Jones TH. Testosterone and mortality. Clin Endocrinol (Oxf) 2014;81:477–87.
+Basaria S, Harman SM, Travison TG, et al. Effects of testosterone administration for 3 years on subclinical atherosclerosis progression in older men with low or low-normal testosterone levels: A randomized clinical trial. JAMA 2015;314:570–81.
+Chmiel A, Mizia-Stec K,Wierzbicka-Chmiel J, et al. Low testosterone and sexual symptoms in men with acute coronary syndrome can be used to predict major adverse cardiovascular events during long-term follow-up. Andrology 2015;3:1113–18.
+Muraleedharan V, Marsh H, Kapoor D, et al. Testosterone deficiency is associated with increased risk of mortality and testosterone replacement improves survival in men with type 2 diabetes. Eur J Endocrinol 2013;169:725–33.
+Foster GD, Sanders MH, Millman R, et al. Obstructive sleep apnea among obese patients with type 2 diabetes. Diabetes Care 2009;32:1017–19.
+Moher D, Liberati A, Tetzlaff J, et al. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement. PLoS Med 2009;6: e1000097.
